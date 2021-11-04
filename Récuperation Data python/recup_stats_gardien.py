@@ -393,7 +393,7 @@ import pymysql
 import pandas as pd
 import pandas
  
-tableName   = "stats_gardien"
+tableName   = "fbref_goalkeeper_stats"
         
 sqlEngine       = create_engine('mysql+pymysql://root:root@127.0.0.1/foot', pool_recycle=3600)
 dbConnection    = sqlEngine.connect()
