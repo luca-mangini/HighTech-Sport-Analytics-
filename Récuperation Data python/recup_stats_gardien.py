@@ -140,6 +140,8 @@ def get_fbref_goalkeeper_stats(lst_league_names, lst_seasons):
     ## Print time scraping started
     print(f'Scraping started at: {tic}')
     
+    ##On supprime le fichier global afin de venir faire la MAJ
+    os.remove(os.path.join(data_dir_fbref +f'/raw/goalkeeper/fbref_goalkeeper_stats_combined_latest.csv'))
     
     ## Scrape information for each player
     for season in seasons:
@@ -155,7 +157,7 @@ def get_fbref_goalkeeper_stats(lst_league_names, lst_seasons):
             saison_name_short = [v for k,v in dict_league_saison.items() if k == league_name_long+"-"+str(season)][0]
             
             #### Save Player URL List (if not already saved)
-            if not os.path.exists(os.path.join(data_dir_fbref + f'/raw/goalkeeper/{league_name_long}/{season}/fbref_goalkeeper_stats_{league_name_long}_{season}_latest.csv')):
+            if not os.path.exists(os.path.join(data_dir_fbref + f'/raw/goalkeeper/fbref_goalkeeper_stats_combined_latest.csv')):
 
                 ##### Scraping
                 if(saison_name_short!=""):

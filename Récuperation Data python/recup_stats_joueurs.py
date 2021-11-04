@@ -140,6 +140,8 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
     ## Print time scraping started
     print(f'Scraping started at: {tic}')
     
+    ##On supprime le fichier global afin de venir faire la MAJ
+    os.remove(os.path.join(data_dir_fbref +f'/raw/outfield/fbref_outfield_player_stats_combined_latest.csv'))
     
     ## Scrape information for each player
     for season in seasons:
@@ -155,7 +157,7 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
             saison_name_short = [v for k,v in dict_league_saison.items() if k == league_name_long+"-"+str(season)][0]
             
             #### Save Player URL List (if not already saved)
-            if not os.path.exists(os.path.join(data_dir_fbref + f'/raw/outfield/{league_name_long}/{season}/fbref_outfield_player_stats_{league_name_long}_{season}_latest.csv')):
+            if not os.path.exists(os.path.join(data_dir_fbref +f'/raw/outfield/fbref_outfield_player_stats_combined_latest.csv')):
 
                 ##### Scraping
                 if(saison_name_short!=""):
@@ -431,7 +433,7 @@ import pymysql
 import pandas as pd
 import pandas
  
-tableName   = "stats_gardien"
+tableName   = "stats_joueurs"
         
 sqlEngine       = create_engine('mysql+pymysql://root:root@127.0.0.1/foot', pool_recycle=3600)
 dbConnection    = sqlEngine.connect()
