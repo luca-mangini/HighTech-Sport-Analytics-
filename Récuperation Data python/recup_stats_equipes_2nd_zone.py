@@ -86,12 +86,11 @@ lst_folders = ['raw', 'engineered', 'reference']
 lst_data_types = ['goalkeeper', 'outfield', 'team']
 
 # Define function for scraping a defined season and competition of FBref player data
-def get_fbref_player_stats(lst_league_names, lst_seasons):
+def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
     
     """
     Function to...
     """
-    
     
     ## Define list of league names
     league_names_long = lst_league_names
@@ -109,7 +108,7 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
     print(f'Scraping started at: {tic}')
     
     ##On supprime le fichier global afin de venir faire la MAJ
-    #os.remove(os.path.join(data_dir_fbref +f'/raw/outfield/fbref_outfield_player_stats_minor_combined_latest.csv'))
+    #os.remove(os.path.join(data_dir_fbref +f'/raw/team/fbref_team_player_stats_for_combined_latest.csv'))
     
     ## Scrape information for each player
     for season in seasons:
@@ -125,7 +124,7 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
             saison_name_short = [v for k,v in dict_league_saison.items() if k == league_name_long+"-"+str(season)][0]
             
             #### Save Player URL List (if not already saved)
-            if not os.path.exists(os.path.join(data_dir_fbref +f'/raw/outfield/fbref_outfield_player_stats_minor_combined_latest.csv')):
+            if not os.path.exists(os.path.join(data_dir_fbref +f'/raw/team/fbref_team_minor_player_stats_for_combined_latest.csv')):
 
                 ##### Scraping
                 if(saison_name_short!=""):
@@ -134,22 +133,22 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
 
                   ##### Standard stats
                   print(f'Scraping Standard stats...')
-                  url_std_stats = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2F{saison_name_short}%2Fstats%2Fplayers%2F{season}-{league_name_long}&div=div_stats_standard'
+                  url_std_stats = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2F{saison_name_short}%2Fstats%2Fplayers%2F{season}-{league_name_long}&div=div_stats_squads_standard_for'
                   df_std_stats = pd.read_html(url_std_stats, header=1)[0]
                   
                   ##### Shooting stats
                   print(f'Scraping Shooting stats...')
-                  url_shooting = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2F{saison_name_short}%2Fshooting%2Fplayers%2F{season}-{league_name_long}&div=div_stats_shooting'
+                  url_shooting = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2F{saison_name_short}%2Fshooting%2Fplayers%2F{season}-{league_name_long}&div=div_stats_squads_shooting_for'
                   df_shooting = pd.read_html(url_shooting, header=1)[0]
                   
                   ##### Playing Time stats
                   print(f'Scraping Playing Time stats...')
-                  url_playing_time = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2F{saison_name_short}%2Fplayingtime%2Fplayers%2F{season}-{league_name_long}&div=div_stats_playing_time'
+                  url_playing_time = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2F{saison_name_short}%2Fplayingtime%2Fplayers%2F{season}-{league_name_long}&div=div_stats_squads_playing_time_for'
                   df_playing_time = pd.read_html(url_playing_time, header=1)[0]
 
                   ##### Miscellaneous stats
                   print(f'Scraping Miscellaneous stats...')
-                  url_misc = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2F{saison_name_short}%2Fmisc%2Fplayers%2F{season}-{league_name_long}&div=div_stats_misc'
+                  url_misc = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2F{saison_name_short}%2Fmisc%2Fplayers%2F{season}-{league_name_long}&div=div_stats_squads_misc_for'
                   df_misc = pd.read_html(url_misc, header=1)[0]
 
                 else:
@@ -158,22 +157,22 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
 
                   ##### Standard stats
                   print(f'Scraping Standard stats...')
-                  url_std_stats = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2Fstats%2Fplayers%2F{season}-{league_name_long}&div=div_stats_standard'
+                  url_std_stats = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2F{saison_name_short}%2Fstats%2Fplayers%2F{season}-{league_name_long}&div=div_stats_squads_standard_for'
                   df_std_stats = pd.read_html(url_std_stats, header=1)[0]
 
                   ##### Shooting stats
                   print(f'Scraping Shooting stats...')
-                  url_shooting = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2Fshooting%2Fplayers%2F{season}-{league_name_long}&div=div_stats_shooting'
+                  url_shooting = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2Fshooting%2Fplayers%2F{season}-{league_name_long}&div=div_stats_squads_shooting_for'
                   df_shooting = pd.read_html(url_shooting, header=1)[0]
                   
                   ##### Playing Time stats
                   print(f'Scraping Playing Time stats...')
-                  url_playing_time = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2Fplayingtime%2Fplayers%2F{season}-{league_name_long}&div=div_stats_playing_time'
+                  url_playing_time = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2Fplayingtime%2Fplayers%2F{season}-{league_name_long}&div=div_stats_squads_playing_time_for'
                   df_playing_time = pd.read_html(url_playing_time, header=1)[0]
 
                   ##### Miscellaneous stats
                   print(f'Scraping Miscellaneous stats...')
-                  url_misc = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2Fmisc%2Fplayers%2F{season}-{league_name_long}&div=div_stats_misc'
+                  url_misc = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2Fmisc%2Fplayers%2F{season}-{league_name_long}&div=div_stats_squads_misc_for'
                   df_misc = pd.read_html(url_misc, header=1)[0]
 
                 ##### Concatenate defined individual DataFrames
@@ -193,7 +192,7 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
                 ##### Left join defined individual DataFrames
                 
                 ####### Define join conditions
-                conditions_join = ['Player', 'Nation', 'Pos', 'Squad']
+                conditions_join = ['Squad', '# Pl']
 
                 ###### Left join Playing Time data
                 df_all = pd.merge(df_all, df_playing_time, left_on=conditions_join, right_on=conditions_join, how='left')
@@ -228,13 +227,8 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
 
                 ###### Drop duplicates
                 df_all = df_all.drop_duplicates()
-                if(len(df_all['Rk']) > 25 ):
-                  df_all = df_all[~df_all['Rk'].str.contains('Rk')]
-                df_all = df_all.drop(['Rk'], axis=1)
-                df_all = df_all.drop(['Matches'], axis=1)
 
                 # Remove accents
-                df_all['Player'] = (df_all['Player'].str.encode('latin-1', errors='ignore').str.decode('UTF-8',errors='ignore'))
                 df_all['Squad'] = (df_all['Squad'].str.encode('latin-1', errors='ignore').str.decode('UTF-8',errors='ignore'))
                 
                 #Update of name columns 
@@ -244,12 +238,13 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
                 # 'Sh.1':'Sh_AMB','Fld.1':'Fld_AMB','Def.1':'Def_AMB','Tkl.1':'Tkl_dribble','Def 3rd.1':'Def 3rd_pression','Mid 3rd.1':'Mid 3rd_pression',
                 # 'Att 3rd.1':'Att 3rd_pression','Prog.1':'Prog_recevant','On-Off.1':'On-Off_diff_tit_remp'}, axis=1)            
                 
+                df_all['Squad'] = df_all['Squad'].str.replace('vs ','')
                 
                 ##### Save DataFrame
-                df_all.to_csv(data_dir_fbref + f'/raw/outfield/{league_name_long}/{season}/fbref_outfield_player_stats_minor_{league_name_long}_{season}_latest.csv', index=None, header=True)        
+                df_all.to_csv(data_dir_fbref + f'/raw/team/{league_name_long}/{season}/fbref_team_minor_player_stats_for_{league_name_long}_{season}_latest.csv', index=None, header=True)        
                 
                 ##### Export a copy to the 'archive' subfolder, including the date
-                df_all.to_csv(data_dir_fbref + f'/raw/outfield/{league_name_long}/{season}/archive/fbref_outfield_player_stats_minor_{league_name_long}_{season}_last_updated_{today}.csv', index=None, header=True)        
+                df_all.to_csv(data_dir_fbref + f'/raw/team/{league_name_long}/{season}/archive/fbref_team_minor_player_stats_for_{league_name_long}_{season}_last_updated_{today}.csv', index=None, header=True)        
                 
                 
                 ##### Print statement for league and season
@@ -279,7 +274,7 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
     ## Unify individual CSV files as a single DataFrame
     
     ### Show files in directory
-    all_files = glob.glob(os.path.join(data_dir_fbref + f'/raw/outfield/*/*/fbref_outfield_player_stats_minor_*_*_latest.csv'))
+    all_files = glob.glob(os.path.join(data_dir_fbref + f'/raw/team/*/*/fbref_team_minor_player_stats_for_*_*_latest.csv'))
     
     ### Create an empty list of Players URLs
     lst_player_stats_all = []
@@ -293,24 +288,17 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
     df_fbref_player_stats_all = pd.concat(lst_player_stats_all, axis=0, ignore_index=True)
     
     ### Sort DataFrame
-    df_fbref_player_stats_all = df_fbref_player_stats_all.sort_values(['League Name', 'Season', 'Player'], ascending=[True, True, True])
+    df_fbref_player_stats_all = df_fbref_player_stats_all.sort_values(['Squad', '# Pl'], ascending=[True, True])
 
     
     ## Export DataFrame
     
     ###
-    df_fbref_player_stats_all.to_csv(data_dir_fbref + f'/raw/outfield/fbref_outfield_player_stats_minor_combined_latest.csv', index=None, header=True)
+    df_fbref_player_stats_all.to_csv(data_dir_fbref + f'/raw/team/fbref_team_minor_player_stats_for_combined_latest.csv', index=None, header=True)
     
     ### Save a copy to archive folder (dated)
-    df_fbref_player_stats_all.to_csv(data_dir_fbref + f'/raw/outfield/archive/fbref_outfield_player_stats_minor_combined_last_updated_{today}.csv', index=None, header=True)
+    df_fbref_player_stats_all.to_csv(data_dir_fbref + f'/raw/team/archive/fbref_team_minor_player_stats_combined_for_last_updated_{today}.csv', index=None, header=True)
     
-    
-    ## Distinct number of players
-    total_players = df_fbref_player_stats_all['Player'].nunique()
-
-
-    ## Print statement
-    print(f'Player stats DataFrame contains {total_players} players.')
     
     
     ## Return final list of Player URLs
@@ -342,14 +330,14 @@ pd.set_option('display.max_columns', None)
 lst_league_names = ['Ligue-2']     #'Big-5-European-Leagues','Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga', 'Major-League-Soccer']
 lst_seasons = ['2021-2022']
 
-df_fbref_outfield_raw = get_fbref_player_stats(lst_league_names, lst_seasons)
+df_fbref_outfield_raw = get_fbref_squad_stats_player(lst_league_names, lst_seasons)
 
 from sqlalchemy import create_engine
 import pymysql
 import pandas as pd
 import pandas
  
-tableName   = "fbref_outfield_player_stats_minor"
+tableName   = "fbref_team_minor_player_stats_for"
         
 sqlEngine       = create_engine('mysql+pymysql://root:root@127.0.0.1/foot', pool_recycle=3600)
 dbConnection    = sqlEngine.connect()
