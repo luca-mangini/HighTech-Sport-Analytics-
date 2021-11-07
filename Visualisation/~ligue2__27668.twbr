@@ -29,6 +29,9 @@
           <named-connection caption='fbref_outfield_player_stats_minor_combined_latest' name='textscan.0sxn4dt16apeoz18fbexd1yyyl3j'>
             <connection class='textscan' directory='C:/Users/lucam/Desktop/Analyse foot/HighTech-Sport-Analytics-/Récuperation Data python/data/fbref/raw/outfield' filename='fbref_outfield_player_stats_minor_combined_latest.csv' password='' server='' />
           </named-connection>
+          <named-connection caption='fbref_team_minor_player_stats_for_combined_latest' name='textscan.14yroxp0hxc4861eclvnm178xvkm'>
+            <connection class='textscan' directory='C:/Users/lucam/Desktop/Analyse foot/HighTech-Sport-Analytics-/Récuperation Data python/data/fbref/raw/team' filename='fbref_team_minor_player_stats_for_combined_latest.csv' password='' server='' />
+          </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0sxn4dt16apeoz18fbexd1yyyl3j' name='fbref_outfield_player_stats_minor_combined_latest.csv' table='[fbref_outfield_player_stats_minor_combined_latest#csv]' type='table'>
           <columns character-set='UTF-8' header='yes' locale='fr_FR' separator=','>
@@ -49,10 +52,10 @@
             <column datatype='integer' name='PKatt' ordinal='14' />
             <column datatype='integer' name='CrdY' ordinal='15' />
             <column datatype='integer' name='CrdR' ordinal='16' />
-            <column datatype='real' name='Gls.1' ordinal='17' />
-            <column datatype='real' name='Ast.1' ordinal='18' />
+            <column datatype='real' name='Gls/90' ordinal='17' />
+            <column datatype='real' name='Ast/90' ordinal='18' />
             <column datatype='real' name='G+A' ordinal='19' />
-            <column datatype='real' name='G-PK.1' ordinal='20' />
+            <column datatype='real' name='G-PK/90' ordinal='20' />
             <column datatype='real' name='G+A-PK' ordinal='21' />
             <column datatype='integer' name='Sh' ordinal='22' />
             <column datatype='integer' name='SoT' ordinal='23' />
@@ -90,71 +93,262 @@
             <column datatype='string' name='Season' ordinal='55' />
           </columns>
         </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
-        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.0sxn4dt16apeoz18fbexd1yyyl3j' name='fbref_outfield_player_stats_minor_combined_latest.csv' table='[fbref_outfield_player_stats_minor_combined_latest#csv]' type='table'>
-          <columns character-set='UTF-8' header='yes' locale='fr_FR' separator=','>
-            <column datatype='string' name='Player' ordinal='0' />
-            <column datatype='string' name='Nation' ordinal='1' />
-            <column datatype='string' name='Pos' ordinal='2' />
-            <column datatype='string' name='Squad' ordinal='3' />
-            <column datatype='integer' name='Age' ordinal='4' />
-            <column datatype='integer' name='Born' ordinal='5' />
-            <column datatype='integer' name='MP' ordinal='6' />
-            <column datatype='integer' name='Starts' ordinal='7' />
-            <column datatype='integer' name='Min' ordinal='8' />
-            <column datatype='real' name='90s' ordinal='9' />
-            <column datatype='integer' name='Gls' ordinal='10' />
-            <column datatype='integer' name='Ast' ordinal='11' />
-            <column datatype='integer' name='G-PK' ordinal='12' />
-            <column datatype='integer' name='PK' ordinal='13' />
-            <column datatype='integer' name='PKatt' ordinal='14' />
-            <column datatype='integer' name='CrdY' ordinal='15' />
-            <column datatype='integer' name='CrdR' ordinal='16' />
-            <column datatype='real' name='Gls.1' ordinal='17' />
-            <column datatype='real' name='Ast.1' ordinal='18' />
-            <column datatype='real' name='G+A' ordinal='19' />
-            <column datatype='real' name='G-PK.1' ordinal='20' />
-            <column datatype='real' name='G+A-PK' ordinal='21' />
-            <column datatype='integer' name='Sh' ordinal='22' />
-            <column datatype='integer' name='SoT' ordinal='23' />
-            <column datatype='real' name='SoT%' ordinal='24' />
-            <column datatype='real' name='Sh/90' ordinal='25' />
-            <column datatype='real' name='SoT/90' ordinal='26' />
-            <column datatype='real' name='G/Sh' ordinal='27' />
-            <column datatype='real' name='G/SoT' ordinal='28' />
-            <column datatype='string' name='Dist' ordinal='29' />
-            <column datatype='integer' name='Mn/MP' ordinal='30' />
-            <column datatype='real' name='Min%' ordinal='31' />
-            <column datatype='real' name='Mn/Start' ordinal='32' />
-            <column datatype='integer' name='Compl' ordinal='33' />
-            <column datatype='integer' name='Subs' ordinal='34' />
-            <column datatype='real' name='Mn/Sub' ordinal='35' />
-            <column datatype='integer' name='unSub' ordinal='36' />
-            <column datatype='real' name='PPM' ordinal='37' />
-            <column datatype='integer' name='onG' ordinal='38' />
-            <column datatype='integer' name='onGA' ordinal='39' />
-            <column datatype='integer' name='+/-' ordinal='40' />
-            <column datatype='real' name='+/-90' ordinal='41' />
-            <column datatype='real' name='On-Off' ordinal='42' />
-            <column datatype='integer' name='2CrdY' ordinal='43' />
-            <column datatype='integer' name='Fls' ordinal='44' />
-            <column datatype='integer' name='Fld' ordinal='45' />
-            <column datatype='integer' name='Off' ordinal='46' />
-            <column datatype='integer' name='Crs' ordinal='47' />
-            <column datatype='integer' name='Int' ordinal='48' />
-            <column datatype='integer' name='TklW' ordinal='49' />
-            <column datatype='string' name='PKwon' ordinal='50' />
-            <column datatype='string' name='PKcon' ordinal='51' />
-            <column datatype='integer' name='OG' ordinal='52' />
-            <column datatype='string' name='League Name' ordinal='53' />
-            <column datatype='integer' name='League ID' ordinal='54' />
-            <column datatype='string' name='Season' ordinal='55' />
-          </columns>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation type='collection'>
+          <relation connection='textscan.0sxn4dt16apeoz18fbexd1yyyl3j' name='fbref_outfield_player_stats_minor_combined_latest.csv' table='[fbref_outfield_player_stats_minor_combined_latest#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='fr_FR' separator=','>
+              <column datatype='string' name='Player' ordinal='0' />
+              <column datatype='string' name='Nation' ordinal='1' />
+              <column datatype='string' name='Pos' ordinal='2' />
+              <column datatype='string' name='Squad' ordinal='3' />
+              <column datatype='integer' name='Age' ordinal='4' />
+              <column datatype='integer' name='Born' ordinal='5' />
+              <column datatype='integer' name='MP' ordinal='6' />
+              <column datatype='integer' name='Starts' ordinal='7' />
+              <column datatype='integer' name='Min' ordinal='8' />
+              <column datatype='real' name='90s' ordinal='9' />
+              <column datatype='integer' name='Gls' ordinal='10' />
+              <column datatype='integer' name='Ast' ordinal='11' />
+              <column datatype='integer' name='G-PK' ordinal='12' />
+              <column datatype='integer' name='PK' ordinal='13' />
+              <column datatype='integer' name='PKatt' ordinal='14' />
+              <column datatype='integer' name='CrdY' ordinal='15' />
+              <column datatype='integer' name='CrdR' ordinal='16' />
+              <column datatype='real' name='Gls/90' ordinal='17' />
+              <column datatype='real' name='Ast/90' ordinal='18' />
+              <column datatype='real' name='G+A' ordinal='19' />
+              <column datatype='real' name='G-PK/90' ordinal='20' />
+              <column datatype='real' name='G+A-PK' ordinal='21' />
+              <column datatype='integer' name='Sh' ordinal='22' />
+              <column datatype='integer' name='SoT' ordinal='23' />
+              <column datatype='real' name='SoT%' ordinal='24' />
+              <column datatype='real' name='Sh/90' ordinal='25' />
+              <column datatype='real' name='SoT/90' ordinal='26' />
+              <column datatype='real' name='G/Sh' ordinal='27' />
+              <column datatype='real' name='G/SoT' ordinal='28' />
+              <column datatype='string' name='Dist' ordinal='29' />
+              <column datatype='integer' name='Mn/MP' ordinal='30' />
+              <column datatype='real' name='Min%' ordinal='31' />
+              <column datatype='real' name='Mn/Start' ordinal='32' />
+              <column datatype='integer' name='Compl' ordinal='33' />
+              <column datatype='integer' name='Subs' ordinal='34' />
+              <column datatype='real' name='Mn/Sub' ordinal='35' />
+              <column datatype='integer' name='unSub' ordinal='36' />
+              <column datatype='real' name='PPM' ordinal='37' />
+              <column datatype='integer' name='onG' ordinal='38' />
+              <column datatype='integer' name='onGA' ordinal='39' />
+              <column datatype='integer' name='+/-' ordinal='40' />
+              <column datatype='real' name='+/-90' ordinal='41' />
+              <column datatype='real' name='On-Off' ordinal='42' />
+              <column datatype='integer' name='2CrdY' ordinal='43' />
+              <column datatype='integer' name='Fls' ordinal='44' />
+              <column datatype='integer' name='Fld' ordinal='45' />
+              <column datatype='integer' name='Off' ordinal='46' />
+              <column datatype='integer' name='Crs' ordinal='47' />
+              <column datatype='integer' name='Int' ordinal='48' />
+              <column datatype='integer' name='TklW' ordinal='49' />
+              <column datatype='string' name='PKwon' ordinal='50' />
+              <column datatype='string' name='PKcon' ordinal='51' />
+              <column datatype='integer' name='OG' ordinal='52' />
+              <column datatype='string' name='League Name' ordinal='53' />
+              <column datatype='integer' name='League ID' ordinal='54' />
+              <column datatype='string' name='Season' ordinal='55' />
+            </columns>
+          </relation>
+          <relation connection='textscan.14yroxp0hxc4861eclvnm178xvkm' name='fbref_team_minor_player_stats_for_combined_latest.csv' table='[fbref_team_minor_player_stats_for_combined_latest#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='fr_FR' separator=','>
+              <column datatype='string' name='Squad' ordinal='0' />
+              <column datatype='integer' name='# Pl' ordinal='1' />
+              <column datatype='integer' name='Age' ordinal='2' />
+              <column datatype='real' name='Poss' ordinal='3' />
+              <column datatype='integer' name='MP' ordinal='4' />
+              <column datatype='integer' name='Starts' ordinal='5' />
+              <column datatype='integer' name='Min' ordinal='6' />
+              <column datatype='real' name='90s' ordinal='7' />
+              <column datatype='integer' name='Gls' ordinal='8' />
+              <column datatype='integer' name='Ast' ordinal='9' />
+              <column datatype='integer' name='G-PK' ordinal='10' />
+              <column datatype='integer' name='PK' ordinal='11' />
+              <column datatype='integer' name='PKatt' ordinal='12' />
+              <column datatype='integer' name='CrdY' ordinal='13' />
+              <column datatype='integer' name='CrdR' ordinal='14' />
+              <column datatype='real' name='Gls.1' ordinal='15' />
+              <column datatype='real' name='Ast.1' ordinal='16' />
+              <column datatype='real' name='G+A' ordinal='17' />
+              <column datatype='real' name='G-PK.1' ordinal='18' />
+              <column datatype='real' name='G+A-PK' ordinal='19' />
+              <column datatype='integer' name='Sh' ordinal='20' />
+              <column datatype='integer' name='SoT' ordinal='21' />
+              <column datatype='real' name='SoT%' ordinal='22' />
+              <column datatype='real' name='Sh/90' ordinal='23' />
+              <column datatype='real' name='SoT/90' ordinal='24' />
+              <column datatype='real' name='G/Sh' ordinal='25' />
+              <column datatype='real' name='G/SoT' ordinal='26' />
+              <column datatype='string' name='Dist' ordinal='27' />
+              <column datatype='integer' name='Mn/MP' ordinal='28' />
+              <column datatype='integer' name='Min%' ordinal='29' />
+              <column datatype='integer' name='Mn/Start' ordinal='30' />
+              <column datatype='integer' name='Compl' ordinal='31' />
+              <column datatype='integer' name='Subs' ordinal='32' />
+              <column datatype='integer' name='Mn/Sub' ordinal='33' />
+              <column datatype='integer' name='unSub' ordinal='34' />
+              <column datatype='real' name='PPM' ordinal='35' />
+              <column datatype='integer' name='onG' ordinal='36' />
+              <column datatype='integer' name='onGA' ordinal='37' />
+              <column datatype='integer' name='+/-' ordinal='38' />
+              <column datatype='real' name='+/-90' ordinal='39' />
+              <column datatype='integer' name='2CrdY' ordinal='40' />
+              <column datatype='integer' name='Fls' ordinal='41' />
+              <column datatype='integer' name='Fld' ordinal='42' />
+              <column datatype='integer' name='Off' ordinal='43' />
+              <column datatype='integer' name='Crs' ordinal='44' />
+              <column datatype='integer' name='Int' ordinal='45' />
+              <column datatype='integer' name='TklW' ordinal='46' />
+              <column datatype='string' name='PKwon' ordinal='47' />
+              <column datatype='string' name='PKcon' ordinal='48' />
+              <column datatype='integer' name='OG' ordinal='49' />
+              <column datatype='string' name='League Name' ordinal='50' />
+              <column datatype='integer' name='League ID' ordinal='51' />
+              <column datatype='string' name='Season' ordinal='52' />
+            </columns>
+          </relation>
         </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <cols>
+          <map key='[# Pl]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[# Pl]' />
+          <map key='[+/- (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[+/-]' />
+          <map key='[+/-90 (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[+/-90]' />
+          <map key='[+/-90]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[+/-90]' />
+          <map key='[+/-]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[+/-]' />
+          <map key='[2CrdY (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[2CrdY]' />
+          <map key='[2CrdY]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[2CrdY]' />
+          <map key='[90s (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[90s]' />
+          <map key='[90s]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[90s]' />
+          <map key='[Age (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Age]' />
+          <map key='[Age]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Age]' />
+          <map key='[Ast (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Ast]' />
+          <map key='[Ast.1 (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Ast.1]' />
+          <map key='[Ast.1]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Ast.1]' />
+          <map key='[Ast]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Ast]' />
+          <map key='[Born]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Born]' />
+          <map key='[Compl (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Compl]' />
+          <map key='[Compl]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Compl]' />
+          <map key='[CrdR (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[CrdR]' />
+          <map key='[CrdR]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[CrdR]' />
+          <map key='[CrdY (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[CrdY]' />
+          <map key='[CrdY]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[CrdY]' />
+          <map key='[Crs (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Crs]' />
+          <map key='[Crs]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Crs]' />
+          <map key='[Dist (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Dist]' />
+          <map key='[Dist]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Dist]' />
+          <map key='[Fld (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Fld]' />
+          <map key='[Fld]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Fld]' />
+          <map key='[Fls (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Fls]' />
+          <map key='[Fls]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Fls]' />
+          <map key='[G+A (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[G+A]' />
+          <map key='[G+A-PK (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[G+A-PK]' />
+          <map key='[G+A-PK]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[G+A-PK]' />
+          <map key='[G+A]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[G+A]' />
+          <map key='[G-PK (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[G-PK]' />
+          <map key='[G-PK.1 (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[G-PK.1]' />
+          <map key='[G-PK.1]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[G-PK.1]' />
+          <map key='[G-PK]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[G-PK]' />
+          <map key='[G/Sh (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[G/Sh]' />
+          <map key='[G/Sh]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[G/Sh]' />
+          <map key='[G/SoT (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[G/SoT]' />
+          <map key='[G/SoT]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[G/SoT]' />
+          <map key='[Gls (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Gls]' />
+          <map key='[Gls.1 (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Gls.1]' />
+          <map key='[Gls.1]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Gls.1]' />
+          <map key='[Gls]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Gls]' />
+          <map key='[Int (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Int]' />
+          <map key='[Int]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Int]' />
+          <map key='[League ID (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[League ID]' />
+          <map key='[League ID]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[League ID]' />
+          <map key='[League Name (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[League Name]' />
+          <map key='[League Name]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[League Name]' />
+          <map key='[MP (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[MP]' />
+          <map key='[MP]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[MP]' />
+          <map key='[Min (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Min]' />
+          <map key='[Min% (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Min%]' />
+          <map key='[Min%]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Min%]' />
+          <map key='[Min]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Min]' />
+          <map key='[Mn/MP (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Mn/MP]' />
+          <map key='[Mn/MP]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Mn/MP]' />
+          <map key='[Mn/Start (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Mn/Start]' />
+          <map key='[Mn/Start]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Mn/Start]' />
+          <map key='[Mn/Sub (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Mn/Sub]' />
+          <map key='[Mn/Sub]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Mn/Sub]' />
+          <map key='[Nation]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Nation]' />
+          <map key='[OG (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[OG]' />
+          <map key='[OG]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[OG]' />
+          <map key='[Off (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Off]' />
+          <map key='[Off]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Off]' />
+          <map key='[On-Off]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[On-Off]' />
+          <map key='[PK (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[PK]' />
+          <map key='[PK]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[PK]' />
+          <map key='[PKatt (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[PKatt]' />
+          <map key='[PKatt]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[PKatt]' />
+          <map key='[PKcon (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[PKcon]' />
+          <map key='[PKcon]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[PKcon]' />
+          <map key='[PKwon (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[PKwon]' />
+          <map key='[PKwon]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[PKwon]' />
+          <map key='[PPM (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[PPM]' />
+          <map key='[PPM]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[PPM]' />
+          <map key='[Player]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Player]' />
+          <map key='[Pos]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Pos]' />
+          <map key='[Poss]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Poss]' />
+          <map key='[Season (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Season]' />
+          <map key='[Season]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Season]' />
+          <map key='[Sh (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Sh]' />
+          <map key='[Sh/90 (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Sh/90]' />
+          <map key='[Sh/90]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Sh/90]' />
+          <map key='[Sh]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Sh]' />
+          <map key='[SoT (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[SoT]' />
+          <map key='[SoT% (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[SoT%]' />
+          <map key='[SoT%]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[SoT%]' />
+          <map key='[SoT/90 (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[SoT/90]' />
+          <map key='[SoT/90]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[SoT/90]' />
+          <map key='[SoT]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[SoT]' />
+          <map key='[Squad (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Squad]' />
+          <map key='[Squad]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Squad]' />
+          <map key='[Starts (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Starts]' />
+          <map key='[Starts]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Starts]' />
+          <map key='[Subs (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[Subs]' />
+          <map key='[Subs]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[Subs]' />
+          <map key='[TklW (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[TklW]' />
+          <map key='[TklW]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[TklW]' />
+          <map key='[onG (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[onG]' />
+          <map key='[onGA (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[onGA]' />
+          <map key='[onGA]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[onGA]' />
+          <map key='[onG]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[onG]' />
+          <map key='[unSub (fbref_team_minor_player_stats_for_combined_latest.csv)]' value='[fbref_team_minor_player_stats_for_combined_latest.csv].[unSub]' />
+          <map key='[unSub]' value='[fbref_outfield_player_stats_minor_combined_latest.csv].[unSub]' />
+        </cols>
         <metadata-records>
           <metadata-record class='capability'>
             <remote-name />
             <remote-type>0</remote-type>
             <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='debit-close-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='debit-open-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
             <remote-alias />
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
@@ -874,12 +1068,670 @@
             <collation flag='0' name='LFR_RFR' />
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_AAE208658C734180BD37B04EBF9E6B49]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Squad</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Squad (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Squad</remote-alias>
+            <ordinal>56</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name># Pl</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[# Pl]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias># Pl</remote-alias>
+            <ordinal>57</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Age</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Age (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Age</remote-alias>
+            <ordinal>58</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Poss</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Poss]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Poss</remote-alias>
+            <ordinal>59</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>MP</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[MP (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>MP</remote-alias>
+            <ordinal>60</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Starts</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Starts (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Starts</remote-alias>
+            <ordinal>61</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Min</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Min (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Min</remote-alias>
+            <ordinal>62</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>90s</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[90s (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>90s</remote-alias>
+            <ordinal>63</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Gls</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Gls (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Gls</remote-alias>
+            <ordinal>64</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Ast</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Ast (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Ast</remote-alias>
+            <ordinal>65</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>G-PK</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[G-PK (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>G-PK</remote-alias>
+            <ordinal>66</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PK</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[PK (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>PK</remote-alias>
+            <ordinal>67</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PKatt</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[PKatt (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>PKatt</remote-alias>
+            <ordinal>68</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CrdY</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[CrdY (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>CrdY</remote-alias>
+            <ordinal>69</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CrdR</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[CrdR (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>CrdR</remote-alias>
+            <ordinal>70</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Gls.1</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Gls.1 (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Gls.1</remote-alias>
+            <ordinal>71</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Ast.1</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Ast.1 (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Ast.1</remote-alias>
+            <ordinal>72</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>G+A</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[G+A (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>G+A</remote-alias>
+            <ordinal>73</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>G-PK.1</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[G-PK.1 (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>G-PK.1</remote-alias>
+            <ordinal>74</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>G+A-PK</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[G+A-PK (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>G+A-PK</remote-alias>
+            <ordinal>75</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sh</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Sh (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Sh</remote-alias>
+            <ordinal>76</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SoT</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[SoT (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>SoT</remote-alias>
+            <ordinal>77</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SoT%</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[SoT% (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>SoT%</remote-alias>
+            <ordinal>78</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sh/90</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Sh/90 (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Sh/90</remote-alias>
+            <ordinal>79</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SoT/90</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[SoT/90 (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>SoT/90</remote-alias>
+            <ordinal>80</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>G/Sh</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[G/Sh (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>G/Sh</remote-alias>
+            <ordinal>81</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>G/SoT</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[G/SoT (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>G/SoT</remote-alias>
+            <ordinal>82</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Dist</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Dist (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Dist</remote-alias>
+            <ordinal>83</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Mn/MP</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Mn/MP (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Mn/MP</remote-alias>
+            <ordinal>84</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Min%</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Min% (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Min%</remote-alias>
+            <ordinal>85</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Mn/Start</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Mn/Start (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Mn/Start</remote-alias>
+            <ordinal>86</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Compl</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Compl (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Compl</remote-alias>
+            <ordinal>87</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Subs</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Subs (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Subs</remote-alias>
+            <ordinal>88</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Mn/Sub</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Mn/Sub (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Mn/Sub</remote-alias>
+            <ordinal>89</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>unSub</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[unSub (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>unSub</remote-alias>
+            <ordinal>90</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PPM</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[PPM (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>PPM</remote-alias>
+            <ordinal>91</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>onG</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[onG (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>onG</remote-alias>
+            <ordinal>92</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>onGA</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[onGA (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>onGA</remote-alias>
+            <ordinal>93</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>+/-</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[+/- (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>+/-</remote-alias>
+            <ordinal>94</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>+/-90</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[+/-90 (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>+/-90</remote-alias>
+            <ordinal>95</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>2CrdY</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[2CrdY (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>2CrdY</remote-alias>
+            <ordinal>96</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Fls</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Fls (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Fls</remote-alias>
+            <ordinal>97</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Fld</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Fld (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Fld</remote-alias>
+            <ordinal>98</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Off</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Off (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Off</remote-alias>
+            <ordinal>99</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Crs</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Crs (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Crs</remote-alias>
+            <ordinal>100</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Int</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Int (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Int</remote-alias>
+            <ordinal>101</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>TklW</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[TklW (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>TklW</remote-alias>
+            <ordinal>102</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PKwon</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[PKwon (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>PKwon</remote-alias>
+            <ordinal>103</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PKcon</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[PKcon (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>PKcon</remote-alias>
+            <ordinal>104</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>OG</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[OG (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>OG</remote-alias>
+            <ordinal>105</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>League Name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[League Name (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>League Name</remote-alias>
+            <ordinal>106</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>League ID</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[League ID (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>League ID</remote-alias>
+            <ordinal>107</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Season</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Season (fbref_team_minor_player_stats_for_combined_latest.csv)]</local-name>
+            <parent-name>[fbref_team_minor_player_stats_for_combined_latest.csv]</parent-name>
+            <remote-alias>Season</remote-alias>
+            <ordinal>108</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
         </metadata-records>
       </connection>
       <aliases enabled='yes' />
       <column datatype='string' name='[Nation]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
       <column datatype='string' name='[Squad]' role='dimension' type='nominal' />
       <_.fcp.ObjectModelTableType.true...column caption='fbref_outfield_player_stats_minor_combined_latest.csv' datatype='table' name='[__tableau_internal_object_id__].[fbref_outfield_player_stats_minor_combined_latest.csv_AAE208658C734180BD37B04EBF9E6B49]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='fbref_team_minor_player_stats_for_combined_latest.csv' datatype='table' name='[__tableau_internal_object_id__].[fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59]' role='measure' type='quantitative' />
       <column-instance column='[Squad]' derivation='None' name='[none:Squad:nk]' pivot='key' type='nominal' />
       <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
       <style>
@@ -975,10 +1827,10 @@
                   <column datatype='integer' name='PKatt' ordinal='14' />
                   <column datatype='integer' name='CrdY' ordinal='15' />
                   <column datatype='integer' name='CrdR' ordinal='16' />
-                  <column datatype='real' name='Gls.1' ordinal='17' />
-                  <column datatype='real' name='Ast.1' ordinal='18' />
+                  <column datatype='real' name='Gls/90' ordinal='17' />
+                  <column datatype='real' name='Ast/90' ordinal='18' />
                   <column datatype='real' name='G+A' ordinal='19' />
-                  <column datatype='real' name='G-PK.1' ordinal='20' />
+                  <column datatype='real' name='G-PK/90' ordinal='20' />
                   <column datatype='real' name='G+A-PK' ordinal='21' />
                   <column datatype='integer' name='Sh' ordinal='22' />
                   <column datatype='integer' name='SoT' ordinal='23' />
@@ -1018,7 +1870,78 @@
               </relation>
             </properties>
           </object>
+          <object caption='fbref_team_minor_player_stats_for_combined_latest.csv' id='fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59'>
+            <properties context=''>
+              <relation connection='textscan.14yroxp0hxc4861eclvnm178xvkm' name='fbref_team_minor_player_stats_for_combined_latest.csv' table='[fbref_team_minor_player_stats_for_combined_latest#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='fr_FR' separator=','>
+                  <column datatype='string' name='Squad' ordinal='0' />
+                  <column datatype='integer' name='# Pl' ordinal='1' />
+                  <column datatype='integer' name='Age' ordinal='2' />
+                  <column datatype='real' name='Poss' ordinal='3' />
+                  <column datatype='integer' name='MP' ordinal='4' />
+                  <column datatype='integer' name='Starts' ordinal='5' />
+                  <column datatype='integer' name='Min' ordinal='6' />
+                  <column datatype='real' name='90s' ordinal='7' />
+                  <column datatype='integer' name='Gls' ordinal='8' />
+                  <column datatype='integer' name='Ast' ordinal='9' />
+                  <column datatype='integer' name='G-PK' ordinal='10' />
+                  <column datatype='integer' name='PK' ordinal='11' />
+                  <column datatype='integer' name='PKatt' ordinal='12' />
+                  <column datatype='integer' name='CrdY' ordinal='13' />
+                  <column datatype='integer' name='CrdR' ordinal='14' />
+                  <column datatype='real' name='Gls.1' ordinal='15' />
+                  <column datatype='real' name='Ast.1' ordinal='16' />
+                  <column datatype='real' name='G+A' ordinal='17' />
+                  <column datatype='real' name='G-PK.1' ordinal='18' />
+                  <column datatype='real' name='G+A-PK' ordinal='19' />
+                  <column datatype='integer' name='Sh' ordinal='20' />
+                  <column datatype='integer' name='SoT' ordinal='21' />
+                  <column datatype='real' name='SoT%' ordinal='22' />
+                  <column datatype='real' name='Sh/90' ordinal='23' />
+                  <column datatype='real' name='SoT/90' ordinal='24' />
+                  <column datatype='real' name='G/Sh' ordinal='25' />
+                  <column datatype='real' name='G/SoT' ordinal='26' />
+                  <column datatype='string' name='Dist' ordinal='27' />
+                  <column datatype='integer' name='Mn/MP' ordinal='28' />
+                  <column datatype='integer' name='Min%' ordinal='29' />
+                  <column datatype='integer' name='Mn/Start' ordinal='30' />
+                  <column datatype='integer' name='Compl' ordinal='31' />
+                  <column datatype='integer' name='Subs' ordinal='32' />
+                  <column datatype='integer' name='Mn/Sub' ordinal='33' />
+                  <column datatype='integer' name='unSub' ordinal='34' />
+                  <column datatype='real' name='PPM' ordinal='35' />
+                  <column datatype='integer' name='onG' ordinal='36' />
+                  <column datatype='integer' name='onGA' ordinal='37' />
+                  <column datatype='integer' name='+/-' ordinal='38' />
+                  <column datatype='real' name='+/-90' ordinal='39' />
+                  <column datatype='integer' name='2CrdY' ordinal='40' />
+                  <column datatype='integer' name='Fls' ordinal='41' />
+                  <column datatype='integer' name='Fld' ordinal='42' />
+                  <column datatype='integer' name='Off' ordinal='43' />
+                  <column datatype='integer' name='Crs' ordinal='44' />
+                  <column datatype='integer' name='Int' ordinal='45' />
+                  <column datatype='integer' name='TklW' ordinal='46' />
+                  <column datatype='string' name='PKwon' ordinal='47' />
+                  <column datatype='string' name='PKcon' ordinal='48' />
+                  <column datatype='integer' name='OG' ordinal='49' />
+                  <column datatype='string' name='League Name' ordinal='50' />
+                  <column datatype='integer' name='League ID' ordinal='51' />
+                  <column datatype='string' name='Season' ordinal='52' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
         </objects>
+        <relationships>
+          <relationship>
+            <expression op='='>
+              <expression op='[Squad]' />
+              <expression op='[Squad (fbref_team_minor_player_stats_for_combined_latest.csv)]' />
+            </expression>
+            <first-end-point object-id='fbref_outfield_player_stats_minor_combined_latest.csv_AAE208658C734180BD37B04EBF9E6B49' />
+            <second-end-point object-id='fbref_team_minor_player_stats_for_combined_latest.csv_AC9E1927C56D42E1AC96D96744049E59' />
+          </relationship>
+        </relationships>
       </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
     </datasource>
   </datasources>
@@ -1132,6 +2055,54 @@
       </table>
       <simple-id uuid='{8EF9C721-98A9-49FD-8DF6-1BAC88B83D1B}' />
     </worksheet>
+    <worksheet name='Feuille 1 (3)'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='fbref_outfield_player_stats_minor_combined_latest' name='federated.1xoa3qm0f8lxdy1dattt303c7f8m' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1xoa3qm0f8lxdy1dattt303c7f8m'>
+            <column datatype='real' name='[Sh/90 (fbref_team_minor_player_stats_for_combined_latest.csv)]' role='measure' type='quantitative' />
+            <column datatype='real' name='[SoT/90 (fbref_team_minor_player_stats_for_combined_latest.csv)]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Squad]' role='dimension' type='nominal' />
+            <column-instance column='[Squad]' derivation='None' name='[none:Squad:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Sh/90 (fbref_team_minor_player_stats_for_combined_latest.csv)]' derivation='Sum' name='[sum:Sh/90 (fbref_team_minor_player_stats_for_combined_latest.csv):qk]' pivot='key' type='quantitative' />
+            <column-instance column='[SoT/90 (fbref_team_minor_player_stats_for_combined_latest.csv)]' derivation='Sum' name='[sum:SoT/90 (fbref_team_minor_player_stats_for_combined_latest.csv):qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.1xoa3qm0f8lxdy1dattt303c7f8m].[sum:Sh/90 (fbref_team_minor_player_stats_for_combined_latest.csv):qk]' field-type='quantitative' max='14.277385679856073' min='8.0' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.1xoa3qm0f8lxdy1dattt303c7f8m].[sum:SoT/90 (fbref_team_minor_player_stats_for_combined_latest.csv):qk]' field-type='quantitative' max='5.4929462870104953' min='2.0' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <shape column='[federated.1xoa3qm0f8lxdy1dattt303c7f8m].[none:Squad:nk]' />
+            </encodings>
+            <reference-line axis-column='[federated.1xoa3qm0f8lxdy1dattt303c7f8m].[sum:Sh/90 (fbref_team_minor_player_stats_for_combined_latest.csv):qk]' enable-instant-analytics='true' formula='average' id='refline0' label-type='automatic' probability='95' scope='per-table' value-column='[federated.1xoa3qm0f8lxdy1dattt303c7f8m].[sum:Sh/90 (fbref_team_minor_player_stats_for_combined_latest.csv):qk]' z-order='1' />
+            <reference-line axis-column='[federated.1xoa3qm0f8lxdy1dattt303c7f8m].[sum:SoT/90 (fbref_team_minor_player_stats_for_combined_latest.csv):qk]' enable-instant-analytics='true' formula='average' id='refline1' label-type='automatic' probability='95' scope='per-table' value-column='[federated.1xoa3qm0f8lxdy1dattt303c7f8m].[sum:SoT/90 (fbref_team_minor_player_stats_for_combined_latest.csv):qk]' z-order='2' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='size' value='3.0828728675842285' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1xoa3qm0f8lxdy1dattt303c7f8m].[sum:SoT/90 (fbref_team_minor_player_stats_for_combined_latest.csv):qk]</rows>
+        <cols>[federated.1xoa3qm0f8lxdy1dattt303c7f8m].[sum:Sh/90 (fbref_team_minor_player_stats_for_combined_latest.csv):qk]</cols>
+      </table>
+      <simple-id uuid='{80396755-5136-4302-A6E1-5E72909558A6}' />
+    </worksheet>
   </worksheets>
   <windows source-height='30'>
     <window class='worksheet' name='Feuille 1'>
@@ -1157,7 +2128,7 @@
       </cards>
       <simple-id uuid='{1A5C66BF-911C-4040-926B-B65A0E11907B}' />
     </window>
-    <window class='worksheet' maximized='true' name='Feuille 1 (2)'>
+    <window class='worksheet' name='Feuille 1 (2)'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1184,6 +2155,34 @@
         </edge>
       </cards>
       <simple-id uuid='{B15C62C8-29E2-4C2A-BC8C-BBD63EAA9B4B}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Feuille 1 (3)'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='170'>
+            <card pane-specification-id='2' param='[federated.1xoa3qm0f8lxdy1dattt303c7f8m].[none:Squad:nk]' type='shape' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{3DB38B61-B341-4C99-900F-BD121F93A521}' />
     </window>
   </windows>
   <external>

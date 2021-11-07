@@ -109,7 +109,7 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
     print(f'Scraping started at: {tic}')
     
     ##On supprime le fichier global afin de venir faire la MAJ
-    #os.remove(os.path.join(data_dir_fbref +f'/raw/outfield/fbref_outfield_player_stats_minor_combined_latest.csv'))
+    os.remove(os.path.join(data_dir_fbref +f'/raw/outfield/fbref_outfield_player_stats_minor_combined_latest.csv'))
     
     ## Scrape information for each player
     for season in seasons:
@@ -238,11 +238,7 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
                 df_all['Squad'] = (df_all['Squad'].str.encode('latin-1', errors='ignore').str.decode('UTF-8',errors='ignore'))
                 
                 #Update of name columns 
-                # df_all = df_all.rename({'Gls.1': 'Gls/90','Ast.1':'Ast/90','G-PK.1':'G-PK/90','xG.1':'xG/90','xA.1':'xA/90','npxG.1':'npxG/90','npxG+xA.1':'npxG+xA/90',
-                # 'Cmp.1':'Cmp_short','Att.1':'Att_short','Cmp%.1':'Cmp%_short','Cmp.2':'Cmp_medium','Att.2':'Att_medium','Cmp%.2':'Cmp%_medium',
-                # 'Cmp.3':'Cmp_long','Att.3':'Att_long','Cmp%.3':'Cmp%_long','PassLive.1':'PassLive_AMB','PassDead.1':'PassDead_AMB','Drib.1':'Drib_AMB',
-                # 'Sh.1':'Sh_AMB','Fld.1':'Fld_AMB','Def.1':'Def_AMB','Tkl.1':'Tkl_dribble','Def 3rd.1':'Def 3rd_pression','Mid 3rd.1':'Mid 3rd_pression',
-                # 'Att 3rd.1':'Att 3rd_pression','Prog.1':'Prog_recevant','On-Off.1':'On-Off_diff_tit_remp'}, axis=1)            
+                df_all = df_all.rename({'Gls.1': 'Gls/90','Ast.1':'Ast/90','G-PK.1':'G-PK/90'}, axis=1)             
                 
                 
                 ##### Save DataFrame

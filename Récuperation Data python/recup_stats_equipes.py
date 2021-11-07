@@ -140,7 +140,7 @@ def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
     print(f'Scraping started at: {tic}')
     
     ##On supprime le fichier global afin de venir faire la MAJ
-    #os.remove(os.path.join(data_dir_fbref +f'/raw/team/fbref_team_player_stats_for_combined_latest.csv'))
+    os.remove(os.path.join(data_dir_fbref +f'/raw/team/fbref_team_player_stats_for_combined_latest.csv'))
     
     ## Scrape information for each player
     for season in seasons:
