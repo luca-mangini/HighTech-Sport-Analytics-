@@ -1,0 +1,2753 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20213.21.1018.0949                               -->
+<workbook original-version='18.1' source-build='2021.3.3 (20213.21.1018.0949)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AccessibleZoneTabOrder.true...AccessibleZoneTabOrder />
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <_.fcp.ExternalImageContentForZones.true...ExternalImageContentForZones />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='fbref_outfield_player_stats_minor_combined_latest' inline='true' name='federated.0jr8ua30ahmp421a1bk3r0pezptz' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='fbref_outfield_player_stats_minor_combined_latest' name='textscan.08509vo0ypjcmj160swuv1a80bhw'>
+            <connection class='textscan' directory='C:/Users/lucam/Desktop/Analyse foot/HighTech-Sport-Analytics-/Récuperation Data python/data/fbref/raw/outfield' filename='fbref_outfield_player_stats_minor_combined_latest.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.08509vo0ypjcmj160swuv1a80bhw' name='fbref_outfield_player_stats_minor_combined_latest.csv' table='[fbref_outfield_player_stats_minor_combined_latest#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='fr_FR' separator=','>
+            <column datatype='string' name='Player' ordinal='0' />
+            <column datatype='string' name='Nation' ordinal='1' />
+            <column datatype='string' name='Pos' ordinal='2' />
+            <column datatype='string' name='Squad' ordinal='3' />
+            <column datatype='integer' name='Age' ordinal='4' />
+            <column datatype='integer' name='Born' ordinal='5' />
+            <column datatype='integer' name='MP' ordinal='6' />
+            <column datatype='integer' name='Starts' ordinal='7' />
+            <column datatype='integer' name='Min' ordinal='8' />
+            <column datatype='real' name='90s' ordinal='9' />
+            <column datatype='integer' name='Gls' ordinal='10' />
+            <column datatype='integer' name='Ast' ordinal='11' />
+            <column datatype='integer' name='G-PK' ordinal='12' />
+            <column datatype='integer' name='PK' ordinal='13' />
+            <column datatype='integer' name='PKatt' ordinal='14' />
+            <column datatype='integer' name='CrdY' ordinal='15' />
+            <column datatype='integer' name='CrdR' ordinal='16' />
+            <column datatype='real' name='Gls/90' ordinal='17' />
+            <column datatype='real' name='Ast/90' ordinal='18' />
+            <column datatype='real' name='G+A' ordinal='19' />
+            <column datatype='real' name='G-PK/90' ordinal='20' />
+            <column datatype='real' name='G+A-PK' ordinal='21' />
+            <column datatype='integer' name='Sh' ordinal='22' />
+            <column datatype='integer' name='SoT' ordinal='23' />
+            <column datatype='real' name='SoT%' ordinal='24' />
+            <column datatype='real' name='Sh/90' ordinal='25' />
+            <column datatype='real' name='SoT/90' ordinal='26' />
+            <column datatype='real' name='G/Sh' ordinal='27' />
+            <column datatype='real' name='G/SoT' ordinal='28' />
+            <column datatype='string' name='Dist' ordinal='29' />
+            <column datatype='integer' name='Mn/MP' ordinal='30' />
+            <column datatype='real' name='Min%' ordinal='31' />
+            <column datatype='real' name='Mn/Start' ordinal='32' />
+            <column datatype='integer' name='Compl' ordinal='33' />
+            <column datatype='integer' name='Subs' ordinal='34' />
+            <column datatype='real' name='Mn/Sub' ordinal='35' />
+            <column datatype='integer' name='unSub' ordinal='36' />
+            <column datatype='real' name='PPM' ordinal='37' />
+            <column datatype='integer' name='onG' ordinal='38' />
+            <column datatype='integer' name='onGA' ordinal='39' />
+            <column datatype='integer' name='+/-' ordinal='40' />
+            <column datatype='real' name='+/-90' ordinal='41' />
+            <column datatype='real' name='On-Off' ordinal='42' />
+            <column datatype='integer' name='2CrdY' ordinal='43' />
+            <column datatype='integer' name='Fls' ordinal='44' />
+            <column datatype='integer' name='Fld' ordinal='45' />
+            <column datatype='integer' name='Off' ordinal='46' />
+            <column datatype='integer' name='Crs' ordinal='47' />
+            <column datatype='integer' name='Int' ordinal='48' />
+            <column datatype='integer' name='TklW' ordinal='49' />
+            <column datatype='string' name='PKwon' ordinal='50' />
+            <column datatype='string' name='PKcon' ordinal='51' />
+            <column datatype='integer' name='OG' ordinal='52' />
+            <column datatype='string' name='League Name' ordinal='53' />
+            <column datatype='integer' name='League ID' ordinal='54' />
+            <column datatype='string' name='Season' ordinal='55' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.08509vo0ypjcmj160swuv1a80bhw' name='fbref_outfield_player_stats_minor_combined_latest.csv' table='[fbref_outfield_player_stats_minor_combined_latest#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='fr_FR' separator=','>
+            <column datatype='string' name='Player' ordinal='0' />
+            <column datatype='string' name='Nation' ordinal='1' />
+            <column datatype='string' name='Pos' ordinal='2' />
+            <column datatype='string' name='Squad' ordinal='3' />
+            <column datatype='integer' name='Age' ordinal='4' />
+            <column datatype='integer' name='Born' ordinal='5' />
+            <column datatype='integer' name='MP' ordinal='6' />
+            <column datatype='integer' name='Starts' ordinal='7' />
+            <column datatype='integer' name='Min' ordinal='8' />
+            <column datatype='real' name='90s' ordinal='9' />
+            <column datatype='integer' name='Gls' ordinal='10' />
+            <column datatype='integer' name='Ast' ordinal='11' />
+            <column datatype='integer' name='G-PK' ordinal='12' />
+            <column datatype='integer' name='PK' ordinal='13' />
+            <column datatype='integer' name='PKatt' ordinal='14' />
+            <column datatype='integer' name='CrdY' ordinal='15' />
+            <column datatype='integer' name='CrdR' ordinal='16' />
+            <column datatype='real' name='Gls/90' ordinal='17' />
+            <column datatype='real' name='Ast/90' ordinal='18' />
+            <column datatype='real' name='G+A' ordinal='19' />
+            <column datatype='real' name='G-PK/90' ordinal='20' />
+            <column datatype='real' name='G+A-PK' ordinal='21' />
+            <column datatype='integer' name='Sh' ordinal='22' />
+            <column datatype='integer' name='SoT' ordinal='23' />
+            <column datatype='real' name='SoT%' ordinal='24' />
+            <column datatype='real' name='Sh/90' ordinal='25' />
+            <column datatype='real' name='SoT/90' ordinal='26' />
+            <column datatype='real' name='G/Sh' ordinal='27' />
+            <column datatype='real' name='G/SoT' ordinal='28' />
+            <column datatype='string' name='Dist' ordinal='29' />
+            <column datatype='integer' name='Mn/MP' ordinal='30' />
+            <column datatype='real' name='Min%' ordinal='31' />
+            <column datatype='real' name='Mn/Start' ordinal='32' />
+            <column datatype='integer' name='Compl' ordinal='33' />
+            <column datatype='integer' name='Subs' ordinal='34' />
+            <column datatype='real' name='Mn/Sub' ordinal='35' />
+            <column datatype='integer' name='unSub' ordinal='36' />
+            <column datatype='real' name='PPM' ordinal='37' />
+            <column datatype='integer' name='onG' ordinal='38' />
+            <column datatype='integer' name='onGA' ordinal='39' />
+            <column datatype='integer' name='+/-' ordinal='40' />
+            <column datatype='real' name='+/-90' ordinal='41' />
+            <column datatype='real' name='On-Off' ordinal='42' />
+            <column datatype='integer' name='2CrdY' ordinal='43' />
+            <column datatype='integer' name='Fls' ordinal='44' />
+            <column datatype='integer' name='Fld' ordinal='45' />
+            <column datatype='integer' name='Off' ordinal='46' />
+            <column datatype='integer' name='Crs' ordinal='47' />
+            <column datatype='integer' name='Int' ordinal='48' />
+            <column datatype='integer' name='TklW' ordinal='49' />
+            <column datatype='string' name='PKwon' ordinal='50' />
+            <column datatype='string' name='PKcon' ordinal='51' />
+            <column datatype='integer' name='OG' ordinal='52' />
+            <column datatype='string' name='League Name' ordinal='53' />
+            <column datatype='integer' name='League ID' ordinal='54' />
+            <column datatype='string' name='Season' ordinal='55' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
+              <attribute datatype='string' name='debit-close-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='debit-open-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Player</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Player]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Player</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Nation</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Nation]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Nation</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Pos</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Pos]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Pos</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Squad</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Squad]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Squad</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Age</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Age]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Age</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Born</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Born]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Born</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>MP</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[MP]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>MP</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Starts</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Starts]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Starts</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Min</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Min]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Min</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>90s</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[90s]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>90s</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Gls</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Gls]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Gls</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Ast</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Ast]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Ast</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>G-PK</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[G-PK]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>G-PK</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PK</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[PK]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>PK</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PKatt</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[PKatt]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>PKatt</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CrdY</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[CrdY]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>CrdY</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>CrdR</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[CrdR]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>CrdR</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Gls/90</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Gls/90]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Gls/90</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Ast/90</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Ast/90]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Ast/90</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>G+A</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[G+A]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>G+A</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>G-PK/90</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[G-PK/90]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>G-PK/90</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>G+A-PK</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[G+A-PK]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>G+A-PK</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sh</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Sh]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Sh</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SoT</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[SoT]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>SoT</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SoT%</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[SoT%]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>SoT%</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sh/90</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Sh/90]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Sh/90</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SoT/90</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[SoT/90]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>SoT/90</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>G/Sh</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[G/Sh]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>G/Sh</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>G/SoT</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[G/SoT]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>G/SoT</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Dist</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Dist]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Dist</remote-alias>
+            <ordinal>29</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Mn/MP</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Mn/MP]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Mn/MP</remote-alias>
+            <ordinal>30</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Min%</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Min%]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Min%</remote-alias>
+            <ordinal>31</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Mn/Start</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Mn/Start]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Mn/Start</remote-alias>
+            <ordinal>32</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Compl</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Compl]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Compl</remote-alias>
+            <ordinal>33</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Subs</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Subs]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Subs</remote-alias>
+            <ordinal>34</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Mn/Sub</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Mn/Sub]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Mn/Sub</remote-alias>
+            <ordinal>35</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>unSub</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[unSub]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>unSub</remote-alias>
+            <ordinal>36</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PPM</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[PPM]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>PPM</remote-alias>
+            <ordinal>37</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>onG</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[onG]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>onG</remote-alias>
+            <ordinal>38</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>onGA</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[onGA]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>onGA</remote-alias>
+            <ordinal>39</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>+/-</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[+/-]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>+/-</remote-alias>
+            <ordinal>40</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>+/-90</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[+/-90]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>+/-90</remote-alias>
+            <ordinal>41</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>On-Off</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[On-Off]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>On-Off</remote-alias>
+            <ordinal>42</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>2CrdY</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[2CrdY]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>2CrdY</remote-alias>
+            <ordinal>43</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Fls</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Fls]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Fls</remote-alias>
+            <ordinal>44</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Fld</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Fld]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Fld</remote-alias>
+            <ordinal>45</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Off</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Off]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Off</remote-alias>
+            <ordinal>46</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Crs</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Crs]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Crs</remote-alias>
+            <ordinal>47</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Int</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Int]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Int</remote-alias>
+            <ordinal>48</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>TklW</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[TklW]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>TklW</remote-alias>
+            <ordinal>49</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PKwon</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[PKwon]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>PKwon</remote-alias>
+            <ordinal>50</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PKcon</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[PKcon]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>PKcon</remote-alias>
+            <ordinal>51</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>OG</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[OG]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>OG</remote-alias>
+            <ordinal>52</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>League Name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[League Name]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>League Name</remote-alias>
+            <ordinal>53</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>League ID</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[League ID]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>League ID</remote-alias>
+            <ordinal>54</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Season</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Season]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <remote-alias>Season</remote-alias>
+            <ordinal>55</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LFR_RFR' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' default-format='N' name='[Ast]' role='measure' type='quantitative' />
+      <column caption='Ast+Gls' datatype='integer' default-format='N' name='[Calculation_670473436228149248]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='[Ast]+[Gls]' />
+      </column>
+      <column datatype='integer' default-format='N' name='[Gls]' role='measure' type='quantitative' />
+      <column datatype='string' name='[Nation]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column datatype='string' name='[Player (groupe)]' role='dimension' type='nominal'>
+        <calculation class='categorical-bin' column='[Player]' new-bin='true'>
+          <bin default-name='false' value='&quot;Autres Auxerre&quot;'>
+            <value>&quot;Alec Georgen&quot;</value>
+            <value>&quot;Alexandre Coeff&quot;</value>
+            <value>&quot;Alexis Trouillet&quot;</value>
+            <value>&quot;Aly Ndom&quot;</value>
+            <value>&quot;Birama Touré&quot;</value>
+            <value>&quot;Carlens Arcus&quot;</value>
+            <value>&quot;Donovan Léon&quot;</value>
+            <value>&quot;Gaëtan Perrin&quot;</value>
+            <value>&quot;Gauthier Hein&quot;</value>
+            <value>&quot;Hamza Sakhi&quot;</value>
+            <value>&quot;Iyad Mohamed&quot;</value>
+            <value>&quot;Jubal&quot;</value>
+            <value>&quot;Mohamed Ben Fredj&quot;</value>
+            <value>&quot;Nicolas Mercier&quot;</value>
+            <value>&quot;Quentin Bernard&quot;</value>
+            <value>&quot;Rémy Dugimont&quot;</value>
+            <value>&quot;Théo Pellenard&quot;</value>
+          </bin>
+          <bin default-name='false' value='&quot;Autres Dijon&quot;'>
+            <value>&quot;Adama Fofana&quot;</value>
+            <value>&quot;Ahmad Ngouyamsa&quot;</value>
+            <value>&quot;Anthony Racioppi&quot;</value>
+            <value>&quot;Baptiste Reynet&quot;</value>
+            <value>&quot;Bruno Ecuele Manga&quot;</value>
+            <value>&quot;Bryan Soumaré&quot;</value>
+            <value>&quot;Cheick Traoré&quot;</value>
+            <value>&quot;Christopher Rocchia&quot;</value>
+            <value>&quot;Daniel Congré&quot;</value>
+            <value>&quot;Erwan Belhadji&quot;</value>
+            <value>&quot;Frédéric Sammaritano&quot;</value>
+            <value>&quot;Jessy Pi&quot;</value>
+            <value>&quot;Lucas Deaux&quot;</value>
+            <value>&quot;Matteo Ahlinvi&quot;</value>
+            <value>&quot;Mickaël Le Bihan&quot;</value>
+            <value>&quot;Roger Assalé&quot;</value>
+            <value>&quot;Romain Philippoteaux&quot;</value>
+            <value>&quot;Senou Coulibaly&quot;</value>
+            <value>&quot;Valentin Jacob&quot;</value>
+            <value>&quot;Wilitty Younoussa&quot;</value>
+            <value>&quot;Yaya Soumaré&quot;</value>
+            <value>&quot;Zargo Touré&quot;</value>
+          </bin>
+        </calculation>
+      </column>
+      <column datatype='string' name='[Player]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='fbref_outfield_player_stats_minor_combined_latest.csv' datatype='table' name='[__tableau_internal_object_id__].[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]' role='measure' type='quantitative' />
+      <column-instance column='[Player]' derivation='None' name='[none:Player:nk]' pivot='key' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Player:nk]' type='palette'>
+            <map to='#499894'>
+              <bucket>&quot;Gaëtan Perrin&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Alec Georgen&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Birama Touré&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Jubal&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Gauthier Hein&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Carlens Arcus&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Rémy Dugimont&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Alexandre Coeff&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Nicolas Mercier&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Donovan Léon&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Lassine Sinayoko&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Mathias Autret&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Quentin Bernard&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Théo Pellenard&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Hamza Sakhi&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Gaëtan Charbonnier&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Alexis Trouillet&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Mohamed Ben Fredj&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Iyad Mohamed&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Aly Ndom&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[Player (groupe)]' type='palette'>
+            <map to='#43719f'>
+              <bucket>&quot;Mathias Autret&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Christopher Rocchia&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Gaëtan Perrin&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Adama Fofana&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Alec Georgen&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Valentin Jacob&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Baptiste Reynet&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Birama Touré&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Zargo Touré&quot;</bucket>
+            </map>
+            <map to='#6394be'>
+              <bucket>&quot;Lassine Sinayoko&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Jessy Pi&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Jubal&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Daniel Congré&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Gauthier Hein&quot;</bucket>
+            </map>
+            <map to='#89b8da'>
+              <bucket>&quot;Gaëtan Charbonnier&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Bruno Ecuele Manga&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Carlens Arcus&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Rémy Dugimont&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Romain Philippoteaux&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Ahmad Ngouyamsa&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Alexandre Coeff&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Wilitty Younoussa&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Nicolas Mercier&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Bryan Soumaré&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Donovan Léon&quot;</bucket>
+            </map>
+            <map to='#b9ddf1'>
+              <bucket>&quot;Autres Auxerre&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Lucas Deaux&quot;</bucket>
+            </map>
+            <map to='#d3293d'>
+              <bucket>&quot;Yassine Benzia&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Matteo Ahlinvi&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Quentin Bernard&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Roger Assalé&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Senou Coulibaly&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Théo Pellenard&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Erwan Belhadji&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Hamza Sakhi&quot;</bucket>
+            </map>
+            <map to='#f05c4d'>
+              <bucket>&quot;Mihai Dobre&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Cheick Traoré&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Alexis Trouillet&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Anthony Racioppi&quot;</bucket>
+            </map>
+            <map to='#fa8f79'>
+              <bucket>&quot;Aurélien Scheidler&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Mickaël Le Bihan&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Mohamed Ben Fredj&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Frédéric Sammaritano&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Iyad Mohamed&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Aly Ndom&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Yaya Soumaré&quot;</bucket>
+            </map>
+            <map to='#ffbeb2'>
+              <bucket>&quot;Autres Dijon&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;France&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='fbref_outfield_player_stats_minor_combined_latest.csv' id='fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9'>
+            <properties context=''>
+              <relation connection='textscan.08509vo0ypjcmj160swuv1a80bhw' name='fbref_outfield_player_stats_minor_combined_latest.csv' table='[fbref_outfield_player_stats_minor_combined_latest#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='fr_FR' separator=','>
+                  <column datatype='string' name='Player' ordinal='0' />
+                  <column datatype='string' name='Nation' ordinal='1' />
+                  <column datatype='string' name='Pos' ordinal='2' />
+                  <column datatype='string' name='Squad' ordinal='3' />
+                  <column datatype='integer' name='Age' ordinal='4' />
+                  <column datatype='integer' name='Born' ordinal='5' />
+                  <column datatype='integer' name='MP' ordinal='6' />
+                  <column datatype='integer' name='Starts' ordinal='7' />
+                  <column datatype='integer' name='Min' ordinal='8' />
+                  <column datatype='real' name='90s' ordinal='9' />
+                  <column datatype='integer' name='Gls' ordinal='10' />
+                  <column datatype='integer' name='Ast' ordinal='11' />
+                  <column datatype='integer' name='G-PK' ordinal='12' />
+                  <column datatype='integer' name='PK' ordinal='13' />
+                  <column datatype='integer' name='PKatt' ordinal='14' />
+                  <column datatype='integer' name='CrdY' ordinal='15' />
+                  <column datatype='integer' name='CrdR' ordinal='16' />
+                  <column datatype='real' name='Gls/90' ordinal='17' />
+                  <column datatype='real' name='Ast/90' ordinal='18' />
+                  <column datatype='real' name='G+A' ordinal='19' />
+                  <column datatype='real' name='G-PK/90' ordinal='20' />
+                  <column datatype='real' name='G+A-PK' ordinal='21' />
+                  <column datatype='integer' name='Sh' ordinal='22' />
+                  <column datatype='integer' name='SoT' ordinal='23' />
+                  <column datatype='real' name='SoT%' ordinal='24' />
+                  <column datatype='real' name='Sh/90' ordinal='25' />
+                  <column datatype='real' name='SoT/90' ordinal='26' />
+                  <column datatype='real' name='G/Sh' ordinal='27' />
+                  <column datatype='real' name='G/SoT' ordinal='28' />
+                  <column datatype='string' name='Dist' ordinal='29' />
+                  <column datatype='integer' name='Mn/MP' ordinal='30' />
+                  <column datatype='real' name='Min%' ordinal='31' />
+                  <column datatype='real' name='Mn/Start' ordinal='32' />
+                  <column datatype='integer' name='Compl' ordinal='33' />
+                  <column datatype='integer' name='Subs' ordinal='34' />
+                  <column datatype='real' name='Mn/Sub' ordinal='35' />
+                  <column datatype='integer' name='unSub' ordinal='36' />
+                  <column datatype='real' name='PPM' ordinal='37' />
+                  <column datatype='integer' name='onG' ordinal='38' />
+                  <column datatype='integer' name='onGA' ordinal='39' />
+                  <column datatype='integer' name='+/-' ordinal='40' />
+                  <column datatype='real' name='+/-90' ordinal='41' />
+                  <column datatype='real' name='On-Off' ordinal='42' />
+                  <column datatype='integer' name='2CrdY' ordinal='43' />
+                  <column datatype='integer' name='Fls' ordinal='44' />
+                  <column datatype='integer' name='Fld' ordinal='45' />
+                  <column datatype='integer' name='Off' ordinal='46' />
+                  <column datatype='integer' name='Crs' ordinal='47' />
+                  <column datatype='integer' name='Int' ordinal='48' />
+                  <column datatype='integer' name='TklW' ordinal='49' />
+                  <column datatype='string' name='PKwon' ordinal='50' />
+                  <column datatype='string' name='PKcon' ordinal='51' />
+                  <column datatype='integer' name='OG' ordinal='52' />
+                  <column datatype='string' name='League Name' ordinal='53' />
+                  <column datatype='integer' name='League ID' ordinal='54' />
+                  <column datatype='string' name='Season' ordinal='55' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Auxerre'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='fbref_outfield_player_stats_minor_combined_latest' name='federated.0jr8ua30ahmp421a1bk3r0pezptz' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0jr8ua30ahmp421a1bk3r0pezptz'>
+            <column datatype='integer' default-format='N' name='[Ast]' role='measure' type='quantitative' />
+            <column caption='Ast+Gls' datatype='integer' default-format='N' name='[Calculation_670473436228149248]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='[Ast]+[Gls]' />
+            </column>
+            <column datatype='integer' default-format='N' name='[Gls]' role='measure' type='quantitative' />
+            <column datatype='string' name='[League Name]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Player (groupe)]' role='dimension' type='nominal'>
+              <calculation class='categorical-bin' column='[Player]' new-bin='true'>
+                <bin default-name='false' value='&quot;Autres Auxerre&quot;'>
+                  <value>&quot;Alec Georgen&quot;</value>
+                  <value>&quot;Alexandre Coeff&quot;</value>
+                  <value>&quot;Alexis Trouillet&quot;</value>
+                  <value>&quot;Aly Ndom&quot;</value>
+                  <value>&quot;Birama Touré&quot;</value>
+                  <value>&quot;Carlens Arcus&quot;</value>
+                  <value>&quot;Donovan Léon&quot;</value>
+                  <value>&quot;Gaëtan Perrin&quot;</value>
+                  <value>&quot;Gauthier Hein&quot;</value>
+                  <value>&quot;Hamza Sakhi&quot;</value>
+                  <value>&quot;Iyad Mohamed&quot;</value>
+                  <value>&quot;Jubal&quot;</value>
+                  <value>&quot;Mohamed Ben Fredj&quot;</value>
+                  <value>&quot;Nicolas Mercier&quot;</value>
+                  <value>&quot;Quentin Bernard&quot;</value>
+                  <value>&quot;Rémy Dugimont&quot;</value>
+                  <value>&quot;Théo Pellenard&quot;</value>
+                </bin>
+                <bin default-name='false' value='&quot;Autres Dijon&quot;'>
+                  <value>&quot;Adama Fofana&quot;</value>
+                  <value>&quot;Ahmad Ngouyamsa&quot;</value>
+                  <value>&quot;Anthony Racioppi&quot;</value>
+                  <value>&quot;Baptiste Reynet&quot;</value>
+                  <value>&quot;Bruno Ecuele Manga&quot;</value>
+                  <value>&quot;Bryan Soumaré&quot;</value>
+                  <value>&quot;Cheick Traoré&quot;</value>
+                  <value>&quot;Christopher Rocchia&quot;</value>
+                  <value>&quot;Daniel Congré&quot;</value>
+                  <value>&quot;Erwan Belhadji&quot;</value>
+                  <value>&quot;Frédéric Sammaritano&quot;</value>
+                  <value>&quot;Jessy Pi&quot;</value>
+                  <value>&quot;Lucas Deaux&quot;</value>
+                  <value>&quot;Matteo Ahlinvi&quot;</value>
+                  <value>&quot;Mickaël Le Bihan&quot;</value>
+                  <value>&quot;Roger Assalé&quot;</value>
+                  <value>&quot;Romain Philippoteaux&quot;</value>
+                  <value>&quot;Senou Coulibaly&quot;</value>
+                  <value>&quot;Valentin Jacob&quot;</value>
+                  <value>&quot;Wilitty Younoussa&quot;</value>
+                  <value>&quot;Yaya Soumaré&quot;</value>
+                  <value>&quot;Zargo Touré&quot;</value>
+                </bin>
+              </calculation>
+            </column>
+            <column datatype='string' name='[Player]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Season]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Squad]' role='dimension' type='nominal' />
+            <column-instance column='[League Name]' derivation='None' name='[none:League Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Season]' derivation='None' name='[none:Season:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Squad]' derivation='None' name='[none:Squad:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_670473436228149248]' derivation='Sum' name='[pcto:sum:Calculation_670473436228149248:qk]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Rows' type='PctTotal' />
+            </column-instance>
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:League Name:nk]'>
+            <groupfilter function='member' level='[none:League Name:nk]' member='&quot;Ligue-2&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]'>
+            <groupfilter function='member' level='[none:Season:nk]' member='&quot;2021-2022&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]'>
+            <groupfilter function='member' level='[none:Squad:nk]' member='&quot;Auxerre&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:League Name:nk]</column>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]</column>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='cell-w' value='304' />
+            <format attr='cell-h' value='304' />
+            <format attr='cell' value='38' />
+            <format attr='cell-q' value='190' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Pie' />
+            <encodings>
+              <color column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[Player (groupe)]' />
+              <wedge-size column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[pcto:sum:Calculation_670473436228149248:qk]' />
+              <text column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[pcto:sum:Calculation_670473436228149248:qk]' />
+              <text column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[Player (groupe)]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{0F9B76A5-E5C7-4240-ACF9-2BF63E6F455D}' />
+    </worksheet>
+    <worksheet name='Auxerre stats'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='fbref_outfield_player_stats_minor_combined_latest' name='federated.0jr8ua30ahmp421a1bk3r0pezptz' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0jr8ua30ahmp421a1bk3r0pezptz'>
+            <column datatype='integer' default-format='N' name='[Ast]' role='measure' type='quantitative' />
+            <column caption='Ast+Gls' datatype='integer' default-format='N' name='[Calculation_670473436228149248]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='[Ast]+[Gls]' />
+            </column>
+            <column datatype='integer' default-format='N' name='[Gls]' role='measure' type='quantitative' />
+            <column datatype='string' name='[League Name]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Player]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Season]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Squad]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_670473436228149248]' derivation='None' name='[none:Calculation_670473436228149248:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[League Name]' derivation='None' name='[none:League Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Player]' derivation='None' name='[none:Player:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Season]' derivation='None' name='[none:Season:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Squad]' derivation='None' name='[none:Squad:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Ast]' derivation='Sum' name='[sum:Ast:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_670473436228149248]' derivation='Sum' name='[sum:Calculation_670473436228149248:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Gls]' derivation='Sum' name='[sum:Gls:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Calculation_670473436228149248:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Gls:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Ast:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[:Measure Names]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Calculation_670473436228149248:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Gls:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Ast:qk]&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='quantitative' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Calculation_670473436228149248:qk]' included-values='in-range'>
+            <min>1</min>
+          </filter>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:League Name:nk]'>
+            <groupfilter function='member' level='[none:League Name:nk]' member='&quot;Ligue-2&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]'>
+            <groupfilter function='member' level='[none:Season:nk]' member='&quot;2021-2022&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]'>
+            <groupfilter function='member' level='[none:Squad:nk]' member='&quot;Auxerre&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Player:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Calculation_670473436228149248:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:League Name:nk]</column>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]</column>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]</column>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[:Measure Names]</column>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Calculation_670473436228149248:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[Multiple Values]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Player:nk]</rows>
+        <cols>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[:Measure Names]</cols>
+      </table>
+      <simple-id uuid='{F8AA1287-C80D-44E0-B62E-A7C002F2F013}' />
+    </worksheet>
+    <worksheet name='Dijon'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='fbref_outfield_player_stats_minor_combined_latest' name='federated.0jr8ua30ahmp421a1bk3r0pezptz' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0jr8ua30ahmp421a1bk3r0pezptz'>
+            <column datatype='integer' default-format='N' name='[Ast]' role='measure' type='quantitative' />
+            <column caption='Ast+Gls' datatype='integer' default-format='N' name='[Calculation_670473436228149248]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='[Ast]+[Gls]' />
+            </column>
+            <column datatype='integer' default-format='N' name='[Gls]' role='measure' type='quantitative' />
+            <column datatype='string' name='[League Name]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Player (groupe)]' role='dimension' type='nominal'>
+              <calculation class='categorical-bin' column='[Player]' new-bin='true'>
+                <bin default-name='false' value='&quot;Autres Auxerre&quot;'>
+                  <value>&quot;Alec Georgen&quot;</value>
+                  <value>&quot;Alexandre Coeff&quot;</value>
+                  <value>&quot;Alexis Trouillet&quot;</value>
+                  <value>&quot;Aly Ndom&quot;</value>
+                  <value>&quot;Birama Touré&quot;</value>
+                  <value>&quot;Carlens Arcus&quot;</value>
+                  <value>&quot;Donovan Léon&quot;</value>
+                  <value>&quot;Gaëtan Perrin&quot;</value>
+                  <value>&quot;Gauthier Hein&quot;</value>
+                  <value>&quot;Hamza Sakhi&quot;</value>
+                  <value>&quot;Iyad Mohamed&quot;</value>
+                  <value>&quot;Jubal&quot;</value>
+                  <value>&quot;Mohamed Ben Fredj&quot;</value>
+                  <value>&quot;Nicolas Mercier&quot;</value>
+                  <value>&quot;Quentin Bernard&quot;</value>
+                  <value>&quot;Rémy Dugimont&quot;</value>
+                  <value>&quot;Théo Pellenard&quot;</value>
+                </bin>
+                <bin default-name='false' value='&quot;Autres Dijon&quot;'>
+                  <value>&quot;Adama Fofana&quot;</value>
+                  <value>&quot;Ahmad Ngouyamsa&quot;</value>
+                  <value>&quot;Anthony Racioppi&quot;</value>
+                  <value>&quot;Baptiste Reynet&quot;</value>
+                  <value>&quot;Bruno Ecuele Manga&quot;</value>
+                  <value>&quot;Bryan Soumaré&quot;</value>
+                  <value>&quot;Cheick Traoré&quot;</value>
+                  <value>&quot;Christopher Rocchia&quot;</value>
+                  <value>&quot;Daniel Congré&quot;</value>
+                  <value>&quot;Erwan Belhadji&quot;</value>
+                  <value>&quot;Frédéric Sammaritano&quot;</value>
+                  <value>&quot;Jessy Pi&quot;</value>
+                  <value>&quot;Lucas Deaux&quot;</value>
+                  <value>&quot;Matteo Ahlinvi&quot;</value>
+                  <value>&quot;Mickaël Le Bihan&quot;</value>
+                  <value>&quot;Roger Assalé&quot;</value>
+                  <value>&quot;Romain Philippoteaux&quot;</value>
+                  <value>&quot;Senou Coulibaly&quot;</value>
+                  <value>&quot;Valentin Jacob&quot;</value>
+                  <value>&quot;Wilitty Younoussa&quot;</value>
+                  <value>&quot;Yaya Soumaré&quot;</value>
+                  <value>&quot;Zargo Touré&quot;</value>
+                </bin>
+              </calculation>
+            </column>
+            <column datatype='string' name='[Player]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Season]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Squad]' role='dimension' type='nominal' />
+            <column-instance column='[League Name]' derivation='None' name='[none:League Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Season]' derivation='None' name='[none:Season:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Squad]' derivation='None' name='[none:Squad:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_670473436228149248]' derivation='Sum' name='[pcto:sum:Calculation_670473436228149248:qk]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Rows' type='PctTotal' />
+            </column-instance>
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:League Name:nk]'>
+            <groupfilter function='member' level='[none:League Name:nk]' member='&quot;Ligue-2&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]'>
+            <groupfilter function='member' level='[none:Season:nk]' member='&quot;2021-2022&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]'>
+            <groupfilter function='member' level='[none:Squad:nk]' member='&quot;Dijon&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:League Name:nk]</column>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]</column>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='cell-w' value='304' />
+            <format attr='cell-h' value='304' />
+            <format attr='cell' value='38' />
+            <format attr='cell-q' value='190' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Pie' />
+            <encodings>
+              <color column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[Player (groupe)]' />
+              <wedge-size column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[pcto:sum:Calculation_670473436228149248:qk]' />
+              <text column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[pcto:sum:Calculation_670473436228149248:qk]' />
+              <text column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[Player (groupe)]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{F80EC737-E6F0-481C-9592-EBF9B5F74DA5}' />
+    </worksheet>
+    <worksheet name='Dijon stats'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='fbref_outfield_player_stats_minor_combined_latest' name='federated.0jr8ua30ahmp421a1bk3r0pezptz' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0jr8ua30ahmp421a1bk3r0pezptz'>
+            <column datatype='integer' default-format='N' name='[Ast]' role='measure' type='quantitative' />
+            <column caption='Ast+Gls' datatype='integer' default-format='N' name='[Calculation_670473436228149248]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='[Ast]+[Gls]' />
+            </column>
+            <column datatype='integer' default-format='N' name='[Gls]' role='measure' type='quantitative' />
+            <column datatype='string' name='[League Name]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Player]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Season]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Squad]' role='dimension' type='nominal' />
+            <column-instance column='[Calculation_670473436228149248]' derivation='None' name='[none:Calculation_670473436228149248:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[League Name]' derivation='None' name='[none:League Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Player]' derivation='None' name='[none:Player:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Season]' derivation='None' name='[none:Season:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Squad]' derivation='None' name='[none:Squad:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Ast]' derivation='Sum' name='[sum:Ast:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_670473436228149248]' derivation='Sum' name='[sum:Calculation_670473436228149248:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Gls]' derivation='Sum' name='[sum:Gls:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Calculation_670473436228149248:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Gls:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Ast:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[:Measure Names]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Calculation_670473436228149248:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Gls:qk]&quot;</bucket>
+              <bucket>&quot;[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Ast:qk]&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='quantitative' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Calculation_670473436228149248:qk]' included-values='in-range'>
+            <min>1</min>
+          </filter>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:League Name:nk]'>
+            <groupfilter function='member' level='[none:League Name:nk]' member='&quot;Ligue-2&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]'>
+            <groupfilter function='member' level='[none:Season:nk]' member='&quot;2021-2022&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]'>
+            <groupfilter function='member' level='[none:Squad:nk]' member='&quot;Dijon&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Player:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Calculation_670473436228149248:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:League Name:nk]</column>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]</column>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]</column>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[:Measure Names]</column>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Calculation_670473436228149248:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[Multiple Values]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Player:nk]</rows>
+        <cols>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[:Measure Names]</cols>
+      </table>
+      <simple-id uuid='{7B43454D-BB6F-4B2A-BD85-035AA7C0D5CC}' />
+    </worksheet>
+    <worksheet name='Temps de jeu Auxerre'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='fbref_outfield_player_stats_minor_combined_latest' name='federated.0jr8ua30ahmp421a1bk3r0pezptz' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0jr8ua30ahmp421a1bk3r0pezptz'>
+            <column datatype='integer' name='[Min]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Player]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Season]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Squad]' role='dimension' type='nominal' />
+            <column-instance column='[Player]' derivation='None' name='[none:Player:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Season]' derivation='None' name='[none:Season:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Squad]' derivation='None' name='[none:Squad:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Min]' derivation='Sum' name='[sum:Min:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]'>
+            <groupfilter function='member' level='[none:Season:nk]' member='&quot;2021-2022&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]'>
+            <groupfilter function='member' level='[none:Squad:nk]' member='&quot;Auxerre&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Player:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Min:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]</column>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Min:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-color' value='#75a1c7' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Player:nk]</rows>
+        <cols>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Min:qk]</cols>
+      </table>
+      <simple-id uuid='{099D7F5A-6116-42BD-A84F-FD30B9F5EF29}' />
+    </worksheet>
+    <worksheet name='Temps de jeu Dijon'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='fbref_outfield_player_stats_minor_combined_latest' name='federated.0jr8ua30ahmp421a1bk3r0pezptz' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0jr8ua30ahmp421a1bk3r0pezptz'>
+            <column datatype='integer' name='[Min]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Player]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Season]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Squad]' role='dimension' type='nominal' />
+            <column-instance column='[Player]' derivation='None' name='[none:Player:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Season]' derivation='None' name='[none:Season:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Squad]' derivation='None' name='[none:Squad:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Min]' derivation='Sum' name='[sum:Min:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]'>
+            <groupfilter function='member' level='[none:Season:nk]' member='&quot;2021-2022&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]'>
+            <groupfilter function='member' level='[none:Squad:nk]' member='&quot;Dijon&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Player:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Min:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]</column>
+            <column>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Min:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-color' value='#e15759' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Player:nk]</rows>
+        <cols>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[sum:Min:qk]</cols>
+      </table>
+      <simple-id uuid='{E8CC315C-18C9-46E4-9284-62284A6E5BF2}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard _.fcp.AccessibleZoneTabOrder.true...enable-sort-zone-taborder='true' name='Stats match Dijon-Auxerre'>
+      <style />
+      <size sizing-mode='automatic' />
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='86489' id='9' param='horz' type-v2='layout-flow' w='99064' x='468' y='4440'>
+            <zone h='86489' id='7' type-v2='layout-basic' w='99064' x='468' y='4440'>
+              <zone h='43244' id='3' name='Auxerre stats' show-title='false' w='49532' x='468' y='47685'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='43245' id='5' name='Dijon stats' show-title='false' w='49532' x='468' y='4440'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='43244' id='6' name='Auxerre' show-title='false' w='36074' x='50000' y='47685'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='43245' id='11' name='Dijon' show-title='false' w='36074' x='50000' y='4440'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/Logo_AJ_Auxerre.svg/1622px-Logo_AJ_Auxerre.svg.png' h='43244' id='14' is-scaled='1' type-v2='bitmap' w='13458' x='86074' y='47685'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/LogoDFCO.svg/1200px-LogoDFCO.svg.png' h='43245' id='15' is-scaled='1' type-v2='bitmap' w='13458' x='86074' y='4440'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone h='3555' id='12' type-v2='text' w='99064' x='468' y='885'>
+            <formatted-text>
+              <run fontalignment='1' fontcolor='#000000' fontsize='15'>Distribution buts + passes décisives</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='8186' id='13' type-v2='text' w='83499' x='468' y='90929'>
+            <formatted-text>
+              <run fontalignment='2' fontsize='16'>@Luca_Analytics @HightechSport</run>
+              <run fontalignment='2'>Æ&#10;</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://d2p3bygnnzw9w3.cloudfront.net/req/202111041/logos/fb-logo.svg' h='8186' id='16' is-scaled='1' type-v2='bitmap' w='10416' x='89116' y='90929'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Ligue_2_BKT_2020.svg/1405px-Logo_Ligue_2_BKT_2020.svg.png' h='8186' id='17' is-scaled='1' type-v2='bitmap' w='5149' x='83967' y='90929'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='2000' minheight='2000' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='19' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98230' id='18' param='vert' type-v2='layout-flow' w='99064' x='468' y='885'>
+                <zone h='3555' id='12' type-v2='text' w='99064' x='468' y='885'>
+                  <formatted-text>
+                    <run fontalignment='1' fontcolor='#000000' fontsize='15'>Distribution buts + passes décisives</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='43245' id='5' is-fixed='true' name='Dijon stats' show-title='false' w='49532' x='468' y='4440'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='43245' id='11' is-fixed='true' name='Dijon' show-title='false' w='36074' x='50000' y='4440'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/LogoDFCO.svg/1200px-LogoDFCO.svg.png' fixed-size='280' h='43245' id='15' is-fixed='true' is-scaled='1' type-v2='bitmap' w='13458' x='86074' y='4440'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='43244' id='3' is-fixed='true' name='Auxerre stats' show-title='false' w='49532' x='468' y='47685'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='43244' id='6' is-fixed='true' name='Auxerre' show-title='false' w='36074' x='50000' y='47685'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/Logo_AJ_Auxerre.svg/1622px-Logo_AJ_Auxerre.svg.png' fixed-size='280' h='43244' id='14' is-fixed='true' is-scaled='1' type-v2='bitmap' w='13458' x='86074' y='47685'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='8186' id='13' type-v2='text' w='83499' x='468' y='90929'>
+                  <formatted-text>
+                    <run fontalignment='2' fontsize='16'>@Luca_Analytics @HightechSport</run>
+                    <run fontalignment='2'>Æ&#10;</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Ligue_2_BKT_2020.svg/1405px-Logo_Ligue_2_BKT_2020.svg.png' fixed-size='58' h='8186' id='17' is-fixed='true' is-scaled='1' type-v2='bitmap' w='5149' x='83967' y='90929'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://d2p3bygnnzw9w3.cloudfront.net/req/202111041/logos/fb-logo.svg' fixed-size='58' h='8186' id='16' is-fixed='true' is-scaled='1' type-v2='bitmap' w='10416' x='89116' y='90929'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{F8C193A8-EE96-4AB4-873C-6A1F79DB0A69}' />
+    </dashboard>
+    <dashboard _.fcp.AccessibleZoneTabOrder.true...enable-sort-zone-taborder='true' name='Temps de jeu Dijon-Auxerre'>
+      <style />
+      <size sizing-mode='automatic' />
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='69138' id='3' name='Temps de jeu Dijon' show-title='false' w='49532' x='468' y='22566'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='69138' id='5' name='Temps de jeu Auxerre' show-title='false' w='49532' x='50000' y='22566'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='6109' id='6' type-v2='text' w='99064' x='468' y='885'>
+            <formatted-text>
+              <run fontalignment='1' fontcolor='#000000' fontsize='15'>Temps de jeu</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='7411' id='7' type-v2='text' w='85372' x='468' y='91704'>
+            <formatted-text>
+              <run fontalignment='2' fontsize='16'>@Luca_Analytics @HightechSport</run>
+              <run fontalignment='2'>Æ&#10;</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Ligue_2_BKT_2020.svg/1405px-Logo_Ligue_2_BKT_2020.svg.png' h='7411' id='8' is-scaled='1' type-v2='bitmap' w='4096' x='85840' y='91704'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://d2p3bygnnzw9w3.cloudfront.net/req/202111041/logos/fb-logo.svg' h='7411' id='9' is-scaled='1' type-v2='bitmap' w='9596' x='89936' y='91704'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/LogoDFCO.svg/1200px-LogoDFCO.svg.png' h='15572' id='10' is-scaled='1' type-v2='bitmap' w='49532' x='468' y='6994'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/Logo_AJ_Auxerre.svg/1622px-Logo_AJ_Auxerre.svg.png' h='15572' id='11' is-scaled='1' type-v2='bitmap' w='49532' x='50000' y='6994'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='1100' minheight='1100' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='13' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98230' id='12' param='vert' type-v2='layout-flow' w='99064' x='468' y='885'>
+                <zone h='6109' id='6' type-v2='text' w='99064' x='468' y='885'>
+                  <formatted-text>
+                    <run fontalignment='1' fontcolor='#000000' fontsize='15'>Temps de jeu</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/LogoDFCO.svg/1200px-LogoDFCO.svg.png' fixed-size='117' h='15572' id='10' is-fixed='true' is-scaled='1' type-v2='bitmap' w='49532' x='468' y='6994'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/Logo_AJ_Auxerre.svg/1622px-Logo_AJ_Auxerre.svg.png' fixed-size='117' h='15572' id='11' is-fixed='true' is-scaled='1' type-v2='bitmap' w='49532' x='50000' y='6994'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='69138' id='3' is-fixed='true' name='Temps de jeu Dijon' show-title='false' w='49532' x='468' y='22566'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='69138' id='5' is-fixed='true' name='Temps de jeu Auxerre' show-title='false' w='49532' x='50000' y='22566'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='7411' id='7' type-v2='text' w='85372' x='468' y='91704'>
+                  <formatted-text>
+                    <run fontalignment='2' fontsize='16'>@Luca_Analytics @HightechSport</run>
+                    <run fontalignment='2'>Æ&#10;</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Ligue_2_BKT_2020.svg/1405px-Logo_Ligue_2_BKT_2020.svg.png' fixed-size='51' h='7411' id='8' is-fixed='true' is-scaled='1' type-v2='bitmap' w='4096' x='85840' y='91704'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://d2p3bygnnzw9w3.cloudfront.net/req/202111041/logos/fb-logo.svg' fixed-size='51' h='7411' id='9' is-fixed='true' is-scaled='1' type-v2='bitmap' w='9596' x='89936' y='91704'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{73B46A6B-0CD5-4020-B9FE-20F23888D949}' />
+    </dashboard>
+  </dashboards>
+  <windows source-height='30'>
+    <window class='dashboard' name='Stats match Dijon-Auxerre'>
+      <viewpoints>
+        <viewpoint name='Auxerre'>
+          <zoom type='entire-view' />
+          <highlight>
+            <color-one-way>
+              <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[Player (groupe)]</field>
+            </color-one-way>
+          </highlight>
+        </viewpoint>
+        <viewpoint name='Auxerre stats'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='Dijon'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='Dijon stats'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='14' />
+      <simple-id uuid='{35C4A192-FC69-43B3-96E0-8801B56C1603}' />
+    </window>
+    <window class='dashboard' maximized='true' name='Temps de jeu Dijon-Auxerre'>
+      <viewpoints>
+        <viewpoint name='Temps de jeu Auxerre' />
+        <viewpoint name='Temps de jeu Dijon' />
+      </viewpoints>
+      <active id='-1' />
+      <simple-id uuid='{9180F46F-9FFB-40C6-854C-E7EF3ABB8BBF}' />
+    </window>
+    <window class='worksheet' hidden='true' name='Auxerre'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='170'>
+            <card pane-specification-id='0' param='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[Player (groupe)]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[Player (groupe)]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:League Name:nk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{D98D03AF-4F02-4512-AE64-8B30038BE088}' />
+    </window>
+    <window class='worksheet' hidden='true' name='Auxerre stats'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[:Measure Names]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[Player (groupe)]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Calculation_670473436228149248:qk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:League Name:nk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Player:nk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{DE358108-2BDE-4BF2-92B4-92C325E10CCD}' />
+    </window>
+    <window class='worksheet' hidden='true' name='Dijon'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='170'>
+            <card pane-specification-id='0' param='[federated.0jr8ua30ahmp421a1bk3r0pezptz].[Player (groupe)]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[Player (groupe)]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:League Name:nk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{535A59BE-F44E-45D4-9740-5EF3875A9D98}' />
+    </window>
+    <window class='worksheet' hidden='true' name='Dijon stats'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[:Measure Names]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[Player (groupe)]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Calculation_670473436228149248:qk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:League Name:nk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Player:nk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{C7E8F93E-5553-4EC3-AEEE-4EAEA3D8A11F}' />
+    </window>
+    <window class='worksheet' hidden='true' name='Temps de jeu Auxerre'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Player:nk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{AD4E6F30-0F94-4CBF-ABF4-44D161BC6ED1}' />
+    </window>
+    <window class='worksheet' hidden='true' name='Temps de jeu Dijon'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Player:nk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Season:nk]</field>
+            <field>[federated.0jr8ua30ahmp421a1bk3r0pezptz].[none:Squad:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{FAC9B459-FB6B-4546-BD51-C823C6E2021E}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Stats match Dijon-Auxerre' width='192'>
+      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
+      AElFTkSuQmCC
+    </thumbnail>
+    <thumbnail height='192' name='Temps de jeu Dijon-Auxerre' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>
