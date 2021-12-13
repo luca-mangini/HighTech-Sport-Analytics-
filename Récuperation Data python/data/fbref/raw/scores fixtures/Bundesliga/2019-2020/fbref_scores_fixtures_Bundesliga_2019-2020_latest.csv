@@ -1,0 +1,308 @@
+Wk,Day,Date,Time,Home,xG,Score,xG.1,Away,Attendance,Venue,Referee,League Name,League ID,Season
+1.0,Fri,2019-08-16,20:30,Bayern Munich,2.6,2–2,1.0,Hertha BSC,75000.0,Allianz Arena,Harm Osmers,Bundesliga,20,2019-2020
+1.0,Sat,2019-08-17,15:30,Dortmund,2.7,5–1,0.7,Augsburg,81365.0,Signal Iduna Park,Frank Willenborg,Bundesliga,20,2019-2020
+1.0,Sat,2019-08-17,15:30,Leverkusen,2.7,3–2,1.2,Paderborn 07,26208.0,BayArena,Tobias Stieler,Bundesliga,20,2019-2020
+1.0,Sat,2019-08-17,15:30,Wolfsburg,0.9,2–1,1.2,Köln,25099.0,Volkswagen Arena,Sven Jablonski,Bundesliga,20,2019-2020
+1.0,Sat,2019-08-17,15:30,Freiburg,1.8,3–0,0.9,Mainz 05,24000.0,Schwarzwald-Stadion,Robert Hartmann,Bundesliga,20,2019-2020
+1.0,Sat,2019-08-17,15:30,Werder Bremen,2.4,1–3,0.9,Düsseldorf,42100.0,Weserstadion,Felix Zwayer,Bundesliga,20,2019-2020
+1.0,Sat,2019-08-17,18:30,M'Gladbach,1.6,0–0,0.6,Schalke 04,54022.0,Stadion im Borussia-Park,Felix Brych,Bundesliga,20,2019-2020
+1.0,Sun,2019-08-18,15:30,Eint Frankfurt,1.1,1–0,0.6,Hoffenheim,50200.0,Commerzbank-Arena,Daniel Siebert,Bundesliga,20,2019-2020
+1.0,Sun,2019-08-18,18:00,Union Berlin,0.5,0–4,3.1,RB Leipzig,22467.0,Stadion An der Alten Försterei,Markus Schmidt,Bundesliga,20,2019-2020
+,,,,,,,,,,,,Bundesliga,20,2019-2020
+2.0,Fri,2019-08-23,20:30,Köln,0.7,1–3,1.4,Dortmund,50000.0,RheinEnergieSTADION,Christian Dingert,Bundesliga,20,2019-2020
+2.0,Sat,2019-08-24,15:30,Paderborn 07,1.7,1–3,2.2,Freiburg,14322.0,Benteler-Arena,Tobias Welz,Bundesliga,20,2019-2020
+2.0,Sat,2019-08-24,15:30,Mainz 05,1.3,1–3,1.6,M'Gladbach,28005.0,Opel Arena,Martin Petersen,Bundesliga,20,2019-2020
+2.0,Sat,2019-08-24,15:30,Augsburg,1.3,1–1,1.1,Union Berlin,27703.0,WWK Arena,Robert Schröder,Bundesliga,20,2019-2020
+2.0,Sat,2019-08-24,15:30,Hoffenheim,0.7,3–2,1.3,Werder Bremen,27333.0,PreZero Arena,Sascha Stegemann,Bundesliga,20,2019-2020
+2.0,Sat,2019-08-24,15:30,Düsseldorf,1.0,1–3,1.8,Leverkusen,44538.0,Merkur Spielarena,Patrick Ittrich,Bundesliga,20,2019-2020
+2.0,Sat,2019-08-24,18:30,Schalke 04,1.0,0–3,1.5,Bayern Munich,62271.0,Veltins-Arena,Marco Fritz,Bundesliga,20,2019-2020
+2.0,Sun,2019-08-25,15:30,RB Leipzig,1.4,2–1,1.0,Eint Frankfurt,40108.0,Red Bull Arena,Benjamin Cortus,Bundesliga,20,2019-2020
+2.0,Sun,2019-08-25,18:00,Hertha BSC,1.1,0–3,1.3,Wolfsburg,42738.0,Olympiastadion Berlin,Guido Winkmann,Bundesliga,20,2019-2020
+3.0,Fri,2019-08-30,20:30,M'Gladbach,1.1,1–3,2.2,RB Leipzig,47327.0,Stadion im Borussia-Park,Sven Jablonski,Bundesliga,20,2019-2020
+3.0,Sat,2019-08-31,15:30,Wolfsburg,0.6,1–1,0.7,Paderborn 07,23750.0,Volkswagen Arena,Daniel Schlager,Bundesliga,20,2019-2020
+3.0,Sat,2019-08-31,15:30,Leverkusen,0.8,0–0,0.3,Hoffenheim,26506.0,BayArena,Felix Zwayer,Bundesliga,20,2019-2020
+3.0,Sat,2019-08-31,15:30,Bayern Munich,2.7,6–1,0.4,Mainz 05,75000.0,Allianz Arena,Markus Schmidt,Bundesliga,20,2019-2020
+3.0,Sat,2019-08-31,15:30,Schalke 04,1.0,3–0,0.8,Hertha BSC,58875.0,Veltins-Arena,Tobias Stieler,Bundesliga,20,2019-2020
+3.0,Sat,2019-08-31,15:30,Freiburg,0.7,1–2,1.3,Köln,24000.0,Schwarzwald-Stadion,Robert Kampka,Bundesliga,20,2019-2020
+3.0,Sat,2019-08-31,18:30,Union Berlin,1.9,3–1,1.9,Dortmund,22012.0,Stadion An der Alten Försterei,Felix Brych,Bundesliga,20,2019-2020
+3.0,Sun,2019-09-01,15:30,Werder Bremen,2.5,3–2,1.5,Augsburg,40041.0,Weserstadion,Sören Storks,Bundesliga,20,2019-2020
+3.0,Sun,2019-09-01,18:00,Eint Frankfurt,1.2,2–1,0.6,Düsseldorf,49800.0,Commerzbank-Arena,Frank Willenborg,Bundesliga,20,2019-2020
+4.0,Fri,2019-09-13,20:30,Düsseldorf,0.5,1–1,1.3,Wolfsburg,36758.0,Merkur Spielarena,Manuel Gräfe,Bundesliga,20,2019-2020
+4.0,Sat,2019-09-14,15:30,Köln,0.9,0–1,1.7,M'Gladbach,50000.0,RheinEnergieSTADION,Deniz Aytekin,Bundesliga,20,2019-2020
+4.0,Sat,2019-09-14,15:30,Augsburg,2.0,2–1,1.0,Eint Frankfurt,28513.0,WWK Arena,Harm Osmers,Bundesliga,20,2019-2020
+4.0,Sat,2019-09-14,15:30,Mainz 05,1.7,2–1,2.2,Hertha BSC,22798.0,Opel Arena,Marco Fritz,Bundesliga,20,2019-2020
+4.0,Sat,2019-09-14,15:30,Union Berlin,1.6,1–2,2.7,Werder Bremen,22012.0,Stadion An der Alten Försterei,Tobias Welz,Bundesliga,20,2019-2020
+4.0,Sat,2019-09-14,15:30,Dortmund,2.5,4–0,0.8,Leverkusen,81365.0,Signal Iduna Park,Daniel Siebert,Bundesliga,20,2019-2020
+4.0,Sat,2019-09-14,18:30,RB Leipzig,1.5,1–1,1.5,Bayern Munich,42146.0,Red Bull Arena,Sascha Stegemann,Bundesliga,20,2019-2020
+4.0,Sun,2019-09-15,15:30,Hoffenheim,1.5,0–3,1.2,Freiburg,29395.0,PreZero Arena,Guido Winkmann,Bundesliga,20,2019-2020
+4.0,Sun,2019-09-15,18:00,Paderborn 07,1.1,1–5,2.7,Schalke 04,15000.0,Benteler-Arena,Robert Schröder,Bundesliga,20,2019-2020
+5.0,Fri,2019-09-20,20:30,Schalke 04,1.3,2–1,1.2,Mainz 05,58687.0,Veltins-Arena,Daniel Schlager,Bundesliga,20,2019-2020
+5.0,Sat,2019-09-21,15:30,Leverkusen,1.7,2–0,0.2,Union Berlin,27430.0,BayArena,Robert Hartmann,Bundesliga,20,2019-2020
+5.0,Sat,2019-09-21,15:30,Freiburg,1.0,1–1,1.0,Augsburg,23800.0,Schwarzwald-Stadion,Bastian Dankert,Bundesliga,20,2019-2020
+5.0,Sat,2019-09-21,15:30,Bayern Munich,2.7,4–0,0.8,Köln,75000.0,Allianz Arena,Patrick Ittrich,Bundesliga,20,2019-2020
+5.0,Sat,2019-09-21,15:30,Hertha BSC,1.3,2–1,1.3,Paderborn 07,43588.0,Olympiastadion Berlin,Frank Willenborg,Bundesliga,20,2019-2020
+5.0,Sat,2019-09-21,18:30,Werder Bremen,0.7,0–3,1.5,RB Leipzig,40550.0,Weserstadion,Tobias Stieler,Bundesliga,20,2019-2020
+5.0,Sun,2019-09-22,15:30,M'Gladbach,2.8,2–1,0.9,Düsseldorf,52413.0,Stadion im Borussia-Park,Christian Dingert,Bundesliga,20,2019-2020
+5.0,Sun,2019-09-22,18:00,Eint Frankfurt,1.1,2–2,2.2,Dortmund,51500.0,Commerzbank-Arena,Markus Schmidt,Bundesliga,20,2019-2020
+5.0,Mon,2019-09-23,20:30,Wolfsburg,1.2,1–1,0.7,Hoffenheim,21120.0,Volkswagen Arena,Benjamin Cortus,Bundesliga,20,2019-2020
+6.0,Fri,2019-09-27,20:30,Union Berlin,0.6,1–2,1.5,Eint Frankfurt,22012.0,Stadion An der Alten Försterei,Sascha Stegemann,Bundesliga,20,2019-2020
+6.0,Sat,2019-09-28,15:30,Paderborn 07,0.3,2–3,3.5,Bayern Munich,15000.0,Benteler-Arena,Felix Zwayer,Bundesliga,20,2019-2020
+6.0,Sat,2019-09-28,15:30,Augsburg,0.3,0–3,1.2,Leverkusen,27113.0,WWK Arena,Robert Kampka,Bundesliga,20,2019-2020
+6.0,Sat,2019-09-28,15:30,Hoffenheim,1.5,0–3,2.2,M'Gladbach,29030.0,PreZero Arena,Harm Osmers,Bundesliga,20,2019-2020
+6.0,Sat,2019-09-28,15:30,Mainz 05,0.7,0–1,0.4,Wolfsburg,24303.0,Opel Arena,Felix Brych,Bundesliga,20,2019-2020
+6.0,Sat,2019-09-28,15:30,RB Leipzig,1.6,1–3,2.6,Schalke 04,42146.0,Red Bull Arena,Manuel Gräfe,Bundesliga,20,2019-2020
+6.0,Sat,2019-09-28,18:30,Dortmund,2.1,2–2,1.4,Werder Bremen,81365.0,Signal Iduna Park,Deniz Aytekin,Bundesliga,20,2019-2020
+6.0,Sun,2019-09-29,15:30,Düsseldorf,1.3,1–2,1.6,Freiburg,39244.0,Merkur Spielarena,Daniel Siebert,Bundesliga,20,2019-2020
+6.0,Sun,2019-09-29,18:00,Köln,0.8,0–4,1.5,Hertha BSC,49700.0,RheinEnergieSTADION,Sören Storks,Bundesliga,20,2019-2020
+7.0,Fri,2019-10-04,20:30,Hertha BSC,1.7,3–1,1.2,Düsseldorf,37128.0,Olympiastadion Berlin,Martin Petersen,Bundesliga,20,2019-2020
+7.0,Sat,2019-10-05,15:30,Freiburg,0.4,2–2,0.7,Dortmund,24000.0,Schwarzwald-Stadion,Sven Jablonski,Bundesliga,20,2019-2020
+7.0,Sat,2019-10-05,15:30,Leverkusen,1.3,1–1,1.5,RB Leipzig,26355.0,BayArena,Marco Fritz,Bundesliga,20,2019-2020
+7.0,Sat,2019-10-05,15:30,Bayern Munich,1.5,1–2,0.8,Hoffenheim,75000.0,Allianz Arena,Tobias Stieler,Bundesliga,20,2019-2020
+7.0,Sat,2019-10-05,15:30,Paderborn 07,1.6,1–2,2.7,Mainz 05,14217.0,Benteler-Arena,Patrick Ittrich,Bundesliga,20,2019-2020
+7.0,Sat,2019-10-05,18:30,Schalke 04,1.6,1–1,0.6,Köln,61883.0,Veltins-Arena,Tobias Welz,Bundesliga,20,2019-2020
+7.0,Sun,2019-10-06,13:30,M'Gladbach,3.0,5–1,1.2,Augsburg,50352.0,Stadion im Borussia-Park,Robert Schröder,Bundesliga,20,2019-2020
+7.0,Sun,2019-10-06,15:30,Wolfsburg,2.3,1–0,0.5,Union Berlin,27012.0,Volkswagen Arena,Bastian Dankert,Bundesliga,20,2019-2020
+7.0,Sun,2019-10-06,18:00,Eint Frankfurt,2.1,2–2,1.7,Werder Bremen,51500.0,Commerzbank-Arena,Guido Winkmann,Bundesliga,20,2019-2020
+8.0,Fri,2019-10-18,20:30,Eint Frankfurt,2.5,3–0,1.5,Leverkusen,50800.0,Commerzbank-Arena,Christian Dingert,Bundesliga,20,2019-2020
+8.0,Sat,2019-10-19,15:30,Werder Bremen,1.0,1–1,0.5,Hertha BSC,41447.0,Weserstadion,Felix Brych,Bundesliga,20,2019-2020
+8.0,Sat,2019-10-19,15:30,Düsseldorf,1.3,1–0,0.2,Mainz 05,40660.0,Merkur Spielarena,Felix Zwayer,Bundesliga,20,2019-2020
+8.0,Sat,2019-10-19,15:30,Augsburg,2.0,2–2,2.8,Bayern Munich,30660.0,WWK Arena,Daniel Siebert,Bundesliga,20,2019-2020
+8.0,Sat,2019-10-19,15:30,Union Berlin,1.0,2–0,0.5,Freiburg,22012.0,Stadion An der Alten Försterei,Benjamin Cortus,Bundesliga,20,2019-2020
+8.0,Sat,2019-10-19,15:30,RB Leipzig,1.3,1–1,1.5,Wolfsburg,39182.0,Red Bull Arena,Deniz Aytekin,Bundesliga,20,2019-2020
+8.0,Sat,2019-10-19,18:30,Dortmund,2.2,1–0,2.5,M'Gladbach,81365.0,Signal Iduna Park,Sascha Stegemann,Bundesliga,20,2019-2020
+8.0,Sun,2019-10-20,15:30,Köln,2.3,3–0,0.4,Paderborn 07,50000.0,RheinEnergieSTADION,Manuel Gräfe,Bundesliga,20,2019-2020
+8.0,Sun,2019-10-20,18:00,Hoffenheim,1.1,2–0,1.1,Schalke 04,29477.0,PreZero Arena,Robert Hartmann,Bundesliga,20,2019-2020
+9.0,Fri,2019-10-25,20:30,Mainz 05,1.5,3–1,1.9,Köln,31999.0,Opel Arena,Frank Willenborg,Bundesliga,20,2019-2020
+9.0,Sat,2019-10-26,15:30,Hertha BSC,2.2,2–3,2.2,Hoffenheim,44702.0,Olympiastadion Berlin,Markus Schmidt,Bundesliga,20,2019-2020
+9.0,Sat,2019-10-26,15:30,Schalke 04,1.1,0–0,0.4,Dortmund,61873.0,Veltins-Arena,Felix Brych,Bundesliga,20,2019-2020
+9.0,Sat,2019-10-26,15:30,Freiburg,1.6,2–1,2.1,RB Leipzig,24000.0,Schwarzwald-Stadion,Harm Osmers,Bundesliga,20,2019-2020
+9.0,Sat,2019-10-26,15:30,Bayern Munich,3.3,2–1,1.6,Union Berlin,75000.0,Allianz Arena,Marco Fritz,Bundesliga,20,2019-2020
+9.0,Sat,2019-10-26,15:30,Paderborn 07,0.7,2–0,1.4,Düsseldorf,14182.0,Benteler-Arena,Bastian Dankert,Bundesliga,20,2019-2020
+9.0,Sat,2019-10-26,18:30,Leverkusen,1.7,2–2,0.9,Werder Bremen,30210.0,BayArena,Martin Petersen,Bundesliga,20,2019-2020
+9.0,Sun,2019-10-27,15:30,Wolfsburg,0.8,0–0,0.8,Augsburg,22630.0,Volkswagen Arena,Tobias Stieler,Bundesliga,20,2019-2020
+9.0,Sun,2019-10-27,18:00,M'Gladbach,1.8,4–2,1.0,Eint Frankfurt,52300.0,Stadion im Borussia-Park,Daniel Schlager,Bundesliga,20,2019-2020
+10.0,Fri,2019-11-01,20:30,Hoffenheim,1.7,3–0,0.4,Paderborn 07,23629.0,PreZero Arena,Robert Schröder,Bundesliga,20,2019-2020
+10.0,Sat,2019-11-02,15:30,Werder Bremen,1.8,2–2,1.0,Freiburg,41000.0,Weserstadion,Christian Dingert,Bundesliga,20,2019-2020
+10.0,Sat,2019-11-02,15:30,Dortmund,1.8,3–0,1.6,Wolfsburg,80200.0,Signal Iduna Park,Tobias Welz,Bundesliga,20,2019-2020
+10.0,Sat,2019-11-02,15:30,RB Leipzig,3.6,8–0,0.8,Mainz 05,38517.0,Red Bull Arena,Guido Winkmann,Bundesliga,20,2019-2020
+10.0,Sat,2019-11-02,15:30,Leverkusen,2.9,1–2,2.2,M'Gladbach,30210.0,BayArena,Daniel Siebert,Bundesliga,20,2019-2020
+10.0,Sat,2019-11-02,15:30,Eint Frankfurt,2.7,5–1,1.1,Bayern Munich,51500.0,Commerzbank-Arena,Markus Schmidt,Bundesliga,20,2019-2020
+10.0,Sat,2019-11-02,18:30,Union Berlin,1.2,1–0,0.4,Hertha BSC,22012.0,Stadion An der Alten Försterei,Deniz Aytekin,Bundesliga,20,2019-2020
+10.0,Sun,2019-11-03,15:30,Düsseldorf,1.8,2–0,0.7,Köln,51155.0,Merkur Spielarena,Sven Jablonski,Bundesliga,20,2019-2020
+10.0,Sun,2019-11-03,18:00,Augsburg,1.8,2–3,0.5,Schalke 04,30361.0,WWK Arena,Patrick Ittrich,Bundesliga,20,2019-2020
+11.0,Fri,2019-11-08,20:30,Köln,0.7,1–2,1.8,Hoffenheim,49100.0,RheinEnergieSTADION,Robert Kampka,Bundesliga,20,2019-2020
+11.0,Sat,2019-11-09,15:30,Mainz 05,1.8,2–3,1.0,Union Berlin,24349.0,Opel Arena,Harm Osmers,Bundesliga,20,2019-2020
+11.0,Sat,2019-11-09,15:30,Schalke 04,1.6,3–3,1.7,Düsseldorf,61831.0,Veltins-Arena,Robert Hartmann,Bundesliga,20,2019-2020
+11.0,Sat,2019-11-09,15:30,Paderborn 07,1.2,0–1,1.0,Augsburg,13758.0,Benteler-Arena,Marco Fritz,Bundesliga,20,2019-2020
+11.0,Sat,2019-11-09,15:30,Hertha BSC,0.4,2–4,2.0,RB Leipzig,48532.0,Olympiastadion Berlin,Sören Storks,Bundesliga,20,2019-2020
+11.0,Sat,2019-11-09,18:30,Bayern Munich,3.1,4–0,0.5,Dortmund,75000.0,Allianz Arena,Felix Zwayer,Bundesliga,20,2019-2020
+11.0,Sun,2019-11-10,13:30,M'Gladbach,1.4,3–1,1.7,Werder Bremen,54022.0,Stadion im Borussia-Park,Tobias Stieler,Bundesliga,20,2019-2020
+11.0,Sun,2019-11-10,15:30,Wolfsburg,0.8,0–2,1.6,Leverkusen,24112.0,Volkswagen Arena,Manuel Gräfe,Bundesliga,20,2019-2020
+11.0,Sun,2019-11-10,18:00,Freiburg,0.9,1–0,1.0,Eint Frankfurt,24000.0,Schwarzwald-Stadion,Felix Brych,Bundesliga,20,2019-2020
+12.0,Fri,2019-11-22,20:30,Dortmund,2.5,3–3,1.6,Paderborn 07,81365.0,Signal Iduna Park,Christian Dingert,Bundesliga,20,2019-2020
+12.0,Sat,2019-11-23,15:30,Union Berlin,1.6,2–0,1.0,M'Gladbach,22012.0,Stadion An der Alten Försterei,Felix Brych,Bundesliga,20,2019-2020
+12.0,Sat,2019-11-23,15:30,Werder Bremen,1.7,1–2,0.5,Schalke 04,42100.0,Weserstadion,Benjamin Cortus,Bundesliga,20,2019-2020
+12.0,Sat,2019-11-23,15:30,Leverkusen,3.5,1–1,1.2,Freiburg,29032.0,BayArena,Deniz Aytekin,Bundesliga,20,2019-2020
+12.0,Sat,2019-11-23,15:30,Düsseldorf,0.7,0–4,3.5,Bayern Munich,53000.0,Merkur Spielarena,Frank Willenborg,Bundesliga,20,2019-2020
+12.0,Sat,2019-11-23,15:30,Eint Frankfurt,1.0,0–2,1.1,Wolfsburg,50700.0,Commerzbank-Arena,Daniel Siebert,Bundesliga,20,2019-2020
+12.0,Sat,2019-11-23,18:30,RB Leipzig,2.3,4–1,0.4,Köln,42036.0,Red Bull Arena,Robert Schröder,Bundesliga,20,2019-2020
+12.0,Sun,2019-11-24,15:30,Augsburg,2.3,4–0,0.4,Hertha BSC,29233.0,WWK Arena,Sascha Stegemann,Bundesliga,20,2019-2020
+12.0,Sun,2019-11-24,18:00,Hoffenheim,2.0,1–5,1.9,Mainz 05,23129.0,PreZero Arena,Bastian Dankert,Bundesliga,20,2019-2020
+13.0,Fri,2019-11-29,20:30,Schalke 04,1.6,2–1,1.8,Union Berlin,61837.0,Veltins-Arena,Daniel Schlager,Bundesliga,20,2019-2020
+13.0,Sat,2019-11-30,15:30,Hoffenheim,1.6,1–1,1.0,Düsseldorf,25427.0,PreZero Arena,Martin Petersen,Bundesliga,20,2019-2020
+13.0,Sat,2019-11-30,15:30,Hertha BSC,1.2,1–2,1.2,Dortmund,74667.0,Olympiastadion Berlin,Sven Jablonski,Bundesliga,20,2019-2020
+13.0,Sat,2019-11-30,15:30,Köln,1.4,1–1,1.8,Augsburg,49200.0,RheinEnergieSTADION,Tobias Stieler,Bundesliga,20,2019-2020
+13.0,Sat,2019-11-30,15:30,Paderborn 07,1.6,2–3,2.4,RB Leipzig,13253.0,Benteler-Arena,Bibiana Steinhaus,Bundesliga,20,2019-2020
+13.0,Sat,2019-11-30,18:30,Bayern Munich,2.6,1–2,1.3,Leverkusen,75000.0,Allianz Arena,Guido Winkmann,Bundesliga,20,2019-2020
+13.0,Sun,2019-12-01,15:30,M'Gladbach,4.9,4–2,1.3,Freiburg,51080.0,Stadion im Borussia-Park,Felix Zwayer,Bundesliga,20,2019-2020
+13.0,Sun,2019-12-01,18:00,Wolfsburg,2.2,2–3,1.3,Werder Bremen,26012.0,Volkswagen Arena,Robert Kampka,Bundesliga,20,2019-2020
+13.0,Mon,2019-12-02,20:30,Mainz 05,2.1,2–1,1.1,Eint Frankfurt,33134.0,Opel Arena,Manuel Gräfe,Bundesliga,20,2019-2020
+14.0,Fri,2019-12-06,20:30,Eint Frankfurt,2.5,2–2,1.3,Hertha BSC,50000.0,Commerzbank-Arena,Christian Dingert,Bundesliga,20,2019-2020
+14.0,Sat,2019-12-07,15:30,Augsburg,3.2,2–1,0.4,Mainz 05,26950.0,WWK Arena,Markus Schmidt,Bundesliga,20,2019-2020
+14.0,Sat,2019-12-07,15:30,M'Gladbach,1.3,2–1,1.7,Bayern Munich,54022.0,Stadion im Borussia-Park,Marco Fritz,Bundesliga,20,2019-2020
+14.0,Sat,2019-12-07,15:30,Dortmund,3.0,5–0,0.1,Düsseldorf,81365.0,Signal Iduna Park,Daniel Siebert,Bundesliga,20,2019-2020
+14.0,Sat,2019-12-07,15:30,RB Leipzig,3.8,3–1,1.1,Hoffenheim,38407.0,Red Bull Arena,Deniz Aytekin,Bundesliga,20,2019-2020
+14.0,Sat,2019-12-07,15:30,Freiburg,0.4,1–0,1.2,Wolfsburg,23800.0,Schwarzwald-Stadion,Bastian Dankert,Bundesliga,20,2019-2020
+14.0,Sat,2019-12-07,18:30,Leverkusen,2.3,2–1,1.1,Schalke 04,30210.0,BayArena,Harm Osmers,Bundesliga,20,2019-2020
+14.0,Sun,2019-12-08,15:30,Union Berlin,2.0,2–0,1.1,Köln,22012.0,Stadion An der Alten Försterei,Patrick Ittrich,Bundesliga,20,2019-2020
+14.0,Sun,2019-12-08,18:00,Werder Bremen,0.9,0–1,1.3,Paderborn 07,39870.0,Weserstadion,Sascha Stegemann,Bundesliga,20,2019-2020
+15.0,Fri,2019-12-13,20:30,Hoffenheim,2.1,2–4,2.2,Augsburg,23309.0,PreZero Arena,Bibiana Steinhaus,Bundesliga,20,2019-2020
+15.0,Sat,2019-12-14,15:30,Köln,1.5,2–0,0.2,Leverkusen,49500.0,RheinEnergieSTADION,Manuel Gräfe,Bundesliga,20,2019-2020
+15.0,Sat,2019-12-14,15:30,Bayern Munich,4.9,6–1,0.5,Werder Bremen,75000.0,Allianz Arena,Robert Schröder,Bundesliga,20,2019-2020
+15.0,Sat,2019-12-14,15:30,Hertha BSC,0.7,1–0,0.8,Freiburg,37343.0,Olympiastadion Berlin,Frank Willenborg,Bundesliga,20,2019-2020
+15.0,Sat,2019-12-14,15:30,Mainz 05,0.2,0–4,1.2,Dortmund,33305.0,Opel Arena,Benjamin Cortus,Bundesliga,20,2019-2020
+15.0,Sat,2019-12-14,15:30,Paderborn 07,1.0,1–1,1.3,Union Berlin,14414.0,Benteler-Arena,Sven Jablonski,Bundesliga,20,2019-2020
+15.0,Sat,2019-12-14,18:30,Düsseldorf,0.1,0–3,3.4,RB Leipzig,35387.0,Merkur Spielarena,Robert Hartmann,Bundesliga,20,2019-2020
+15.0,Sun,2019-12-15,15:30,Wolfsburg,1.1,2–1,0.4,M'Gladbach,25580.0,Volkswagen Arena,Felix Brych,Bundesliga,20,2019-2020
+15.0,Sun,2019-12-15,18:00,Schalke 04,1.0,1–0,0.7,Eint Frankfurt,60811.0,Veltins-Arena,Felix Zwayer,Bundesliga,20,2019-2020
+16.0,Tue,2019-12-17,18:30,Werder Bremen,1.0,0–5,2.8,Mainz 05,37720.0,Weserstadion,Frank Willenborg,Bundesliga,20,2019-2020
+16.0,Tue,2019-12-17,20:30,Augsburg,1.2,3–0,0.4,Düsseldorf,27763.0,WWK Arena,Marco Fritz,Bundesliga,20,2019-2020
+16.0,Tue,2019-12-17,20:30,Union Berlin,1.3,0–2,0.8,Hoffenheim,20350.0,Stadion An der Alten Försterei,Sören Storks,Bundesliga,20,2019-2020
+16.0,Tue,2019-12-17,20:30,Dortmund,1.1,3–3,2.5,RB Leipzig,80200.0,Signal Iduna Park,Tobias Stieler,Bundesliga,20,2019-2020
+16.0,Wed,2019-12-18,18:30,Leverkusen,0.9,0–1,1.2,Hertha BSC,24472.0,BayArena,Bastian Dankert,Bundesliga,20,2019-2020
+16.0,Wed,2019-12-18,20:30,Wolfsburg,2.1,1–1,1.2,Schalke 04,24651.0,Volkswagen Arena,Martin Petersen,Bundesliga,20,2019-2020
+16.0,Wed,2019-12-18,20:30,Eint Frankfurt,1.4,2–4,2.5,Köln,50300.0,Commerzbank-Arena,Deniz Aytekin,Bundesliga,20,2019-2020
+16.0,Wed,2019-12-18,20:30,M'Gladbach,2.5,2–0,0.5,Paderborn 07,44494.0,Stadion im Borussia-Park,Robert Kampka,Bundesliga,20,2019-2020
+16.0,Wed,2019-12-18,20:30,Freiburg,1.7,1–3,3.4,Bayern Munich,24000.0,Schwarzwald-Stadion,Sascha Stegemann,Bundesliga,20,2019-2020
+17.0,Fri,2019-12-20,20:30,Hoffenheim,1.1,2–1,1.7,Dortmund,30150.0,PreZero Arena,Felix Zwayer,Bundesliga,20,2019-2020
+17.0,Sat,2019-12-21,15:30,Schalke 04,1.6,2–2,2.8,Freiburg,61867.0,Veltins-Arena,Felix Brych,Bundesliga,20,2019-2020
+17.0,Sat,2019-12-21,15:30,RB Leipzig,3.3,3–1,0.5,Augsburg,40562.0,Red Bull Arena,Daniel Siebert,Bundesliga,20,2019-2020
+17.0,Sat,2019-12-21,15:30,Mainz 05,1.9,0–1,1.5,Leverkusen,24345.0,Opel Arena,Patrick Ittrich,Bundesliga,20,2019-2020
+17.0,Sat,2019-12-21,15:30,Bayern Munich,1.3,2–0,0.9,Wolfsburg,75000.0,Allianz Arena,Christian Dingert,Bundesliga,20,2019-2020
+17.0,Sat,2019-12-21,15:30,Köln,1.1,1–0,0.2,Werder Bremen,50000.0,RheinEnergieSTADION,Daniel Schlager,Bundesliga,20,2019-2020
+17.0,Sat,2019-12-21,18:30,Hertha BSC,0.4,0–0,0.8,M'Gladbach,50208.0,Olympiastadion Berlin,Harm Osmers,Bundesliga,20,2019-2020
+17.0,Sun,2019-12-22,15:30,Düsseldorf,1.0,2–1,2.0,Union Berlin,45490.0,Merkur Spielarena,Benjamin Cortus,Bundesliga,20,2019-2020
+17.0,Sun,2019-12-22,18:00,Paderborn 07,2.9,2–1,2.0,Eint Frankfurt,15000.0,Benteler-Arena,Markus Schmidt,Bundesliga,20,2019-2020
+18.0,Fri,2020-01-17,20:30,Schalke 04,1.5,2–0,0.8,M'Gladbach,62271.0,Veltins-Arena,Deniz Aytekin,Bundesliga,20,2019-2020
+18.0,Sat,2020-01-18,15:30,Hoffenheim,0.9,1–2,1.5,Eint Frankfurt,29610.0,PreZero Arena,Sascha Stegemann,Bundesliga,20,2019-2020
+18.0,Sat,2020-01-18,15:30,Augsburg,1.8,3–5,4.8,Dortmund,30660.0,WWK Arena,Manuel Gräfe,Bundesliga,20,2019-2020
+18.0,Sat,2020-01-18,15:30,Köln,1.3,3–1,1.7,Wolfsburg,49100.0,RheinEnergieSTADION,Marco Fritz,Bundesliga,20,2019-2020
+18.0,Sat,2020-01-18,15:30,Mainz 05,2.5,1–2,1.5,Freiburg,23138.0,Opel Arena,Sven Jablonski,Bundesliga,20,2019-2020
+18.0,Sat,2020-01-18,15:30,Düsseldorf,1.0,0–1,1.0,Werder Bremen,46000.0,Merkur Spielarena,Felix Brych,Bundesliga,20,2019-2020
+18.0,Sat,2020-01-18,18:30,RB Leipzig,2.1,3–1,1.4,Union Berlin,42146.0,Red Bull Arena,Bastian Dankert,Bundesliga,20,2019-2020
+18.0,Sun,2020-01-19,15:30,Hertha BSC,0.6,0–4,2.3,Bayern Munich,74667.0,Olympiastadion Berlin,Tobias Stieler,Bundesliga,20,2019-2020
+18.0,Sun,2020-01-19,18:00,Paderborn 07,1.3,1–4,2.2,Leverkusen,14889.0,Benteler-Arena,Daniel Siebert,Bundesliga,20,2019-2020
+19.0,Fri,2020-01-24,20:30,Dortmund,2.6,5–1,1.2,Köln,81365.0,Signal Iduna Park,Harm Osmers,Bundesliga,20,2019-2020
+19.0,Sat,2020-01-25,15:30,M'Gladbach,2.3,3–1,0.7,Mainz 05,49175.0,Stadion im Borussia-Park,Felix Zwayer,Bundesliga,20,2019-2020
+19.0,Sat,2020-01-25,15:30,Eint Frankfurt,1.2,2–0,1.3,RB Leipzig,50300.0,Commerzbank-Arena,Daniel Siebert,Bundesliga,20,2019-2020
+19.0,Sat,2020-01-25,15:30,Freiburg,1.4,0–2,1.8,Paderborn 07,23500.0,Schwarzwald-Stadion,Christian Dingert,Bundesliga,20,2019-2020
+19.0,Sat,2020-01-25,15:30,Union Berlin,1.0,2–0,1.6,Augsburg,22012.0,Stadion An der Alten Försterei,Bibiana Steinhaus,Bundesliga,20,2019-2020
+19.0,Sat,2020-01-25,15:30,Wolfsburg,1.1,1–2,1.8,Hertha BSC,24894.0,Volkswagen Arena,Markus Schmidt,Bundesliga,20,2019-2020
+19.0,Sat,2020-01-25,18:30,Bayern Munich,3.4,5–0,0.4,Schalke 04,75000.0,Allianz Arena,Manuel Gräfe,Bundesliga,20,2019-2020
+19.0,Sun,2020-01-26,15:30,Werder Bremen,0.7,0–3,0.9,Hoffenheim,40000.0,Weserstadion,Martin Petersen,Bundesliga,20,2019-2020
+19.0,Sun,2020-01-26,18:00,Leverkusen,3.7,3–0,0.7,Düsseldorf,26250.0,BayArena,Daniel Schlager,Bundesliga,20,2019-2020
+20.0,Fri,2020-01-31,20:30,Hertha BSC,0.4,0–0,0.7,Schalke 04,47863.0,Olympiastadion Berlin,Sascha Stegemann,Bundesliga,20,2019-2020
+20.0,Sat,2020-02-01,15:30,Mainz 05,0.3,1–3,1.5,Bayern Munich,33305.0,Opel Arena,Bastian Dankert,Bundesliga,20,2019-2020
+20.0,Sat,2020-02-01,15:30,Dortmund,3.3,5–0,0.3,Union Berlin,81365.0,Signal Iduna Park,Benjamin Cortus,Bundesliga,20,2019-2020
+20.0,Sat,2020-02-01,15:30,Augsburg,1.1,2–1,0.5,Werder Bremen,29432.0,WWK Arena,Marco Fritz,Bundesliga,20,2019-2020
+20.0,Sat,2020-02-01,15:30,Düsseldorf,0.3,1–1,1.0,Eint Frankfurt,45018.0,Merkur Spielarena,Frank Willenborg,Bundesliga,20,2019-2020
+20.0,Sat,2020-02-01,15:30,Hoffenheim,3.1,2–1,2.5,Leverkusen,24489.0,PreZero Arena,Deniz Aytekin,Bundesliga,20,2019-2020
+20.0,Sat,2020-02-01,18:30,RB Leipzig,1.6,2–2,1.2,M'Gladbach,42146.0,Red Bull Arena,Tobias Stieler,Bundesliga,20,2019-2020
+20.0,Sun,2020-02-02,15:30,Köln,3.6,4–0,0.6,Freiburg,50000.0,RheinEnergieSTADION,Robert Kampka,Bundesliga,20,2019-2020
+20.0,Sun,2020-02-02,18:00,Paderborn 07,1.0,2–4,1.5,Wolfsburg,13926.0,Benteler-Arena,Patrick Ittrich,Bundesliga,20,2019-2020
+21.0,Fri,2020-02-07,20:30,Eint Frankfurt,2.3,5–0,0.5,Augsburg,48800.0,Commerzbank-Arena,Manuel Gräfe,Bundesliga,20,2019-2020
+21.0,Sat,2020-02-08,15:30,Schalke 04,1.3,1–1,0.8,Paderborn 07,61614.0,Veltins-Arena,Felix Brych,Bundesliga,20,2019-2020
+21.0,Sat,2020-02-08,15:30,Hertha BSC,0.7,1–3,2.2,Mainz 05,35049.0,Olympiastadion Berlin,Martin Petersen,Bundesliga,20,2019-2020
+21.0,Sat,2020-02-08,15:30,Wolfsburg,1.0,1–1,0.8,Düsseldorf,23445.0,Volkswagen Arena,Tobias Stieler,Bundesliga,20,2019-2020
+21.0,Sat,2020-02-08,15:30,Freiburg,1.7,1–0,1.5,Hoffenheim,24000.0,Schwarzwald-Stadion,Sven Jablonski,Bundesliga,20,2019-2020
+21.0,Sat,2020-02-08,15:30,Werder Bremen,1.3,0–2,1.4,Union Berlin,42100.0,Weserstadion,Daniel Schlager,Bundesliga,20,2019-2020
+21.0,Sat,2020-02-08,18:30,Leverkusen,1.5,4–3,0.8,Dortmund,30210.0,BayArena,Markus Schmidt,Bundesliga,20,2019-2020
+21.0,Sun,2020-02-09,18:00,Bayern Munich,1.4,0–0,1.3,RB Leipzig,75000.0,Allianz Arena,Marco Fritz,Bundesliga,20,2019-2020
+22.0,Fri,2020-02-14,20:30,Dortmund,1.2,4–0,0.0,Eint Frankfurt,81365.0,Signal Iduna Park,Bastian Dankert,Bundesliga,20,2019-2020
+22.0,Sat,2020-02-15,15:30,Paderborn 07,0.8,1–2,1.8,Hertha BSC,14687.0,Benteler-Arena,Bibiana Steinhaus,Bundesliga,20,2019-2020
+22.0,Sat,2020-02-15,15:30,RB Leipzig,1.3,3–0,0.4,Werder Bremen,41308.0,Red Bull Arena,Benjamin Cortus,Bundesliga,20,2019-2020
+22.0,Sat,2020-02-15,15:30,Union Berlin,1.3,2–3,1.0,Leverkusen,22012.0,Stadion An der Alten Försterei,Harm Osmers,Bundesliga,20,2019-2020
+22.0,Sat,2020-02-15,15:30,Hoffenheim,2.5,2–3,2.7,Wolfsburg,22506.0,PreZero Arena,Sören Storks,Bundesliga,20,2019-2020
+22.0,Sat,2020-02-15,15:30,Augsburg,0.9,1–1,1.3,Freiburg,26822.0,WWK Arena,Patrick Ittrich,Bundesliga,20,2019-2020
+22.0,Sat,2020-02-15,18:30,Düsseldorf,1.0,1–4,2.3,M'Gladbach,51000.0,Merkur Spielarena,Daniel Siebert,Bundesliga,20,2019-2020
+22.0,Sun,2020-02-16,15:30,Köln,2.5,1–4,2.6,Bayern Munich,50000.0,RheinEnergieSTADION,Felix Zwayer,Bundesliga,20,2019-2020
+22.0,Sun,2020-02-16,18:00,Mainz 05,1.3,0–0,0.8,Schalke 04,27482.0,Opel Arena,Guido Winkmann,Bundesliga,20,2019-2020
+23.0,Fri,2020-02-21,20:30,Bayern Munich,2.6,3–2,1.3,Paderborn 07,75000.0,Allianz Arena,Markus Schmidt,Bundesliga,20,2019-2020
+23.0,Sat,2020-02-22,15:30,M'Gladbach,2.4,1–1,1.6,Hoffenheim,50250.0,Stadion im Borussia-Park,Felix Brych,Bundesliga,20,2019-2020
+23.0,Sat,2020-02-22,15:30,Hertha BSC,0.6,0–5,2.6,Köln,46207.0,Olympiastadion Berlin,Daniel Schlager,Bundesliga,20,2019-2020
+23.0,Sat,2020-02-22,15:30,Freiburg,0.9,0–2,0.8,Düsseldorf,24000.0,Schwarzwald-Stadion,Frank Willenborg,Bundesliga,20,2019-2020
+23.0,Sat,2020-02-22,15:30,Werder Bremen,0.2,0–2,1.1,Dortmund,42100.0,Weserstadion,Marco Fritz,Bundesliga,20,2019-2020
+23.0,Sat,2020-02-22,18:30,Schalke 04,0.2,0–5,2.6,RB Leipzig,61433.0,Veltins-Arena,Sascha Stegemann,Bundesliga,20,2019-2020
+23.0,Sun,2020-02-23,15:30,Leverkusen,0.9,2–0,0.6,Augsburg,23703.0,BayArena,Sven Jablonski,Bundesliga,20,2019-2020
+23.0,Sun,2020-02-23,18:00,Wolfsburg,2.8,4–0,0.9,Mainz 05,21058.0,Volkswagen Arena,Benjamin Cortus,Bundesliga,20,2019-2020
+23.0,Mon,2020-02-24,20:30,Eint Frankfurt,1.8,1–2,1.5,Union Berlin,47000.0,Commerzbank-Arena,Deniz Aytekin,Bundesliga,20,2019-2020
+24.0,Fri,2020-02-28,20:30,Düsseldorf,1.4,3–3,2.9,Hertha BSC,31632.0,Merkur Spielarena,Tobias Stieler,Bundesliga,20,2019-2020
+24.0,Sat,2020-02-29,15:30,Mainz 05,1.0,2–0,0.6,Paderborn 07,24231.0,Opel Arena,Harm Osmers,Bundesliga,20,2019-2020
+24.0,Sat,2020-02-29,15:30,Augsburg,1.1,2–3,2.5,M'Gladbach,29303.0,WWK Arena,Markus Schmidt,Bundesliga,20,2019-2020
+24.0,Sat,2020-02-29,15:30,Hoffenheim,0.4,0–6,3.5,Bayern Munich,30150.0,PreZero Arena,Christian Dingert,Bundesliga,20,2019-2020
+24.0,Sat,2020-02-29,15:30,Dortmund,1.6,1–0,1.1,Freiburg,81365.0,Signal Iduna Park,Robert Hartmann,Bundesliga,20,2019-2020
+24.0,Sat,2020-02-29,18:30,Köln,1.1,3–0,0.8,Schalke 04,50000.0,RheinEnergieSTADION,Manuel Gräfe,Bundesliga,20,2019-2020
+24.0,Sun,2020-03-01,13:30,Union Berlin,0.6,2–2,1.0,Wolfsburg,22012.0,Stadion An der Alten Försterei,Bastian Dankert,Bundesliga,20,2019-2020
+24.0,Sun,2020-03-01,15:30,RB Leipzig,0.6,1–1,1.3,Leverkusen,41216.0,Red Bull Arena,Felix Zwayer,Bundesliga,20,2019-2020
+25.0,Fri,2020-03-06,20:00,Paderborn 07,0.6,1–2,2.5,Köln,15000.0,Benteler-Arena,Daniel Siebert,Bundesliga,20,2019-2020
+25.0,Sat,2020-03-07,15:30,Wolfsburg,0.8,0–0,1.2,RB Leipzig,27195.0,Volkswagen Arena,Daniel Schlager,Bundesliga,20,2019-2020
+25.0,Sat,2020-03-07,15:30,Hertha BSC,1.1,2–2,0.9,Werder Bremen,58028.0,Olympiastadion Berlin,Guido Winkmann,Bundesliga,20,2019-2020
+25.0,Sat,2020-03-07,15:30,Schalke 04,0.8,1–1,0.6,Hoffenheim,58324.0,Veltins-Arena,Sven Jablonski,Bundesliga,20,2019-2020
+25.0,Sat,2020-03-07,15:30,Freiburg,0.8,3–1,0.6,Union Berlin,24000.0,Schwarzwald-Stadion,Marco Fritz,Bundesliga,20,2019-2020
+25.0,Sat,2020-03-07,15:30,Leverkusen,2.3,4–0,0.8,Eint Frankfurt,30210.0,BayArena,Felix Brych,Bundesliga,20,2019-2020
+25.0,Sat,2020-03-07,18:30,M'Gladbach,2.0,1–2,0.7,Dortmund,53877.0,Stadion im Borussia-Park,Sascha Stegemann,Bundesliga,20,2019-2020
+25.0,Sun,2020-03-08,15:30,Bayern Munich,2.9,2–0,0.7,Augsburg,75000.0,Allianz Arena,Bibiana Steinhaus,Bundesliga,20,2019-2020
+25.0,Sun,2020-03-08,18:00,Mainz 05,0.8,1–1,1.9,Düsseldorf,21409.0,Opel Arena,Harm Osmers,Bundesliga,20,2019-2020
+21.0,Wed,2020-03-11,18:30,M'Gladbach,0.9,2–1,0.8,Köln,,Stadion im Borussia-Park,Deniz Aytekin,Bundesliga,20,2019-2020
+26.0,Sat,2020-05-16,15:30,Dortmund,1.6,4–0,0.5,Schalke 04,,Signal Iduna Park,Deniz Aytekin,Bundesliga,20,2019-2020
+26.0,Sat,2020-05-16,15:30,Augsburg,1.1,1–2,1.5,Wolfsburg,,WWK Arena,Felix Brych,Bundesliga,20,2019-2020
+26.0,Sat,2020-05-16,15:30,Hoffenheim,2.5,0–3,1.5,Hertha BSC,,PreZero Arena,Christian Dingert,Bundesliga,20,2019-2020
+26.0,Sat,2020-05-16,15:30,RB Leipzig,2.1,1–1,0.3,Freiburg,,Red Bull Arena,Manuel Gräfe,Bundesliga,20,2019-2020
+26.0,Sat,2020-05-16,15:30,Düsseldorf,0.7,0–0,0.7,Paderborn 07,,Merkur Spielarena,Frank Willenborg,Bundesliga,20,2019-2020
+26.0,Sat,2020-05-16,18:30,Eint Frankfurt,1.0,1–3,3.2,M'Gladbach,,Commerzbank-Arena,Felix Zwayer,Bundesliga,20,2019-2020
+26.0,Sun,2020-05-17,15:30,Köln,2.3,2–2,1.9,Mainz 05,,RheinEnergieSTADION,Guido Winkmann,Bundesliga,20,2019-2020
+26.0,Sun,2020-05-17,18:00,Union Berlin,0.5,0–2,1.5,Bayern Munich,,Stadion An der Alten Försterei,Bastian Dankert,Bundesliga,20,2019-2020
+26.0,Mon,2020-05-18,20:30,Werder Bremen,1.2,1–4,1.7,Leverkusen,,Weserstadion,Tobias Stieler,Bundesliga,20,2019-2020
+27.0,Fri,2020-05-22,20:30,Hertha BSC,1.6,4–0,0.2,Union Berlin,,Olympiastadion Berlin,Harm Osmers,Bundesliga,20,2019-2020
+27.0,Sat,2020-05-23,15:30,M'Gladbach,1.6,1–3,2.9,Leverkusen,,Stadion im Borussia-Park,Sören Storks,Bundesliga,20,2019-2020
+27.0,Sat,2020-05-23,15:30,Wolfsburg,0.4,0–2,0.9,Dortmund,,Volkswagen Arena,Daniel Siebert,Bundesliga,20,2019-2020
+27.0,Sat,2020-05-23,15:30,Freiburg,0.7,0–1,0.8,Werder Bremen,,Schwarzwald-Stadion,Robert Hartmann,Bundesliga,20,2019-2020
+27.0,Sat,2020-05-23,15:30,Paderborn 07,0.7,1–1,1.7,Hoffenheim,,Benteler-Arena,Bibiana Steinhaus,Bundesliga,20,2019-2020
+27.0,Sat,2020-05-23,18:30,Bayern Munich,2.7,5–2,1.0,Eint Frankfurt,,Allianz Arena,Marco Fritz,Bundesliga,20,2019-2020
+27.0,Sun,2020-05-24,13:30,Schalke 04,0.6,0–3,1.3,Augsburg,,Veltins-Arena,Sascha Stegemann,Bundesliga,20,2019-2020
+27.0,Sun,2020-05-24,15:30,Mainz 05,0.3,0–5,5.2,RB Leipzig,,Opel Arena,Markus Schmidt,Bundesliga,20,2019-2020
+27.0,Sun,2020-05-24,18:00,Köln,1.4,2–2,0.7,Düsseldorf,,RheinEnergieSTADION,Benjamin Cortus,Bundesliga,20,2019-2020
+28.0,Tue,2020-05-26,18:30,Dortmund,0.9,0–1,0.8,Bayern Munich,,Signal Iduna Park,Tobias Stieler,Bundesliga,20,2019-2020
+28.0,Tue,2020-05-26,20:30,Werder Bremen,0.8,0–0,0.5,M'Gladbach,,Weserstadion,Manuel Gräfe,Bundesliga,20,2019-2020
+28.0,Tue,2020-05-26,20:30,Leverkusen,1.0,1–4,2.4,Wolfsburg,,BayArena,Daniel Schlager,Bundesliga,20,2019-2020
+28.0,Tue,2020-05-26,20:30,Eint Frankfurt,4.8,3–3,0.9,Freiburg,,Commerzbank-Arena,Martin Petersen,Bundesliga,20,2019-2020
+28.0,Wed,2020-05-27,18:30,RB Leipzig,0.7,2–2,1.6,Hertha BSC,,Red Bull Arena,Bastian Dankert,Bundesliga,20,2019-2020
+28.0,Wed,2020-05-27,20:30,Augsburg,0.7,0–0,1.7,Paderborn 07,,WWK Arena,Deniz Aytekin,Bundesliga,20,2019-2020
+28.0,Wed,2020-05-27,20:30,Hoffenheim,1.3,3–1,2.2,Köln,,PreZero Arena,Felix Brych,Bundesliga,20,2019-2020
+28.0,Wed,2020-05-27,20:30,Union Berlin,0.4,1–1,1.0,Mainz 05,,Stadion An der Alten Försterei,Robert Schröder,Bundesliga,20,2019-2020
+28.0,Wed,2020-05-27,20:30,Düsseldorf,1.9,2–1,0.6,Schalke 04,,Merkur Spielarena,Tobias Welz,Bundesliga,20,2019-2020
+29.0,Fri,2020-05-29,20:30,Freiburg,0.9,0–1,0.6,Leverkusen,,Schwarzwald-Stadion,Marco Fritz,Bundesliga,20,2019-2020
+29.0,Sat,2020-05-30,15:30,Wolfsburg,1.6,1–2,1.6,Eint Frankfurt,,Volkswagen Arena,Guido Winkmann,Bundesliga,20,2019-2020
+29.0,Sat,2020-05-30,15:30,Schalke 04,0.7,0–1,0.5,Werder Bremen,,Veltins-Arena,Felix Zwayer,Bundesliga,20,2019-2020
+29.0,Sat,2020-05-30,15:30,Mainz 05,0.9,0–1,1.7,Hoffenheim,,Opel Arena,Sascha Stegemann,Bundesliga,20,2019-2020
+29.0,Sat,2020-05-30,15:30,Hertha BSC,2.1,2–0,0.6,Augsburg,,Olympiastadion Berlin,Sven Jablonski,Bundesliga,20,2019-2020
+29.0,Sat,2020-05-30,18:30,Bayern Munich,3.0,5–0,0.8,Düsseldorf,,Allianz Arena,Robert Hartmann,Bundesliga,20,2019-2020
+29.0,Sun,2020-05-31,15:30,M'Gladbach,2.2,4–1,0.9,Union Berlin,,Stadion im Borussia-Park,Frank Willenborg,Bundesliga,20,2019-2020
+29.0,Sun,2020-05-31,18:00,Paderborn 07,1.0,1–6,3.8,Dortmund,,Benteler-Arena,Daniel Siebert,Bundesliga,20,2019-2020
+29.0,Mon,2020-06-01,20:30,Köln,1.0,2–4,3.4,RB Leipzig,,RheinEnergieSTADION,Christian Dingert,Bundesliga,20,2019-2020
+24.0,Wed,2020-06-03,20:30,Werder Bremen,0.5,0–3,1.5,Eint Frankfurt,,Weserstadion,Patrick Ittrich,Bundesliga,20,2019-2020
+30.0,Fri,2020-06-05,20:30,Freiburg,1.1,1–0,2.4,M'Gladbach,,Schwarzwald-Stadion,Markus Schmidt,Bundesliga,20,2019-2020
+30.0,Sat,2020-06-06,15:30,Düsseldorf,2.2,2–2,0.9,Hoffenheim,,Merkur Spielarena,Sören Storks,Bundesliga,20,2019-2020
+30.0,Sat,2020-06-06,15:30,Leverkusen,0.9,2–4,2.6,Bayern Munich,,BayArena,Manuel Gräfe,Bundesliga,20,2019-2020
+30.0,Sat,2020-06-06,15:30,RB Leipzig,2.1,1–1,1.4,Paderborn 07,,Red Bull Arena,Deniz Aytekin,Bundesliga,20,2019-2020
+30.0,Sat,2020-06-06,15:30,Eint Frankfurt,0.4,0–2,2.0,Mainz 05,,Commerzbank-Arena,Felix Brych,Bundesliga,20,2019-2020
+30.0,Sat,2020-06-06,18:30,Dortmund,1.8,1–0,0.4,Hertha BSC,,Signal Iduna Park,Harm Osmers,Bundesliga,20,2019-2020
+30.0,Sun,2020-06-07,13:30,Werder Bremen,0.7,0–1,1.7,Wolfsburg,,Weserstadion,Bibiana Steinhaus,Bundesliga,20,2019-2020
+30.0,Sun,2020-06-07,15:30,Union Berlin,1.6,1–1,0.2,Schalke 04,,Stadion An der Alten Försterei,Tobias Stieler,Bundesliga,20,2019-2020
+30.0,Sun,2020-06-07,18:00,Augsburg,2.1,1–1,1.0,Köln,,WWK Arena,Benjamin Cortus,Bundesliga,20,2019-2020
+31.0,Fri,2020-06-12,20:30,Hoffenheim,1.8,0–2,1.6,RB Leipzig,,PreZero Arena,Tobias Welz,Bundesliga,20,2019-2020
+31.0,Sat,2020-06-13,15:30,Düsseldorf,0.5,0–1,0.6,Dortmund,,Merkur Spielarena,Sascha Stegemann,Bundesliga,20,2019-2020
+31.0,Sat,2020-06-13,15:30,Paderborn 07,1.7,1–5,2.6,Werder Bremen,,Benteler-Arena,Christian Dingert,Bundesliga,20,2019-2020
+31.0,Sat,2020-06-13,15:30,Köln,1.1,1–2,1.1,Union Berlin,,RheinEnergieSTADION,Martin Petersen,Bundesliga,20,2019-2020
+31.0,Sat,2020-06-13,15:30,Wolfsburg,2.4,2–2,2.2,Freiburg,,Volkswagen Arena,Bastian Dankert,Bundesliga,20,2019-2020
+31.0,Sat,2020-06-13,15:30,Hertha BSC,0.9,1–4,2.5,Eint Frankfurt,,Olympiastadion Berlin,Robert Hartmann,Bundesliga,20,2019-2020
+31.0,Sat,2020-06-13,18:30,Bayern Munich,1.5,2–1,0.7,M'Gladbach,,Allianz Arena,Felix Zwayer,Bundesliga,20,2019-2020
+31.0,Sun,2020-06-14,15:30,Mainz 05,1.7,0–1,0.9,Augsburg,,Opel Arena,Marco Fritz,Bundesliga,20,2019-2020
+31.0,Sun,2020-06-14,18:00,Schalke 04,1.3,1–1,1.2,Leverkusen,,Veltins-Arena,Daniel Siebert,Bundesliga,20,2019-2020
+32.0,Tue,2020-06-16,18:30,M'Gladbach,1.7,3–0,0.4,Wolfsburg,,Stadion im Borussia-Park,Robert Schröder,Bundesliga,20,2019-2020
+32.0,Tue,2020-06-16,20:30,Werder Bremen,0.5,0–1,1.1,Bayern Munich,,Weserstadion,Harm Osmers,Bundesliga,20,2019-2020
+32.0,Tue,2020-06-16,20:30,Union Berlin,1.7,1–0,0.8,Paderborn 07,,Stadion An der Alten Försterei,Bibiana Steinhaus,Bundesliga,20,2019-2020
+32.0,Tue,2020-06-16,20:30,Freiburg,1.9,2–1,1.8,Hertha BSC,,Schwarzwald-Stadion,Tobias Stieler,Bundesliga,20,2019-2020
+32.0,Wed,2020-06-17,18:30,Eint Frankfurt,2.5,2–1,0.8,Schalke 04,,Commerzbank-Arena,Guido Winkmann,Bundesliga,20,2019-2020
+32.0,Wed,2020-06-17,20:30,RB Leipzig,1.2,2–2,1.0,Düsseldorf,,Red Bull Arena,Manuel Gräfe,Bundesliga,20,2019-2020
+32.0,Wed,2020-06-17,20:30,Leverkusen,2.3,3–1,0.6,Köln,,BayArena,Sven Jablonski,Bundesliga,20,2019-2020
+32.0,Wed,2020-06-17,20:30,Augsburg,0.5,1–3,1.6,Hoffenheim,,WWK Arena,Deniz Aytekin,Bundesliga,20,2019-2020
+32.0,Wed,2020-06-17,20:30,Dortmund,1.1,0–2,1.8,Mainz 05,,Signal Iduna Park,Frank Willenborg,Bundesliga,20,2019-2020
+33.0,Sat,2020-06-20,15:30,Hertha BSC,1.9,2–0,1.4,Leverkusen,,Olympiastadion Berlin,Felix Brych,Bundesliga,20,2019-2020
+33.0,Sat,2020-06-20,15:30,Mainz 05,1.9,3–1,2.0,Werder Bremen,,Opel Arena,Manuel Gräfe,Bundesliga,20,2019-2020
+33.0,Sat,2020-06-20,15:30,Schalke 04,0.9,1–4,2.1,Wolfsburg,,Veltins-Arena,Sascha Stegemann,Bundesliga,20,2019-2020
+33.0,Sat,2020-06-20,15:30,RB Leipzig,0.9,0–2,3.1,Dortmund,,Red Bull Arena,Felix Zwayer,Bundesliga,20,2019-2020
+33.0,Sat,2020-06-20,15:30,Paderborn 07,0.6,1–3,4.0,M'Gladbach,,Benteler-Arena,Tobias Welz,Bundesliga,20,2019-2020
+33.0,Sat,2020-06-20,15:30,Hoffenheim,2.1,4–0,0.4,Union Berlin,,PreZero Arena,Robert Hartmann,Bundesliga,20,2019-2020
+33.0,Sat,2020-06-20,15:30,Bayern Munich,2.0,3–1,1.8,Freiburg,,Allianz Arena,Sören Storks,Bundesliga,20,2019-2020
+33.0,Sat,2020-06-20,15:30,Düsseldorf,0.4,1–1,1.5,Augsburg,,Merkur Spielarena,Daniel Siebert,Bundesliga,20,2019-2020
+33.0,Sat,2020-06-20,15:30,Köln,1.0,1–1,1.6,Eint Frankfurt,,RheinEnergieSTADION,Christian Dingert,Bundesliga,20,2019-2020
+34.0,Sat,2020-06-27,15:30,Union Berlin,1.8,3–0,1.0,Düsseldorf,,Stadion An der Alten Försterei,Harm Osmers,Bundesliga,20,2019-2020
+34.0,Sat,2020-06-27,15:30,Freiburg,1.5,4–0,0.8,Schalke 04,,Schwarzwald-Stadion,Martin Petersen,Bundesliga,20,2019-2020
+34.0,Sat,2020-06-27,15:30,Werder Bremen,3.0,6–1,0.8,Köln,,Weserstadion,Bastian Dankert,Bundesliga,20,2019-2020
+34.0,Sat,2020-06-27,15:30,Leverkusen,1.5,1–0,0.4,Mainz 05,,BayArena,Benjamin Cortus,Bundesliga,20,2019-2020
+34.0,Sat,2020-06-27,15:30,Dortmund,0.2,0–4,3.1,Hoffenheim,,Signal Iduna Park,Guido Winkmann,Bundesliga,20,2019-2020
+34.0,Sat,2020-06-27,15:30,M'Gladbach,3.0,2–1,1.0,Hertha BSC,,Stadion im Borussia-Park,Deniz Aytekin,Bundesliga,20,2019-2020
+34.0,Sat,2020-06-27,15:30,Eint Frankfurt,2.1,3–2,2.2,Paderborn 07,,Commerzbank-Arena,Benjamin Brand,Bundesliga,20,2019-2020
+34.0,Sat,2020-06-27,15:30,Wolfsburg,0.8,0–4,3.2,Bayern Munich,,Volkswagen Arena,Patrick Ittrich,Bundesliga,20,2019-2020
+34.0,Sat,2020-06-27,15:30,Augsburg,0.2,1–2,2.2,RB Leipzig,,WWK Arena,Felix Brych,Bundesliga,20,2019-2020

@@ -1,0 +1,308 @@
+Wk,Day,Date,Time,Home,xG,Score,xG.1,Away,Attendance,Venue,Referee,League Name,League ID,Season
+1.0,Fri,2017-08-18,20:30,Bayern Munich,2.5,3–1,2.1,Leverkusen,75000.0,Allianz Arena,Tobias Stieler,Bundesliga,20,2017-2018
+1.0,Sat,2017-08-19,15:30,Hertha BSC,0.7,2–0,1.2,Stuttgart,44751.0,Olympiastadion Berlin,Sascha Stegemann,Bundesliga,20,2017-2018
+1.0,Sat,2017-08-19,15:30,Mainz 05,0.9,0–1,0.7,Hannover 96,28279.0,Opel Arena,Felix Brych,Bundesliga,20,2017-2018
+1.0,Sat,2017-08-19,15:30,Wolfsburg,0.5,0–3,1.1,Dortmund,30000.0,Volkswagen Arena,Robert Hartmann,Bundesliga,20,2017-2018
+1.0,Sat,2017-08-19,15:30,Hoffenheim,1.2,1–0,1.0,Werder Bremen,30150.0,Dietmar-Hopp-Stadion,Guido Winkmann,Bundesliga,20,2017-2018
+1.0,Sat,2017-08-19,15:30,Hamburger SV,0.7,1–0,0.6,Augsburg,49449.0,Volksparkstadion,Daniel Siebert,Bundesliga,20,2017-2018
+1.0,Sat,2017-08-19,18:30,Schalke 04,1.6,2–0,0.9,RB Leipzig,61435.0,Veltins-Arena,Felix Zwayer,Bundesliga,20,2017-2018
+1.0,Sun,2017-08-20,15:30,Freiburg,0.2,0–0,1.3,Eint Frankfurt,24000.0,Schwarzwald-Stadion,Manuel Gräfe,Bundesliga,20,2017-2018
+1.0,Sun,2017-08-20,18:00,M'Gladbach,1.5,1–0,1.0,Köln,54018.0,Stadion im Borussia-Park,Deniz Aytekin,Bundesliga,20,2017-2018
+,,,,,,,,,,,,Bundesliga,20,2017-2018
+2.0,Fri,2017-08-25,20:30,Köln,2.3,1–3,1.7,Hamburger SV,50000.0,RheinEnergieSTADION,Felix Brych,Bundesliga,20,2017-2018
+2.0,Sat,2017-08-26,15:30,Stuttgart,2.3,1–0,0.9,Mainz 05,53100.0,Mercedes-Benz Arena,Benjamin Brand,Bundesliga,20,2017-2018
+2.0,Sat,2017-08-26,15:30,Eint Frankfurt,1.4,0–1,1.0,Wolfsburg,46000.0,Commerzbank-Arena,Benjamin Cortus,Bundesliga,20,2017-2018
+2.0,Sat,2017-08-26,15:30,Leverkusen,2.6,2–2,0.7,Hoffenheim,27106.0,BayArena,Harm Osmers,Bundesliga,20,2017-2018
+2.0,Sat,2017-08-26,15:30,Augsburg,3.3,2–2,1.4,M'Gladbach,29243.0,WWK Arena,Sascha Stegemann,Bundesliga,20,2017-2018
+2.0,Sat,2017-08-26,15:30,Werder Bremen,0.4,0–2,1.8,Bayern Munich,42100.0,Weserstadion,Bastian Dankert,Bundesliga,20,2017-2018
+2.0,Sat,2017-08-26,18:30,Dortmund,2.2,2–0,0.7,Hertha BSC,80860.0,Signal Iduna Park,Marco Fritz,Bundesliga,20,2017-2018
+2.0,Sun,2017-08-27,15:30,RB Leipzig,3.1,4–1,0.4,Freiburg,39265.0,Red Bull Arena,Christian Dingert,Bundesliga,20,2017-2018
+2.0,Sun,2017-08-27,18:00,Hannover 96,0.9,1–0,0.4,Schalke 04,49000.0,HDI-Arena,Patrick Ittrich,Bundesliga,20,2017-2018
+3.0,Fri,2017-09-08,20:30,Hamburger SV,0.9,0–2,2.4,RB Leipzig,50231.0,Volksparkstadion,Deniz Aytekin,Bundesliga,20,2017-2018
+3.0,Sat,2017-09-09,15:30,Freiburg,0.7,0–0,1.6,Dortmund,24000.0,Schwarzwald-Stadion,Benjamin Cortus,Bundesliga,20,2017-2018
+3.0,Sat,2017-09-09,15:30,M'Gladbach,0.9,0–1,0.4,Eint Frankfurt,51431.0,Stadion im Borussia-Park,Robert Kampka,Bundesliga,20,2017-2018
+3.0,Sat,2017-09-09,15:30,Wolfsburg,1.4,1–1,1.0,Hannover 96,27321.0,Volkswagen Arena,Felix Zwayer,Bundesliga,20,2017-2018
+3.0,Sat,2017-09-09,15:30,Augsburg,2.0,3–0,0.7,Köln,27510.0,WWK Arena,Tobias Stieler,Bundesliga,20,2017-2018
+3.0,Sat,2017-09-09,15:30,Mainz 05,1.3,3–1,0.9,Leverkusen,24876.0,Opel Arena,Markus Schmidt,Bundesliga,20,2017-2018
+3.0,Sat,2017-09-09,18:30,Hoffenheim,0.4,2–0,1.8,Bayern Munich,30150.0,Dietmar-Hopp-Stadion,Daniel Siebert,Bundesliga,20,2017-2018
+3.0,Sun,2017-09-10,15:30,Hertha BSC,0.9,1–1,1.1,Werder Bremen,49118.0,Olympiastadion Berlin,Bibiana Steinhaus,Bundesliga,20,2017-2018
+3.0,Sun,2017-09-10,18:00,Schalke 04,2.3,3–1,1.3,Stuttgart,61098.0,Veltins-Arena,Frank Willenborg,Bundesliga,20,2017-2018
+4.0,Fri,2017-09-15,20:30,Hannover 96,1.8,2–0,0.7,Hamburger SV,49000.0,HDI-Arena,Robert Hartmann,Bundesliga,20,2017-2018
+4.0,Sat,2017-09-16,15:30,Werder Bremen,0.9,1–2,0.9,Schalke 04,42100.0,Weserstadion,Benjamin Brand,Bundesliga,20,2017-2018
+4.0,Sat,2017-09-16,15:30,Eint Frankfurt,1.8,1–2,1.0,Augsburg,46500.0,Commerzbank-Arena,Christian Dingert,Bundesliga,20,2017-2018
+4.0,Sat,2017-09-16,15:30,Bayern Munich,4.9,4–0,0.7,Mainz 05,75000.0,Allianz Arena,Sascha Stegemann,Bundesliga,20,2017-2018
+4.0,Sat,2017-09-16,15:30,Stuttgart,0.9,1–0,0.5,Wolfsburg,50500.0,Mercedes-Benz Arena,Guido Winkmann,Bundesliga,20,2017-2018
+4.0,Sat,2017-09-16,18:30,RB Leipzig,1.3,2–2,1.7,M'Gladbach,42558.0,Red Bull Arena,Marco Fritz,Bundesliga,20,2017-2018
+4.0,Sun,2017-09-17,13:30,Hoffenheim,0.7,1–1,0.8,Hertha BSC,27243.0,Dietmar-Hopp-Stadion,Markus Schmidt,Bundesliga,20,2017-2018
+4.0,Sun,2017-09-17,15:30,Leverkusen,2.7,4–0,0.6,Freiburg,26232.0,BayArena,Sven Jablonski,Bundesliga,20,2017-2018
+4.0,Sun,2017-09-17,18:00,Dortmund,3.1,5–0,0.5,Köln,81000.0,Signal Iduna Park,Patrick Ittrich,Bundesliga,20,2017-2018
+5.0,Tue,2017-09-19,18:30,M'Gladbach,1.3,2–0,0.8,Stuttgart,44063.0,Stadion im Borussia-Park,Sören Storks,Bundesliga,20,2017-2018
+5.0,Tue,2017-09-19,20:30,Augsburg,1.1,1–0,0.9,RB Leipzig,26113.0,WWK Arena,Daniel Siebert,Bundesliga,20,2017-2018
+5.0,Tue,2017-09-19,20:30,Wolfsburg,1.0,1–1,1.5,Werder Bremen,26174.0,Volkswagen Arena,Felix Brych,Bundesliga,20,2017-2018
+5.0,Tue,2017-09-19,20:30,Schalke 04,1.0,0–3,2.3,Bayern Munich,62271.0,Veltins-Arena,Marco Fritz,Bundesliga,20,2017-2018
+5.0,Wed,2017-09-20,18:30,Köln,1.7,0–1,1.7,Eint Frankfurt,49000.0,RheinEnergieSTADION,Martin Petersen,Bundesliga,20,2017-2018
+5.0,Wed,2017-09-20,20:30,Mainz 05,1.3,2–3,1.3,Hoffenheim,23477.0,Opel Arena,Manuel Gräfe,Bundesliga,20,2017-2018
+5.0,Wed,2017-09-20,20:30,Hamburger SV,0.5,0–3,2.7,Dortmund,52962.0,Volksparkstadion,Felix Zwayer,Bundesliga,20,2017-2018
+5.0,Wed,2017-09-20,20:30,Freiburg,2.2,1–1,1.5,Hannover 96,22900.0,Schwarzwald-Stadion,Tobias Stieler,Bundesliga,20,2017-2018
+5.0,Wed,2017-09-20,20:30,Hertha BSC,0.8,2–1,0.5,Leverkusen,32825.0,Olympiastadion Berlin,Deniz Aytekin,Bundesliga,20,2017-2018
+6.0,Fri,2017-09-22,20:30,Bayern Munich,2.9,2–2,1.0,Wolfsburg,75000.0,Allianz Arena,Christian Dingert,Bundesliga,20,2017-2018
+6.0,Sat,2017-09-23,15:30,Hoffenheim,2.0,2–0,1.7,Schalke 04,30150.0,Dietmar-Hopp-Stadion,Sascha Stegemann,Bundesliga,20,2017-2018
+6.0,Sat,2017-09-23,15:30,Mainz 05,1.1,1–0,0.6,Hertha BSC,23517.0,Opel Arena,Tobias Stieler,Bundesliga,20,2017-2018
+6.0,Sat,2017-09-23,15:30,RB Leipzig,2.0,2–1,1.1,Eint Frankfurt,40606.0,Red Bull Arena,Benjamin Brand,Bundesliga,20,2017-2018
+6.0,Sat,2017-09-23,15:30,Werder Bremen,1.8,0–0,1.3,Freiburg,41000.0,Weserstadion,Robert Hartmann,Bundesliga,20,2017-2018
+6.0,Sat,2017-09-23,15:30,Stuttgart,0.7,0–0,0.8,Augsburg,55202.0,Mercedes-Benz Arena,Harm Osmers,Bundesliga,20,2017-2018
+6.0,Sat,2017-09-23,18:30,Dortmund,2.6,6–1,1.3,M'Gladbach,81360.0,Signal Iduna Park,Manuel Gräfe,Bundesliga,20,2017-2018
+6.0,Sun,2017-09-24,15:30,Hannover 96,1.3,0–0,1.2,Köln,47000.0,HDI-Arena,Daniel Siebert,Bundesliga,20,2017-2018
+6.0,Sun,2017-09-24,18:00,Leverkusen,2.4,3–0,0.5,Hamburger SV,27601.0,BayArena,Robert Kampka,Bundesliga,20,2017-2018
+7.0,Fri,2017-09-29,20:30,Schalke 04,1.2,1–1,1.1,Leverkusen,61515.0,Veltins-Arena,Guido Winkmann,Bundesliga,20,2017-2018
+7.0,Sat,2017-09-30,15:30,M'Gladbach,2.2,2–1,1.4,Hannover 96,50542.0,Stadion im Borussia-Park,Christian Dingert,Bundesliga,20,2017-2018
+7.0,Sat,2017-09-30,15:30,Wolfsburg,0.9,1–1,0.9,Mainz 05,24352.0,Volkswagen Arena,Robert Hartmann,Bundesliga,20,2017-2018
+7.0,Sat,2017-09-30,15:30,Augsburg,1.8,1–2,2.4,Dortmund,30660.0,WWK Arena,Marco Fritz,Bundesliga,20,2017-2018
+7.0,Sat,2017-09-30,15:30,Eint Frankfurt,1.3,2–1,1.5,Stuttgart,51500.0,Commerzbank-Arena,Felix Brych,Bundesliga,20,2017-2018
+7.0,Sat,2017-09-30,18:30,Hamburger SV,1.0,0–0,0.5,Werder Bremen,54613.0,Volksparkstadion,Deniz Aytekin,Bundesliga,20,2017-2018
+7.0,Sun,2017-10-01,13:30,Freiburg,1.1,3–2,1.1,Hoffenheim,24000.0,Schwarzwald-Stadion,Daniel Siebert,Bundesliga,20,2017-2018
+7.0,Sun,2017-10-01,15:30,Hertha BSC,2.0,2–2,1.8,Bayern Munich,71212.0,Olympiastadion Berlin,Harm Osmers,Bundesliga,20,2017-2018
+7.0,Sun,2017-10-01,18:00,Köln,1.7,1–2,2.6,RB Leipzig,48700.0,RheinEnergieSTADION,Felix Zwayer,Bundesliga,20,2017-2018
+8.0,Fri,2017-10-13,20:30,Stuttgart,2.6,2–1,1.7,Köln,58716.0,Mercedes-Benz Arena,Benjamin Cortus,Bundesliga,20,2017-2018
+8.0,Sat,2017-10-14,15:30,Bayern Munich,2.0,5–0,0.6,Freiburg,75000.0,Allianz Arena,Frank Willenborg,Bundesliga,20,2017-2018
+8.0,Sat,2017-10-14,15:30,Mainz 05,1.1,3–2,1.6,Hamburger SV,30371.0,Opel Arena,Felix Brych,Bundesliga,20,2017-2018
+8.0,Sat,2017-10-14,15:30,Hannover 96,1.0,1–2,0.8,Eint Frankfurt,43500.0,HDI-Arena,Bastian Dankert,Bundesliga,20,2017-2018
+8.0,Sat,2017-10-14,15:30,Hoffenheim,1.8,2–2,1.1,Augsburg,27014.0,Dietmar-Hopp-Stadion,Manuel Gräfe,Bundesliga,20,2017-2018
+8.0,Sat,2017-10-14,15:30,Hertha BSC,0.3,0–2,1.7,Schalke 04,50590.0,Olympiastadion Berlin,Benjamin Brand,Bundesliga,20,2017-2018
+8.0,Sat,2017-10-14,18:30,Dortmund,3.1,2–3,2.3,RB Leipzig,80100.0,Signal Iduna Park,Deniz Aytekin,Bundesliga,20,2017-2018
+8.0,Sun,2017-10-15,15:30,Leverkusen,1.9,2–2,1.5,Wolfsburg,29104.0,BayArena,Patrick Ittrich,Bundesliga,20,2017-2018
+8.0,Sun,2017-10-15,18:00,Werder Bremen,1.4,0–2,2.1,M'Gladbach,42100.0,Weserstadion,Markus Schmidt,Bundesliga,20,2017-2018
+9.0,Fri,2017-10-20,20:30,Schalke 04,2.0,2–0,0.5,Mainz 05,59476.0,Veltins-Arena,Bibiana Steinhaus,Bundesliga,20,2017-2018
+9.0,Sat,2017-10-21,15:30,RB Leipzig,1.0,1–0,0.6,Stuttgart,42558.0,Red Bull Arena,Sven Jablonski,Bundesliga,20,2017-2018
+9.0,Sat,2017-10-21,15:30,Augsburg,1.4,1–2,1.0,Hannover 96,25971.0,WWK Arena,Sascha Stegemann,Bundesliga,20,2017-2018
+9.0,Sat,2017-10-21,15:30,Eint Frankfurt,2.4,2–2,2.1,Dortmund,51500.0,Commerzbank-Arena,Robert Hartmann,Bundesliga,20,2017-2018
+9.0,Sat,2017-10-21,15:30,M'Gladbach,1.9,1–5,2.4,Leverkusen,53053.0,Stadion im Borussia-Park,Bastian Dankert,Bundesliga,20,2017-2018
+9.0,Sat,2017-10-21,18:30,Hamburger SV,0.2,0–1,2.3,Bayern Munich,57000.0,Volksparkstadion,Marco Fritz,Bundesliga,20,2017-2018
+9.0,Sun,2017-10-22,13:30,Köln,2.0,0–0,1.0,Werder Bremen,50000.0,RheinEnergieSTADION,Robert Kampka,Bundesliga,20,2017-2018
+9.0,Sun,2017-10-22,15:30,Freiburg,3.0,1–1,2.0,Hertha BSC,23800.0,Schwarzwald-Stadion,Guido Winkmann,Bundesliga,20,2017-2018
+9.0,Sun,2017-10-22,18:00,Wolfsburg,1.5,1–1,1.9,Hoffenheim,23514.0,Volkswagen Arena,Felix Zwayer,Bundesliga,20,2017-2018
+10.0,Fri,2017-10-27,20:30,Mainz 05,0.4,1–1,0.8,Eint Frankfurt,33794.0,Opel Arena,Sascha Stegemann,Bundesliga,20,2017-2018
+10.0,Sat,2017-10-28,15:30,Schalke 04,1.5,1–1,1.3,Wolfsburg,60429.0,Veltins-Arena,Markus Schmidt,Bundesliga,20,2017-2018
+10.0,Sat,2017-10-28,15:30,Hannover 96,2.6,4–2,1.0,Dortmund,49000.0,HDI-Arena,Patrick Ittrich,Bundesliga,20,2017-2018
+10.0,Sat,2017-10-28,15:30,Hertha BSC,0.9,2–1,0.8,Hamburger SV,52131.0,Olympiastadion Berlin,Felix Brych,Bundesliga,20,2017-2018
+10.0,Sat,2017-10-28,15:30,Hoffenheim,1.0,1–3,1.8,M'Gladbach,30150.0,Dietmar-Hopp-Stadion,Harm Osmers,Bundesliga,20,2017-2018
+10.0,Sat,2017-10-28,15:30,Leverkusen,1.9,2–1,0.4,Köln,30210.0,BayArena,Manuel Gräfe,Bundesliga,20,2017-2018
+10.0,Sat,2017-10-28,18:30,Bayern Munich,1.9,2–0,0.2,RB Leipzig,75000.0,Allianz Arena,Daniel Siebert,Bundesliga,20,2017-2018
+10.0,Sun,2017-10-29,15:30,Werder Bremen,1.1,0–3,2.8,Augsburg,40500.0,Weserstadion,Sören Storks,Bundesliga,20,2017-2018
+10.0,Sun,2017-10-29,18:00,Stuttgart,1.3,3–0,0.5,Freiburg,58872.0,Mercedes-Benz Arena,Tobias Stieler,Bundesliga,20,2017-2018
+11.0,Fri,2017-11-03,20:30,Eint Frankfurt,2.1,2–1,1.3,Werder Bremen,51500.0,Commerzbank-Arena,Benjamin Brand,Bundesliga,20,2017-2018
+11.0,Sat,2017-11-04,15:30,Augsburg,1.2,1–1,0.6,Leverkusen,26133.0,WWK Arena,Christian Dingert,Bundesliga,20,2017-2018
+11.0,Sat,2017-11-04,15:30,Hamburger SV,1.6,3–1,1.1,Stuttgart,54976.0,Volksparkstadion,Guido Winkmann,Bundesliga,20,2017-2018
+11.0,Sat,2017-11-04,15:30,M'Gladbach,0.9,1–1,0.9,Mainz 05,52659.0,Stadion im Borussia-Park,Sven Jablonski,Bundesliga,20,2017-2018
+11.0,Sat,2017-11-04,15:30,Freiburg,1.2,0–1,0.7,Schalke 04,24000.0,Schwarzwald-Stadion,Felix Brych,Bundesliga,20,2017-2018
+11.0,Sat,2017-11-04,15:30,RB Leipzig,2.1,2–1,1.0,Hannover 96,40461.0,Red Bull Arena,Martin Petersen,Bundesliga,20,2017-2018
+11.0,Sat,2017-11-04,18:30,Dortmund,3.1,1–3,1.5,Bayern Munich,81360.0,Signal Iduna Park,Tobias Stieler,Bundesliga,20,2017-2018
+11.0,Sun,2017-11-05,15:30,Köln,1.1,0–3,2.7,Hoffenheim,49200.0,RheinEnergieSTADION,Deniz Aytekin,Bundesliga,20,2017-2018
+11.0,Sun,2017-11-05,18:00,Wolfsburg,2.4,3–3,1.5,Hertha BSC,25214.0,Volkswagen Arena,Robert Kampka,Bundesliga,20,2017-2018
+12.0,Fri,2017-11-17,20:30,Stuttgart,2.1,2–1,1.9,Dortmund,58932.0,Mercedes-Benz Arena,Frank Willenborg,Bundesliga,20,2017-2018
+12.0,Sat,2017-11-18,15:30,Hoffenheim,1.1,1–1,0.8,Eint Frankfurt,30150.0,Dietmar-Hopp-Stadion,Felix Zwayer,Bundesliga,20,2017-2018
+12.0,Sat,2017-11-18,15:30,Wolfsburg,2.7,3–1,1.0,Freiburg,23744.0,Volkswagen Arena,Manuel Gräfe,Bundesliga,20,2017-2018
+12.0,Sat,2017-11-18,15:30,Mainz 05,1.7,1–0,0.8,Köln,30473.0,Opel Arena,Felix Brych,Bundesliga,20,2017-2018
+12.0,Sat,2017-11-18,15:30,Leverkusen,2.2,2–2,2.3,RB Leipzig,29218.0,BayArena,Harm Osmers,Bundesliga,20,2017-2018
+12.0,Sat,2017-11-18,15:30,Bayern Munich,1.7,3–0,0.5,Augsburg,75000.0,Allianz Arena,Markus Schmidt,Bundesliga,20,2017-2018
+12.0,Sat,2017-11-18,18:30,Hertha BSC,1.5,2–4,1.4,M'Gladbach,48304.0,Olympiastadion Berlin,Bastian Dankert,Bundesliga,20,2017-2018
+12.0,Sun,2017-11-19,15:30,Schalke 04,1.9,2–0,1.2,Hamburger SV,62271.0,Veltins-Arena,Robert Hartmann,Bundesliga,20,2017-2018
+12.0,Sun,2017-11-19,18:00,Werder Bremen,2.8,4–0,1.3,Hannover 96,41500.0,Weserstadion,Benjamin Cortus,Bundesliga,20,2017-2018
+13.0,Fri,2017-11-24,20:30,Hannover 96,1.6,1–1,1.3,Stuttgart,43500.0,HDI-Arena,Christian Dingert,Bundesliga,20,2017-2018
+13.0,Sat,2017-11-25,15:30,Augsburg,2.4,2–1,0.2,Wolfsburg,26541.0,WWK Arena,Tobias Stieler,Bundesliga,20,2017-2018
+13.0,Sat,2017-11-25,15:30,Freiburg,2.9,2–1,0.9,Mainz 05,24000.0,Schwarzwald-Stadion,Daniel Siebert,Bundesliga,20,2017-2018
+13.0,Sat,2017-11-25,15:30,RB Leipzig,1.2,2–0,1.0,Werder Bremen,40172.0,Red Bull Arena,Sascha Stegemann,Bundesliga,20,2017-2018
+13.0,Sat,2017-11-25,15:30,Eint Frankfurt,0.6,0–1,1.1,Leverkusen,50000.0,Commerzbank-Arena,Patrick Ittrich,Bundesliga,20,2017-2018
+13.0,Sat,2017-11-25,15:30,Dortmund,1.8,4–4,1.8,Schalke 04,80179.0,Signal Iduna Park,Deniz Aytekin,Bundesliga,20,2017-2018
+13.0,Sat,2017-11-25,18:30,M'Gladbach,2.4,2–1,1.9,Bayern Munich,54018.0,Stadion im Borussia-Park,Manuel Gräfe,Bundesliga,20,2017-2018
+13.0,Sun,2017-11-26,15:30,Hamburger SV,1.7,3–0,1.1,Hoffenheim,46470.0,Volksparkstadion,Bastian Dankert,Bundesliga,20,2017-2018
+13.0,Sun,2017-11-26,18:00,Köln,1.1,0–2,2.0,Hertha BSC,47800.0,RheinEnergieSTADION,Bibiana Steinhaus,Bundesliga,20,2017-2018
+14.0,Fri,2017-12-01,20:30,Freiburg,1.3,0–0,0.7,Hamburger SV,24000.0,Schwarzwald-Stadion,Benjamin Brand,Bundesliga,20,2017-2018
+14.0,Sat,2017-12-02,15:30,Bayern Munich,3.7,3–1,1.2,Hannover 96,75000.0,Allianz Arena,Guido Winkmann,Bundesliga,20,2017-2018
+14.0,Sat,2017-12-02,15:30,Werder Bremen,1.1,1–0,1.1,Stuttgart,41500.0,Weserstadion,Bastian Dankert,Bundesliga,20,2017-2018
+14.0,Sat,2017-12-02,15:30,Hoffenheim,1.4,4–0,0.5,RB Leipzig,28299.0,Dietmar-Hopp-Stadion,Daniel Siebert,Bundesliga,20,2017-2018
+14.0,Sat,2017-12-02,15:30,Leverkusen,2.0,1–1,0.8,Dortmund,30210.0,BayArena,Robert Hartmann,Bundesliga,20,2017-2018
+14.0,Sat,2017-12-02,15:30,Mainz 05,0.6,1–3,2.1,Augsburg,25037.0,Opel Arena,Frank Willenborg,Bundesliga,20,2017-2018
+14.0,Sat,2017-12-02,18:30,Schalke 04,2.5,2–2,1.8,Köln,61761.0,Veltins-Arena,Tobias Stieler,Bundesliga,20,2017-2018
+14.0,Sun,2017-12-03,15:30,Hertha BSC,1.1,1–2,0.5,Eint Frankfurt,38781.0,Olympiastadion Berlin,Sören Storks,Bundesliga,20,2017-2018
+14.0,Sun,2017-12-03,18:00,Wolfsburg,1.5,3–0,1.1,M'Gladbach,24250.0,Volkswagen Arena,Benjamin Cortus,Bundesliga,20,2017-2018
+15.0,Fri,2017-12-08,20:30,Stuttgart,0.4,0–2,1.5,Leverkusen,54650.0,Mercedes-Benz Arena,Deniz Aytekin,Bundesliga,20,2017-2018
+15.0,Sat,2017-12-09,15:30,Hamburger SV,1.3,0–0,0.1,Wolfsburg,45226.0,Volksparkstadion,Christian Dingert,Bundesliga,20,2017-2018
+15.0,Sat,2017-12-09,15:30,RB Leipzig,1.6,2–2,0.9,Mainz 05,32817.0,Red Bull Arena,Patrick Ittrich,Bundesliga,20,2017-2018
+15.0,Sat,2017-12-09,15:30,Eint Frankfurt,0.6,0–1,0.3,Bayern Munich,51500.0,Commerzbank-Arena,Harm Osmers,Bundesliga,20,2017-2018
+15.0,Sat,2017-12-09,15:30,Dortmund,1.9,1–2,1.0,Werder Bremen,81160.0,Signal Iduna Park,Manuel Gräfe,Bundesliga,20,2017-2018
+15.0,Sat,2017-12-09,18:30,M'Gladbach,1.4,1–1,1.0,Schalke 04,54018.0,Stadion im Borussia-Park,Sascha Stegemann,Bundesliga,20,2017-2018
+15.0,Sun,2017-12-10,13:30,Köln,1.5,3–4,3.3,Freiburg,45100.0,RheinEnergieSTADION,Robert Kampka,Bundesliga,20,2017-2018
+15.0,Sun,2017-12-10,15:30,Hannover 96,1.4,2–0,0.8,Hoffenheim,36800.0,HDI-Arena,Markus Schmidt,Bundesliga,20,2017-2018
+15.0,Sun,2017-12-10,18:00,Augsburg,1.2,1–1,0.6,Hertha BSC,26641.0,WWK Arena,Martin Petersen,Bundesliga,20,2017-2018
+16.0,Tue,2017-12-12,18:30,Wolfsburg,2.4,1–1,0.5,RB Leipzig,22827.0,Volkswagen Arena,Guido Winkmann,Bundesliga,20,2017-2018
+16.0,Tue,2017-12-12,20:30,Freiburg,1.7,1–0,0.4,M'Gladbach,23800.0,Schwarzwald-Stadion,Deniz Aytekin,Bundesliga,20,2017-2018
+16.0,Tue,2017-12-12,20:30,Hamburger SV,1.7,1–2,1.3,Eint Frankfurt,40983.0,Volksparkstadion,Manuel Gräfe,Bundesliga,20,2017-2018
+16.0,Tue,2017-12-12,20:30,Mainz 05,0.5,0–2,2.0,Dortmund,32976.0,Opel Arena,Benjamin Brand,Bundesliga,20,2017-2018
+16.0,Wed,2017-12-13,18:30,Hoffenheim,1.4,1–0,0.7,Stuttgart,30150.0,Dietmar-Hopp-Stadion,Bibiana Steinhaus,Bundesliga,20,2017-2018
+16.0,Wed,2017-12-13,20:30,Schalke 04,3.1,3–2,1.8,Augsburg,59215.0,Veltins-Arena,Sven Jablonski,Bundesliga,20,2017-2018
+16.0,Wed,2017-12-13,20:30,Bayern Munich,2.7,1–0,0.3,Köln,75000.0,Allianz Arena,Daniel Siebert,Bundesliga,20,2017-2018
+16.0,Wed,2017-12-13,20:30,Leverkusen,2.6,1–0,0.4,Werder Bremen,26620.0,BayArena,Tobias Stieler,Bundesliga,20,2017-2018
+16.0,Wed,2017-12-13,20:30,Hertha BSC,2.5,3–1,2.6,Hannover 96,29231.0,Olympiastadion Berlin,Robert Hartmann,Bundesliga,20,2017-2018
+17.0,Fri,2017-12-15,20:30,M'Gladbach,2.1,3–1,0.8,Hamburger SV,51409.0,Stadion im Borussia-Park,Markus Schmidt,Bundesliga,20,2017-2018
+17.0,Sat,2017-12-16,15:30,Köln,1.8,1–0,1.2,Wolfsburg,41100.0,RheinEnergieSTADION,Benjamin Brand,Bundesliga,20,2017-2018
+17.0,Sat,2017-12-16,15:30,Werder Bremen,1.3,2–2,1.0,Mainz 05,39000.0,Weserstadion,Benjamin Cortus,Bundesliga,20,2017-2018
+17.0,Sat,2017-12-16,15:30,Augsburg,2.5,3–3,1.7,Freiburg,26345.0,WWK Arena,Christian Dingert,Bundesliga,20,2017-2018
+17.0,Sat,2017-12-16,15:30,Eint Frankfurt,1.6,2–2,1.9,Schalke 04,50600.0,Commerzbank-Arena,Robert Kampka,Bundesliga,20,2017-2018
+17.0,Sat,2017-12-16,15:30,Stuttgart,1.2,0–1,2.0,Bayern Munich,58885.0,Mercedes-Benz Arena,Patrick Ittrich,Bundesliga,20,2017-2018
+17.0,Sat,2017-12-16,18:30,Dortmund,3.1,2–1,1.3,Hoffenheim,81000.0,Signal Iduna Park,Harm Osmers,Bundesliga,20,2017-2018
+17.0,Sun,2017-12-17,15:30,Hannover 96,2.4,4–4,2.5,Leverkusen,32800.0,HDI-Arena,Sören Storks,Bundesliga,20,2017-2018
+17.0,Sun,2017-12-17,18:00,RB Leipzig,2.3,2–3,1.2,Hertha BSC,36109.0,Red Bull Arena,Frank Willenborg,Bundesliga,20,2017-2018
+18.0,Fri,2018-01-12,20:30,Leverkusen,0.7,1–3,1.6,Bayern Munich,30210.0,BayArena,Daniel Siebert,Bundesliga,20,2017-2018
+18.0,Sat,2018-01-13,15:30,Hannover 96,2.8,3–2,0.6,Mainz 05,34500.0,HDI-Arena,Bastian Dankert,Bundesliga,20,2017-2018
+18.0,Sat,2018-01-13,15:30,Eint Frankfurt,1.9,1–1,0.2,Freiburg,45300.0,Commerzbank-Arena,Sascha Stegemann,Bundesliga,20,2017-2018
+18.0,Sat,2018-01-13,15:30,Stuttgart,0.4,1–0,1.0,Hertha BSC,57181.0,Mercedes-Benz Arena,Felix Brych,Bundesliga,20,2017-2018
+18.0,Sat,2018-01-13,15:30,Werder Bremen,1.6,1–1,1.4,Hoffenheim,37500.0,Weserstadion,Robert Hartmann,Bundesliga,20,2017-2018
+18.0,Sat,2018-01-13,15:30,Augsburg,1.6,1–0,0.6,Hamburger SV,30087.0,WWK Arena,Manuel Gräfe,Bundesliga,20,2017-2018
+18.0,Sat,2018-01-13,18:30,RB Leipzig,2.6,3–1,0.4,Schalke 04,42558.0,Red Bull Arena,Deniz Aytekin,Bundesliga,20,2017-2018
+18.0,Sun,2018-01-14,15:30,Köln,0.9,2–1,2.0,M'Gladbach,50000.0,RheinEnergieSTADION,Felix Zwayer,Bundesliga,20,2017-2018
+18.0,Sun,2018-01-14,18:00,Dortmund,2.4,0–0,1.4,Wolfsburg,80600.0,Signal Iduna Park,Tobias Stieler,Bundesliga,20,2017-2018
+19.0,Fri,2018-01-19,20:30,Hertha BSC,0.6,1–1,1.2,Dortmund,65893.0,Olympiastadion Berlin,Christian Dingert,Bundesliga,20,2017-2018
+19.0,Sat,2018-01-20,15:30,M'Gladbach,1.1,2–0,1.0,Augsburg,42016.0,Stadion im Borussia-Park,Bibiana Steinhaus,Bundesliga,20,2017-2018
+19.0,Sat,2018-01-20,15:30,Hoffenheim,0.7,1–4,2.6,Leverkusen,28017.0,Dietmar-Hopp-Stadion,Tobias Stieler,Bundesliga,20,2017-2018
+19.0,Sat,2018-01-20,15:30,Wolfsburg,1.4,1–3,1.7,Eint Frankfurt,24450.0,Volkswagen Arena,Markus Schmidt,Bundesliga,20,2017-2018
+19.0,Sat,2018-01-20,15:30,Freiburg,0.5,2–1,1.0,RB Leipzig,23700.0,Schwarzwald-Stadion,Benjamin Brand,Bundesliga,20,2017-2018
+19.0,Sat,2018-01-20,15:30,Mainz 05,2.6,3–2,1.0,Stuttgart,25736.0,Opel Arena,Harm Osmers,Bundesliga,20,2017-2018
+19.0,Sat,2018-01-20,18:30,Hamburger SV,1.0,0–2,1.2,Köln,52674.0,Volksparkstadion,Guido Winkmann,Bundesliga,20,2017-2018
+19.0,Sun,2018-01-21,15:30,Bayern Munich,1.8,4–2,0.5,Werder Bremen,75000.0,Allianz Arena,Robert Kampka,Bundesliga,20,2017-2018
+19.0,Sun,2018-01-21,18:00,Schalke 04,0.5,1–1,0.9,Hannover 96,60650.0,Veltins-Arena,Martin Petersen,Bundesliga,20,2017-2018
+20.0,Fri,2018-01-26,20:30,Eint Frankfurt,1.2,2–0,1.4,M'Gladbach,47500.0,Commerzbank-Arena,Marco Fritz,Bundesliga,20,2017-2018
+20.0,Sat,2018-01-27,15:30,Stuttgart,0.6,0–2,2.7,Schalke 04,55096.0,Mercedes-Benz Arena,Felix Zwayer,Bundesliga,20,2017-2018
+20.0,Sat,2018-01-27,15:30,RB Leipzig,1.2,1–1,1.1,Hamburger SV,42558.0,Red Bull Arena,Benjamin Cortus,Bundesliga,20,2017-2018
+20.0,Sat,2018-01-27,15:30,Köln,1.1,1–1,0.8,Augsburg,49900.0,RheinEnergieSTADION,Christian Dingert,Bundesliga,20,2017-2018
+20.0,Sat,2018-01-27,15:30,Bayern Munich,2.7,5–2,1.0,Hoffenheim,75000.0,Allianz Arena,Manuel Gräfe,Bundesliga,20,2017-2018
+20.0,Sat,2018-01-27,15:30,Dortmund,1.3,2–2,0.4,Freiburg,81360.0,Signal Iduna Park,Daniel Siebert,Bundesliga,20,2017-2018
+20.0,Sat,2018-01-27,18:30,Werder Bremen,1.6,0–0,1.1,Hertha BSC,40030.0,Weserstadion,Bastian Dankert,Bundesliga,20,2017-2018
+20.0,Sun,2018-01-28,15:30,Leverkusen,1.8,2–0,0.1,Mainz 05,25471.0,BayArena,Frank Willenborg,Bundesliga,20,2017-2018
+20.0,Sun,2018-01-28,18:00,Hannover 96,1.0,0–1,0.4,Wolfsburg,34300.0,HDI-Arena,Felix Brych,Bundesliga,20,2017-2018
+21.0,Fri,2018-02-02,20:30,Köln,2.4,2–3,1.8,Dortmund,50000.0,RheinEnergieSTADION,Benjamin Brand,Bundesliga,20,2017-2018
+21.0,Sat,2018-02-03,15:30,Mainz 05,1.6,0–2,1.8,Bayern Munich,34000.0,Opel Arena,Sören Storks,Bundesliga,20,2017-2018
+21.0,Sat,2018-02-03,15:30,Freiburg,1.0,0–0,0.7,Leverkusen,24000.0,Schwarzwald-Stadion,Robert Kampka,Bundesliga,20,2017-2018
+21.0,Sat,2018-02-03,15:30,Wolfsburg,1.0,1–1,1.5,Stuttgart,24378.0,Volkswagen Arena,Robert Hartmann,Bundesliga,20,2017-2018
+21.0,Sat,2018-02-03,15:30,Hertha BSC,1.0,1–1,1.9,Hoffenheim,32598.0,Olympiastadion Berlin,Deniz Aytekin,Bundesliga,20,2017-2018
+21.0,Sat,2018-02-03,15:30,Schalke 04,1.1,1–2,2.0,Werder Bremen,62271.0,Veltins-Arena,Guido Winkmann,Bundesliga,20,2017-2018
+21.0,Sat,2018-02-03,18:30,M'Gladbach,1.0,0–1,1.1,RB Leipzig,49018.0,Stadion im Borussia-Park,Tobias Stieler,Bundesliga,20,2017-2018
+21.0,Sun,2018-02-04,15:30,Augsburg,2.4,3–0,0.6,Eint Frankfurt,27188.0,WWK Arena,Harm Osmers,Bundesliga,20,2017-2018
+21.0,Sun,2018-02-04,18:00,Hamburger SV,1.5,1–1,1.4,Hannover 96,46016.0,Volksparkstadion,Sascha Stegemann,Bundesliga,20,2017-2018
+22.0,Fri,2018-02-09,20:30,RB Leipzig,2.2,2–0,1.0,Augsburg,34286.0,Red Bull Arena,Sven Jablonski,Bundesliga,20,2017-2018
+22.0,Sat,2018-02-10,15:30,Dortmund,2.3,2–0,0.6,Hamburger SV,81360.0,Signal Iduna Park,Marco Fritz,Bundesliga,20,2017-2018
+22.0,Sat,2018-02-10,15:30,Eint Frankfurt,2.2,4–2,1.4,Köln,47700.0,Commerzbank-Arena,Daniel Siebert,Bundesliga,20,2017-2018
+22.0,Sat,2018-02-10,15:30,Leverkusen,1.0,0–2,0.8,Hertha BSC,25601.0,BayArena,Patrick Ittrich,Bundesliga,20,2017-2018
+22.0,Sat,2018-02-10,15:30,Hannover 96,1.0,2–1,1.1,Freiburg,37800.0,HDI-Arena,Manuel Gräfe,Bundesliga,20,2017-2018
+22.0,Sat,2018-02-10,15:30,Hoffenheim,2.5,4–2,1.4,Mainz 05,24105.0,Dietmar-Hopp-Stadion,Benjamin Cortus,Bundesliga,20,2017-2018
+22.0,Sat,2018-02-10,18:30,Bayern Munich,1.8,2–1,0.7,Schalke 04,75000.0,Allianz Arena,Tobias Stieler,Bundesliga,20,2017-2018
+22.0,Sun,2018-02-11,15:30,Stuttgart,0.7,1–0,0.9,M'Gladbach,53296.0,Mercedes-Benz Arena,Frank Willenborg,Bundesliga,20,2017-2018
+22.0,Sun,2018-02-11,18:00,Werder Bremen,1.0,3–1,1.9,Wolfsburg,38062.0,Weserstadion,Deniz Aytekin,Bundesliga,20,2017-2018
+23.0,Fri,2018-02-16,20:30,Hertha BSC,0.5,0–2,1.6,Mainz 05,30908.0,Olympiastadion Berlin,Martin Petersen,Bundesliga,20,2017-2018
+23.0,Sat,2018-02-17,15:30,Wolfsburg,0.3,1–2,2.7,Bayern Munich,30000.0,Volkswagen Arena,Sascha Stegemann,Bundesliga,20,2017-2018
+23.0,Sat,2018-02-17,15:30,Hamburger SV,1.0,1–2,2.2,Leverkusen,45691.0,Volksparkstadion,Felix Brych,Bundesliga,20,2017-2018
+23.0,Sat,2018-02-17,15:30,Freiburg,1.9,1–0,0.5,Werder Bremen,24000.0,Schwarzwald-Stadion,Robert Hartmann,Bundesliga,20,2017-2018
+23.0,Sat,2018-02-17,15:30,Köln,0.3,1–1,1.6,Hannover 96,48400.0,RheinEnergieSTADION,Markus Schmidt,Bundesliga,20,2017-2018
+23.0,Sat,2018-02-17,18:30,Schalke 04,1.2,2–1,0.5,Hoffenheim,60741.0,Veltins-Arena,Benjamin Brand,Bundesliga,20,2017-2018
+23.0,Sun,2018-02-18,15:30,Augsburg,0.5,0–1,1.6,Stuttgart,30007.0,WWK Arena,Tobias Stieler,Bundesliga,20,2017-2018
+23.0,Sun,2018-02-18,18:00,M'Gladbach,2.4,0–1,0.5,Dortmund,54018.0,Stadion im Borussia-Park,Bastian Dankert,Bundesliga,20,2017-2018
+23.0,Mon,2018-02-19,20:30,Eint Frankfurt,1.2,2–1,0.6,RB Leipzig,45100.0,Commerzbank-Arena,Felix Zwayer,Bundesliga,20,2017-2018
+24.0,Fri,2018-02-23,20:30,Mainz 05,1.0,1–1,1.3,Wolfsburg,25173.0,Opel Arena,Bastian Dankert,Bundesliga,20,2017-2018
+24.0,Sat,2018-02-24,15:30,Stuttgart,1.7,1–0,0.5,Eint Frankfurt,55418.0,Mercedes-Benz Arena,Bibiana Steinhaus,Bundesliga,20,2017-2018
+24.0,Sat,2018-02-24,15:30,Hannover 96,1.9,0–1,1.3,M'Gladbach,43000.0,HDI-Arena,Robert Kampka,Bundesliga,20,2017-2018
+24.0,Sat,2018-02-24,15:30,Hoffenheim,0.6,1–1,1.0,Freiburg,30150.0,Dietmar-Hopp-Stadion,Christian Dingert,Bundesliga,20,2017-2018
+24.0,Sat,2018-02-24,15:30,Bayern Munich,2.4,0–0,0.3,Hertha BSC,75000.0,Allianz Arena,Guido Winkmann,Bundesliga,20,2017-2018
+24.0,Sat,2018-02-24,18:30,Werder Bremen,0.9,1–0,0.6,Hamburger SV,42100.0,Weserstadion,Felix Zwayer,Bundesliga,20,2017-2018
+24.0,Sun,2018-02-25,15:30,Leverkusen,0.3,0–2,1.5,Schalke 04,30210.0,BayArena,Daniel Siebert,Bundesliga,20,2017-2018
+24.0,Sun,2018-02-25,18:00,RB Leipzig,2.4,1–2,1.6,Köln,31793.0,Red Bull Arena,Harm Osmers,Bundesliga,20,2017-2018
+24.0,Mon,2018-02-26,20:30,Dortmund,0.7,1–1,1.2,Augsburg,54300.0,Signal Iduna Park,Manuel Gräfe,Bundesliga,20,2017-2018
+25.0,Fri,2018-03-02,20:30,M'Gladbach,1.7,2–2,1.9,Werder Bremen,52211.0,Stadion im Borussia-Park,Benjamin Cortus,Bundesliga,20,2017-2018
+25.0,Sat,2018-03-03,15:30,Augsburg,0.4,0–2,2.1,Hoffenheim,27100.0,WWK Arena,Patrick Ittrich,Bundesliga,20,2017-2018
+25.0,Sat,2018-03-03,15:30,Schalke 04,0.5,1–0,1.6,Hertha BSC,61578.0,Veltins-Arena,Sascha Stegemann,Bundesliga,20,2017-2018
+25.0,Sat,2018-03-03,15:30,Hamburger SV,1.6,0–0,0.5,Mainz 05,46739.0,Volksparkstadion,Markus Schmidt,Bundesliga,20,2017-2018
+25.0,Sat,2018-03-03,15:30,Eint Frankfurt,1.8,1–0,0.4,Hannover 96,48500.0,Commerzbank-Arena,Marco Fritz,Bundesliga,20,2017-2018
+25.0,Sat,2018-03-03,15:30,Wolfsburg,0.2,1–2,1.5,Leverkusen,24354.0,Volkswagen Arena,Felix Zwayer,Bundesliga,20,2017-2018
+25.0,Sat,2018-03-03,18:30,RB Leipzig,0.6,1–1,1.8,Dortmund,42558.0,Red Bull Arena,Felix Brych,Bundesliga,20,2017-2018
+25.0,Sun,2018-03-04,15:30,Köln,1.5,2–3,0.5,Stuttgart,50000.0,RheinEnergieSTADION,Sören Storks,Bundesliga,20,2017-2018
+25.0,Sun,2018-03-04,18:00,Freiburg,0.5,0–4,2.1,Bayern Munich,24000.0,Schwarzwald-Stadion,Frank Willenborg,Bundesliga,20,2017-2018
+26.0,Fri,2018-03-09,20:30,Mainz 05,0.8,0–1,0.3,Schalke 04,30655.0,Opel Arena,Felix Brych,Bundesliga,20,2017-2018
+26.0,Sat,2018-03-10,15:30,Hannover 96,1.0,1–3,2.2,Augsburg,36500.0,HDI-Arena,Bastian Dankert,Bundesliga,20,2017-2018
+26.0,Sat,2018-03-10,15:30,Hoffenheim,1.5,3–0,0.5,Wolfsburg,25550.0,Dietmar-Hopp-Stadion,Manuel Gräfe,Bundesliga,20,2017-2018
+26.0,Sat,2018-03-10,15:30,Hertha BSC,1.3,0–0,0.3,Freiburg,38625.0,Olympiastadion Berlin,Sven Jablonski,Bundesliga,20,2017-2018
+26.0,Sat,2018-03-10,15:30,Bayern Munich,4.2,6–0,0.0,Hamburger SV,75000.0,Allianz Arena,Christian Dingert,Bundesliga,20,2017-2018
+26.0,Sat,2018-03-10,18:30,Leverkusen,2.5,2–0,0.6,M'Gladbach,28809.0,BayArena,Robert Hartmann,Bundesliga,20,2017-2018
+26.0,Sun,2018-03-11,15:30,Stuttgart,1.0,0–0,0.7,RB Leipzig,53548.0,Mercedes-Benz Arena,Tobias Stieler,Bundesliga,20,2017-2018
+26.0,Sun,2018-03-11,18:00,Dortmund,1.2,3–2,1.3,Eint Frankfurt,81360.0,Signal Iduna Park,Deniz Aytekin,Bundesliga,20,2017-2018
+26.0,Mon,2018-03-12,20:30,Werder Bremen,1.4,3–1,0.6,Köln,41100.0,Weserstadion,Benjamin Brand,Bundesliga,20,2017-2018
+27.0,Fri,2018-03-16,20:30,Freiburg,0.4,1–2,1.5,Stuttgart,24000.0,Schwarzwald-Stadion,Benjamin Brand,Bundesliga,20,2017-2018
+27.0,Sat,2018-03-17,15:30,M'Gladbach,3.0,3–3,2.2,Hoffenheim,51049.0,Stadion im Borussia-Park,Martin Petersen,Bundesliga,20,2017-2018
+27.0,Sat,2018-03-17,15:30,Eint Frankfurt,2.4,3–0,0.6,Mainz 05,49500.0,Commerzbank-Arena,Daniel Siebert,Bundesliga,20,2017-2018
+27.0,Sat,2018-03-17,15:30,Hamburger SV,0.9,1–2,1.9,Hertha BSC,52159.0,Volksparkstadion,Robert Kampka,Bundesliga,20,2017-2018
+27.0,Sat,2018-03-17,15:30,Augsburg,0.6,1–3,2.5,Werder Bremen,30080.0,WWK Arena,Sascha Stegemann,Bundesliga,20,2017-2018
+27.0,Sat,2018-03-17,18:30,Wolfsburg,1.7,0–1,1.0,Schalke 04,27502.0,Volkswagen Arena,Benjamin Cortus,Bundesliga,20,2017-2018
+27.0,Sun,2018-03-18,13:30,Dortmund,2.6,1–0,0.6,Hannover 96,81360.0,Signal Iduna Park,Patrick Ittrich,Bundesliga,20,2017-2018
+27.0,Sun,2018-03-18,15:30,Köln,1.4,2–0,0.6,Leverkusen,50000.0,RheinEnergieSTADION,Harm Osmers,Bundesliga,20,2017-2018
+27.0,Sun,2018-03-18,18:00,RB Leipzig,2.2,2–1,1.6,Bayern Munich,42558.0,Red Bull Arena,Marco Fritz,Bundesliga,20,2017-2018
+28.0,Sat,2018-03-31,15:30,Hoffenheim,3.1,6–0,0.6,Köln,30150.0,Dietmar-Hopp-Stadion,Robert Hartmann,Bundesliga,20,2017-2018
+28.0,Sat,2018-03-31,15:30,Stuttgart,1.1,1–1,0.9,Hamburger SV,60449.0,Mercedes-Benz Arena,Felix Brych,Bundesliga,20,2017-2018
+28.0,Sat,2018-03-31,15:30,Schalke 04,2.1,2–0,0.2,Freiburg,61688.0,Veltins-Arena,Tobias Stieler,Bundesliga,20,2017-2018
+28.0,Sat,2018-03-31,15:30,Leverkusen,0.8,0–0,0.3,Augsburg,25831.0,BayArena,Frank Willenborg,Bundesliga,20,2017-2018
+28.0,Sat,2018-03-31,15:30,Hannover 96,1.0,2–3,3.1,RB Leipzig,42300.0,HDI-Arena,Guido Winkmann,Bundesliga,20,2017-2018
+28.0,Sat,2018-03-31,18:30,Bayern Munich,4.0,6–0,0.6,Dortmund,75000.0,Allianz Arena,Bastian Dankert,Bundesliga,20,2017-2018
+28.0,Sat,2018-03-31,20:30,Hertha BSC,0.5,0–0,0.9,Wolfsburg,34765.0,Olympiastadion Berlin,Deniz Aytekin,Bundesliga,20,2017-2018
+28.0,Sun,2018-04-01,15:30,Werder Bremen,0.9,2–1,1.0,Eint Frankfurt,42100.0,Weserstadion,Felix Zwayer,Bundesliga,20,2017-2018
+28.0,Sun,2018-04-01,18:00,Mainz 05,0.7,0–0,0.9,M'Gladbach,30173.0,Opel Arena,Manuel Gräfe,Bundesliga,20,2017-2018
+29.0,Fri,2018-04-06,20:30,Hannover 96,1.5,2–1,1.4,Werder Bremen,49000.0,HDI-Arena,Tobias Welz,Bundesliga,20,2017-2018
+29.0,Sat,2018-04-07,15:30,Köln,1.3,1–1,1.5,Mainz 05,50000.0,RheinEnergieSTADION,Benjamin Cortus,Bundesliga,20,2017-2018
+29.0,Sat,2018-04-07,15:30,Augsburg,1.2,1–4,1.6,Bayern Munich,30660.0,WWK Arena,Markus Schmidt,Bundesliga,20,2017-2018
+29.0,Sat,2018-04-07,15:30,M'Gladbach,1.4,2–1,2.6,Hertha BSC,51417.0,Stadion im Borussia-Park,Bibiana Steinhaus,Bundesliga,20,2017-2018
+29.0,Sat,2018-04-07,15:30,Freiburg,1.4,0–2,0.9,Wolfsburg,24000.0,Schwarzwald-Stadion,Sascha Stegemann,Bundesliga,20,2017-2018
+29.0,Sat,2018-04-07,18:30,Hamburger SV,1.9,3–2,1.2,Schalke 04,54137.0,Volksparkstadion,Christian Dingert,Bundesliga,20,2017-2018
+29.0,Sun,2018-04-08,15:30,Dortmund,1.7,3–0,0.6,Stuttgart,81360.0,Signal Iduna Park,Patrick Ittrich,Bundesliga,20,2017-2018
+29.0,Sun,2018-04-08,18:00,Eint Frankfurt,1.6,1–1,1.1,Hoffenheim,50500.0,Commerzbank-Arena,Daniel Siebert,Bundesliga,20,2017-2018
+29.0,Mon,2018-04-09,20:30,RB Leipzig,1.6,1–4,1.6,Leverkusen,35617.0,Red Bull Arena,Deniz Aytekin,Bundesliga,20,2017-2018
+30.0,Fri,2018-04-13,20:30,Wolfsburg,1.1,0–0,0.3,Augsburg,23512.0,Volkswagen Arena,Patrick Ittrich,Bundesliga,20,2017-2018
+30.0,Sat,2018-04-14,15:30,Hertha BSC,1.7,2–1,1.6,Köln,49253.0,Olympiastadion Berlin,Sören Storks,Bundesliga,20,2017-2018
+30.0,Sat,2018-04-14,15:30,Stuttgart,0.9,1–1,0.9,Hannover 96,57131.0,Mercedes-Benz Arena,Sven Jablonski,Bundesliga,20,2017-2018
+30.0,Sat,2018-04-14,15:30,Leverkusen,2.9,4–1,0.9,Eint Frankfurt,30210.0,BayArena,Felix Brych,Bundesliga,20,2017-2018
+30.0,Sat,2018-04-14,15:30,Hoffenheim,2.5,2–0,0.5,Hamburger SV,30150.0,Dietmar-Hopp-Stadion,Harm Osmers,Bundesliga,20,2017-2018
+30.0,Sat,2018-04-14,18:30,Bayern Munich,3.4,5–1,0.2,M'Gladbach,75000.0,Allianz Arena,Robert Kampka,Bundesliga,20,2017-2018
+30.0,Sun,2018-04-15,15:30,Schalke 04,0.8,2–0,0.8,Dortmund,61786.0,Veltins-Arena,Manuel Gräfe,Bundesliga,20,2017-2018
+30.0,Sun,2018-04-15,18:00,Werder Bremen,1.1,1–1,1.2,RB Leipzig,42100.0,Weserstadion,Christian Dingert,Bundesliga,20,2017-2018
+30.0,Mon,2018-04-16,20:30,Mainz 05,2.4,2–0,0.4,Freiburg,26407.0,Opel Arena,Guido Winkmann,Bundesliga,20,2017-2018
+31.0,Fri,2018-04-20,20:30,M'Gladbach,2.1,3–0,0.4,Wolfsburg,47797.0,Stadion im Borussia-Park,Tobias Stieler,Bundesliga,20,2017-2018
+31.0,Sat,2018-04-21,15:30,Eint Frankfurt,1.4,0–3,1.4,Hertha BSC,51000.0,Commerzbank-Arena,Sascha Stegemann,Bundesliga,20,2017-2018
+31.0,Sat,2018-04-21,15:30,Hamburger SV,1.5,1–0,1.0,Freiburg,54847.0,Volksparkstadion,Benjamin Cortus,Bundesliga,20,2017-2018
+31.0,Sat,2018-04-21,15:30,Hannover 96,0.5,0–3,1.3,Bayern Munich,49000.0,HDI-Arena,Martin Petersen,Bundesliga,20,2017-2018
+31.0,Sat,2018-04-21,15:30,Stuttgart,1.4,2–0,0.6,Werder Bremen,58932.0,Mercedes-Benz Arena,Sören Storks,Bundesliga,20,2017-2018
+31.0,Sat,2018-04-21,15:30,RB Leipzig,1.9,2–5,3.0,Hoffenheim,41780.0,Red Bull Arena,Tobias Welz,Bundesliga,20,2017-2018
+31.0,Sat,2018-04-21,18:30,Dortmund,3.2,4–0,0.5,Leverkusen,81360.0,Signal Iduna Park,Markus Schmidt,Bundesliga,20,2017-2018
+31.0,Sun,2018-04-22,15:30,Augsburg,1.8,2–0,0.3,Mainz 05,29110.0,WWK Arena,Frank Willenborg,Bundesliga,20,2017-2018
+31.0,Sun,2018-04-22,18:00,Köln,0.9,2–2,2.2,Schalke 04,50000.0,RheinEnergieSTADION,Marco Fritz,Bundesliga,20,2017-2018
+32.0,Fri,2018-04-27,20:30,Hoffenheim,1.8,3–1,1.4,Hannover 96,26452.0,Dietmar-Hopp-Stadion,Patrick Ittrich,Bundesliga,20,2017-2018
+32.0,Sat,2018-04-28,15:30,Bayern Munich,2.2,4–1,1.3,Eint Frankfurt,75000.0,Allianz Arena,Christian Dingert,Bundesliga,20,2017-2018
+32.0,Sat,2018-04-28,15:30,Freiburg,4.1,3–2,1.4,Köln,24000.0,Schwarzwald-Stadion,Deniz Aytekin,Bundesliga,20,2017-2018
+32.0,Sat,2018-04-28,15:30,Schalke 04,1.3,1–1,1.9,M'Gladbach,62271.0,Veltins-Arena,Harm Osmers,Bundesliga,20,2017-2018
+32.0,Sat,2018-04-28,15:30,Hertha BSC,1.5,2–2,1.0,Augsburg,40935.0,Olympiastadion Berlin,Marco Fritz,Bundesliga,20,2017-2018
+32.0,Sat,2018-04-28,15:30,Wolfsburg,1.0,1–3,2.5,Hamburger SV,29400.0,Volkswagen Arena,Daniel Siebert,Bundesliga,20,2017-2018
+32.0,Sat,2018-04-28,18:30,Leverkusen,2.9,0–1,0.2,Stuttgart,30210.0,BayArena,Tobias Welz,Bundesliga,20,2017-2018
+32.0,Sun,2018-04-29,15:30,Mainz 05,2.0,3–0,1.4,RB Leipzig,30083.0,Opel Arena,Bastian Dankert,Bundesliga,20,2017-2018
+32.0,Sun,2018-04-29,18:00,Werder Bremen,1.1,1–1,2.7,Dortmund,41000.0,Weserstadion,Felix Brych,Bundesliga,20,2017-2018
+33.0,Sat,2018-05-05,15:30,Augsburg,1.0,1–2,2.0,Schalke 04,30660.0,WWK Arena,Robert Kampka,Bundesliga,20,2017-2018
+33.0,Sat,2018-05-05,15:30,RB Leipzig,1.8,4–1,0.7,Wolfsburg,41487.0,Red Bull Arena,Marco Fritz,Bundesliga,20,2017-2018
+33.0,Sat,2018-05-05,15:30,Köln,1.7,1–3,2.4,Bayern Munich,50000.0,RheinEnergieSTADION,Bibiana Steinhaus,Bundesliga,20,2017-2018
+33.0,Sat,2018-05-05,15:30,Dortmund,0.9,1–2,1.1,Mainz 05,81360.0,Signal Iduna Park,Daniel Siebert,Bundesliga,20,2017-2018
+33.0,Sat,2018-05-05,15:30,Werder Bremen,0.2,0–0,1.0,Leverkusen,41000.0,Weserstadion,Robert Hartmann,Bundesliga,20,2017-2018
+33.0,Sat,2018-05-05,15:30,M'Gladbach,2.2,3–1,2.1,Freiburg,54018.0,Stadion im Borussia-Park,Manuel Gräfe,Bundesliga,20,2017-2018
+33.0,Sat,2018-05-05,15:30,Stuttgart,1.0,2–0,2.6,Hoffenheim,58312.0,Mercedes-Benz Arena,Felix Zwayer,Bundesliga,20,2017-2018
+33.0,Sat,2018-05-05,15:30,Hannover 96,1.4,3–1,0.9,Hertha BSC,49000.0,HDI-Arena,Sören Storks,Bundesliga,20,2017-2018
+33.0,Sat,2018-05-05,15:30,Eint Frankfurt,1.2,3–0,0.9,Hamburger SV,51500.0,Commerzbank-Arena,Deniz Aytekin,Bundesliga,20,2017-2018
+34.0,Sat,2018-05-12,15:30,Mainz 05,1.0,1–2,1.0,Werder Bremen,34000.0,Opel Arena,Martin Petersen,Bundesliga,20,2017-2018
+34.0,Sat,2018-05-12,15:30,Leverkusen,4.7,3–2,2.1,Hannover 96,30210.0,BayArena,Guido Winkmann,Bundesliga,20,2017-2018
+34.0,Sat,2018-05-12,15:30,Schalke 04,1.1,1–0,0.6,Eint Frankfurt,61585.0,Veltins-Arena,Frank Willenborg,Bundesliga,20,2017-2018
+34.0,Sat,2018-05-12,15:30,Freiburg,0.9,2–0,0.1,Augsburg,24000.0,Schwarzwald-Stadion,Bastian Dankert,Bundesliga,20,2017-2018
+34.0,Sat,2018-05-12,15:30,Bayern Munich,2.5,1–4,2.6,Stuttgart,75000.0,Allianz Arena,Sascha Stegemann,Bundesliga,20,2017-2018
+34.0,Sat,2018-05-12,15:30,Hertha BSC,1.0,2–6,1.4,RB Leipzig,60502.0,Olympiastadion Berlin,Sven Jablonski,Bundesliga,20,2017-2018
+34.0,Sat,2018-05-12,15:30,Wolfsburg,3.2,4–1,0.8,Köln,26112.0,Volkswagen Arena,Markus Schmidt,Bundesliga,20,2017-2018
+34.0,Sat,2018-05-12,15:30,Hamburger SV,2.3,2–1,1.1,M'Gladbach,57000.0,Volksparkstadion,Felix Brych,Bundesliga,20,2017-2018
+34.0,Sat,2018-05-12,15:30,Hoffenheim,1.4,3–1,1.3,Dortmund,30150.0,Dietmar-Hopp-Stadion,Manuel Gräfe,Bundesliga,20,2017-2018

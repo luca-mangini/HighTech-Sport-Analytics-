@@ -71,8 +71,8 @@ dict_league_names = {'Premier-League': '9',
                      'Bundesliga': '20',
                      'Serie-A': '11',
                      'La-Liga': '12',
-                     'Major-League-Soccer': '22',
-                     'Big-5-European-Leagues': 'Big5'
+                     'Champions-League': '8',
+                     'Europa-League': '19'
                     }
 
 # Define league saison and their IDs
@@ -101,12 +101,20 @@ dict_league_saison = {'Premier-League-2017-2018': '1631',
                      'La-Liga-2019-2020': '3239',
                      'La-Liga-2020-2021': '10731',
                      'La-Liga-2021-2022': '',
-                     'Major-League-Soccer': '22',
-                     'Big-5-European-Leagues': 'Big5'
+                     'Champions-League-2017-2018': '1656',
+                     'Champions-League-2018-2019': '2102',
+                     'Champions-League-2019-2020': '2900',
+                     'Champions-League-2020-2021': '10096',
+                     'Champions-League-2021-2022': '',
+                     'Europa-League-2017-2018': '1657',
+                     'Europa-League-2018-2019': '2103',
+                     'Europa-League-2019-2020': '2901',
+                     'Europa-League-2020-2021': '10097',
+                     'Europa-League-2021-2022': '',
                     }
 
 ## Define list of long names for 'Big 5' European Leagues and MLS
-lst_league_names_long = ['Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga', 'Major-League-Soccer']
+lst_league_names_long = ['Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga','Champions-League','Europa-League']
 
 ## Define seasons to scrape
 lst_seasons = ['2017-2018', '2018-2019', '2019-2020', '2020-2021', '2021-2022']
@@ -150,7 +158,6 @@ def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
 
         ### Loop through leagues
         for league_name_long in league_names_long:
-            
             #### Determine league short name from the league names dictionary
             league_name_short = [v for k,v in dict_league_names.items() if k == league_name_long][0]
             saison_name_short = [v for k,v in dict_league_saison.items() if k == league_name_long+"-"+str(season)][0]
@@ -414,7 +421,7 @@ pd.set_option('display.max_columns', None)
 lst_league_names = ['Ligue-1','Bundesliga', 'Serie-A', 'La-Liga','Premier-League']     #'Big-5-European-Leagues','Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga', 'Major-League-Soccer']
 lst_seasons = ['2017-2018','2018-2019','2019-2020','2020-2021','2021-2022']
 
-df_fbref_outfield_raw = get_fbref_squad_stats_player(lst_league_names, lst_seasons)
+df_fbref_outfield_raw = get_fbref_squad_stats_player(lst_league_names_long, lst_seasons)
 
 from sqlalchemy import create_engine
 import pymysql

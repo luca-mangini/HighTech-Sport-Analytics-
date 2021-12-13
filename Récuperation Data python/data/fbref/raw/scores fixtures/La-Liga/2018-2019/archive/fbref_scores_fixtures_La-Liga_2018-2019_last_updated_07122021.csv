@@ -1,0 +1,382 @@
+Wk,Day,Date,Time,Home,xG,Score,xG.1,Away,Attendance,Venue,Referee,League Name,League ID,Season
+1.0,Fri,2018-08-17,20:15,Girona,0.9,0–0,0.1,Valladolid,10368.0,Estadi Municipal de Montilivi,Guillermo Cuadra,La-Liga,12,2018-2019
+1.0,Fri,2018-08-17,22:15,Betis,1.4,0–3,1.9,Levante,46225.0,Estadio Benito Villamarín,Ignacio Iglesias,La-Liga,12,2018-2019
+1.0,Sat,2018-08-18,18:15,Celta Vigo,0.5,1–1,0.8,Espanyol,16215.0,Estadio de Balaídos,Santiago Jaime,La-Liga,12,2018-2019
+1.0,Sat,2018-08-18,20:15,Villarreal,1.0,1–2,0.6,Real Sociedad,16250.0,Estadio de la Cerámica,Mario Melero,La-Liga,12,2018-2019
+1.0,Sat,2018-08-18,22:15,Barcelona,3.1,3–0,0.3,Alavés,52356.0,Camp Nou,José Sánchez,La-Liga,12,2018-2019
+1.0,Sun,2018-08-19,18:15,Eibar,1.2,1–2,1.2,Huesca,4234.0,Estadio Municipal de Ipurúa,Eduardo Prieto,La-Liga,12,2018-2019
+1.0,Sun,2018-08-19,20:15,Rayo Vallecano,1.8,1–4,2.3,Sevilla,11626.0,Estadio del Rayo Vallecano,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+1.0,Sun,2018-08-19,22:15,Real Madrid,0.8,2–0,0.3,Getafe,48446.0,Estadio Santiago Bernabéu,Javier Estrada,La-Liga,12,2018-2019
+1.0,Mon,2018-08-20,20:00,Valencia,0.9,1–1,1.1,Atlético Madrid,46174.0,Estadio de Mestalla,Jesús Gil,La-Liga,12,2018-2019
+1.0,Mon,2018-08-20,22:00,Athletic Club,1.8,2–1,1.6,Leganés,38327.0,Estadio San Mamés,Adrián Cordero,La-Liga,12,2018-2019
+,,,,,,,,,,,,La-Liga,12,2018-2019
+2.0,Fri,2018-08-24,20:15,Getafe,1.4,2–0,0.5,Eibar,7851.0,Coliseum Alfonso Pérez,David Medié,La-Liga,12,2018-2019
+2.0,Fri,2018-08-24,22:15,Leganés,2.2,2–2,1.8,Real Sociedad,9375.0,Estadio Municipal de Butarque,José Luis Munuera,La-Liga,12,2018-2019
+2.0,Sat,2018-08-25,18:15,Alavés,0.7,0–0,1.5,Betis,18221.0,Estadio de Mendizorroza,Pablo González,La-Liga,12,2018-2019
+2.0,Sat,2018-08-25,20:15,Atlético Madrid,0.6,1–0,1.5,Rayo Vallecano,52693.0,Estadio Wanda Metropolitano,José González,La-Liga,12,2018-2019
+2.0,Sat,2018-08-25,22:15,Valladolid,0.3,0–1,0.9,Barcelona,22651.0,Estadio Municipal José Zorrilla,Ricardo de Burgos,La-Liga,12,2018-2019
+2.0,Sun,2018-08-26,18:15,Espanyol,1.6,2–0,1.3,Valencia,18714.0,RCDE Stadium,Carlos del Cerro,La-Liga,12,2018-2019
+2.0,Sun,2018-08-26,22:15,Sevilla,1.9,0–0,1.0,Villarreal,35831.0,Estadio Ramón Sánchez Pizjuán,Alberto Undiano,La-Liga,12,2018-2019
+2.0,Sun,2018-08-26,22:15,Girona,0.7,1–4,3.0,Real Madrid,13889.0,Estadi Municipal de Montilivi,Juan Martínez,La-Liga,12,2018-2019
+2.0,Mon,2018-08-27,20:15,Levante,1.9,1–2,3.1,Celta Vigo,21122.0,Estadio Ciudad de Valencia,Alejandro Hernández,La-Liga,12,2018-2019
+2.0,Mon,2018-08-27,22:00,Athletic Club,0.6,2–2,0.4,Huesca,36818.0,San Mamés,Alberola Rojas,La-Liga,12,2018-2019
+3.0,Fri,2018-08-31,20:00,Getafe,0.8,0–0,0.5,Valladolid,9817.0,Coliseum Alfonso Pérez,Adrián Cordero,La-Liga,12,2018-2019
+3.0,Fri,2018-08-31,22:00,Eibar,1.1,2–1,1.0,Real Sociedad,6144.0,Estadio Municipal de Ipurúa,José Sánchez,La-Liga,12,2018-2019
+3.0,Fri,2018-08-31,22:00,Villarreal,1.2,0–1,0.8,Girona,15740.0,Estadio de la Cerámica,Eduardo Prieto,La-Liga,12,2018-2019
+3.0,Sat,2018-09-01,18:30,Celta Vigo,0.8,2–0,0.5,Atlético Madrid,19013.0,Estadio de Balaídos,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+3.0,Sat,2018-09-01,20:45,Real Madrid,2.2,4–1,1.1,Leganés,59255.0,Estadio Santiago Bernabéu,Santiago Jaime,La-Liga,12,2018-2019
+3.0,Sun,2018-09-02,12:00,Levante,1.5,2–2,3.4,Valencia,24073.0,Estadio Ciudad de Valencia,Javier Estrada,La-Liga,12,2018-2019
+3.0,Sun,2018-09-02,16:15,Alavés,1.0,2–1,1.5,Espanyol,18052.0,Estadio de Mendizorroza,Ignacio Iglesias,La-Liga,12,2018-2019
+3.0,Sun,2018-09-02,18:30,Barcelona,5.0,8–2,1.2,Huesca,72892.0,Camp Nou,Mario Melero,La-Liga,12,2018-2019
+3.0,Sun,2018-09-02,20:45,Betis,0.8,1–0,0.5,Sevilla,53451.0,Estadio Benito Villamarín,Jesús Gil,La-Liga,12,2018-2019
+4.0,Fri,2018-09-14,21:00,Huesca,1.6,0–1,1.0,Rayo Vallecano,6498.0,Estadio El Alcoraz,David Medié,La-Liga,12,2018-2019
+4.0,Sat,2018-09-15,13:00,Atlético Madrid,1.8,1–1,1.3,Eibar,55674.0,Estadio Wanda Metropolitano,Juan Martínez,La-Liga,12,2018-2019
+4.0,Sat,2018-09-15,16:15,Real Sociedad,1.2,1–2,1.4,Barcelona,26756.0,Estadio Municipal de Anoeta,Carlos del Cerro,La-Liga,12,2018-2019
+4.0,Sat,2018-09-15,18:30,Valencia,1.3,0–0,1.1,Betis,40050.0,Estadio de Mestalla,Alejandro Hernández,La-Liga,12,2018-2019
+4.0,Sat,2018-09-15,20:45,Athletic Club,1.5,1–1,2.0,Real Madrid,46413.0,Estadio San Mamés,José González,La-Liga,12,2018-2019
+4.0,Sun,2018-09-16,12:00,Leganés,1.3,0–1,0.7,Villarreal,10432.0,Estadio Municipal de Butarque,Pablo González,La-Liga,12,2018-2019
+4.0,Sun,2018-09-16,16:15,Espanyol,1.0,1–0,0.7,Levante,18627.0,RCDE Stadium,Alberto Undiano,La-Liga,12,2018-2019
+4.0,Sun,2018-09-16,18:30,Valladolid,1.8,0–1,0.8,Alavés,18873.0,Estadio Municipal José Zorrilla,José Luis Munuera,La-Liga,12,2018-2019
+4.0,Sun,2018-09-16,20:45,Sevilla,1.7,0–2,2.0,Getafe,36943.0,Estadio Ramón Sánchez Pizjuán,Ricardo de Burgos,La-Liga,12,2018-2019
+4.0,Mon,2018-09-17,21:00,Girona,1.1,3–2,1.0,Celta Vigo,9849.0,Estadi Municipal de Montilivi,Alberola Rojas,La-Liga,12,2018-2019
+5.0,Fri,2018-09-21,21:00,Huesca,1.2,0–1,0.3,Real Sociedad,6948.0,Estadio El Alcoraz,Ignacio Iglesias,La-Liga,12,2018-2019
+5.0,Sat,2018-09-22,13:00,Rayo Vallecano,1.0,1–5,0.8,Alavés,12011.0,Estadio del Rayo Vallecano,Adrián Cordero,La-Liga,12,2018-2019
+5.0,Sat,2018-09-22,16:15,Eibar,1.2,1–0,0.2,Leganés,4456.0,Estadio Municipal de Ipurúa,Mario Melero,La-Liga,12,2018-2019
+5.0,Sat,2018-09-22,16:15,Celta Vigo,1.4,3–3,2.1,Valladolid,16552.0,Estadio de Balaídos,Eduardo Prieto,La-Liga,12,2018-2019
+5.0,Sat,2018-09-22,18:30,Getafe,0.8,0–2,1.0,Atlético Madrid,12756.0,Coliseum Alfonso Pérez,José Sánchez,La-Liga,12,2018-2019
+5.0,Sat,2018-09-22,20:45,Real Madrid,1.2,1–0,0.7,Espanyol,67658.0,Estadio Santiago Bernabéu,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+5.0,Sun,2018-09-23,12:00,Levante,2.6,2–6,2.9,Sevilla,21520.0,Estadio Ciudad de Valencia,Guillermo Cuadra,La-Liga,12,2018-2019
+5.0,Sun,2018-09-23,16:15,Villarreal,1.0,0–0,0.4,Valencia,18373.0,Estadio de la Cerámica,Santiago Jaime,La-Liga,12,2018-2019
+5.0,Sun,2018-09-23,20:00,Betis,1.4,2–2,0.8,Athletic Club,51093.0,Estadio Benito Villamarín,Javier Estrada,La-Liga,12,2018-2019
+5.0,Sun,2018-09-23,20:45,Barcelona,1.3,2–2,0.9,Girona,76055.0,Camp Nou,Jesús Gil,La-Liga,12,2018-2019
+6.0,Tue,2018-09-25,20:00,Espanyol,1.0,1–0,0.3,Eibar,13547.0,RCDE Stadium,José Luis Munuera,La-Liga,12,2018-2019
+6.0,Tue,2018-09-25,21:00,Real Sociedad,1.7,2–2,1.5,Rayo Vallecano,21510.0,Estadio Municipal de Anoeta,Juan Martínez,La-Liga,12,2018-2019
+6.0,Tue,2018-09-25,22:00,Atlético Madrid,1.4,3–0,1.3,Huesca,47023.0,Estadio Wanda Metropolitano,Pablo González,La-Liga,12,2018-2019
+6.0,Wed,2018-09-26,20:00,Leganés,1.1,2–1,0.6,Barcelona,12231.0,Estadio Municipal de Butarque,Alberto Undiano,La-Liga,12,2018-2019
+6.0,Wed,2018-09-26,20:00,Athletic Club,0.9,0–3,2.7,Villarreal,39672.0,Estadio San Mamés,Carlos del Cerro,La-Liga,12,2018-2019
+6.0,Wed,2018-09-26,22:00,Valencia,2.1,1–1,0.4,Celta Vigo,35945.0,Estadio de Mestalla,Ricardo de Burgos,La-Liga,12,2018-2019
+6.0,Wed,2018-09-26,22:00,Sevilla,2.6,3–0,1.2,Real Madrid,40972.0,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández,La-Liga,12,2018-2019
+6.0,Thu,2018-09-27,20:00,Valladolid,1.3,2–1,0.6,Levante,16440.0,Estadio Municipal José Zorrilla,David Medié,La-Liga,12,2018-2019
+6.0,Thu,2018-09-27,20:00,Alavés,1.6,1–1,1.0,Getafe,18373.0,Estadio de Mendizorroza,Eduardo Prieto,La-Liga,12,2018-2019
+6.0,Thu,2018-09-27,22:00,Girona,0.8,0–1,1.6,Betis,11358.0,Estadi Municipal de Montilivi,José González,La-Liga,12,2018-2019
+7.0,Fri,2018-09-28,21:00,Rayo Vallecano,1.4,2–2,2.0,Espanyol,12100.0,Estadio del Rayo Vallecano,Alberola Rojas,La-Liga,12,2018-2019
+7.0,Sat,2018-09-29,13:00,Real Sociedad,1.2,0–1,1.2,Valencia,23577.0,Estadio Municipal de Anoeta,Jesús Gil,La-Liga,12,2018-2019
+7.0,Sat,2018-09-29,16:15,Barcelona,2.9,1–1,0.8,Athletic Club,78015.0,Camp Nou,Santiago Jaime,La-Liga,12,2018-2019
+7.0,Sat,2018-09-29,18:30,Eibar,0.9,1–3,1.6,Sevilla,5443.0,Estadio Municipal de Ipurúa,Javier Estrada,La-Liga,12,2018-2019
+7.0,Sat,2018-09-29,20:45,Real Madrid,1.1,0–0,0.7,Atlético Madrid,78642.0,Estadio Santiago Bernabéu,Juan Martínez,La-Liga,12,2018-2019
+7.0,Sun,2018-09-30,12:00,Huesca,1.5,1–1,1.4,Girona,6779.0,Estadio El Alcoraz,Adrián Cordero,La-Liga,12,2018-2019
+7.0,Sun,2018-09-30,16:15,Villarreal,2.5,0–1,0.6,Valladolid,15602.0,Estadio de la Cerámica,Ignacio Iglesias,La-Liga,12,2018-2019
+7.0,Sun,2018-09-30,18:30,Levante,1.7,2–1,0.7,Alavés,20239.0,Estadio Ciudad de Valencia,Mario Melero,La-Liga,12,2018-2019
+7.0,Sun,2018-09-30,20:45,Betis,1.9,1–0,0.5,Leganés,48115.0,Estadio Benito Villamarín,José Sánchez,La-Liga,12,2018-2019
+7.0,Mon,2018-10-01,21:00,Celta Vigo,0.5,1–1,1.0,Getafe,14330.0,Estadio de Balaídos,Guillermo Cuadra,La-Liga,12,2018-2019
+8.0,Fri,2018-10-05,21:00,Athletic Club,1.7,1–3,2.2,Real Sociedad,46884.0,San Mamés,Alejandro Hernández,La-Liga,12,2018-2019
+8.0,Sat,2018-10-06,13:00,Girona,1.2,2–3,1.9,Eibar,10569.0,Estadi Municipal de Montilivi,Eduardo Prieto,La-Liga,12,2018-2019
+8.0,Sat,2018-10-06,16:15,Getafe,1.2,0–1,1.1,Levante,9557.0,Coliseum Alfonso Pérez,José Luis Munuera,La-Liga,12,2018-2019
+8.0,Sat,2018-10-06,18:30,Alavés,0.8,1–0,0.9,Real Madrid,19461.0,Estadio de Mendizorroza,Santiago Jaime,La-Liga,12,2018-2019
+8.0,Sat,2018-10-06,20:45,Leganés,0.9,1–0,0.3,Rayo Vallecano,11539.0,Estadio Municipal de Butarque,David Medié,La-Liga,12,2018-2019
+8.0,Sun,2018-10-07,12:00,Valladolid,1.1,1–0,0.5,Huesca,17300.0,Estadio Municipal José Zorrilla,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+8.0,Sun,2018-10-07,16:15,Atlético Madrid,0.7,1–0,0.4,Betis,63786.0,Estadio Wanda Metropolitano,Alberto Undiano,La-Liga,12,2018-2019
+8.0,Sun,2018-10-07,18:30,Sevilla,1.9,2–1,0.8,Celta Vigo,38068.0,Estadio Ramón Sánchez Pizjuán,Pablo González,La-Liga,12,2018-2019
+8.0,Sun,2018-10-07,18:30,Espanyol,3.8,3–1,1.7,Villarreal,20032.0,RCDE Stadium,Ricardo de Burgos,La-Liga,12,2018-2019
+8.0,Sun,2018-10-07,20:45,Valencia,1.4,1–1,0.4,Barcelona,46249.0,Estadio de Mestalla,José González,La-Liga,12,2018-2019
+9.0,Fri,2018-10-19,21:00,Celta Vigo,1.1,0–1,1.0,Alavés,15627.0,Estadio de Balaídos,Carlos del Cerro,La-Liga,12,2018-2019
+9.0,Sat,2018-10-20,13:00,Real Madrid,3.4,1–2,2.0,Levante,63423.0,Estadio Santiago Bernabéu,Guillermo Cuadra,La-Liga,12,2018-2019
+9.0,Sat,2018-10-20,16:15,Valencia,1.4,1–1,1.0,Leganés,35597.0,Estadio de Mestalla,Ignacio Iglesias,La-Liga,12,2018-2019
+9.0,Sat,2018-10-20,18:30,Villarreal,1.5,1–1,1.0,Atlético Madrid,17518.0,Estadio de la Cerámica,Javier Estrada,La-Liga,12,2018-2019
+9.0,Sat,2018-10-20,20:45,Barcelona,2.5,4–2,1.8,Sevilla,88712.0,Camp Nou,Juan Martínez,La-Liga,12,2018-2019
+9.0,Sun,2018-10-21,12:00,Rayo Vallecano,0.5,1–2,0.4,Getafe,12040.0,Estadio del Rayo Vallecano,Mario Melero,La-Liga,12,2018-2019
+9.0,Sun,2018-10-21,16:15,Eibar,1.8,1–1,0.8,Athletic Club,6475.0,Estadio Municipal de Ipurúa,Jesús Gil,La-Liga,12,2018-2019
+9.0,Sun,2018-10-21,18:30,Huesca,0.3,0–2,1.7,Espanyol,6943.0,Estadio El Alcoraz,Eduardo Prieto,La-Liga,12,2018-2019
+9.0,Sun,2018-10-21,20:45,Betis,1.1,0–1,0.6,Valladolid,42581.0,Estadio Benito Villamarín,Alberola Rojas,La-Liga,12,2018-2019
+9.0,Mon,2018-10-22,21:00,Real Sociedad,0.9,0–0,0.6,Girona,20997.0,Estadio Municipal de Anoeta,Pablo González,La-Liga,12,2018-2019
+3.0,Wed,2018-10-24,19:00,Rayo Vallecano,0.9,1–1,1.2,Athletic Club,11850.0,Estadio del Rayo Vallecano,Guillermo Cuadra,La-Liga,12,2018-2019
+10.0,Fri,2018-10-26,21:00,Valladolid,1.8,1–1,0.4,Espanyol,18231.0,Estadio Municipal José Zorrilla,Adrián Cordero,La-Liga,12,2018-2019
+10.0,Sat,2018-10-27,13:00,Girona,2.2,2–1,1.4,Rayo Vallecano,6618.0,Estadi Municipal de Montilivi,José Luis Munuera,La-Liga,12,2018-2019
+10.0,Sat,2018-10-27,16:15,Athletic Club,0.7,0–0,0.7,Valencia,39261.0,San Mamés,Alberto Undiano,La-Liga,12,2018-2019
+10.0,Sat,2018-10-27,18:30,Celta Vigo,1.5,4–0,2.1,Eibar,15509.0,Estadio de Balaídos,José González,La-Liga,12,2018-2019
+10.0,Sat,2018-10-27,18:30,Levante,1.2,2–0,1.1,Leganés,19754.0,Estadio Ciudad de Valencia,Ricardo de Burgos,La-Liga,12,2018-2019
+10.0,Sat,2018-10-27,20:45,Atlético Madrid,1.7,2–0,0.3,Real Sociedad,57514.0,Estadio Wanda Metropolitano,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+10.0,Sun,2018-10-28,12:00,Getafe,2.2,2–0,0.7,Betis,12086.0,Coliseum Alfonso Pérez,Santiago Jaime,La-Liga,12,2018-2019
+10.0,Sun,2018-10-28,16:15,Barcelona,3.0,5–1,2.1,Real Madrid,93265.0,Camp Nou,José Sánchez,La-Liga,12,2018-2019
+10.0,Sun,2018-10-28,18:30,Alavés,2.1,2–1,1.7,Villarreal,16956.0,Estadio de Mendizorroza,Guillermo Cuadra,La-Liga,12,2018-2019
+10.0,Sun,2018-10-28,20:45,Sevilla,2.3,2–1,0.6,Huesca,33022.0,Estadio Ramón Sánchez Pizjuán,David Medié,La-Liga,12,2018-2019
+11.0,Sat,2018-11-03,13:00,Leganés,0.8,1–1,0.5,Atlético Madrid,12319.0,Estadio Municipal de Butarque,Mario Melero,La-Liga,12,2018-2019
+11.0,Sat,2018-11-03,16:15,Real Madrid,2.2,2–0,1.1,Valladolid,68050.0,Estadio Santiago Bernabéu,Jesús Gil,La-Liga,12,2018-2019
+11.0,Sat,2018-11-03,18:30,Valencia,2.0,0–1,0.5,Girona,38745.0,Estadio de Mestalla,Alberola Rojas,La-Liga,12,2018-2019
+11.0,Sat,2018-11-03,20:45,Rayo Vallecano,1.4,2–3,1.2,Barcelona,13785.0,Estadio del Rayo Vallecano,Alejandro Hernández,La-Liga,12,2018-2019
+11.0,Sun,2018-11-04,12:00,Eibar,1.4,2–1,0.7,Alavés,5660.0,Estadio Municipal de Ipurúa,Ignacio Iglesias,La-Liga,12,2018-2019
+11.0,Sun,2018-11-04,16:15,Villarreal,1.4,1–1,0.8,Levante,16499.0,Estadio de la Cerámica,Carlos del Cerro,La-Liga,12,2018-2019
+11.0,Sun,2018-11-04,18:30,Real Sociedad,0.7,0–0,0.4,Sevilla,24882.0,Estadio Municipal de Anoeta,Eduardo Prieto,La-Liga,12,2018-2019
+11.0,Sun,2018-11-04,18:30,Huesca,1.3,1–1,1.0,Getafe,6420.0,Estadio El Alcoraz,Juan Martínez,La-Liga,12,2018-2019
+11.0,Sun,2018-11-04,20:45,Betis,2.1,3–3,1.3,Celta Vigo,42130.0,Estadio Benito Villamarín,Javier Estrada,La-Liga,12,2018-2019
+11.0,Mon,2018-11-05,21:00,Espanyol,1.8,1–0,0.5,Athletic Club,14328.0,RCDE Stadium,Pablo González,La-Liga,12,2018-2019
+12.0,Fri,2018-11-09,21:00,Levante,1.0,1–3,1.0,Real Sociedad,19890.0,Estadio Ciudad de Valencia,David Medié,La-Liga,12,2018-2019
+12.0,Sat,2018-11-10,13:00,Valladolid,0.5,0–0,1.4,Eibar,16038.0,Estadio Municipal José Zorrilla,Guillermo Cuadra,La-Liga,12,2018-2019
+12.0,Sat,2018-11-10,16:15,Getafe,1.3,0–1,2.1,Valencia,10011.0,Coliseum Alfonso Pérez,Ricardo de Burgos,La-Liga,12,2018-2019
+12.0,Sat,2018-11-10,18:30,Atlético Madrid,1.1,3–2,1.6,Athletic Club,59321.0,Estadio Wanda Metropolitano,José Sánchez,La-Liga,12,2018-2019
+12.0,Sat,2018-11-10,20:45,Girona,0.6,0–0,0.9,Leganés,9874.0,Estadi Municipal de Montilivi,Adrián Cordero,La-Liga,12,2018-2019
+12.0,Sun,2018-11-11,12:00,Alavés,1.0,2–1,0.9,Huesca,18437.0,Estadio de Mendizorroza,José Luis Munuera,La-Liga,12,2018-2019
+12.0,Sun,2018-11-11,16:15,Barcelona,4.2,3–4,2.0,Betis,83174.0,Camp Nou,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+12.0,Sun,2018-11-11,18:30,Rayo Vallecano,2.1,2–2,0.7,Villarreal,11840.0,Estadio del Rayo Vallecano,José González,La-Liga,12,2018-2019
+12.0,Sun,2018-11-11,18:30,Sevilla,3.3,2–1,1.5,Espanyol,38769.0,Estadio Ramón Sánchez Pizjuán,Santiago Jaime,La-Liga,12,2018-2019
+12.0,Sun,2018-11-11,20:45,Celta Vigo,1.5,2–4,2.1,Real Madrid,21184.0,Estadio de Balaídos,Alberto Undiano,La-Liga,12,2018-2019
+13.0,Fri,2018-11-23,21:00,Leganés,0.9,1–0,0.3,Alavés,9863.0,Estadio Municipal de Butarque,Alberola Rojas,La-Liga,12,2018-2019
+13.0,Sat,2018-11-24,13:00,Eibar,2.9,3–0,0.6,Real Madrid,6435.0,Estadio Municipal de Ipurúa,Juan Martínez,La-Liga,12,2018-2019
+13.0,Sat,2018-11-24,16:15,Valencia,1.8,3–0,0.7,Rayo Vallecano,37814.0,Estadio de Mestalla,Pablo González,La-Liga,12,2018-2019
+13.0,Sat,2018-11-24,18:30,Huesca,2.3,2–2,0.6,Levante,6459.0,Estadio El Alcoraz,Javier Estrada,La-Liga,12,2018-2019
+13.0,Sat,2018-11-24,20:45,Atlético Madrid,0.1,1–1,0.5,Barcelona,67204.0,Estadio Wanda Metropolitano,Jesús Gil,La-Liga,12,2018-2019
+13.0,Sun,2018-11-25,12:00,Athletic Club,0.4,1–1,2.2,Getafe,39821.0,San Mamés,Ignacio Iglesias,La-Liga,12,2018-2019
+13.0,Sun,2018-11-25,16:15,Sevilla,2.3,1–0,0.6,Valladolid,34064.0,Estadio Ramón Sánchez Pizjuán,Carlos del Cerro,La-Liga,12,2018-2019
+13.0,Sun,2018-11-25,18:30,Espanyol,2.2,1–3,2.5,Girona,22716.0,RCDE Stadium,Alejandro Hernández,La-Liga,12,2018-2019
+13.0,Sun,2018-11-25,20:45,Villarreal,1.0,2–1,1.2,Betis,16028.0,Estadio de la Cerámica,Eduardo Prieto,La-Liga,12,2018-2019
+13.0,Mon,2018-11-26,21:00,Real Sociedad,2.1,2–1,0.3,Celta Vigo,17744.0,Estadio Municipal de Anoeta,Mario Melero,La-Liga,12,2018-2019
+14.0,Fri,2018-11-30,21:00,Rayo Vallecano,0.7,1–0,0.7,Eibar,11257.0,Estadio del Rayo Vallecano,Alberto Undiano,La-Liga,12,2018-2019
+14.0,Sat,2018-12-01,13:00,Celta Vigo,2.2,2–0,0.8,Huesca,13463.0,Estadio de Balaídos,Adrián Cordero,La-Liga,12,2018-2019
+14.0,Sat,2018-12-01,16:15,Valladolid,2.1,2–4,1.5,Leganés,16783.0,Estadio Municipal José Zorrilla,David Medié,La-Liga,12,2018-2019
+14.0,Sat,2018-12-01,18:30,Getafe,1.0,3–0,1.1,Espanyol,9287.0,Coliseum Alfonso Pérez,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+14.0,Sat,2018-12-01,20:45,Real Madrid,1.2,2–0,0.6,Valencia,69653.0,Estadio Santiago Bernabéu,José González,La-Liga,12,2018-2019
+14.0,Sun,2018-12-02,12:00,Betis,0.9,1–0,1.0,Real Sociedad,46562.0,Estadio Benito Villamarín,Guillermo Cuadra,La-Liga,12,2018-2019
+14.0,Sun,2018-12-02,16:15,Girona,1.4,1–1,1.8,Atlético Madrid,12104.0,Estadi Municipal de Montilivi,Ricardo de Burgos,La-Liga,12,2018-2019
+14.0,Sun,2018-12-02,18:30,Barcelona,1.2,2–0,0.7,Villarreal,73003.0,Camp Nou,José Luis Munuera,La-Liga,12,2018-2019
+14.0,Sun,2018-12-02,20:45,Alavés,1.4,1–1,1.9,Sevilla,17848.0,Estadio de Mendizorroza,José Sánchez,La-Liga,12,2018-2019
+14.0,Mon,2018-12-03,21:00,Levante,1.7,3–0,1.0,Athletic Club,19928.0,Estadio Ciudad de Valencia,Santiago Jaime,La-Liga,12,2018-2019
+15.0,Fri,2018-12-07,21:00,Leganés,1.5,1–1,1.2,Getafe,11327.0,Estadio Municipal de Butarque,Pablo González,La-Liga,12,2018-2019
+15.0,Sat,2018-12-08,13:00,Atlético Madrid,2.3,3–0,1.4,Alavés,55810.0,Estadio Wanda Metropolitano,Alejandro Hernández,La-Liga,12,2018-2019
+15.0,Sat,2018-12-08,16:15,Valencia,1.2,1–1,1.4,Sevilla,40057.0,Estadio de Mestalla,Javier Estrada,La-Liga,12,2018-2019
+15.0,Sat,2018-12-08,18:30,Villarreal,1.5,2–3,1.8,Celta Vigo,15720.0,Estadio de la Cerámica,Jesús Gil,La-Liga,12,2018-2019
+15.0,Sat,2018-12-08,20:45,Espanyol,1.1,0–4,2.6,Barcelona,24037.0,RCDE Stadium,Carlos del Cerro,La-Liga,12,2018-2019
+15.0,Sun,2018-12-09,12:00,Eibar,3.5,4–4,3.2,Levante,5328.0,Estadio Municipal de Ipurúa,Alberola Rojas,La-Liga,12,2018-2019
+15.0,Sun,2018-12-09,16:15,Huesca,1.1,0–1,0.3,Real Madrid,7341.0,Estadio El Alcoraz,Mario Melero,La-Liga,12,2018-2019
+15.0,Sun,2018-12-09,18:30,Real Sociedad,2.1,1–2,1.1,Valladolid,23260.0,Estadio Municipal de Anoeta,Ignacio Iglesias,La-Liga,12,2018-2019
+15.0,Sun,2018-12-09,20:45,Betis,1.8,2–0,1.2,Rayo Vallecano,40218.0,Estadio Benito Villamarín,Juan Martínez,La-Liga,12,2018-2019
+15.0,Mon,2018-12-10,21:00,Athletic Club,2.1,1–0,0.1,Girona,34060.0,San Mamés,Eduardo Prieto,La-Liga,12,2018-2019
+16.0,Fri,2018-12-14,21:00,Celta Vigo,0.9,0–0,0.7,Leganés,15134.0,Estadio de Balaídos,José Luis Munuera,La-Liga,12,2018-2019
+16.0,Sat,2018-12-15,13:00,Getafe,0.5,1–0,0.8,Real Sociedad,9018.0,Coliseum Alfonso Pérez,Santiago Jaime,La-Liga,12,2018-2019
+16.0,Sat,2018-12-15,16:15,Valladolid,1.0,2–3,1.8,Atlético Madrid,22585.0,Estadio Municipal José Zorrilla,Alberto Undiano,La-Liga,12,2018-2019
+16.0,Sat,2018-12-15,18:30,Real Madrid,1.2,1–0,0.8,Rayo Vallecano,55229.0,Estadio Santiago Bernabéu,Ricardo de Burgos,La-Liga,12,2018-2019
+16.0,Sat,2018-12-15,20:45,Eibar,1.4,1–1,2.0,Valencia,4491.0,Estadio Municipal de Ipurúa,Adrián Cordero,La-Liga,12,2018-2019
+16.0,Sun,2018-12-16,12:00,Sevilla,2.6,2–0,0.8,Girona,33542.0,Estadio Ramón Sánchez Pizjuán,Guillermo Cuadra,La-Liga,12,2018-2019
+16.0,Sun,2018-12-16,16:15,Espanyol,0.9,1–3,1.7,Betis,20275.0,RCDE Stadium,José Sánchez,La-Liga,12,2018-2019
+16.0,Sun,2018-12-16,18:30,Huesca,4.0,2–2,1.6,Villarreal,6455.0,Estadio El Alcoraz,David Medié,La-Liga,12,2018-2019
+16.0,Sun,2018-12-16,20:45,Levante,1.1,0–5,3.0,Barcelona,23736.0,Estadio Ciudad de Valencia,José González,La-Liga,12,2018-2019
+16.0,Mon,2018-12-17,21:00,Alavés,0.5,0–0,0.4,Athletic Club,19349.0,Estadio de Mendizorroza,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+17.0,Fri,2018-12-21,19:30,Girona,1.3,1–1,0.9,Getafe,8450.0,Estadi Municipal de Montilivi,Alberola Rojas,La-Liga,12,2018-2019
+17.0,Fri,2018-12-21,21:00,Real Sociedad,1.3,0–1,0.6,Alavés,22431.0,Estadio Municipal de Anoeta,Javier Estrada,La-Liga,12,2018-2019
+17.0,Sat,2018-12-22,13:00,Betis,1.5,1–1,2.0,Eibar,49426.0,Estadio Benito Villamarín,Carlos del Cerro,La-Liga,12,2018-2019
+17.0,Sat,2018-12-22,16:15,Atlético Madrid,1.0,1–0,1.1,Espanyol,58069.0,Estadio Wanda Metropolitano,Mario Melero,La-Liga,12,2018-2019
+17.0,Sat,2018-12-22,18:30,Barcelona,1.2,2–0,0.7,Celta Vigo,78686.0,Camp Nou,Eduardo Prieto,La-Liga,12,2018-2019
+17.0,Sat,2018-12-22,20:45,Athletic Club,1.1,1–1,0.6,Valladolid,42633.0,San Mamés,José Sánchez,La-Liga,12,2018-2019
+17.0,Sun,2018-12-23,12:00,Valencia,2.6,2–1,2.0,Huesca,36547.0,Estadio de Mestalla,Jesús Gil,La-Liga,12,2018-2019
+17.0,Sun,2018-12-23,16:15,Leganés,0.8,1–1,0.8,Sevilla,11321.0,Estadio Municipal de Butarque,Alejandro Hernández,La-Liga,12,2018-2019
+17.0,Sun,2018-12-23,18:30,Rayo Vallecano,2.1,2–1,1.0,Levante,11206.0,Estadio del Rayo Vallecano,Ignacio Iglesias,La-Liga,12,2018-2019
+17.0,Thu,2019-01-03,21:30,Villarreal,0.9,2–2,1.2,Real Madrid,19903.0,Estadio de la Cerámica,Pablo González,La-Liga,12,2018-2019
+18.0,Fri,2019-01-04,19:00,Levante,1.6,2–2,1.1,Girona,19415.0,Estadio Ciudad de Valencia,Alberto Undiano,La-Liga,12,2018-2019
+18.0,Fri,2019-01-04,21:00,Espanyol,1.2,1–0,0.4,Leganés,15085.0,RCDE Stadium,José González,La-Liga,12,2018-2019
+18.0,Sat,2019-01-05,13:00,Valladolid,1.6,0–1,0.9,Rayo Vallecano,17261.0,Estadio Municipal José Zorrilla,Adrián Cordero,La-Liga,12,2018-2019
+18.0,Sat,2019-01-05,16:15,Alavés,1.8,2–1,1.2,Valencia,18304.0,Estadio de Mendizorroza,David Medié,La-Liga,12,2018-2019
+18.0,Sat,2019-01-05,20:45,Huesca,1.5,2–1,1.4,Betis,6135.0,Estadio El Alcoraz,Ricardo de Burgos,La-Liga,12,2018-2019
+18.0,Sun,2019-01-06,12:00,Eibar,1.8,0–0,0.9,Villarreal,4141.0,Estadio Municipal de Ipurúa,Santiago Jaime,La-Liga,12,2018-2019
+18.0,Sun,2019-01-06,16:15,Sevilla,1.5,1–1,0.8,Atlético Madrid,38603.0,Estadio Ramón Sánchez Pizjuán,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+18.0,Sun,2019-01-06,18:30,Real Madrid,2.6,0–2,2.1,Real Sociedad,53412.0,Estadio Santiago Bernabéu,José Luis Munuera,La-Liga,12,2018-2019
+18.0,Sun,2019-01-06,20:45,Getafe,1.4,1–2,2.0,Barcelona,14721.0,Coliseum Alfonso Pérez,Guillermo Cuadra,La-Liga,12,2018-2019
+18.0,Mon,2019-01-07,21:00,Celta Vigo,1.1,1–2,1.6,Athletic Club,13266.0,Estadio de Balaídos,Juan Martínez,La-Liga,12,2018-2019
+19.0,Fri,2019-01-11,21:00,Rayo Vallecano,2.0,4–2,1.2,Celta Vigo,11465.0,Estadio del Rayo Vallecano,Alberola Rojas,La-Liga,12,2018-2019
+19.0,Sat,2019-01-12,13:00,Leganés,1.9,1–0,0.5,Huesca,10341.0,Estadio Municipal de Butarque,Mario Melero,La-Liga,12,2018-2019
+19.0,Sat,2019-01-12,16:15,Valencia,2.3,1–1,0.1,Valladolid,36912.0,Estadio de Mestalla,Ignacio Iglesias,La-Liga,12,2018-2019
+19.0,Sat,2019-01-12,18:30,Girona,0.4,1–1,0.8,Alavés,10303.0,Estadi Municipal de Montilivi,José Sánchez,La-Liga,12,2018-2019
+19.0,Sat,2019-01-12,20:45,Villarreal,1.9,1–2,0.9,Getafe,13671.0,Estadio de la Cerámica,Javier Estrada,La-Liga,12,2018-2019
+19.0,Sun,2019-01-13,12:00,Atlético Madrid,2.3,1–0,0.7,Levante,57093.0,Estadio Wanda Metropolitano,Eduardo Prieto,La-Liga,12,2018-2019
+19.0,Sun,2019-01-13,16:15,Athletic Club,1.2,2–0,0.8,Sevilla,41342.0,San Mamés,Pablo González,La-Liga,12,2018-2019
+19.0,Sun,2019-01-13,18:30,Barcelona,1.5,3–0,0.8,Eibar,71039.0,Camp Nou,Jesús Gil,La-Liga,12,2018-2019
+19.0,Sun,2019-01-13,20:45,Betis,0.7,1–2,0.9,Real Madrid,54187.0,Estadio Benito Villamarín,Alejandro Hernández,La-Liga,12,2018-2019
+19.0,Mon,2019-01-14,21:00,Real Sociedad,2.1,3–2,1.7,Espanyol,17301.0,Estadio Municipal de Anoeta,Carlos del Cerro,La-Liga,12,2018-2019
+20.0,Fri,2019-01-18,21:00,Getafe,2.0,4–0,0.3,Alavés,8748.0,Coliseum Alfonso Pérez,José Luis Munuera,La-Liga,12,2018-2019
+20.0,Sat,2019-01-19,16:15,Real Madrid,1.3,2–0,0.3,Sevilla,68232.0,Estadio Santiago Bernabéu,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+20.0,Sat,2019-01-19,18:30,Huesca,1.0,0–3,2.0,Atlético Madrid,7106.0,Estadio El Alcoraz,Guillermo Cuadra,La-Liga,12,2018-2019
+20.0,Sat,2019-01-19,20:45,Celta Vigo,0.6,1–2,1.5,Valencia,15668.0,Estadio de Balaídos,José González,La-Liga,12,2018-2019
+20.0,Sun,2019-01-20,12:00,Betis,1.6,3–2,0.9,Girona,47218.0,Estadio Benito Villamarín,Adrián Cordero,La-Liga,12,2018-2019
+20.0,Sun,2019-01-20,16:15,Villarreal,1.0,1–1,0.6,Athletic Club,17054.0,Estadio de la Cerámica,Alberto Undiano,La-Liga,12,2018-2019
+20.0,Sun,2019-01-20,18:30,Levante,1.2,2–0,1.2,Valladolid,19107.0,Estadio Ciudad de Valencia,Santiago Jaime,La-Liga,12,2018-2019
+20.0,Sun,2019-01-20,18:30,Rayo Vallecano,0.9,2–2,1.7,Real Sociedad,12562.0,Estadio del Rayo Vallecano,David Medié,La-Liga,12,2018-2019
+20.0,Sun,2019-01-20,20:45,Barcelona,1.6,3–1,0.6,Leganés,50670.0,Camp Nou,Ricardo de Burgos,La-Liga,12,2018-2019
+20.0,Mon,2019-01-21,21:00,Eibar,1.6,3–0,0.8,Espanyol,3592.0,Estadio Municipal de Ipurúa,Juan Martínez,La-Liga,12,2018-2019
+21.0,Sat,2019-01-26,13:00,Sevilla,4.8,5–0,0.6,Levante,34220.0,Estadio Ramón Sánchez Pizjuán,Alberola Rojas,La-Liga,12,2018-2019
+21.0,Sat,2019-01-26,16:15,Atlético Madrid,1.1,2–0,0.2,Getafe,55709.0,Estadio Wanda Metropolitano,Ignacio Iglesias,La-Liga,12,2018-2019
+21.0,Sat,2019-01-26,18:30,Leganés,0.7,2–2,0.3,Eibar,9341.0,Estadio Municipal de Butarque,Alejandro Hernández,La-Liga,12,2018-2019
+21.0,Sat,2019-01-26,20:45,Valencia,1.7,3–0,0.7,Villarreal,37685.0,Estadio de Mestalla,Carlos del Cerro,La-Liga,12,2018-2019
+21.0,Sun,2019-01-27,12:00,Valladolid,2.3,2–1,0.9,Celta Vigo,18416.0,Estadio Municipal José Zorrilla,José Sánchez,La-Liga,12,2018-2019
+21.0,Sun,2019-01-27,16:15,Girona,1.2,0–2,2.3,Barcelona,14021.0,Estadi Municipal de Montilivi,Pablo González,La-Liga,12,2018-2019
+21.0,Sun,2019-01-27,18:30,Athletic Club,0.7,1–0,0.3,Betis,40282.0,San Mamés,Javier Estrada,La-Liga,12,2018-2019
+21.0,Sun,2019-01-27,18:30,Real Sociedad,0.6,0–0,0.6,Huesca,21252.0,Estadio Municipal de Anoeta,Eduardo Prieto,La-Liga,12,2018-2019
+21.0,Sun,2019-01-27,20:45,Espanyol,0.9,2–4,2.0,Real Madrid,21215.0,RCDE Stadium,Jesús Gil,La-Liga,12,2018-2019
+21.0,Mon,2019-01-28,21:00,Alavés,1.0,0–1,0.7,Rayo Vallecano,13982.0,Estadio de Mendizorroza,Mario Melero,La-Liga,12,2018-2019
+22.0,Fri,2019-02-01,21:00,Huesca,1.2,4–0,0.5,Valladolid,6052.0,Estadio El Alcoraz,José Luis Munuera,La-Liga,12,2018-2019
+22.0,Sat,2019-02-02,13:00,Levante,0.8,0–0,0.3,Getafe,18437.0,Estadio Ciudad de Valencia,Adrián Cordero,La-Liga,12,2018-2019
+22.0,Sat,2019-02-02,16:15,Real Sociedad,1.5,2–1,1.2,Athletic Club,27073.0,Estadio Municipal de Anoeta,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+22.0,Sat,2019-02-02,18:30,Barcelona,1.8,2–2,2.9,Valencia,76789.0,Camp Nou,Alberto Undiano,La-Liga,12,2018-2019
+22.0,Sat,2019-02-02,20:45,Celta Vigo,0.7,1–0,0.7,Sevilla,17503.0,Estadio de Balaídos,Ricardo de Burgos,La-Liga,12,2018-2019
+22.0,Sun,2019-02-03,12:00,Villarreal,2.0,2–2,1.2,Espanyol,15476.0,Estadio de la Cerámica,Guillermo Cuadra,La-Liga,12,2018-2019
+22.0,Sun,2019-02-03,16:15,Betis,1.0,1–0,0.7,Atlético Madrid,50864.0,Estadio Benito Villamarín,David Medié,La-Liga,12,2018-2019
+22.0,Sun,2019-02-03,18:30,Eibar,1.9,3–0,0.3,Girona,4419.0,Estadio Municipal de Ipurúa,José González,La-Liga,12,2018-2019
+22.0,Sun,2019-02-03,20:45,Real Madrid,2.3,3–0,0.3,Alavés,53132.0,Estadio Santiago Bernabéu,Santiago Jaime,La-Liga,12,2018-2019
+22.0,Mon,2019-02-04,21:00,Rayo Vallecano,1.2,1–2,0.7,Leganés,11435.0,Estadio del Rayo Vallecano,Juan Martínez,La-Liga,12,2018-2019
+23.0,Fri,2019-02-08,21:00,Valladolid,0.7,0–0,1.1,Villarreal,16842.0,Estadio Municipal José Zorrilla,Alejandro Hernández,La-Liga,12,2018-2019
+23.0,Sat,2019-02-09,13:00,Getafe,3.1,3–1,0.7,Celta Vigo,9918.0,Coliseum Alfonso Pérez,Pablo González,La-Liga,12,2018-2019
+23.0,Sat,2019-02-09,16:15,Atlético Madrid,0.9,1–3,1.6,Real Madrid,67752.0,Estadio Wanda Metropolitano,Javier Estrada,La-Liga,12,2018-2019
+23.0,Sat,2019-02-09,18:30,Espanyol,2.0,2–1,0.7,Rayo Vallecano,22104.0,RCDE Stadium,Eduardo Prieto,La-Liga,12,2018-2019
+23.0,Sat,2019-02-09,20:45,Girona,1.0,0–2,0.5,Huesca,10662.0,Estadi Municipal de Montilivi,Adrián Cordero,La-Liga,12,2018-2019
+23.0,Sun,2019-02-10,12:00,Leganés,1.7,3–0,0.2,Betis,11381.0,Estadio Municipal de Butarque,Alberola Rojas,La-Liga,12,2018-2019
+23.0,Sun,2019-02-10,16:15,Valencia,1.0,0–0,0.6,Real Sociedad,38885.0,Estadio de Mestalla,Mario Melero,La-Liga,12,2018-2019
+23.0,Sun,2019-02-10,18:30,Sevilla,1.3,2–2,1.2,Eibar,36343.0,Estadio Ramón Sánchez Pizjuán,Ignacio Iglesias,La-Liga,12,2018-2019
+23.0,Sun,2019-02-10,20:45,Athletic Club,1.4,0–0,0.9,Barcelona,47557.0,San Mamés,Carlos del Cerro,La-Liga,12,2018-2019
+23.0,Mon,2019-02-11,21:00,Alavés,1.7,2–0,0.2,Levante,13691.0,Estadio de Mendizorroza,Alberto Undiano,La-Liga,12,2018-2019
+24.0,Fri,2019-02-15,21:00,Eibar,1.6,2–2,1.3,Getafe,4449.0,Estadio Municipal de Ipurúa,David Medié,La-Liga,12,2018-2019
+24.0,Sat,2019-02-16,13:00,Celta Vigo,1.6,1–4,2.3,Levante,15479.0,Estadio de Balaídos,Santiago Jaime,La-Liga,12,2018-2019
+24.0,Sat,2019-02-16,16:15,Rayo Vallecano,0.6,0–1,0.2,Atlético Madrid,13880.0,Estadio del Rayo Vallecano,Jesús Gil,La-Liga,12,2018-2019
+24.0,Sat,2019-02-16,18:30,Real Sociedad,1.5,3–0,0.4,Leganés,22997.0,Estadio Municipal de Anoeta,José Luis Munuera,La-Liga,12,2018-2019
+24.0,Sat,2019-02-16,20:45,Barcelona,3.5,1–0,0.4,Valladolid,67435.0,Camp Nou,Juan Martínez,La-Liga,12,2018-2019
+24.0,Sun,2019-02-17,12:00,Real Madrid,1.3,1–2,2.1,Girona,68099.0,Estadio Santiago Bernabéu,Guillermo Cuadra,La-Liga,12,2018-2019
+24.0,Sun,2019-02-17,16:15,Valencia,2.0,0–0,0.4,Espanyol,39564.0,Estadio de Mestalla,Ricardo de Burgos,La-Liga,12,2018-2019
+24.0,Sun,2019-02-17,18:30,Villarreal,1.5,3–0,1.7,Sevilla,17402.0,Estadio de la Cerámica,José González,La-Liga,12,2018-2019
+24.0,Sun,2019-02-17,20:45,Betis,2.4,1–1,0.5,Alavés,43455.0,Estadio Benito Villamarín,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+24.0,Mon,2019-02-18,21:00,Huesca,1.0,0–1,1.2,Athletic Club,6729.0,Estadio El Alcoraz,José Sánchez,La-Liga,12,2018-2019
+25.0,Fri,2019-02-22,21:00,Espanyol,0.6,1–1,1.0,Huesca,20078.0,RCDE Stadium,Alejandro Hernández,La-Liga,12,2018-2019
+25.0,Sat,2019-02-23,13:00,Getafe,1.5,2–1,0.4,Rayo Vallecano,11207.0,Coliseum Alfonso Pérez,Alberola Rojas,La-Liga,12,2018-2019
+25.0,Sat,2019-02-23,16:15,Sevilla,1.1,2–4,1.7,Barcelona,40661.0,Estadio Ramón Sánchez Pizjuán,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+25.0,Sat,2019-02-23,18:30,Alavés,1.1,0–0,0.6,Celta Vigo,18882.0,Estadio de Mendizorroza,Carlos del Cerro,La-Liga,12,2018-2019
+25.0,Sat,2019-02-23,20:45,Athletic Club,1.5,1–0,0.7,Eibar,43363.0,San Mamés,Mario Melero,La-Liga,12,2018-2019
+25.0,Sun,2019-02-24,12:00,Leganés,1.7,1–1,0.5,Valencia,11425.0,Estadio Municipal de Butarque,Javier Estrada,La-Liga,12,2018-2019
+25.0,Sun,2019-02-24,16:15,Atlético Madrid,1.4,2–0,0.9,Villarreal,59114.0,Estadio Wanda Metropolitano,Alberto Undiano,La-Liga,12,2018-2019
+25.0,Sun,2019-02-24,18:30,Valladolid,0.6,0–2,0.9,Betis,20125.0,Estadio Municipal José Zorrilla,Pablo González,La-Liga,12,2018-2019
+25.0,Sun,2019-02-24,20:45,Levante,1.2,1–2,2.5,Real Madrid,23018.0,Estadio Ciudad de Valencia,Ignacio Iglesias,La-Liga,12,2018-2019
+25.0,Mon,2019-02-25,21:00,Girona,0.6,0–0,0.7,Real Sociedad,10170.0,Estadi Municipal de Montilivi,Eduardo Prieto,La-Liga,12,2018-2019
+26.0,Fri,2019-03-01,21:00,Rayo Vallecano,0.7,0–2,1.4,Girona,12087.0,Estadio del Rayo Vallecano,Santiago Jaime,La-Liga,12,2018-2019
+26.0,Sat,2019-03-02,13:00,Espanyol,2.8,3–1,1.5,Valladolid,20467.0,RCDE Stadium,Adrián Cordero,La-Liga,12,2018-2019
+26.0,Sat,2019-03-02,16:15,Villarreal,1.2,1–2,1.5,Alavés,15488.0,Estadio de la Cerámica,José Luis Munuera,La-Liga,12,2018-2019
+26.0,Sat,2019-03-02,18:30,Huesca,0.6,2–1,2.1,Sevilla,6818.0,Estadio El Alcoraz,Ricardo de Burgos,La-Liga,12,2018-2019
+26.0,Sat,2019-03-02,20:45,Real Madrid,1.1,0–1,1.6,Barcelona,78921.0,Estadio Santiago Bernabéu,Alberto Undiano,La-Liga,12,2018-2019
+26.0,Sun,2019-03-03,12:00,Eibar,2.3,1–0,0.9,Celta Vigo,4682.0,Estadio Municipal de Ipurúa,Guillermo Cuadra,La-Liga,12,2018-2019
+26.0,Sun,2019-03-03,16:15,Betis,0.8,1–2,1.3,Getafe,46657.0,Estadio Benito Villamarín,Juan Martínez,La-Liga,12,2018-2019
+26.0,Sun,2019-03-03,18:30,Real Sociedad,0.9,0–2,2.0,Atlético Madrid,26004.0,Estadio Municipal de Anoeta,José González,La-Liga,12,2018-2019
+26.0,Sun,2019-03-03,20:45,Valencia,1.3,2–0,0.3,Athletic Club,39041.0,Estadio de Mestalla,David Medié,La-Liga,12,2018-2019
+26.0,Mon,2019-03-04,21:00,Leganés,1.4,1–0,1.5,Levante,9758.0,Estadio Municipal de Butarque,Jesús Gil,La-Liga,12,2018-2019
+27.0,Fri,2019-03-08,21:00,Athletic Club,0.7,1–1,0.4,Espanyol,38453.0,San Mamés,Pablo González,La-Liga,12,2018-2019
+27.0,Sat,2019-03-09,13:00,Alavés,1.8,1–1,2.0,Eibar,18793.0,Estadio de Mendizorroza,Alberola Rojas,La-Liga,12,2018-2019
+27.0,Sat,2019-03-09,16:15,Atlético Madrid,1.3,1–0,0.1,Leganés,58321.0,Estadio Wanda Metropolitano,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+27.0,Sat,2019-03-09,18:30,Barcelona,2.9,3–1,0.3,Rayo Vallecano,74158.0,Camp Nou,Mario Melero,La-Liga,12,2018-2019
+27.0,Sat,2019-03-09,20:45,Getafe,1.6,2–1,0.7,Huesca,10882.0,Coliseum Alfonso Pérez,Eduardo Prieto,La-Liga,12,2018-2019
+27.0,Sun,2019-03-10,12:00,Celta Vigo,0.5,0–1,1.2,Betis,18005.0,Estadio de Balaídos,Javier Estrada,La-Liga,12,2018-2019
+27.0,Sun,2019-03-10,16:15,Girona,1.9,2–3,1.0,Valencia,11502.0,Estadi Municipal de Montilivi,Carlos del Cerro,La-Liga,12,2018-2019
+27.0,Sun,2019-03-10,18:30,Sevilla,2.4,5–2,1.1,Real Sociedad,35813.0,Estadio Ramón Sánchez Pizjuán,Ignacio Iglesias,La-Liga,12,2018-2019
+27.0,Sun,2019-03-10,18:30,Levante,1.0,0–2,0.8,Villarreal,20149.0,Estadio Ciudad de Valencia,José Sánchez,La-Liga,12,2018-2019
+27.0,Sun,2019-03-10,20:45,Valladolid,2.3,1–4,2.7,Real Madrid,21914.0,Estadio Municipal José Zorrilla,Jesús Gil,La-Liga,12,2018-2019
+28.0,Fri,2019-03-15,21:00,Real Sociedad,2.0,1–1,0.8,Levante,20605.0,Estadio Municipal de Anoeta,Adrián Cordero,La-Liga,12,2018-2019
+28.0,Sat,2019-03-16,13:00,Huesca,1.5,1–3,2.1,Alavés,6811.0,Estadio El Alcoraz,Alberto Undiano,La-Liga,12,2018-2019
+28.0,Sat,2019-03-16,16:15,Real Madrid,2.3,2–0,0.4,Celta Vigo,65054.0,Estadio Santiago Bernabéu,Juan Martínez,La-Liga,12,2018-2019
+28.0,Sat,2019-03-16,18:30,Athletic Club,1.1,2–0,0.6,Atlético Madrid,39659.0,San Mamés,Santiago Jaime,La-Liga,12,2018-2019
+28.0,Sat,2019-03-16,20:45,Leganés,0.5,0–2,1.3,Girona,9873.0,Estadio Municipal de Butarque,José Luis Munuera,La-Liga,12,2018-2019
+28.0,Sun,2019-03-17,12:00,Eibar,1.4,1–2,2.0,Valladolid,4508.0,Estadio Municipal de Ipurúa,David Medié,La-Liga,12,2018-2019
+28.0,Sun,2019-03-17,16:15,Espanyol,0.8,0–1,1.2,Sevilla,20219.0,RCDE Stadium,Guillermo Cuadra,La-Liga,12,2018-2019
+28.0,Sun,2019-03-17,18:30,Villarreal,2.1,3–1,0.2,Rayo Vallecano,17117.0,Estadio de la Cerámica,José González,La-Liga,12,2018-2019
+28.0,Sun,2019-03-17,18:30,Valencia,0.6,0–0,0.3,Getafe,41778.0,Estadio de Mestalla,José Sánchez,La-Liga,12,2018-2019
+28.0,Sun,2019-03-17,20:45,Betis,1.0,1–4,2.9,Barcelona,54172.0,Estadio Benito Villamarín,Ricardo de Burgos,La-Liga,12,2018-2019
+29.0,Fri,2019-03-29,21:00,Girona,0.3,1–2,0.7,Athletic Club,10652.0,Estadi Municipal de Montilivi,José Sánchez,La-Liga,12,2018-2019
+29.0,Sat,2019-03-30,13:00,Getafe,0.5,0–2,1.2,Leganés,12705.0,Coliseum Alfonso Pérez,Pablo González,La-Liga,12,2018-2019
+29.0,Sat,2019-03-30,16:15,Barcelona,1.1,2–0,0.2,Espanyol,92795.0,Camp Nou,Carlos del Cerro,La-Liga,12,2018-2019
+29.0,Sat,2019-03-30,18:30,Celta Vigo,1.5,3–2,2.0,Villarreal,22315.0,Estadio de Balaídos,Jesús Gil,La-Liga,12,2018-2019
+29.0,Sat,2019-03-30,20:45,Alavés,0.7,0–4,1.5,Atlético Madrid,19117.0,Estadio de Mendizorroza,Mario Melero,La-Liga,12,2018-2019
+29.0,Sun,2019-03-31,12:00,Levante,1.0,2–2,1.7,Eibar,16179.0,Estadio Ciudad de Valencia,Eduardo Prieto,La-Liga,12,2018-2019
+29.0,Sun,2019-03-31,14:00,Rayo Vallecano,2.2,1–1,0.5,Betis,12310.0,Estadio del Rayo Vallecano,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+29.0,Sun,2019-03-31,16:15,Sevilla,1.1,0–1,0.9,Valencia,38450.0,Estadio Ramón Sánchez Pizjuán,José González,La-Liga,12,2018-2019
+29.0,Sun,2019-03-31,18:30,Valladolid,1.2,1–1,0.4,Real Sociedad,18775.0,Estadio Municipal José Zorrilla,Alberola Rojas,La-Liga,12,2018-2019
+29.0,Sun,2019-03-31,20:45,Real Madrid,3.7,3–2,1.6,Huesca,49269.0,Estadio Santiago Bernabéu,Javier Estrada,La-Liga,12,2018-2019
+30.0,Tue,2019-04-02,19:30,Atlético Madrid,2.5,2–0,0.4,Girona,40863.0,Estadio Wanda Metropolitano,Ignacio Iglesias,La-Liga,12,2018-2019
+30.0,Tue,2019-04-02,20:30,Espanyol,1.5,1–1,1.3,Getafe,16322.0,RCDE Stadium,Ricardo de Burgos,La-Liga,12,2018-2019
+30.0,Tue,2019-04-02,21:30,Villarreal,2.8,4–4,2.4,Barcelona,19515.0,Estadio de la Cerámica,Alejandro Hernández,La-Liga,12,2018-2019
+30.0,Wed,2019-04-03,19:30,Athletic Club,1.7,3–2,1.2,Levante,36450.0,San Mamés,José Luis Munuera,La-Liga,12,2018-2019
+30.0,Wed,2019-04-03,20:30,Eibar,1.4,2–1,0.7,Rayo Vallecano,3940.0,Estadio Municipal de Ipurúa,Alberto Undiano,La-Liga,12,2018-2019
+30.0,Wed,2019-04-03,20:30,Huesca,2.6,3–3,1.4,Celta Vigo,6552.0,Estadio El Alcoraz,Adrián Cordero,La-Liga,12,2018-2019
+30.0,Wed,2019-04-03,21:30,Valencia,1.5,2–1,0.7,Real Madrid,44274.0,Estadio de Mestalla,Santiago Jaime,La-Liga,12,2018-2019
+30.0,Thu,2019-04-04,19:30,Sevilla,1.4,2–0,0.4,Alavés,33212.0,Estadio Ramón Sánchez Pizjuán,Juan Martínez,La-Liga,12,2018-2019
+30.0,Thu,2019-04-04,20:30,Leganés,1.8,1–0,0.8,Valladolid,10185.0,Estadio Municipal de Butarque,Guillermo Cuadra,La-Liga,12,2018-2019
+30.0,Thu,2019-04-04,21:30,Real Sociedad,2.0,2–1,1.2,Betis,16417.0,Estadio Municipal de Anoeta,David Medié,La-Liga,12,2018-2019
+31.0,Sat,2019-04-06,13:00,Girona,1.7,1–2,0.4,Espanyol,11463.0,Estadi Municipal de Montilivi,Eduardo Prieto,La-Liga,12,2018-2019
+31.0,Sat,2019-04-06,16:15,Real Madrid,1.3,2–1,0.5,Eibar,50284.0,Estadio Santiago Bernabéu,Pablo González,La-Liga,12,2018-2019
+31.0,Sat,2019-04-06,18:30,Rayo Vallecano,1.8,2–0,2.1,Valencia,11320.0,Estadio del Rayo Vallecano,Alberola Rojas,La-Liga,12,2018-2019
+31.0,Sat,2019-04-06,20:45,Barcelona,2.2,2–0,0.5,Atlético Madrid,92453.0,Camp Nou,Jesús Gil,La-Liga,12,2018-2019
+31.0,Sun,2019-04-07,12:00,Alavés,0.9,1–1,0.8,Leganés,16783.0,Estadio de Mendizorroza,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+31.0,Sun,2019-04-07,14:00,Getafe,0.7,1–0,0.5,Athletic Club,11617.0,Coliseum Alfonso Pérez,José González,La-Liga,12,2018-2019
+31.0,Sun,2019-04-07,16:15,Valladolid,0.8,0–2,1.7,Sevilla,17989.0,Estadio Municipal José Zorrilla,José Sánchez,La-Liga,12,2018-2019
+31.0,Sun,2019-04-07,18:30,Levante,2.6,2–2,0.8,Huesca,19824.0,Estadio Ciudad de Valencia,Carlos del Cerro,La-Liga,12,2018-2019
+31.0,Sun,2019-04-07,18:30,Celta Vigo,2.9,3–1,1.4,Real Sociedad,20519.0,Estadio de Balaídos,Mario Melero,La-Liga,12,2018-2019
+31.0,Sun,2019-04-07,20:45,Betis,2.4,2–1,1.5,Villarreal,28475.0,Estadio Benito Villamarín,Javier Estrada,La-Liga,12,2018-2019
+32.0,Sat,2019-04-13,13:00,Espanyol,0.5,2–1,0.8,Alavés,18143.0,RCDE Stadium,Ignacio Iglesias,La-Liga,12,2018-2019
+32.0,Sat,2019-04-13,16:15,Huesca,0.3,0–0,1.0,Barcelona,7332.0,Estadio El Alcoraz,Guillermo Cuadra,La-Liga,12,2018-2019
+32.0,Sat,2019-04-13,18:30,Atlético Madrid,1.5,2–0,0.9,Celta Vigo,55269.0,Estadio Wanda Metropolitano,Ricardo de Burgos,La-Liga,12,2018-2019
+32.0,Sat,2019-04-13,20:45,Sevilla,1.7,3–2,1.1,Betis,42855.0,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández,La-Liga,12,2018-2019
+32.0,Sun,2019-04-14,12:00,Valladolid,1.2,2–2,1.2,Getafe,16909.0,Estadio Municipal José Zorrilla,José Luis Munuera,La-Liga,12,2018-2019
+32.0,Sun,2019-04-14,14:00,Athletic Club,2.1,3–2,1.0,Rayo Vallecano,38732.0,San Mamés,Juan Martínez,La-Liga,12,2018-2019
+32.0,Sun,2019-04-14,16:15,Real Sociedad,0.6,1–1,1.0,Eibar,24308.0,Estadio Municipal de Anoeta,Santiago Jaime,La-Liga,12,2018-2019
+32.0,Sun,2019-04-14,18:30,Girona,0.8,0–1,1.4,Villarreal,11535.0,Estadi Municipal de Montilivi,Adrián Cordero,La-Liga,12,2018-2019
+32.0,Sun,2019-04-14,20:45,Valencia,2.4,3–1,0.2,Levante,42120.0,Estadio de Mestalla,Alberto Undiano,La-Liga,12,2018-2019
+32.0,Mon,2019-04-15,21:00,Leganés,0.4,1–1,1.1,Real Madrid,12118.0,Estadio Municipal de Butarque,David Medié,La-Liga,12,2018-2019
+33.0,Fri,2019-04-19,21:00,Alavés,1.5,2–2,1.5,Valladolid,13568.0,Estadio de Mendizorroza,Javier Estrada,La-Liga,12,2018-2019
+33.0,Sat,2019-04-20,13:00,Celta Vigo,1.3,2–1,0.7,Girona,20546.0,Estadio de Balaídos,Carlos del Cerro,La-Liga,12,2018-2019
+33.0,Sat,2019-04-20,16:15,Eibar,0.5,0–1,1.4,Atlético Madrid,4750.0,Estadio Municipal de Ipurúa,Alberola Rojas,La-Liga,12,2018-2019
+33.0,Sat,2019-04-20,18:30,Rayo Vallecano,1.0,0–0,0.5,Huesca,10542.0,Estadio del Rayo Vallecano,José González,La-Liga,12,2018-2019
+33.0,Sat,2019-04-20,20:45,Barcelona,1.0,2–1,1.0,Real Sociedad,75470.0,Camp Nou,Pablo González,La-Liga,12,2018-2019
+33.0,Sun,2019-04-21,12:00,Levante,1.7,2–2,1.3,Espanyol,16876.0,Estadio Ciudad de Valencia,Jesús Gil,La-Liga,12,2018-2019
+33.0,Sun,2019-04-21,14:00,Getafe,2.6,3–0,0.5,Sevilla,11495.0,Coliseum Alfonso Pérez,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+33.0,Sun,2019-04-21,16:15,Real Madrid,1.4,3–0,0.4,Athletic Club,59815.0,Estadio Santiago Bernabéu,Mario Melero,La-Liga,12,2018-2019
+33.0,Sun,2019-04-21,18:30,Villarreal,1.2,2–1,1.2,Leganés,14753.0,Estadio de la Cerámica,Eduardo Prieto,La-Liga,12,2018-2019
+33.0,Sun,2019-04-21,20:45,Betis,1.7,1–2,0.4,Valencia,42508.0,Estadio Benito Villamarín,José Sánchez,La-Liga,12,2018-2019
+34.0,Tue,2019-04-23,19:30,Huesca,1.2,2–0,0.6,Eibar,6157.0,Estadio El Alcoraz,David Medié,La-Liga,12,2018-2019
+34.0,Tue,2019-04-23,20:30,Valladolid,0.8,1–0,0.4,Girona,19106.0,Estadio Municipal José Zorrilla,Juan Martínez,La-Liga,12,2018-2019
+34.0,Tue,2019-04-23,21:30,Alavés,0.3,0–2,2.5,Barcelona,18735.0,Estadio de Mendizorroza,Adrián Cordero,La-Liga,12,2018-2019
+34.0,Wed,2019-04-24,19:30,Atlético Madrid,1.2,3–2,1.7,Valencia,43531.0,Estadio Wanda Metropolitano,Alejandro Hernández,La-Liga,12,2018-2019
+34.0,Wed,2019-04-24,20:30,Leganés,0.4,0–1,0.4,Athletic Club,4155.0,Estadio Municipal de Butarque,Ignacio Iglesias,La-Liga,12,2018-2019
+34.0,Wed,2019-04-24,20:30,Espanyol,1.4,1–1,2.4,Celta Vigo,15680.0,RCDE Stadium,Alberto Undiano,La-Liga,12,2018-2019
+34.0,Wed,2019-04-24,21:30,Levante,1.2,4–0,0.2,Betis,20394.0,Estadio Ciudad de Valencia,Santiago Jaime,La-Liga,12,2018-2019
+34.0,Thu,2019-04-25,19:30,Sevilla,3.6,5–0,0.6,Rayo Vallecano,31636.0,Estadio Ramón Sánchez Pizjuán,Guillermo Cuadra,La-Liga,12,2018-2019
+34.0,Thu,2019-04-25,20:30,Real Sociedad,0.8,0–1,0.8,Villarreal,20060.0,Estadio Municipal de Anoeta,José Luis Munuera,La-Liga,12,2018-2019
+34.0,Thu,2019-04-25,21:30,Getafe,0.6,0–0,1.5,Real Madrid,13135.0,Coliseum Alfonso Pérez,Ricardo de Burgos,La-Liga,12,2018-2019
+35.0,Sat,2019-04-27,13:00,Athletic Club,1.0,1–1,1.5,Alavés,40402.0,San Mamés,Jesús Gil,La-Liga,12,2018-2019
+35.0,Sat,2019-04-27,16:15,Atlético Madrid,0.8,1–0,0.7,Valladolid,53123.0,Estadio Wanda Metropolitano,Mario Melero,La-Liga,12,2018-2019
+35.0,Sat,2019-04-27,18:30,Leganés,0.4,0–0,0.5,Celta Vigo,10324.0,Estadio Municipal de Butarque,Juan Martínez,La-Liga,12,2018-2019
+35.0,Sat,2019-04-27,20:45,Barcelona,2.1,1–0,0.7,Levante,91917.0,Camp Nou,Ricardo de Burgos,La-Liga,12,2018-2019
+35.0,Sun,2019-04-28,12:00,Valencia,0.5,0–1,0.9,Eibar,35393.0,Estadio de Mestalla,Javier Estrada,La-Liga,12,2018-2019
+35.0,Sun,2019-04-28,14:00,Girona,1.6,1–0,0.6,Sevilla,11281.0,Estadi Municipal de Montilivi,José González,La-Liga,12,2018-2019
+35.0,Sun,2019-04-28,16:15,Real Sociedad,2.1,2–1,0.8,Getafe,19386.0,Estadio Municipal de Anoeta,Eduardo Prieto,La-Liga,12,2018-2019
+35.0,Sun,2019-04-28,18:30,Villarreal,0.9,1–1,1.7,Huesca,17901.0,Estadio de la Cerámica,José Sánchez,La-Liga,12,2018-2019
+35.0,Sun,2019-04-28,20:45,Rayo Vallecano,1.5,1–0,0.5,Real Madrid,13273.0,Estadio del Rayo Vallecano,Pablo González,La-Liga,12,2018-2019
+35.0,Mon,2019-04-29,21:00,Betis,1.3,1–1,1.2,Espanyol,30561.0,Estadio Benito Villamarín,Carlos del Cerro,La-Liga,12,2018-2019
+36.0,Fri,2019-05-03,21:00,Sevilla,0.3,0–3,1.4,Leganés,32797.0,Estadio Ramón Sánchez Pizjuán,Alberto Undiano,La-Liga,12,2018-2019
+36.0,Sat,2019-05-04,13:00,Levante,1.9,4–1,1.3,Rayo Vallecano,19868.0,Estadio Ciudad de Valencia,Javier Estrada,La-Liga,12,2018-2019
+36.0,Sat,2019-05-04,16:15,Espanyol,1.3,3–0,1.2,Atlético Madrid,20207.0,RCDE Stadium,José Luis Munuera,La-Liga,12,2018-2019
+36.0,Sat,2019-05-04,18:30,Alavés,0.7,0–1,0.7,Real Sociedad,18509.0,Estadio de Mendizorroza,Alberola Rojas,La-Liga,12,2018-2019
+36.0,Sat,2019-05-04,20:45,Celta Vigo,1.8,2–0,0.5,Barcelona,22519.0,Estadio de Balaídos,José Sánchez,La-Liga,12,2018-2019
+36.0,Sun,2019-05-05,12:00,Getafe,1.8,2–0,0.5,Girona,10615.0,Coliseum Alfonso Pérez,Alejandro Hernández,La-Liga,12,2018-2019
+36.0,Sun,2019-05-05,14:00,Eibar,1.2,1–0,2.1,Betis,4725.0,Estadio Municipal de Ipurúa,Ignacio Iglesias,La-Liga,12,2018-2019
+36.0,Sun,2019-05-05,16:15,Real Madrid,2.9,3–2,0.8,Villarreal,46294.0,Estadio Santiago Bernabéu,Jesús Gil,La-Liga,12,2018-2019
+36.0,Sun,2019-05-05,18:30,Valladolid,0.5,1–0,1.1,Athletic Club,21151.0,Estadio Municipal José Zorrilla,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+36.0,Sun,2019-05-05,20:45,Huesca,2.6,2–6,2.4,Valencia,6378.0,Estadio El Alcoraz,Carlos del Cerro,La-Liga,12,2018-2019
+37.0,Sun,2019-05-12,18:30,Villarreal,1.4,1–0,0.3,Eibar,17901.0,Estadio de la Cerámica,Pablo González,La-Liga,12,2018-2019
+37.0,Sun,2019-05-12,18:30,Girona,1.4,1–2,0.5,Levante,13342.0,Estadi Municipal de Montilivi,Carlos del Cerro,La-Liga,12,2018-2019
+37.0,Sun,2019-05-12,18:30,Barcelona,2.3,2–0,1.1,Getafe,57088.0,Camp Nou,José González,La-Liga,12,2018-2019
+37.0,Sun,2019-05-12,18:30,Leganés,1.0,0–2,2.8,Espanyol,10597.0,Estadio Municipal de Butarque,Mario Melero,La-Liga,12,2018-2019
+37.0,Sun,2019-05-12,18:30,Betis,2.4,2–1,1.4,Huesca,28078.0,Estadio Benito Villamarín,Adrián Cordero,La-Liga,12,2018-2019
+37.0,Sun,2019-05-12,18:30,Rayo Vallecano,0.9,1–2,1.3,Valladolid,10040.0,Estadio del Rayo Vallecano,José Sánchez,La-Liga,12,2018-2019
+37.0,Sun,2019-05-12,18:30,Valencia,1.3,3–1,0.7,Alavés,37744.0,Estadio de Mestalla,Guillermo Cuadra,La-Liga,12,2018-2019
+37.0,Sun,2019-05-12,18:30,Atlético Madrid,1.4,1–1,0.9,Sevilla,60234.0,Estadio Wanda Metropolitano,Ricardo de Burgos,La-Liga,12,2018-2019
+37.0,Sun,2019-05-12,18:30,Athletic Club,2.4,3–1,1.0,Celta Vigo,42494.0,San Mamés,Javier Estrada,La-Liga,12,2018-2019
+37.0,Sun,2019-05-12,18:30,Real Sociedad,2.0,3–1,0.6,Real Madrid,27322.0,Estadio Municipal de Anoeta,Juan Martínez,La-Liga,12,2018-2019
+38.0,Sat,2019-05-18,13:00,Levante,2.4,2–2,1.6,Atlético Madrid,20575.0,Estadio Ciudad de Valencia,Ignacio Iglesias,La-Liga,12,2018-2019
+38.0,Sat,2019-05-18,16:15,Getafe,1.1,2–2,0.9,Villarreal,13579.0,Coliseum Alfonso Pérez,Javier Estrada,La-Liga,12,2018-2019
+38.0,Sat,2019-05-18,16:15,Espanyol,1.1,2–0,0.6,Real Sociedad,26568.0,RCDE Stadium,Santiago Jaime,La-Liga,12,2018-2019
+38.0,Sat,2019-05-18,16:15,Sevilla,1.7,2–0,0.6,Athletic Club,28060.0,Estadio Ramón Sánchez Pizjuán,José Sánchez,La-Liga,12,2018-2019
+38.0,Sat,2019-05-18,16:15,Valladolid,1.1,0–2,1.8,Valencia,23455.0,Estadio Municipal José Zorrilla,Ricardo de Burgos,La-Liga,12,2018-2019
+38.0,Sat,2019-05-18,20:45,Huesca,0.9,2–1,0.7,Leganés,5575.0,Estadio El Alcoraz,Alberola Rojas,La-Liga,12,2018-2019
+38.0,Sat,2019-05-18,20:45,Alavés,1.2,2–1,0.9,Girona,11549.0,Estadio de Mendizorroza,Mario Melero,La-Liga,12,2018-2019
+38.0,Sat,2019-05-18,20:45,Celta Vigo,2.0,2–2,1.1,Rayo Vallecano,21607.0,Estadio de Balaídos,Antonio Matéu Lahoz,La-Liga,12,2018-2019
+38.0,Sun,2019-05-19,12:00,Real Madrid,0.6,0–2,1.4,Betis,56900.0,Estadio Santiago Bernabéu,Alberto Undiano,La-Liga,12,2018-2019
+38.0,Sun,2019-05-19,16:15,Eibar,1.3,2–2,1.0,Barcelona,5145.0,Estadio Municipal de Ipurúa,José Luis Munuera,La-Liga,12,2018-2019

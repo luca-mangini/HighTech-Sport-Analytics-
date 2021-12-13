@@ -31,852 +31,992 @@
     <datasource caption='fbref_outfield_player_stats_minor_combined_latest' inline='true' name='federated.0jr8ua30ahmp421a1bk3r0pezptz' version='18.1'>
       <connection class='federated'>
         <named-connections>
-          <named-connection caption='fbref_outfield_player_stats_minor_combined_latest' name='textscan.08509vo0ypjcmj160swuv1a80bhw'>
-            <connection class='textscan' directory='C:/Users/lucam/Desktop/Analyse foot/HighTech-Sport-Analytics-/Récuperation Data python/data/fbref/raw/outfield' filename='fbref_outfield_player_stats_minor_combined_latest.csv' password='' server='' />
+          <named-connection caption='127.0.0.1' name='mysql.11vdmqk1j8xpbd1c5wy121oimju0'>
+            <connection class='mysql' dbname='foot' odbc-native-protocol='' one-time-sql='' port='3306' server='127.0.0.1' source-charset='' username='root' />
           </named-connection>
         </named-connections>
-        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.08509vo0ypjcmj160swuv1a80bhw' name='fbref_outfield_player_stats_minor_combined_latest.csv' table='[fbref_outfield_player_stats_minor_combined_latest#csv]' type='table'>
-          <columns character-set='UTF-8' header='yes' locale='fr_FR' separator=','>
-            <column datatype='string' name='Player' ordinal='0' />
-            <column datatype='string' name='Nation' ordinal='1' />
-            <column datatype='string' name='Pos' ordinal='2' />
-            <column datatype='string' name='Squad' ordinal='3' />
-            <column datatype='integer' name='Age' ordinal='4' />
-            <column datatype='integer' name='Born' ordinal='5' />
-            <column datatype='integer' name='MP' ordinal='6' />
-            <column datatype='integer' name='Starts' ordinal='7' />
-            <column datatype='integer' name='Min' ordinal='8' />
-            <column datatype='real' name='90s' ordinal='9' />
-            <column datatype='integer' name='Gls' ordinal='10' />
-            <column datatype='integer' name='Ast' ordinal='11' />
-            <column datatype='integer' name='G-PK' ordinal='12' />
-            <column datatype='integer' name='PK' ordinal='13' />
-            <column datatype='integer' name='PKatt' ordinal='14' />
-            <column datatype='integer' name='CrdY' ordinal='15' />
-            <column datatype='integer' name='CrdR' ordinal='16' />
-            <column datatype='real' name='Gls/90' ordinal='17' />
-            <column datatype='real' name='Ast/90' ordinal='18' />
-            <column datatype='real' name='G+A' ordinal='19' />
-            <column datatype='real' name='G-PK/90' ordinal='20' />
-            <column datatype='real' name='G+A-PK' ordinal='21' />
-            <column datatype='integer' name='Sh' ordinal='22' />
-            <column datatype='integer' name='SoT' ordinal='23' />
-            <column datatype='real' name='SoT%' ordinal='24' />
-            <column datatype='real' name='Sh/90' ordinal='25' />
-            <column datatype='real' name='SoT/90' ordinal='26' />
-            <column datatype='real' name='G/Sh' ordinal='27' />
-            <column datatype='real' name='G/SoT' ordinal='28' />
-            <column datatype='string' name='Dist' ordinal='29' />
-            <column datatype='integer' name='Mn/MP' ordinal='30' />
-            <column datatype='real' name='Min%' ordinal='31' />
-            <column datatype='real' name='Mn/Start' ordinal='32' />
-            <column datatype='integer' name='Compl' ordinal='33' />
-            <column datatype='integer' name='Subs' ordinal='34' />
-            <column datatype='real' name='Mn/Sub' ordinal='35' />
-            <column datatype='integer' name='unSub' ordinal='36' />
-            <column datatype='real' name='PPM' ordinal='37' />
-            <column datatype='integer' name='onG' ordinal='38' />
-            <column datatype='integer' name='onGA' ordinal='39' />
-            <column datatype='integer' name='+/-' ordinal='40' />
-            <column datatype='real' name='+/-90' ordinal='41' />
-            <column datatype='real' name='On-Off' ordinal='42' />
-            <column datatype='integer' name='2CrdY' ordinal='43' />
-            <column datatype='integer' name='Fls' ordinal='44' />
-            <column datatype='integer' name='Fld' ordinal='45' />
-            <column datatype='integer' name='Off' ordinal='46' />
-            <column datatype='integer' name='Crs' ordinal='47' />
-            <column datatype='integer' name='Int' ordinal='48' />
-            <column datatype='integer' name='TklW' ordinal='49' />
-            <column datatype='string' name='PKwon' ordinal='50' />
-            <column datatype='string' name='PKcon' ordinal='51' />
-            <column datatype='integer' name='OG' ordinal='52' />
-            <column datatype='string' name='League Name' ordinal='53' />
-            <column datatype='integer' name='League ID' ordinal='54' />
-            <column datatype='string' name='Season' ordinal='55' />
-          </columns>
-        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
-        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.08509vo0ypjcmj160swuv1a80bhw' name='fbref_outfield_player_stats_minor_combined_latest.csv' table='[fbref_outfield_player_stats_minor_combined_latest#csv]' type='table'>
-          <columns character-set='UTF-8' header='yes' locale='fr_FR' separator=','>
-            <column datatype='string' name='Player' ordinal='0' />
-            <column datatype='string' name='Nation' ordinal='1' />
-            <column datatype='string' name='Pos' ordinal='2' />
-            <column datatype='string' name='Squad' ordinal='3' />
-            <column datatype='integer' name='Age' ordinal='4' />
-            <column datatype='integer' name='Born' ordinal='5' />
-            <column datatype='integer' name='MP' ordinal='6' />
-            <column datatype='integer' name='Starts' ordinal='7' />
-            <column datatype='integer' name='Min' ordinal='8' />
-            <column datatype='real' name='90s' ordinal='9' />
-            <column datatype='integer' name='Gls' ordinal='10' />
-            <column datatype='integer' name='Ast' ordinal='11' />
-            <column datatype='integer' name='G-PK' ordinal='12' />
-            <column datatype='integer' name='PK' ordinal='13' />
-            <column datatype='integer' name='PKatt' ordinal='14' />
-            <column datatype='integer' name='CrdY' ordinal='15' />
-            <column datatype='integer' name='CrdR' ordinal='16' />
-            <column datatype='real' name='Gls/90' ordinal='17' />
-            <column datatype='real' name='Ast/90' ordinal='18' />
-            <column datatype='real' name='G+A' ordinal='19' />
-            <column datatype='real' name='G-PK/90' ordinal='20' />
-            <column datatype='real' name='G+A-PK' ordinal='21' />
-            <column datatype='integer' name='Sh' ordinal='22' />
-            <column datatype='integer' name='SoT' ordinal='23' />
-            <column datatype='real' name='SoT%' ordinal='24' />
-            <column datatype='real' name='Sh/90' ordinal='25' />
-            <column datatype='real' name='SoT/90' ordinal='26' />
-            <column datatype='real' name='G/Sh' ordinal='27' />
-            <column datatype='real' name='G/SoT' ordinal='28' />
-            <column datatype='string' name='Dist' ordinal='29' />
-            <column datatype='integer' name='Mn/MP' ordinal='30' />
-            <column datatype='real' name='Min%' ordinal='31' />
-            <column datatype='real' name='Mn/Start' ordinal='32' />
-            <column datatype='integer' name='Compl' ordinal='33' />
-            <column datatype='integer' name='Subs' ordinal='34' />
-            <column datatype='real' name='Mn/Sub' ordinal='35' />
-            <column datatype='integer' name='unSub' ordinal='36' />
-            <column datatype='real' name='PPM' ordinal='37' />
-            <column datatype='integer' name='onG' ordinal='38' />
-            <column datatype='integer' name='onGA' ordinal='39' />
-            <column datatype='integer' name='+/-' ordinal='40' />
-            <column datatype='real' name='+/-90' ordinal='41' />
-            <column datatype='real' name='On-Off' ordinal='42' />
-            <column datatype='integer' name='2CrdY' ordinal='43' />
-            <column datatype='integer' name='Fls' ordinal='44' />
-            <column datatype='integer' name='Fld' ordinal='45' />
-            <column datatype='integer' name='Off' ordinal='46' />
-            <column datatype='integer' name='Crs' ordinal='47' />
-            <column datatype='integer' name='Int' ordinal='48' />
-            <column datatype='integer' name='TklW' ordinal='49' />
-            <column datatype='string' name='PKwon' ordinal='50' />
-            <column datatype='string' name='PKcon' ordinal='51' />
-            <column datatype='integer' name='OG' ordinal='52' />
-            <column datatype='string' name='League Name' ordinal='53' />
-            <column datatype='integer' name='League ID' ordinal='54' />
-            <column datatype='string' name='Season' ordinal='55' />
-          </columns>
-        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='mysql.11vdmqk1j8xpbd1c5wy121oimju0' name='fbref_outfield_player_stats_minor' table='[fbref_outfield_player_stats_minor]' type='table' />
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='mysql.11vdmqk1j8xpbd1c5wy121oimju0' name='fbref_outfield_player_stats_minor' table='[fbref_outfield_player_stats_minor]' type='table' />
         <metadata-records>
-          <metadata-record class='capability'>
-            <remote-name />
-            <remote-type>0</remote-type>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
-            <remote-alias />
-            <aggregation>Count</aggregation>
+          <metadata-record class='column'>
+            <remote-name>index</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[index]</local-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
+            <remote-alias>index</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
             <attributes>
-              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
-              <attribute datatype='string' name='collation'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='currency'>&quot;€&quot;</attribute>
-              <attribute datatype='string' name='debit-close-char'>&quot;&quot;</attribute>
-              <attribute datatype='string' name='debit-open-char'>&quot;&quot;</attribute>
-              <attribute datatype='string' name='decimal-char'>&quot;,&quot;</attribute>
-              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
-              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
-              <attribute datatype='string' name='locale'>&quot;fr_FR&quot;</attribute>
-              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
-              <attribute datatype='string' name='thousands-char'>&quot; &quot;</attribute>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
             </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Player</remote-name>
-            <remote-type>129</remote-type>
+            <remote-type>130</remote-type>
             <local-name>[Player]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Player</remote-alias>
-            <ordinal>0</ordinal>
+            <ordinal>2</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
-            <scale>1</scale>
-            <width>1073741823</width>
+            <width>16383</width>
             <contains-null>true</contains-null>
-            <collation flag='0' name='LFR_RFR' />
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Nation</remote-name>
-            <remote-type>129</remote-type>
+            <remote-type>130</remote-type>
             <local-name>[Nation]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Nation</remote-alias>
-            <ordinal>1</ordinal>
+            <ordinal>3</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
-            <scale>1</scale>
-            <width>1073741823</width>
+            <width>16383</width>
             <contains-null>true</contains-null>
-            <collation flag='0' name='LFR_RFR' />
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Pos</remote-name>
-            <remote-type>129</remote-type>
+            <remote-type>130</remote-type>
             <local-name>[Pos]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Pos</remote-alias>
-            <ordinal>2</ordinal>
+            <ordinal>4</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
-            <scale>1</scale>
-            <width>1073741823</width>
+            <width>16383</width>
             <contains-null>true</contains-null>
-            <collation flag='0' name='LFR_RFR' />
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Squad</remote-name>
-            <remote-type>129</remote-type>
+            <remote-type>130</remote-type>
             <local-name>[Squad]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Squad</remote-alias>
-            <ordinal>3</ordinal>
+            <ordinal>5</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
-            <scale>1</scale>
-            <width>1073741823</width>
+            <width>16383</width>
             <contains-null>true</contains-null>
-            <collation flag='0' name='LFR_RFR' />
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Age</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Age]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Age</remote-alias>
-            <ordinal>4</ordinal>
+            <ordinal>6</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Born</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Born]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Born</remote-alias>
-            <ordinal>5</ordinal>
+            <ordinal>7</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>MP</remote-name>
             <remote-type>20</remote-type>
             <local-name>[MP]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>MP</remote-alias>
-            <ordinal>6</ordinal>
+            <ordinal>8</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Starts</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Starts]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Starts</remote-alias>
-            <ordinal>7</ordinal>
+            <ordinal>9</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Min</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Min]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Min</remote-alias>
-            <ordinal>8</ordinal>
+            <ordinal>10</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>90s</remote-name>
             <remote-type>5</remote-type>
             <local-name>[90s]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>90s</remote-alias>
-            <ordinal>9</ordinal>
+            <ordinal>11</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Gls</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Gls]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Gls</remote-alias>
-            <ordinal>10</ordinal>
+            <ordinal>12</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Ast</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Ast]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Ast</remote-alias>
-            <ordinal>11</ordinal>
+            <ordinal>13</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>G-PK</remote-name>
             <remote-type>20</remote-type>
             <local-name>[G-PK]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>G-PK</remote-alias>
-            <ordinal>12</ordinal>
+            <ordinal>14</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>PK</remote-name>
             <remote-type>20</remote-type>
             <local-name>[PK]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>PK</remote-alias>
-            <ordinal>13</ordinal>
+            <ordinal>15</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>PKatt</remote-name>
             <remote-type>20</remote-type>
             <local-name>[PKatt]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>PKatt</remote-alias>
-            <ordinal>14</ordinal>
+            <ordinal>16</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>CrdY</remote-name>
             <remote-type>20</remote-type>
             <local-name>[CrdY]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>CrdY</remote-alias>
-            <ordinal>15</ordinal>
+            <ordinal>17</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>CrdR</remote-name>
             <remote-type>20</remote-type>
             <local-name>[CrdR]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>CrdR</remote-alias>
-            <ordinal>16</ordinal>
+            <ordinal>18</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Gls/90</remote-name>
             <remote-type>5</remote-type>
             <local-name>[Gls/90]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Gls/90</remote-alias>
-            <ordinal>17</ordinal>
+            <ordinal>19</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Ast/90</remote-name>
             <remote-type>5</remote-type>
             <local-name>[Ast/90]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Ast/90</remote-alias>
-            <ordinal>18</ordinal>
+            <ordinal>20</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>G+A</remote-name>
             <remote-type>5</remote-type>
             <local-name>[G+A]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>G+A</remote-alias>
-            <ordinal>19</ordinal>
+            <ordinal>21</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>G-PK/90</remote-name>
             <remote-type>5</remote-type>
             <local-name>[G-PK/90]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>G-PK/90</remote-alias>
-            <ordinal>20</ordinal>
+            <ordinal>22</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>G+A-PK</remote-name>
             <remote-type>5</remote-type>
             <local-name>[G+A-PK]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>G+A-PK</remote-alias>
-            <ordinal>21</ordinal>
+            <ordinal>23</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Sh</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Sh]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Sh</remote-alias>
-            <ordinal>22</ordinal>
+            <ordinal>24</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>SoT</remote-name>
             <remote-type>20</remote-type>
             <local-name>[SoT]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>SoT</remote-alias>
-            <ordinal>23</ordinal>
+            <ordinal>25</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>SoT%</remote-name>
             <remote-type>5</remote-type>
             <local-name>[SoT%]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>SoT%</remote-alias>
-            <ordinal>24</ordinal>
+            <ordinal>26</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Sh/90</remote-name>
             <remote-type>5</remote-type>
             <local-name>[Sh/90]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Sh/90</remote-alias>
-            <ordinal>25</ordinal>
+            <ordinal>27</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>SoT/90</remote-name>
             <remote-type>5</remote-type>
             <local-name>[SoT/90]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>SoT/90</remote-alias>
-            <ordinal>26</ordinal>
+            <ordinal>28</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>G/Sh</remote-name>
             <remote-type>5</remote-type>
             <local-name>[G/Sh]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>G/Sh</remote-alias>
-            <ordinal>27</ordinal>
+            <ordinal>29</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>G/SoT</remote-name>
             <remote-type>5</remote-type>
             <local-name>[G/SoT]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>G/SoT</remote-alias>
-            <ordinal>28</ordinal>
+            <ordinal>30</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Dist</remote-name>
-            <remote-type>129</remote-type>
+            <remote-type>5</remote-type>
             <local-name>[Dist]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Dist</remote-alias>
-            <ordinal>29</ordinal>
-            <local-type>string</local-type>
-            <aggregation>Count</aggregation>
-            <approx-count>1</approx-count>
-            <scale>1</scale>
-            <width>1073741823</width>
+            <ordinal>31</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
-            <collation flag='0' name='LFR_RFR' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Mn/MP</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Mn/MP]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Mn/MP</remote-alias>
-            <ordinal>30</ordinal>
+            <ordinal>32</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Min%</remote-name>
             <remote-type>5</remote-type>
             <local-name>[Min%]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Min%</remote-alias>
-            <ordinal>31</ordinal>
+            <ordinal>33</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Mn/Start</remote-name>
             <remote-type>5</remote-type>
             <local-name>[Mn/Start]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Mn/Start</remote-alias>
-            <ordinal>32</ordinal>
+            <ordinal>34</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Compl</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Compl]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Compl</remote-alias>
-            <ordinal>33</ordinal>
+            <ordinal>35</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Subs</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Subs]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Subs</remote-alias>
-            <ordinal>34</ordinal>
+            <ordinal>36</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Mn/Sub</remote-name>
             <remote-type>5</remote-type>
             <local-name>[Mn/Sub]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Mn/Sub</remote-alias>
-            <ordinal>35</ordinal>
+            <ordinal>37</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>unSub</remote-name>
             <remote-type>20</remote-type>
             <local-name>[unSub]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>unSub</remote-alias>
-            <ordinal>36</ordinal>
+            <ordinal>38</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>PPM</remote-name>
             <remote-type>5</remote-type>
             <local-name>[PPM]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>PPM</remote-alias>
-            <ordinal>37</ordinal>
+            <ordinal>39</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>onG</remote-name>
             <remote-type>20</remote-type>
             <local-name>[onG]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>onG</remote-alias>
-            <ordinal>38</ordinal>
+            <ordinal>40</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>onGA</remote-name>
             <remote-type>20</remote-type>
             <local-name>[onGA]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>onGA</remote-alias>
-            <ordinal>39</ordinal>
+            <ordinal>41</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>+/-</remote-name>
             <remote-type>20</remote-type>
             <local-name>[+/-]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>+/-</remote-alias>
-            <ordinal>40</ordinal>
+            <ordinal>42</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>+/-90</remote-name>
             <remote-type>5</remote-type>
             <local-name>[+/-90]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>+/-90</remote-alias>
-            <ordinal>41</ordinal>
+            <ordinal>43</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>On-Off</remote-name>
             <remote-type>5</remote-type>
             <local-name>[On-Off]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>On-Off</remote-alias>
-            <ordinal>42</ordinal>
+            <ordinal>44</ordinal>
             <local-type>real</local-type>
             <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>2CrdY</remote-name>
             <remote-type>20</remote-type>
             <local-name>[2CrdY]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>2CrdY</remote-alias>
-            <ordinal>43</ordinal>
+            <ordinal>45</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Fls</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Fls]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Fls</remote-alias>
-            <ordinal>44</ordinal>
+            <ordinal>46</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Fld</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Fld]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Fld</remote-alias>
-            <ordinal>45</ordinal>
+            <ordinal>47</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Off</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Off]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Off</remote-alias>
-            <ordinal>46</ordinal>
+            <ordinal>48</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Crs</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Crs]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Crs</remote-alias>
-            <ordinal>47</ordinal>
+            <ordinal>49</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Int</remote-name>
             <remote-type>20</remote-type>
             <local-name>[Int]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Int</remote-alias>
-            <ordinal>48</ordinal>
+            <ordinal>50</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>TklW</remote-name>
             <remote-type>20</remote-type>
             <local-name>[TklW]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>TklW</remote-alias>
-            <ordinal>49</ordinal>
+            <ordinal>51</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>PKwon</remote-name>
-            <remote-type>129</remote-type>
+            <remote-type>5</remote-type>
             <local-name>[PKwon]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>PKwon</remote-alias>
-            <ordinal>50</ordinal>
-            <local-type>string</local-type>
-            <aggregation>Count</aggregation>
-            <approx-count>1</approx-count>
-            <scale>1</scale>
-            <width>1073741823</width>
+            <ordinal>52</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
-            <collation flag='0' name='LFR_RFR' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>PKcon</remote-name>
-            <remote-type>129</remote-type>
+            <remote-type>5</remote-type>
             <local-name>[PKcon]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>PKcon</remote-alias>
-            <ordinal>51</ordinal>
-            <local-type>string</local-type>
-            <aggregation>Count</aggregation>
-            <approx-count>1</approx-count>
-            <scale>1</scale>
-            <width>1073741823</width>
+            <ordinal>53</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
             <contains-null>true</contains-null>
-            <collation flag='0' name='LFR_RFR' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>OG</remote-name>
             <remote-type>20</remote-type>
             <local-name>[OG]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>OG</remote-alias>
-            <ordinal>52</ordinal>
+            <ordinal>54</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>League Name</remote-name>
-            <remote-type>129</remote-type>
+            <remote-type>130</remote-type>
             <local-name>[League Name]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>League Name</remote-alias>
-            <ordinal>53</ordinal>
+            <ordinal>55</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
-            <scale>1</scale>
-            <width>1073741823</width>
+            <width>16383</width>
             <contains-null>true</contains-null>
-            <collation flag='0' name='LFR_RFR' />
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>League ID</remote-name>
             <remote-type>20</remote-type>
             <local-name>[League ID]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>League ID</remote-alias>
-            <ordinal>54</ordinal>
+            <ordinal>56</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
+            <precision>19</precision>
             <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Season</remote-name>
-            <remote-type>129</remote-type>
+            <remote-type>130</remote-type>
             <local-name>[Season]</local-name>
-            <parent-name>[fbref_outfield_player_stats_minor_combined_latest.csv]</parent-name>
+            <parent-name>[fbref_outfield_player_stats_minor]</parent-name>
             <remote-alias>Season</remote-alias>
-            <ordinal>55</ordinal>
+            <ordinal>57</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
-            <scale>1</scale>
-            <width>1073741823</width>
+            <width>16383</width>
             <contains-null>true</contains-null>
-            <collation flag='0' name='LFR_RFR' />
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
         </metadata-records>
@@ -1156,66 +1296,7 @@
         <objects>
           <object caption='fbref_outfield_player_stats_minor_combined_latest.csv' id='fbref_outfield_player_stats_minor_combined_latest.csv_A386293033DF4689BD837CD4BE10EEE9'>
             <properties context=''>
-              <relation connection='textscan.08509vo0ypjcmj160swuv1a80bhw' name='fbref_outfield_player_stats_minor_combined_latest.csv' table='[fbref_outfield_player_stats_minor_combined_latest#csv]' type='table'>
-                <columns character-set='UTF-8' header='yes' locale='fr_FR' separator=','>
-                  <column datatype='string' name='Player' ordinal='0' />
-                  <column datatype='string' name='Nation' ordinal='1' />
-                  <column datatype='string' name='Pos' ordinal='2' />
-                  <column datatype='string' name='Squad' ordinal='3' />
-                  <column datatype='integer' name='Age' ordinal='4' />
-                  <column datatype='integer' name='Born' ordinal='5' />
-                  <column datatype='integer' name='MP' ordinal='6' />
-                  <column datatype='integer' name='Starts' ordinal='7' />
-                  <column datatype='integer' name='Min' ordinal='8' />
-                  <column datatype='real' name='90s' ordinal='9' />
-                  <column datatype='integer' name='Gls' ordinal='10' />
-                  <column datatype='integer' name='Ast' ordinal='11' />
-                  <column datatype='integer' name='G-PK' ordinal='12' />
-                  <column datatype='integer' name='PK' ordinal='13' />
-                  <column datatype='integer' name='PKatt' ordinal='14' />
-                  <column datatype='integer' name='CrdY' ordinal='15' />
-                  <column datatype='integer' name='CrdR' ordinal='16' />
-                  <column datatype='real' name='Gls/90' ordinal='17' />
-                  <column datatype='real' name='Ast/90' ordinal='18' />
-                  <column datatype='real' name='G+A' ordinal='19' />
-                  <column datatype='real' name='G-PK/90' ordinal='20' />
-                  <column datatype='real' name='G+A-PK' ordinal='21' />
-                  <column datatype='integer' name='Sh' ordinal='22' />
-                  <column datatype='integer' name='SoT' ordinal='23' />
-                  <column datatype='real' name='SoT%' ordinal='24' />
-                  <column datatype='real' name='Sh/90' ordinal='25' />
-                  <column datatype='real' name='SoT/90' ordinal='26' />
-                  <column datatype='real' name='G/Sh' ordinal='27' />
-                  <column datatype='real' name='G/SoT' ordinal='28' />
-                  <column datatype='string' name='Dist' ordinal='29' />
-                  <column datatype='integer' name='Mn/MP' ordinal='30' />
-                  <column datatype='real' name='Min%' ordinal='31' />
-                  <column datatype='real' name='Mn/Start' ordinal='32' />
-                  <column datatype='integer' name='Compl' ordinal='33' />
-                  <column datatype='integer' name='Subs' ordinal='34' />
-                  <column datatype='real' name='Mn/Sub' ordinal='35' />
-                  <column datatype='integer' name='unSub' ordinal='36' />
-                  <column datatype='real' name='PPM' ordinal='37' />
-                  <column datatype='integer' name='onG' ordinal='38' />
-                  <column datatype='integer' name='onGA' ordinal='39' />
-                  <column datatype='integer' name='+/-' ordinal='40' />
-                  <column datatype='real' name='+/-90' ordinal='41' />
-                  <column datatype='real' name='On-Off' ordinal='42' />
-                  <column datatype='integer' name='2CrdY' ordinal='43' />
-                  <column datatype='integer' name='Fls' ordinal='44' />
-                  <column datatype='integer' name='Fld' ordinal='45' />
-                  <column datatype='integer' name='Off' ordinal='46' />
-                  <column datatype='integer' name='Crs' ordinal='47' />
-                  <column datatype='integer' name='Int' ordinal='48' />
-                  <column datatype='integer' name='TklW' ordinal='49' />
-                  <column datatype='string' name='PKwon' ordinal='50' />
-                  <column datatype='string' name='PKcon' ordinal='51' />
-                  <column datatype='integer' name='OG' ordinal='52' />
-                  <column datatype='string' name='League Name' ordinal='53' />
-                  <column datatype='integer' name='League ID' ordinal='54' />
-                  <column datatype='string' name='Season' ordinal='55' />
-                </columns>
-              </relation>
+              <relation connection='mysql.11vdmqk1j8xpbd1c5wy121oimju0' name='fbref_outfield_player_stats_minor' table='[fbref_outfield_player_stats_minor]' type='table' />
             </properties>
           </object>
         </objects>
@@ -1853,8 +1934,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2000' minheight='2000' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='19' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98230' id='18' param='vert' type-v2='layout-flow' w='99064' x='468' y='885'>
+            <zone h='100000' id='21' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='20' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='3555' id='12' type-v2='text' w='99064' x='468' y='885'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#000000' fontsize='15'>Distribution buts + passes décisives</run>
@@ -1997,7 +2078,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone h='7411' id='7' type-v2='text' w='85372' x='468' y='91704'>
+          <zone h='7411' id='7' type-v2='text' w='85371' x='468' y='91704'>
             <formatted-text>
               <run fontalignment='2' fontsize='16'>@Luca_Analytics @HightechSport</run>
               <run fontalignment='2'>Æ&#10;</run>
@@ -2009,7 +2090,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Ligue_2_BKT_2020.svg/1405px-Logo_Ligue_2_BKT_2020.svg.png' h='7411' id='8' is-scaled='1' type-v2='bitmap' w='4096' x='85840' y='91704'>
+          <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Ligue_2_BKT_2020.svg/1405px-Logo_Ligue_2_BKT_2020.svg.png' h='7411' id='8' is-scaled='1' type-v2='bitmap' w='4096' x='85839' y='91704'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -2017,7 +2098,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://d2p3bygnnzw9w3.cloudfront.net/req/202111041/logos/fb-logo.svg' h='7411' id='9' is-scaled='1' type-v2='bitmap' w='9596' x='89936' y='91704'>
+          <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://d2p3bygnnzw9w3.cloudfront.net/req/202111041/logos/fb-logo.svg' h='7411' id='9' is-scaled='1' type-v2='bitmap' w='9597' x='89935' y='91704'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -2053,8 +2134,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1100' minheight='1100' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='13' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98230' id='12' param='vert' type-v2='layout-flow' w='99064' x='468' y='885'>
+            <zone h='100000' id='15' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98230' id='14' param='vert' type-v2='layout-flow' w='99064' x='468' y='885'>
                 <zone h='6109' id='6' type-v2='text' w='99064' x='468' y='885'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#000000' fontsize='15'>Temps de jeu</run>
@@ -2103,7 +2184,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='7411' id='7' type-v2='text' w='85372' x='468' y='91704'>
+                <zone h='7411' id='7' type-v2='text' w='85371' x='468' y='91704'>
                   <formatted-text>
                     <run fontalignment='2' fontsize='16'>@Luca_Analytics @HightechSport</run>
                     <run fontalignment='2'>Æ&#10;</run>
@@ -2116,7 +2197,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Ligue_2_BKT_2020.svg/1405px-Logo_Ligue_2_BKT_2020.svg.png' fixed-size='51' h='7411' id='8' is-fixed='true' is-scaled='1' type-v2='bitmap' w='4096' x='85840' y='91704'>
+                <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Ligue_2_BKT_2020.svg/1405px-Logo_Ligue_2_BKT_2020.svg.png' fixed-size='51' h='7411' id='8' is-fixed='true' is-scaled='1' type-v2='bitmap' w='4096' x='85839' y='91704'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2125,7 +2206,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://d2p3bygnnzw9w3.cloudfront.net/req/202111041/logos/fb-logo.svg' fixed-size='51' h='7411' id='9' is-fixed='true' is-scaled='1' type-v2='bitmap' w='9596' x='89936' y='91704'>
+                <zone _.fcp.ExternalImageContentForZones.true...image-file-url='https://d2p3bygnnzw9w3.cloudfront.net/req/202111041/logos/fb-logo.svg' fixed-size='51' h='7411' id='9' is-fixed='true' is-scaled='1' type-v2='bitmap' w='9597' x='89935' y='91704'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2169,7 +2250,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='14' />
+      <active id='-1' />
       <simple-id uuid='{35C4A192-FC69-43B3-96E0-8801B56C1603}' />
     </window>
     <window class='dashboard' maximized='true' name='Temps de jeu Dijon-Auxerre'>
@@ -2541,213 +2622,216 @@
     </thumbnail>
     <thumbnail height='192' name='Temps de jeu Dijon-Auxerre' width='192'>
       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
-      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
+      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
     </thumbnail>
   </thumbnails>
 </workbook>

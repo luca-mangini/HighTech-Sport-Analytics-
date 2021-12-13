@@ -1,0 +1,382 @@
+Wk,Day,Date,Time,Home,xG,Score,xG.1,Away,Attendance,Venue,Referee,Match Report,Notes,League Name,League ID,Season
+1.0,Sat,2018-08-18,18:00,Chievo,1.0,2–3,2.3,Juventus,29500.0,Stadio Marc'Antonio Bentegodi,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+1.0,Sat,2018-08-18,20:30,Lazio,1.1,1–2,1.5,Napoli,32000.0,Stadio Olimpico,Luca Banti,Match Report,,Serie-A,11,2018-2019
+1.0,Sun,2018-08-19,18:00,Torino,0.7,0–1,1.5,Roma,18000.0,Stadio Olimpico di Torino,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+1.0,Sun,2018-08-19,20:30,Empoli,0.9,2–0,0.9,Cagliari,7335.0,Stadio Carlo Castellani,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+1.0,Sun,2018-08-19,20:30,Bologna,0.9,0–1,0.7,SPAL,21158.0,Stadio Renato Dall'Ara,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+1.0,Sun,2018-08-19,20:30,Parma,1.4,2–2,2.1,Udinese,13141.0,Stadio Ennio Tardini,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+1.0,Sun,2018-08-19,20:30,Sassuolo,1.6,1–0,1.4,Inter,19104.0,Stadio CittÃ del Tricolore,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+1.0,Mon,2018-08-20,20:30,Atalanta,2.3,4–0,0.5,Frosinone,18217.0,Stadio Atleti Azzurri d'Italia,Marco Piccinini,Match Report,,Serie-A,11,2018-2019
+,,,,,,,,,,,,,,Serie-A,11,2018-2019
+2.0,Sat,2018-08-25,18:00,Juventus,2.2,2–0,0.2,Lazio,40171.0,Allianz Stadium,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+2.0,Sat,2018-08-25,20:30,Napoli,2.1,3–2,0.7,Milan,34474.0,Stadio San Paolo,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+2.0,Sun,2018-08-26,18:00,SPAL,1.2,1–0,0.5,Parma,6000.0,Stadio Paolo Mazza,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+2.0,Sun,2018-08-26,20:30,Fiorentina,3.1,6–1,1.2,Chievo,27790.0,Stadio Artemio Franchi,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+2.0,Sun,2018-08-26,20:30,Frosinone,1.4,0–0,1.2,Bologna,,Stadio Olimpico di Torino,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+2.0,Sun,2018-08-26,20:30,Inter,1.4,2–2,1.6,Torino,59135.0,Stadio Giuseppe Meazza,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+2.0,Sun,2018-08-26,20:30,Genoa,1.1,2–1,2.3,Empoli,19523.0,Stadio Comunale Luigi Ferraris,Livio Marinelli,Match Report,,Serie-A,11,2018-2019
+2.0,Sun,2018-08-26,20:30,Cagliari,1.6,2–2,1.9,Sassuolo,14432.0,Sardegna Arena,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+2.0,Sun,2018-08-26,20:30,Udinese,1.5,1–0,0.7,Sampdoria,15770.0,Dacia Arena,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+2.0,Mon,2018-08-27,20:30,Roma,2.0,3–3,2.4,Atalanta,41725.0,Stadio Olimpico,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+3.0,Fri,2018-08-31,20:30,Milan,1.5,2–1,0.5,Roma,57789.0,Stadio Giuseppe Meazza,Marco Guida,Match Report,,Serie-A,11,2018-2019
+3.0,Sat,2018-09-01,18:00,Bologna,0.5,0–3,2.0,Inter,26082.0,Stadio Renato Dall'Ara,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+3.0,Sat,2018-09-01,20:30,Parma,1.6,1–2,2.4,Juventus,20814.0,Stadio Ennio Tardini,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+3.0,Sun,2018-09-02,18:00,Fiorentina,0.7,1–0,0.2,Udinese,31009.0,Stadio Artemio Franchi,Antonio Giua,Match Report,,Serie-A,11,2018-2019
+3.0,Sun,2018-09-02,20:30,Sampdoria,0.8,3–0,1.8,Napoli,19835.0,Stadio Comunale Luigi Ferraris,Davide Massa,Match Report,,Serie-A,11,2018-2019
+3.0,Sun,2018-09-02,20:30,Chievo,1.0,0–0,1.2,Empoli,8100.0,Stadio Marc'Antonio Bentegodi,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+3.0,Sun,2018-09-02,20:30,Atalanta,0.6,0–1,0.5,Cagliari,17709.0,Stadio Atleti Azzurri d'Italia,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+3.0,Sun,2018-09-02,20:30,Lazio,2.1,1–0,0.6,Frosinone,34465.0,Stadio Olimpico,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+3.0,Sun,2018-09-02,20:30,Sassuolo,1.4,5–3,1.8,Genoa,9740.0,Stadio CittÃ del Tricolore,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+3.0,Sun,2018-09-02,20:30,Torino,1.3,1–0,1.0,SPAL,17785.0,Stadio Olimpico di Torino,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+4.0,Sat,2018-09-15,15:00,Inter,1.8,0–1,0.5,Parma,59648.0,Stadio Giuseppe Meazza,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+4.0,Sat,2018-09-15,18:00,Napoli,1.5,1–0,0.4,Fiorentina,20131.0,Stadio San Paolo,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+4.0,Sat,2018-09-15,20:30,Frosinone,0.5,0–5,2.7,Sampdoria,12502.0,Stadio Benito Stirpe,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+4.0,Sun,2018-09-16,12:30,Roma,2.5,2–2,1.2,Chievo,39849.0,Stadio Olimpico,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+4.0,Sun,2018-09-16,15:00,Udinese,0.5,1–1,1.0,Torino,18813.0,Dacia Arena,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+4.0,Sun,2018-09-16,15:00,Genoa,0.7,1–0,0.8,Bologna,20032.0,Stadio Comunale Luigi Ferraris,Luca Banti,Match Report,,Serie-A,11,2018-2019
+4.0,Sun,2018-09-16,15:00,Juventus,2.6,2–1,0.8,Sassuolo,40563.0,Allianz Stadium,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+4.0,Sun,2018-09-16,18:00,Empoli,1.6,0–1,2.3,Lazio,10832.0,Stadio Carlo Castellani,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+4.0,Sun,2018-09-16,20:30,Cagliari,0.4,1–1,1.5,Milan,16201.0,Sardegna Arena,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+4.0,Mon,2018-09-17,20:30,SPAL,1.5,2–0,0.8,Atalanta,14153.0,Stadio Paolo Mazza,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+1.0,Wed,2018-09-19,19:00,Sampdoria,0.8,1–1,1.6,Fiorentina,18334.0,Stadio Comunale Luigi Ferraris,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+5.0,Fri,2018-09-21,20:30,Sassuolo,1.5,3–1,1.6,Empoli,10183.0,Stadio CittÃ del Tricolore,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+5.0,Sat,2018-09-22,15:00,Parma,2.1,2–0,1.4,Cagliari,14852.0,Stadio Ennio Tardini,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+5.0,Sat,2018-09-22,18:00,Fiorentina,1.5,3–0,0.8,SPAL,30068.0,Stadio Artemio Franchi,Davide Ghersini,Match Report,,Serie-A,11,2018-2019
+5.0,Sat,2018-09-22,20:30,Sampdoria,0.7,0–1,0.9,Inter,22835.0,Stadio Comunale Luigi Ferraris,Marco Guida,Match Report,,Serie-A,11,2018-2019
+5.0,Sun,2018-09-23,12:30,Torino,1.3,1–3,1.8,Napoli,22655.0,Stadio Olimpico di Torino,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+5.0,Sun,2018-09-23,15:00,Chievo,1.7,0–2,1.7,Udinese,10000.0,Stadio Marc'Antonio Bentegodi,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+5.0,Sun,2018-09-23,15:00,Lazio,2.7,4–1,0.9,Genoa,30000.0,Stadio Olimpico,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+5.0,Sun,2018-09-23,15:00,Bologna,1.8,2–0,2.9,Roma,20067.0,Stadio Renato Dall'Ara,Davide Massa,Match Report,,Serie-A,11,2018-2019
+5.0,Sun,2018-09-23,18:00,Milan,2.0,2–2,2.2,Atalanta,51684.0,Stadio Giuseppe Meazza,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+5.0,Sun,2018-09-23,20:30,Frosinone,0.1,0–2,2.2,Juventus,16000.0,Stadio Benito Stirpe,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+6.0,Tue,2018-09-25,21:00,Inter,2.2,2–1,1.3,Fiorentina,55840.0,Stadio Giuseppe Meazza,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+6.0,Wed,2018-09-26,19:00,Udinese,0.6,1–2,1.0,Lazio,19455.0,Dacia Arena,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+6.0,Wed,2018-09-26,21:00,Atalanta,0.8,0–0,0.2,Torino,18144.0,Stadio Atleti Azzurri d'Italia,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+6.0,Wed,2018-09-26,21:00,Genoa,1.2,2–0,1.3,Chievo,18969.0,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+6.0,Wed,2018-09-26,21:00,Roma,2.8,4–0,1.0,Frosinone,34380.0,Stadio Olimpico,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+6.0,Wed,2018-09-26,21:00,Cagliari,0.8,0–0,2.6,Sampdoria,14038.0,Sardegna Arena,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+6.0,Wed,2018-09-26,21:00,Napoli,3.4,3–0,0.1,Parma,29354.0,Stadio San Paolo,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+6.0,Wed,2018-09-26,21:00,Juventus,1.1,2–0,0.5,Bologna,38472.0,Allianz Stadium,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+6.0,Thu,2018-09-27,19:00,SPAL,1.2,0–2,2.1,Sassuolo,13945.0,Stadio Paolo Mazza,Eugenio Abbattista,Match Report,,Serie-A,11,2018-2019
+6.0,Thu,2018-09-27,21:00,Empoli,1.5,1–1,1.7,Milan,13890.0,Stadio Carlo Castellani,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+7.0,Sat,2018-09-29,15:00,Roma,1.5,3–1,1.0,Lazio,47600.0,Stadio Olimpico,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+7.0,Sat,2018-09-29,18:00,Juventus,2.2,3–1,1.7,Napoli,39252.0,Allianz Stadium,Luca Banti,Match Report,,Serie-A,11,2018-2019
+7.0,Sat,2018-09-29,20:30,Inter,1.2,2–0,0.1,Cagliari,55486.0,Stadio Giuseppe Meazza,Davide Massa,Match Report,,Serie-A,11,2018-2019
+7.0,Sun,2018-09-30,12:30,Bologna,1.3,2–1,0.8,Udinese,19039.0,Stadio Renato Dall'Ara,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+7.0,Sun,2018-09-30,15:00,Frosinone,1.9,1–2,1.4,Genoa,12384.0,Stadio Benito Stirpe,Juan Sacchi,Match Report,,Serie-A,11,2018-2019
+7.0,Sun,2018-09-30,15:00,Fiorentina,1.1,2–0,0.9,Atalanta,30535.0,Stadio Artemio Franchi,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+7.0,Sun,2018-09-30,15:00,Chievo,0.5,0–1,2.4,Torino,10500.0,Stadio Marc'Antonio Bentegodi,Marco Guida,Match Report,,Serie-A,11,2018-2019
+7.0,Sun,2018-09-30,18:00,Parma,0.9,1–0,1.3,Empoli,14584.0,Stadio Ennio Tardini,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+7.0,Sun,2018-09-30,20:30,Sassuolo,0.9,1–4,1.4,Milan,16795.0,Stadio CittÃ del Tricolore,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+7.0,Mon,2018-10-01,20:30,Sampdoria,1.2,2–1,1.2,SPAL,17885.0,Stadio Comunale Luigi Ferraris,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+8.0,Fri,2018-10-05,20:30,Torino,2.4,3–2,1.8,Frosinone,16554.0,Stadio Olimpico di Torino,Ivan Pezzuto,Match Report,,Serie-A,11,2018-2019
+8.0,Sat,2018-10-06,15:00,Cagliari,1.6,2–0,0.4,Bologna,15019.0,Sardegna Arena,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+8.0,Sat,2018-10-06,18:00,Udinese,0.8,0–2,2.1,Juventus,25000.0,Dacia Arena,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+8.0,Sat,2018-10-06,20:30,Empoli,1.7,0–2,0.9,Roma,10670.0,Stadio Carlo Castellani,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+8.0,Sun,2018-10-07,12:30,Genoa,1.6,1–3,1.2,Parma,20511.0,Stadio Comunale Luigi Ferraris,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+8.0,Sun,2018-10-07,15:00,Milan,2.2,3–1,0.4,Chievo,48088.0,Stadio Giuseppe Meazza,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+8.0,Sun,2018-10-07,15:00,Atalanta,1.9,0–1,0.5,Sampdoria,19164.0,Stadio Atleti Azzurri d'Italia,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+8.0,Sun,2018-10-07,15:00,Lazio,0.9,1–0,1.3,Fiorentina,30000.0,Stadio Olimpico,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+8.0,Sun,2018-10-07,18:00,Napoli,2.0,2–0,0.8,Sassuolo,29647.0,Stadio San Paolo,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+8.0,Sun,2018-10-07,20:30,SPAL,2.7,1–2,1.2,Inter,15750.0,Stadio Paolo Mazza,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+9.0,Sat,2018-10-20,15:00,Roma,2.1,0–2,1.6,SPAL,39838.0,Stadio Olimpico,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+9.0,Sat,2018-10-20,18:00,Juventus,2.0,1–1,0.5,Genoa,37735.0,Allianz Stadium,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+9.0,Sat,2018-10-20,20:30,Udinese,0.9,0–3,2.0,Napoli,21449.0,Dacia Arena,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+9.0,Sun,2018-10-21,12:30,Frosinone,1.1,3–3,1.6,Empoli,12287.0,Stadio Benito Stirpe,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+9.0,Sun,2018-10-21,15:00,Bologna,1.2,2–2,0.8,Torino,23245.0,Stadio Renato Dall'Ara,Luca Banti,Match Report,,Serie-A,11,2018-2019
+9.0,Sun,2018-10-21,15:00,Chievo,0.9,1–5,2.0,Atalanta,12000.0,Stadio Marc'Antonio Bentegodi,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+9.0,Sun,2018-10-21,15:00,Parma,0.2,0–2,2.3,Lazio,18969.0,Stadio Ennio Tardini,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+9.0,Sun,2018-10-21,18:00,Fiorentina,1.4,1–1,0.8,Cagliari,31567.0,Stadio Artemio Franchi,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+9.0,Sun,2018-10-21,20:30,Inter,1.6,1–0,0.7,Milan,78275.0,Stadio Giuseppe Meazza,Marco Guida,Match Report,,Serie-A,11,2018-2019
+9.0,Mon,2018-10-22,20:30,Sampdoria,0.7,0–0,0.3,Sassuolo,19064.0,Stadio Comunale Luigi Ferraris,Francesco Fourneau,Match Report,,Serie-A,11,2018-2019
+10.0,Sat,2018-10-27,15:00,Atalanta,2.2,3–0,1.2,Parma,18152.0,Stadio Atleti Azzurri d'Italia,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+10.0,Sat,2018-10-27,18:00,Empoli,0.6,1–2,1.8,Juventus,15889.0,Stadio Carlo Castellani,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+10.0,Sat,2018-10-27,20:30,Torino,1.0,1–1,1.1,Fiorentina,17871.0,Stadio Olimpico di Torino,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+10.0,Sun,2018-10-28,12:30,Sassuolo,1.8,2–2,1.2,Bologna,12647.0,Stadio CittÃ del Tricolore,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+10.0,Sun,2018-10-28,15:00,SPAL,0.7,0–3,0.6,Frosinone,13676.0,Stadio Paolo Mazza,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+10.0,Sun,2018-10-28,15:00,Genoa,1.8,2–2,0.8,Udinese,18880.0,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+10.0,Sun,2018-10-28,15:00,Cagliari,1.6,2–1,1.8,Chievo,15805.0,Sardegna Arena,Marco Piccinini,Match Report,,Serie-A,11,2018-2019
+10.0,Sun,2018-10-28,18:00,Milan,1.8,3–2,0.5,Sampdoria,47347.0,Stadio Giuseppe Meazza,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+10.0,Sun,2018-10-28,20:30,Napoli,2.6,1–1,1.0,Roma,30037.0,Stadio San Paolo,Davide Massa,Match Report,,Serie-A,11,2018-2019
+10.0,Mon,2018-10-29,20:30,Lazio,1.1,0–3,1.5,Inter,40068.0,Stadio Olimpico,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+1.0,Wed,2018-10-31,20:30,Milan,1.7,2–1,0.4,Genoa,46720.0,Stadio Giuseppe Meazza,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+11.0,Fri,2018-11-02,20:30,Napoli,1.8,5–1,1.1,Empoli,31370.0,Stadio San Paolo,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+11.0,Sat,2018-11-03,15:00,Inter,2.7,5–0,0.3,Genoa,67532.0,Stadio Giuseppe Meazza,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+11.0,Sat,2018-11-03,18:00,Fiorentina,1.3,1–1,1.9,Roma,30590.0,Stadio Artemio Franchi,Luca Banti,Match Report,,Serie-A,11,2018-2019
+11.0,Sat,2018-11-03,20:30,Juventus,1.3,3–1,0.7,Cagliari,40644.0,Allianz Stadium,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+11.0,Sun,2018-11-04,12:30,Lazio,2.3,4–1,1.0,SPAL,35573.0,Stadio Olimpico,Marco Guida,Match Report,,Serie-A,11,2018-2019
+11.0,Sun,2018-11-04,15:00,Sampdoria,1.3,1–4,2.9,Torino,20364.0,Stadio Comunale Luigi Ferraris,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+11.0,Sun,2018-11-04,15:00,Parma,1.0,0–0,0.5,Frosinone,14004.0,Stadio Ennio Tardini,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+11.0,Sun,2018-11-04,15:00,Chievo,0.6,0–2,1.0,Sassuolo,8100.0,Stadio Marc'Antonio Bentegodi,Gianluca Aureliano,Match Report,,Serie-A,11,2018-2019
+11.0,Sun,2018-11-04,18:00,Bologna,1.8,1–2,2.2,Atalanta,19038.0,Stadio Renato Dall'Ara,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+11.0,Sun,2018-11-04,20:30,Udinese,0.8,0–1,0.9,Milan,23540.0,Dacia Arena,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+12.0,Fri,2018-11-09,20:30,Frosinone,0.4,1–1,1.5,Fiorentina,13378.0,Stadio Benito Stirpe,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+12.0,Sat,2018-11-10,15:00,Torino,1.9,1–2,1.7,Parma,17431.0,Stadio Olimpico di Torino,Davide Massa,Match Report,,Serie-A,11,2018-2019
+12.0,Sat,2018-11-10,18:00,SPAL,1.7,2–2,1.0,Cagliari,13250.0,Stadio Paolo Mazza,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+12.0,Sat,2018-11-10,20:30,Genoa,0.6,1–2,2.2,Napoli,25365.0,Stadio Comunale Luigi Ferraris,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+12.0,Sun,2018-11-11,12:30,Atalanta,2.8,4–1,1.2,Inter,20633.0,Stadio Atleti Azzurri d'Italia,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+12.0,Sun,2018-11-11,15:00,Empoli,1.4,2–1,3.5,Udinese,7553.0,Stadio Carlo Castellani,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+12.0,Sun,2018-11-11,15:00,Roma,2.3,4–1,1.0,Sampdoria,37582.0,Stadio Olimpico,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+12.0,Sun,2018-11-11,15:00,Chievo,2.1,2–2,1.7,Bologna,9500.0,Stadio Marc'Antonio Bentegodi,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+12.0,Sun,2018-11-11,18:00,Sassuolo,0.8,1–1,1.5,Lazio,11317.0,Stadio CittÃ del Tricolore,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+12.0,Sun,2018-11-11,20:30,Milan,0.8,0–2,1.1,Juventus,74729.0,Stadio Giuseppe Meazza,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+13.0,Sat,2018-11-24,15:00,Udinese,1.1,1–0,1.7,Roma,21986.0,Dacia Arena,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+13.0,Sat,2018-11-24,18:00,Juventus,1.4,2–0,0.3,SPAL,41052.0,Allianz Stadium,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+13.0,Sat,2018-11-24,20:30,Inter,2.4,3–0,0.3,Frosinone,63645.0,Stadio Giuseppe Meazza,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+13.0,Sun,2018-11-25,12:30,Parma,1.8,2–1,1.9,Sassuolo,14354.0,Stadio Ennio Tardini,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+13.0,Sun,2018-11-25,15:00,Empoli,1.7,3–2,1.5,Atalanta,8736.0,Stadio Carlo Castellani,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+13.0,Sun,2018-11-25,15:00,Bologna,0.3,0–0,1.4,Fiorentina,21241.0,Stadio Renato Dall'Ara,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+13.0,Sun,2018-11-25,15:00,Napoli,1.6,0–0,0.5,Chievo,44468.0,Stadio San Paolo,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+13.0,Sun,2018-11-25,18:00,Lazio,1.6,1–1,0.5,Milan,38269.0,Stadio Olimpico,Luca Banti,Match Report,,Serie-A,11,2018-2019
+13.0,Sun,2018-11-25,20:30,Genoa,2.3,1–1,0.6,Sampdoria,31756.0,Stadio Comunale Luigi Ferraris,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+13.0,Mon,2018-11-26,20:30,Cagliari,0.2,0–0,1.0,Torino,15804.0,Sardegna Arena,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+14.0,Sat,2018-12-01,15:00,SPAL,0.7,2–2,2.1,Empoli,12622.0,Stadio Paolo Mazza,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+14.0,Sat,2018-12-01,18:00,Fiorentina,1.3,0–3,1.8,Juventus,40872.0,Stadio Artemio Franchi,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+14.0,Sat,2018-12-01,20:30,Sampdoria,1.5,4–1,1.4,Bologna,17844.0,Stadio Comunale Luigi Ferraris,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+14.0,Sun,2018-12-02,12:30,Milan,1.6,2–1,1.0,Parma,53275.0,Stadio Giuseppe Meazza,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+14.0,Sun,2018-12-02,15:00,Torino,2.4,2–1,1.2,Genoa,15324.0,Stadio Olimpico di Torino,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+14.0,Sun,2018-12-02,15:00,Frosinone,1.8,1–1,1.9,Cagliari,12377.0,Stadio Benito Stirpe,Marco Serra,Match Report,,Serie-A,11,2018-2019
+14.0,Sun,2018-12-02,15:00,Sassuolo,1.8,0–0,0.2,Udinese,10655.0,Stadio CittÃ del Tricolore,Marco Guida,Match Report,,Serie-A,11,2018-2019
+14.0,Sun,2018-12-02,18:00,Chievo,0.9,1–1,1.6,Lazio,7000.0,Stadio Marc'Antonio Bentegodi,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+14.0,Sun,2018-12-02,20:30,Roma,1.6,2–2,2.3,Inter,41009.0,Stadio Olimpico,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+14.0,Mon,2018-12-03,20:30,Atalanta,1.0,1–2,2.1,Napoli,19871.0,Stadio Atleti Azzurri d'Italia,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+15.0,Fri,2018-12-07,20:30,Juventus,1.5,1–0,1.2,Inter,41495.0,Allianz Stadium,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+15.0,Sat,2018-12-08,15:00,Napoli,2.2,4–0,0.3,Frosinone,34631.0,Stadio San Paolo,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+15.0,Sat,2018-12-08,18:00,Cagliari,2.1,2–2,1.5,Roma,14938.0,Sardegna Arena,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+15.0,Sat,2018-12-08,20:30,Lazio,3.4,2–2,0.9,Sampdoria,28000.0,Stadio Olimpico,Davide Massa,Match Report,,Serie-A,11,2018-2019
+15.0,Sun,2018-12-09,12:30,Sassuolo,1.5,3–3,2.4,Fiorentina,11436.0,Stadio CittÃ del Tricolore,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+15.0,Sun,2018-12-09,15:00,Empoli,1.6,2–1,1.9,Bologna,8379.0,Stadio Carlo Castellani,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+15.0,Sun,2018-12-09,15:00,Parma,1.3,1–1,1.5,Chievo,13994.0,Stadio Ennio Tardini,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+15.0,Sun,2018-12-09,15:00,Udinese,0.9,1–3,2.3,Atalanta,24413.0,Dacia Arena,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+15.0,Sun,2018-12-09,18:00,Genoa,1.3,1–1,2.6,SPAL,19571.0,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+15.0,Sun,2018-12-09,20:30,Milan,2.0,0–0,1.2,Torino,44572.0,Stadio Giuseppe Meazza,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+16.0,Sat,2018-12-15,18:00,Inter,2.0,1–0,0.4,Udinese,57025.0,Stadio Giuseppe Meazza,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+16.0,Sat,2018-12-15,20:30,Torino,0.4,0–1,1.5,Juventus,26588.0,Stadio Olimpico di Torino,Marco Guida,Match Report,,Serie-A,11,2018-2019
+16.0,Sun,2018-12-16,12:30,SPAL,0.6,0–0,0.7,Chievo,11882.0,Stadio Paolo Mazza,Luca Banti,Match Report,,Serie-A,11,2018-2019
+16.0,Sun,2018-12-16,15:00,Frosinone,0.4,0–2,1.4,Sassuolo,12000.0,Stadio Benito Stirpe,Eugenio Abbattista,Match Report,,Serie-A,11,2018-2019
+16.0,Sun,2018-12-16,15:00,Sampdoria,1.4,2–0,0.5,Parma,19000.0,Stadio Comunale Luigi Ferraris,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+16.0,Sun,2018-12-16,15:00,Fiorentina,1.7,3–1,1.2,Empoli,30000.0,Stadio Artemio Franchi,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+16.0,Sun,2018-12-16,18:00,Cagliari,0.5,0–1,1.6,Napoli,15081.0,Sardegna Arena,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+16.0,Sun,2018-12-16,20:30,Roma,2.0,3–2,2.2,Genoa,29111.0,Stadio Olimpico,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+16.0,Mon,2018-12-17,20:30,Atalanta,0.4,1–0,1.0,Lazio,17401.0,Stadio Atleti Azzurri d'Italia,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+16.0,Tue,2018-12-18,20:30,Bologna,0.4,0–0,0.6,Milan,22214.0,Stadio Renato Dall'Ara,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+17.0,Sat,2018-12-22,12:30,Lazio,2.4,3–1,2.0,Cagliari,20000.0,Stadio Olimpico,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+17.0,Sat,2018-12-22,15:00,Sassuolo,1.5,1–1,0.4,Torino,11148.0,Stadio CittÃ del Tricolore,Luca Banti,Match Report,,Serie-A,11,2018-2019
+17.0,Sat,2018-12-22,15:00,Napoli,2.3,1–0,0.6,SPAL,37093.0,Stadio San Paolo,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+17.0,Sat,2018-12-22,15:00,Udinese,0.4,1–1,1.3,Frosinone,18000.0,Dacia Arena,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+17.0,Sat,2018-12-22,15:00,Empoli,1.5,2–4,1.1,Sampdoria,8815.0,Stadio Carlo Castellani,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+17.0,Sat,2018-12-22,15:00,Milan,0.7,0–1,0.4,Fiorentina,52592.0,Stadio Giuseppe Meazza,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+17.0,Sat,2018-12-22,15:00,Genoa,1.6,3–1,2.0,Atalanta,19841.0,Stadio Comunale Luigi Ferraris,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+17.0,Sat,2018-12-22,18:00,Chievo,0.7,1–1,1.8,Inter,22000.0,Stadio Marc'Antonio Bentegodi,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+17.0,Sat,2018-12-22,18:00,Parma,0.9,0–0,0.3,Bologna,15058.0,Stadio Ennio Tardini,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+17.0,Sat,2018-12-22,20:30,Juventus,2.2,1–0,0.4,Roma,40069.0,Allianz Stadium,Davide Massa,Match Report,,Serie-A,11,2018-2019
+18.0,Wed,2018-12-26,12:30,Frosinone,0.6,0–0,1.9,Milan,15217.0,Stadio Benito Stirpe,Marco Guida,Match Report,,Serie-A,11,2018-2019
+18.0,Wed,2018-12-26,15:00,Cagliari,0.9,1–0,0.9,Genoa,15777.0,Sardegna Arena,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+18.0,Wed,2018-12-26,15:00,Fiorentina,2.3,0–1,0.6,Parma,31767.0,Stadio Artemio Franchi,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+18.0,Wed,2018-12-26,15:00,Bologna,0.2,0–2,1.4,Lazio,19230.0,Stadio Renato Dall'Ara,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+18.0,Wed,2018-12-26,15:00,Sampdoria,1.0,2–0,0.6,Chievo,19190.0,Stadio Comunale Luigi Ferraris,Antonio Giua,Match Report,,Serie-A,11,2018-2019
+18.0,Wed,2018-12-26,15:00,Atalanta,1.4,2–2,1.3,Juventus,19787.0,Stadio Atleti Azzurri d'Italia,Luca Banti,Match Report,,Serie-A,11,2018-2019
+18.0,Wed,2018-12-26,18:00,Roma,2.8,3–1,0.9,Sassuolo,35893.0,Stadio Olimpico,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+18.0,Wed,2018-12-26,18:00,SPAL,0.7,0–0,0.2,Udinese,13195.0,Stadio Paolo Mazza,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+18.0,Wed,2018-12-26,18:00,Torino,1.3,3–0,0.3,Empoli,20047.0,Stadio Olimpico di Torino,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+18.0,Wed,2018-12-26,20:30,Inter,0.9,1–0,0.7,Napoli,63946.0,Stadio Giuseppe Meazza,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+19.0,Sat,2018-12-29,12:30,Juventus,1.6,2–1,1.4,Sampdoria,40641.0,Allianz Stadium,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+19.0,Sat,2018-12-29,15:00,Sassuolo,1.1,2–6,3.0,Atalanta,8000.0,Stadio CittÃ del Tricolore,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+19.0,Sat,2018-12-29,15:00,Empoli,0.5,0–1,1.1,Inter,10393.0,Stadio Carlo Castellani,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+19.0,Sat,2018-12-29,15:00,Parma,0.7,0–2,2.1,Roma,17997.0,Stadio Ennio Tardini,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+19.0,Sat,2018-12-29,15:00,Chievo,1.1,1–0,0.5,Frosinone,8000.0,Stadio Marc'Antonio Bentegodi,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+19.0,Sat,2018-12-29,15:00,Udinese,2.6,2–0,0.3,Cagliari,20000.0,Dacia Arena,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+19.0,Sat,2018-12-29,15:00,Lazio,1.2,1–1,1.7,Torino,35000.0,Stadio Olimpico,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+19.0,Sat,2018-12-29,15:00,Genoa,0.5,0–0,1.5,Fiorentina,21000.0,Stadio Comunale Luigi Ferraris,Davide Massa,Match Report,,Serie-A,11,2018-2019
+19.0,Sat,2018-12-29,18:00,Napoli,1.5,3–2,0.7,Bologna,46585.0,Stadio San Paolo,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+19.0,Sat,2018-12-29,20:30,Milan,1.5,2–1,0.5,SPAL,48070.0,Stadio Giuseppe Meazza,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+20.0,Sat,2019-01-19,15:00,Roma,3.2,3–2,1.1,Torino,32978.0,Stadio Olimpico,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+20.0,Sat,2019-01-19,18:00,Udinese,1.6,1–2,1.9,Parma,15000.0,Dacia Arena,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+20.0,Sat,2019-01-19,20:30,Inter,1.0,0–0,1.4,Sassuolo,11000.0,Stadio Giuseppe Meazza,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+20.0,Sun,2019-01-20,12:30,Frosinone,0.8,0–5,2.1,Atalanta,12728.0,Stadio Benito Stirpe,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+20.0,Sun,2019-01-20,15:00,Fiorentina,2.5,3–3,2.0,Sampdoria,27844.0,Stadio Artemio Franchi,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+20.0,Sun,2019-01-20,15:00,SPAL,1.0,1–1,1.1,Bologna,14524.0,Stadio Paolo Mazza,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+20.0,Sun,2019-01-20,18:00,Cagliari,0.9,2–2,1.6,Empoli,13796.0,Sardegna Arena,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+20.0,Sun,2019-01-20,20:30,Napoli,1.7,2–1,1.1,Lazio,19448.0,Stadio San Paolo,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+20.0,Mon,2019-01-21,15:00,Genoa,1.6,0–2,1.5,Milan,19794.0,Stadio Comunale Luigi Ferraris,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+20.0,Mon,2019-01-21,20:30,Juventus,2.7,3–0,0.6,Chievo,30239.0,Allianz Stadium,Marco Piccinini,Match Report,,Serie-A,11,2018-2019
+21.0,Sat,2019-01-26,15:00,Sassuolo,3.1,3–0,1.0,Cagliari,9970.0,Stadio CittÃ del Tricolore,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+21.0,Sat,2019-01-26,18:00,Sampdoria,3.0,4–0,0.5,Udinese,18020.0,Stadio Comunale Luigi Ferraris,Davide Massa,Match Report,,Serie-A,11,2018-2019
+21.0,Sat,2019-01-26,20:30,Milan,0.9,0–0,0.7,Napoli,56729.0,Stadio Giuseppe Meazza,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+21.0,Sun,2019-01-27,12:30,Chievo,2.8,3–4,2.1,Fiorentina,10000.0,Stadio Marc'Antonio Bentegodi,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+21.0,Sun,2019-01-27,15:00,Bologna,1.2,0–4,1.2,Frosinone,16076.0,Stadio Renato Dall'Ara,Luca Banti,Match Report,,Serie-A,11,2018-2019
+21.0,Sun,2019-01-27,15:00,Atalanta,2.6,3–3,1.1,Roma,19459.0,Stadio Atleti Azzurri d'Italia,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+21.0,Sun,2019-01-27,15:00,Parma,1.9,2–3,2.2,SPAL,15297.0,Stadio Ennio Tardini,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+21.0,Sun,2019-01-27,18:00,Torino,0.7,1–0,0.9,Inter,22002.0,Stadio Olimpico di Torino,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+21.0,Sun,2019-01-27,20:30,Lazio,1.5,1–2,1.3,Juventus,60687.0,Stadio Olimpico,Marco Guida,Match Report,,Serie-A,11,2018-2019
+21.0,Mon,2019-01-28,20:30,Empoli,1.4,1–3,1.8,Genoa,7675.0,Stadio Carlo Castellani,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+22.0,Sat,2019-02-02,15:00,Empoli,2.2,2–2,1.5,Chievo,7030.0,Stadio Carlo Castellani,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+22.0,Sat,2019-02-02,18:00,Napoli,1.7,3–0,0.7,Sampdoria,19455.0,Stadio San Paolo,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+22.0,Sat,2019-02-02,20:30,Juventus,2.1,3–3,1.2,Parma,39548.0,Allianz Stadium,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+22.0,Sun,2019-02-03,12:30,SPAL,0.6,0–0,0.5,Torino,12743.0,Stadio Paolo Mazza,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+22.0,Sun,2019-02-03,15:00,Udinese,1.2,1–1,0.8,Fiorentina,18118.0,Dacia Arena,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+22.0,Sun,2019-02-03,15:00,Genoa,1.4,1–1,0.9,Sassuolo,18927.0,Stadio Comunale Luigi Ferraris,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+22.0,Sun,2019-02-03,18:00,Inter,1.6,0–1,0.6,Bologna,51566.0,Stadio Giuseppe Meazza,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+22.0,Sun,2019-02-03,20:30,Roma,1.4,1–1,0.6,Milan,37581.0,Stadio Olimpico,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+22.0,Mon,2019-02-04,19:00,Frosinone,0.8,0–1,1.2,Lazio,13221.0,Stadio Benito Stirpe,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+22.0,Mon,2019-02-04,21:00,Cagliari,0.8,0–1,0.6,Atalanta,14821.0,Sardegna Arena,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+23.0,Thu,2019-02-07,20:30,Lazio,1.6,1–0,0.5,Empoli,28121.0,Stadio Olimpico,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+23.0,Fri,2019-02-08,20:30,Chievo,1.4,0–3,1.4,Roma,15000.0,Stadio Marc'Antonio Bentegodi,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+23.0,Sat,2019-02-09,18:00,Fiorentina,0.7,0–0,2.5,Napoli,29377.0,Stadio Artemio Franchi,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+23.0,Sat,2019-02-09,20:30,Parma,0.6,0–1,2.1,Inter,18155.0,Stadio Ennio Tardini,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+23.0,Sun,2019-02-10,12:30,Bologna,1.1,1–1,0.8,Genoa,17385.0,Stadio Renato Dall'Ara,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+23.0,Sun,2019-02-10,15:00,Sampdoria,0.6,0–1,0.5,Frosinone,18937.0,Stadio Comunale Luigi Ferraris,Livio Marinelli,Match Report,,Serie-A,11,2018-2019
+23.0,Sun,2019-02-10,15:00,Atalanta,2.0,2–1,0.9,SPAL,18342.0,Stadio Atleti Azzurri d'Italia,Davide Massa,Match Report,,Serie-A,11,2018-2019
+23.0,Sun,2019-02-10,15:00,Torino,1.7,1–0,2.2,Udinese,16557.0,Stadio Olimpico di Torino,Marco Guida,Match Report,,Serie-A,11,2018-2019
+23.0,Sun,2019-02-10,18:00,Sassuolo,0.8,0–3,1.7,Juventus,21584.0,Stadio CittÃ del Tricolore,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+23.0,Sun,2019-02-10,20:30,Milan,1.9,3–0,1.1,Cagliari,45576.0,Stadio Giuseppe Meazza,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+24.0,Fri,2019-02-15,20:30,Juventus,1.3,3–0,0.6,Frosinone,10570.0,Allianz Stadium,Antonio Giua,Match Report,,Serie-A,11,2018-2019
+24.0,Sat,2019-02-16,18:00,Cagliari,1.3,2–1,0.4,Parma,16119.0,Sardegna Arena,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+24.0,Sat,2019-02-16,20:30,Atalanta,0.8,1–3,0.6,Milan,20801.0,Stadio Atleti Azzurri d'Italia,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+24.0,Sun,2019-02-17,12:30,SPAL,1.0,1–4,3.1,Fiorentina,37294.0,Stadio Paolo Mazza,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+24.0,Sun,2019-02-17,15:00,Empoli,1.4,3–0,0.7,Sassuolo,7202.0,Stadio Carlo Castellani,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+24.0,Sun,2019-02-17,15:00,Genoa,1.2,2–1,0.6,Lazio,19936.0,Stadio Comunale Luigi Ferraris,Luca Banti,Match Report,,Serie-A,11,2018-2019
+24.0,Sun,2019-02-17,15:00,Udinese,1.3,1–0,1.4,Chievo,18008.0,Dacia Arena,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+24.0,Sun,2019-02-17,18:00,Inter,2.1,2–1,1.4,Sampdoria,55127.0,Stadio Giuseppe Meazza,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+24.0,Sun,2019-02-17,20:30,Napoli,2.6,0–0,0.4,Torino,21830.0,Stadio San Paolo,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+24.0,Mon,2019-02-18,20:30,Roma,1.6,2–1,2.0,Bologna,31572.0,Stadio Olimpico,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+25.0,Fri,2019-02-22,20:30,Milan,1.4,3–0,0.7,Empoli,47866.0,Stadio Giuseppe Meazza,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+25.0,Sat,2019-02-23,15:00,Torino,1.4,2–0,0.7,Atalanta,21062.0,Stadio Olimpico di Torino,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+25.0,Sat,2019-02-23,20:30,Frosinone,1.6,2–3,1.9,Roma,15063.0,Stadio Benito Stirpe,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+25.0,Sun,2019-02-24,12:30,Sampdoria,2.7,1–0,0.6,Cagliari,18840.0,Stadio Comunale Luigi Ferraris,Luca Massimi,Match Report,,Serie-A,11,2018-2019
+25.0,Sun,2019-02-24,15:00,Bologna,0.9,0–1,0.4,Juventus,28934.0,Stadio Renato Dall'Ara,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+25.0,Sun,2019-02-24,15:00,Sassuolo,0.4,1–1,1.1,SPAL,11554.0,Stadio CittÃ del Tricolore,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+25.0,Sun,2019-02-24,15:00,Chievo,0.5,0–0,0.5,Genoa,10500.0,Stadio Marc'Antonio Bentegodi,Manuel Volpi,Match Report,,Serie-A,11,2018-2019
+25.0,Sun,2019-02-24,18:00,Parma,0.5,0–4,1.5,Napoli,18478.0,Stadio Ennio Tardini,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+25.0,Sun,2019-02-24,20:30,Fiorentina,1.8,3–3,1.6,Inter,32824.0,Stadio Artemio Franchi,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+26.0,Fri,2019-03-01,20:30,Cagliari,1.7,2–1,1.7,Inter,16223.0,Sardegna Arena,Luca Banti,Match Report,,Serie-A,11,2018-2019
+26.0,Sat,2019-03-02,15:00,Empoli,2.8,3–3,2.0,Parma,8404.0,Stadio Carlo Castellani,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+26.0,Sat,2019-03-02,18:00,Milan,1.1,1–0,0.6,Sassuolo,61462.0,Stadio Giuseppe Meazza,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+26.0,Sat,2019-03-02,20:30,Lazio,2.0,3–0,0.9,Roma,53112.0,Stadio Olimpico,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+26.0,Sun,2019-03-03,12:30,Torino,0.9,3–0,1.0,Chievo,25269.0,Stadio Olimpico di Torino,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+26.0,Sun,2019-03-03,15:00,SPAL,0.9,1–2,0.7,Sampdoria,12731.0,Stadio Paolo Mazza,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+26.0,Sun,2019-03-03,15:00,Udinese,1.5,2–1,1.7,Bologna,18349.0,Dacia Arena,Davide Massa,Match Report,,Serie-A,11,2018-2019
+26.0,Sun,2019-03-03,15:00,Genoa,0.8,0–0,0.5,Frosinone,19920.0,Stadio Comunale Luigi Ferraris,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+26.0,Sun,2019-03-03,18:00,Atalanta,2.2,3–1,0.5,Fiorentina,18796.0,Stadio Atleti Azzurri d'Italia,Marco Guida,Match Report,,Serie-A,11,2018-2019
+26.0,Sun,2019-03-03,20:30,Napoli,2.4,1–2,0.4,Juventus,42667.0,Stadio San Paolo,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+27.0,Fri,2019-03-08,20:30,Juventus,2.1,4–1,0.1,Udinese,39987.0,Allianz Stadium,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+27.0,Sat,2019-03-09,18:00,Parma,0.8,1–0,0.8,Genoa,14787.0,Stadio Ennio Tardini,Juan Sacchi,Match Report,,Serie-A,11,2018-2019
+27.0,Sat,2019-03-09,20:30,Chievo,0.3,1–2,1.3,Milan,20000.0,Stadio Marc'Antonio Bentegodi,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+27.0,Sun,2019-03-10,12:30,Bologna,2.7,2–0,0.6,Cagliari,20557.0,Stadio Renato Dall'Ara,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+27.0,Sun,2019-03-10,15:00,Sampdoria,2.2,1–2,1.8,Atalanta,20896.0,Stadio Comunale Luigi Ferraris,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+27.0,Sun,2019-03-10,15:00,Frosinone,0.7,1–2,1.3,Torino,14165.0,Stadio Benito Stirpe,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+27.0,Sun,2019-03-10,15:00,Inter,1.0,2–0,0.3,SPAL,61339.0,Stadio Giuseppe Meazza,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+27.0,Sun,2019-03-10,18:00,Sassuolo,1.0,1–1,0.5,Napoli,14969.0,Stadio CittÃ del Tricolore,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+27.0,Sun,2019-03-10,20:30,Fiorentina,0.5,1–1,0.9,Lazio,28727.0,Stadio Artemio Franchi,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+27.0,Mon,2019-03-11,20:30,Roma,0.8,2–1,0.4,Empoli,34508.0,Stadio Olimpico,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+28.0,Fri,2019-03-15,20:30,Cagliari,1.0,2–1,0.5,Fiorentina,14735.0,Sardegna Arena,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+28.0,Sat,2019-03-16,15:00,Sassuolo,1.7,3–5,1.8,Sampdoria,11193.0,Stadio CittÃ del Tricolore,Federico Dionisi,Match Report,,Serie-A,11,2018-2019
+28.0,Sat,2019-03-16,18:00,SPAL,1.0,2–1,1.7,Roma,15089.0,Stadio Paolo Mazza,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+28.0,Sat,2019-03-16,20:30,Torino,1.4,2–3,2.6,Bologna,24863.0,Stadio Olimpico di Torino,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+28.0,Sun,2019-03-17,12:30,Genoa,1.4,2–0,0.4,Juventus,30695.0,Stadio Comunale Luigi Ferraris,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+28.0,Sun,2019-03-17,15:00,Atalanta,2.0,1–1,0.8,Chievo,18537.0,Stadio Atleti Azzurri d'Italia,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+28.0,Sun,2019-03-17,15:00,Lazio,1.8,4–1,0.3,Parma,38000.0,Stadio Olimpico,Luca Banti,Match Report,,Serie-A,11,2018-2019
+28.0,Sun,2019-03-17,15:00,Empoli,2.1,2–1,1.5,Frosinone,10000.0,Stadio Carlo Castellani,Davide Massa,Match Report,,Serie-A,11,2018-2019
+28.0,Sun,2019-03-17,18:00,Napoli,1.3,4–2,1.0,Udinese,25718.0,Stadio San Paolo,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+28.0,Sun,2019-03-17,20:30,Milan,1.2,2–3,2.4,Inter,77749.0,Stadio Giuseppe Meazza,Marco Guida,Match Report,,Serie-A,11,2018-2019
+29.0,Fri,2019-03-29,20:30,Chievo,0.8,0–3,1.2,Cagliari,10000.0,Stadio Marc'Antonio Bentegodi,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+29.0,Sat,2019-03-30,15:00,Udinese,1.7,2–0,1.6,Genoa,17072.0,Dacia Arena,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+29.0,Sat,2019-03-30,18:00,Juventus,1.4,1–0,0.4,Empoli,39290.0,Allianz Stadium,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+29.0,Sat,2019-03-30,20:30,Sampdoria,1.8,1–0,0.7,Milan,23475.0,Stadio Comunale Luigi Ferraris,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+29.0,Sun,2019-03-31,12:30,Parma,0.8,1–3,3.1,Atalanta,18168.0,Stadio Ennio Tardini,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+29.0,Sun,2019-03-31,15:00,Frosinone,0.9,0–1,0.4,SPAL,12969.0,Stadio Benito Stirpe,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+29.0,Sun,2019-03-31,15:00,Fiorentina,2.6,1–1,0.6,Torino,36707.0,Stadio Artemio Franchi,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+29.0,Sun,2019-03-31,15:00,Roma,1.7,1–4,2.7,Napoli,36525.0,Stadio Olimpico,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+29.0,Sun,2019-03-31,18:00,Bologna,1.9,2–1,0.6,Sassuolo,23551.0,Stadio Renato Dall'Ara,Marco Guida,Match Report,,Serie-A,11,2018-2019
+29.0,Sun,2019-03-31,20:30,Inter,0.9,0–1,1.2,Lazio,56348.0,Stadio Giuseppe Meazza,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+30.0,Tue,2019-04-02,19:00,Milan,1.9,1–1,1.0,Udinese,49665.0,Stadio Giuseppe Meazza,Luca Banti,Match Report,,Serie-A,11,2018-2019
+30.0,Tue,2019-04-02,21:00,Cagliari,0.6,0–2,2.4,Juventus,15958.0,Sardegna Arena,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+30.0,Wed,2019-04-03,19:00,Empoli,1.5,2–1,0.7,Napoli,10911.0,Stadio Carlo Castellani,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+30.0,Wed,2019-04-03,21:00,SPAL,1.3,1–0,0.6,Lazio,13415.0,Stadio Paolo Mazza,Marco Guida,Match Report,,Serie-A,11,2018-2019
+30.0,Wed,2019-04-03,21:00,Genoa,0.3,0–4,2.4,Inter,21865.0,Stadio Comunale Luigi Ferraris,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+30.0,Wed,2019-04-03,21:00,Torino,1.1,2–1,0.3,Sampdoria,22618.0,Stadio Olimpico di Torino,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+30.0,Wed,2019-04-03,21:00,Roma,1.4,2–2,0.8,Fiorentina,30123.0,Stadio Olimpico,Davide Massa,Match Report,,Serie-A,11,2018-2019
+30.0,Wed,2019-04-03,21:00,Frosinone,1.8,3–2,1.8,Parma,12285.0,Stadio Benito Stirpe,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+30.0,Thu,2019-04-04,19:00,Sassuolo,1.5,4–0,1.4,Chievo,9193.0,Stadio CittÃ del Tricolore,Lorenzo Maggioni,Match Report,,Serie-A,11,2018-2019
+30.0,Thu,2019-04-04,21:00,Atalanta,1.3,4–1,1.1,Bologna,18441.0,Stadio Atleti Azzurri d'Italia,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+31.0,Sat,2019-04-06,15:00,Parma,0.7,0–0,1.0,Torino,16924.0,Stadio Ennio Tardini,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+31.0,Sat,2019-04-06,18:00,Juventus,2.0,2–1,1.4,Milan,40057.0,Allianz Stadium,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+31.0,Sat,2019-04-06,20:30,Sampdoria,1.1,0–1,1.4,Roma,19594.0,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+31.0,Sun,2019-04-07,12:30,Fiorentina,1.5,0–1,0.7,Frosinone,26958.0,Stadio Artemio Franchi,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+31.0,Sun,2019-04-07,15:00,Cagliari,2.2,2–1,1.0,SPAL,16121.0,Sardegna Arena,Luca Banti,Match Report,,Serie-A,11,2018-2019
+31.0,Sun,2019-04-07,15:00,Udinese,2.4,3–2,1.5,Empoli,22537.0,Dacia Arena,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+31.0,Sun,2019-04-07,18:00,Lazio,3.2,2–2,1.0,Sassuolo,37487.0,Stadio Olimpico,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+31.0,Sun,2019-04-07,18:00,Inter,1.3,0–0,1.2,Atalanta,35000.0,Stadio Giuseppe Meazza,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+31.0,Sun,2019-04-07,20:30,Napoli,1.7,1–1,0.6,Genoa,22935.0,Stadio San Paolo,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+31.0,Mon,2019-04-08,20:30,Bologna,2.4,3–0,0.5,Chievo,19107.0,Stadio Renato Dall'Ara,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+32.0,Sat,2019-04-13,15:00,SPAL,1.0,2–1,0.5,Juventus,16000.0,Stadio Paolo Mazza,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+32.0,Sat,2019-04-13,18:00,Roma,1.7,1–0,0.5,Udinese,34449.0,Stadio Olimpico,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+32.0,Sat,2019-04-13,20:30,Milan,1.6,1–0,1.2,Lazio,61216.0,Stadio Giuseppe Meazza,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+32.0,Sun,2019-04-14,12:30,Torino,1.3,1–1,0.8,Cagliari,23869.0,Stadio Olimpico di Torino,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+32.0,Sun,2019-04-14,15:00,Sampdoria,2.6,2–0,1.0,Genoa,30548.0,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+32.0,Sun,2019-04-14,15:00,Fiorentina,0.7,0–0,0.1,Bologna,29394.0,Stadio Artemio Franchi,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+32.0,Sun,2019-04-14,15:00,Sassuolo,1.5,0–0,0.8,Parma,12538.0,Stadio CittÃ del Tricolore,Marco Piccinini,Match Report,,Serie-A,11,2018-2019
+32.0,Sun,2019-04-14,18:00,Chievo,0.2,1–3,1.7,Napoli,13500.0,Stadio Marc'Antonio Bentegodi,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+32.0,Sun,2019-04-14,20:30,Frosinone,0.8,1–3,2.9,Inter,15856.0,Stadio Benito Stirpe,Davide Massa,Match Report,,Serie-A,11,2018-2019
+32.0,Mon,2019-04-15,20:30,Atalanta,4.4,0–0,0.4,Empoli,19229.0,Stadio Atleti Azzurri d'Italia,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+25.0,Wed,2019-04-17,19:00,Lazio,1.5,2–0,1.4,Udinese,30162.0,Stadio Olimpico,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+33.0,Sat,2019-04-20,12:30,Parma,0.8,1–1,0.7,Milan,20018.0,Stadio Ennio Tardini,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+33.0,Sat,2019-04-20,15:00,Lazio,1.6,1–2,0.9,Chievo,25000.0,Stadio Olimpico,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+33.0,Sat,2019-04-20,15:00,Cagliari,1.5,1–0,1.0,Frosinone,16095.0,Sardegna Arena,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+33.0,Sat,2019-04-20,15:00,Genoa,1.0,0–1,0.9,Torino,8000.0,Stadio Comunale Luigi Ferraris,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+33.0,Sat,2019-04-20,15:00,Empoli,1.6,2–4,1.5,SPAL,10444.0,Stadio Carlo Castellani,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+33.0,Sat,2019-04-20,15:00,Bologna,0.8,3–0,0.6,Sampdoria,21391.0,Stadio Renato Dall'Ara,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+33.0,Sat,2019-04-20,15:00,Udinese,0.7,1–1,0.7,Sassuolo,21000.0,Dacia Arena,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+33.0,Sat,2019-04-20,18:00,Juventus,1.3,2–1,1.7,Fiorentina,40339.0,Allianz Stadium,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+33.0,Sat,2019-04-20,20:30,Inter,1.8,1–1,0.8,Roma,60013.0,Stadio Giuseppe Meazza,Marco Guida,Match Report,,Serie-A,11,2018-2019
+33.0,Mon,2019-04-22,19:00,Napoli,1.8,1–2,0.9,Atalanta,19604.0,Stadio San Paolo,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+34.0,Sat,2019-04-27,15:00,Bologna,2.2,3–1,0.5,Empoli,25189.0,Stadio Renato Dall'Ara,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+34.0,Sat,2019-04-27,18:00,Roma,2.5,3–0,0.5,Cagliari,35964.0,Stadio Olimpico,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+34.0,Sat,2019-04-27,20:30,Inter,1.2,1–1,0.4,Juventus,73855.0,Stadio Giuseppe Meazza,Luca Banti,Match Report,,Serie-A,11,2018-2019
+34.0,Sun,2019-04-28,12:30,Frosinone,1.3,0–2,1.7,Napoli,13600.0,Stadio Benito Stirpe,Federico La Penna,Match Report,,Serie-A,11,2018-2019
+34.0,Sun,2019-04-28,15:00,Chievo,0.8,1–1,0.4,Parma,7000.0,Stadio Marc'Antonio Bentegodi,Juan Sacchi,Match Report,,Serie-A,11,2018-2019
+34.0,Sun,2019-04-28,15:00,SPAL,1.0,1–1,1.0,Genoa,13563.0,Stadio Paolo Mazza,Davide Massa,Match Report,,Serie-A,11,2018-2019
+34.0,Sun,2019-04-28,18:00,Sampdoria,1.2,1–2,1.3,Lazio,18450.0,Stadio Comunale Luigi Ferraris,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+34.0,Sun,2019-04-28,20:30,Torino,1.3,2–0,0.6,Milan,26849.0,Stadio Olimpico di Torino,Marco Guida,Match Report,,Serie-A,11,2018-2019
+34.0,Mon,2019-04-29,19:00,Atalanta,2.1,2–0,0.2,Udinese,18663.0,Stadio Atleti Azzurri d'Italia,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+34.0,Mon,2019-04-29,21:00,Fiorentina,1.1,0–1,1.4,Sassuolo,25567.0,Stadio Artemio Franchi,Francesco Fourneau,Match Report,,Serie-A,11,2018-2019
+35.0,Fri,2019-05-03,20:30,Juventus,1.2,1–1,0.5,Torino,38530.0,Allianz Stadium,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+35.0,Sat,2019-05-04,18:00,Chievo,0.3,0–4,1.8,SPAL,10000.0,Stadio Marc'Antonio Bentegodi,Riccardo Ros,Match Report,,Serie-A,11,2018-2019
+35.0,Sat,2019-05-04,20:30,Udinese,0.4,0–0,1.6,Inter,24741.0,Dacia Arena,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+35.0,Sun,2019-05-05,12:30,Empoli,1.0,1–0,2.2,Fiorentina,8285.0,Stadio Carlo Castellani,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+35.0,Sun,2019-05-05,15:00,Parma,2.4,3–3,2.4,Sampdoria,16992.0,Stadio Ennio Tardini,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+35.0,Sun,2019-05-05,15:00,Lazio,0.6,1–3,1.4,Atalanta,25000.0,Stadio Olimpico,Giampaolo Calvarese,Match Report,,Serie-A,11,2018-2019
+35.0,Sun,2019-05-05,15:00,Sassuolo,2.0,2–2,0.9,Frosinone,10073.0,Stadio CittÃ del Tricolore,Antonio Giua,Match Report,,Serie-A,11,2018-2019
+35.0,Sun,2019-05-05,18:00,Genoa,1.9,1–1,0.9,Roma,20703.0,Stadio Comunale Luigi Ferraris,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+35.0,Sun,2019-05-05,20:30,Napoli,1.9,2–1,0.5,Cagliari,16171.0,Stadio San Paolo,Daniele Chiffi,Match Report,,Serie-A,11,2018-2019
+35.0,Mon,2019-05-06,20:30,Milan,1.1,2–1,1.1,Bologna,51472.0,Stadio Giuseppe Meazza,Marco Di Bello,Match Report,,Serie-A,11,2018-2019
+36.0,Sat,2019-05-11,15:00,Atalanta,1.3,2–1,1.7,Genoa,12000.0,Stadio Atleti Azzurri d'Italia,Massimiliano Irrati,Match Report,,Serie-A,11,2018-2019
+36.0,Sat,2019-05-11,18:00,Cagliari,1.0,1–2,0.7,Lazio,16179.0,Sardegna Arena,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+36.0,Sat,2019-05-11,20:30,Fiorentina,0.6,0–1,0.6,Milan,33250.0,Stadio Artemio Franchi,Maurizio Mariani,Match Report,,Serie-A,11,2018-2019
+36.0,Sun,2019-05-12,12:30,Torino,3.4,3–2,0.7,Sassuolo,25360.0,Stadio Olimpico di Torino,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+36.0,Sun,2019-05-12,15:00,Frosinone,2.1,1–3,2.0,Udinese,12261.0,Stadio Benito Stirpe,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+36.0,Sun,2019-05-12,15:00,Sampdoria,1.9,1–2,2.1,Empoli,19034.0,Stadio Comunale Luigi Ferraris,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+36.0,Sun,2019-05-12,18:00,SPAL,1.8,1–2,1.2,Napoli,14175.0,Stadio Paolo Mazza,Eugenio Abbattista,Match Report,,Serie-A,11,2018-2019
+36.0,Sun,2019-05-12,20:30,Roma,1.8,2–0,0.6,Juventus,50825.0,Stadio Olimpico,Davide Massa,Match Report,,Serie-A,11,2018-2019
+36.0,Mon,2019-05-13,19:00,Bologna,1.6,4–1,0.6,Parma,20656.0,Stadio Renato Dall'Ara,Luca Pairetto,Match Report,,Serie-A,11,2018-2019
+36.0,Mon,2019-05-13,21:00,Inter,1.7,2–0,0.1,Chievo,57855.0,Stadio Giuseppe Meazza,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+37.0,Sat,2019-05-18,15:00,Udinese,1.0,3–2,1.0,SPAL,24614.0,Dacia Arena,Michael Fabbri,Match Report,,Serie-A,11,2018-2019
+37.0,Sat,2019-05-18,18:00,Genoa,2.0,1–1,0.6,Cagliari,22768.0,Stadio Comunale Luigi Ferraris,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+37.0,Sat,2019-05-18,20:30,Sassuolo,1.1,0–0,2.0,Roma,12914.0,Stadio CittÃ del Tricolore,Fabio Maresca,Match Report,,Serie-A,11,2018-2019
+37.0,Sun,2019-05-19,12:30,Chievo,0.7,0–0,0.8,Sampdoria,10000.0,Stadio Marc'Antonio Bentegodi,Gianluca Aureliano,Match Report,,Serie-A,11,2018-2019
+37.0,Sun,2019-05-19,15:00,Parma,0.5,1–0,1.2,Fiorentina,17333.0,Stadio Ennio Tardini,Piero Giacomelli,Match Report,,Serie-A,11,2018-2019
+37.0,Sun,2019-05-19,15:00,Empoli,2.0,4–1,1.7,Torino,10344.0,Stadio Carlo Castellani,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+37.0,Sun,2019-05-19,18:00,Milan,1.5,2–0,1.4,Frosinone,61765.0,Stadio Giuseppe Meazza,Gianluca Manganiello,Match Report,,Serie-A,11,2018-2019
+37.0,Sun,2019-05-19,20:30,Napoli,1.5,4–1,2.4,Inter,25445.0,Stadio San Paolo,Daniele Doveri,Match Report,,Serie-A,11,2018-2019
+37.0,Sun,2019-05-19,20:30,Juventus,1.0,1–1,1.6,Atalanta,39531.0,Allianz Stadium,Gianluca Rocchi,Match Report,,Serie-A,11,2018-2019
+37.0,Mon,2019-05-20,20:30,Lazio,1.7,3–3,2.4,Bologna,25000.0,Stadio Olimpico,Fabrizio Pasqua,Match Report,,Serie-A,11,2018-2019
+38.0,Sat,2019-05-25,18:00,Frosinone,0.8,0–0,0.0,Chievo,12167.0,Stadio Benito Stirpe,Antonio Di Martino,Match Report,,Serie-A,11,2018-2019
+38.0,Sat,2019-05-25,20:30,Bologna,1.3,3–2,1.8,Napoli,19351.0,Stadio Renato Dall'Ara,Aleandro Di Paolo,Match Report,,Serie-A,11,2018-2019
+38.0,Sun,2019-05-26,15:00,Torino,2.2,3–1,1.1,Lazio,24428.0,Stadio Olimpico di Torino,Rosario Abisso,Match Report,,Serie-A,11,2018-2019
+38.0,Sun,2019-05-26,18:00,Sampdoria,0.6,2–0,0.4,Juventus,22856.0,Stadio Comunale Luigi Ferraris,Luigi Nasca,Match Report,,Serie-A,11,2018-2019
+38.0,Sun,2019-05-26,20:30,Cagliari,1.9,1–2,0.8,Udinese,15378.0,Sardegna Arena,Manuel Volpi,Match Report,,Serie-A,11,2018-2019
+38.0,Sun,2019-05-26,20:30,Inter,2.8,2–1,2.1,Empoli,68051.0,Stadio Giuseppe Meazza,Luca Banti,Match Report,,Serie-A,11,2018-2019
+38.0,Sun,2019-05-26,20:30,SPAL,0.6,2–3,1.6,Milan,16146.0,Stadio Paolo Mazza,Paolo Valeri,Match Report,,Serie-A,11,2018-2019
+38.0,Sun,2019-05-26,20:30,Roma,2.2,2–1,1.2,Parma,62304.0,Stadio Olimpico,Paolo Mazzoleni,Match Report,,Serie-A,11,2018-2019
+38.0,Sun,2019-05-26,20:30,Fiorentina,0.3,0–0,0.1,Genoa,37527.0,Stadio Artemio Franchi,Daniele Orsato,Match Report,,Serie-A,11,2018-2019
+38.0,Sun,2019-05-26,20:30,Atalanta,2.2,3–1,0.4,Sassuolo,14376.0,Stadio Atleti Azzurri d'Italia,Daniele Doveri,Match Report,,Serie-A,11,2018-2019

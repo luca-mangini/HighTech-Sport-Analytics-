@@ -1,0 +1,382 @@
+Wk,Day,Date,Time,Home,xG,Score,xG.1,Away,Attendance,Venue,Referee,Match Report,Notes,League Name,League ID,Season
+1.0,Fri,2021-08-13,20:00,Brentford,1.3,2–0,1.4,Arsenal,16479.0,Brentford Community Stadium,Michael Oliver,Match Report,,Premier-League,9,2021-2022
+1.0,Sat,2021-08-14,12:30,Manchester Utd,1.5,5–1,0.6,Leeds United,72732.0,Old Trafford,Paul Tierney,Match Report,,Premier-League,9,2021-2022
+1.0,Sat,2021-08-14,15:00,Leicester City,0.8,1–0,1.1,Wolves,31983.0,King Power Stadium,Craig Pawson,Match Report,,Premier-League,9,2021-2022
+1.0,Sat,2021-08-14,15:00,Burnley,1.0,1–2,1.3,Brighton,16910.0,Turf Moor,David Coote,Match Report,,Premier-League,9,2021-2022
+1.0,Sat,2021-08-14,15:00,Watford,1.2,3–2,1.1,Aston Villa,20051.0,Vicarage Road Stadium,Mike Dean,Match Report,,Premier-League,9,2021-2022
+1.0,Sat,2021-08-14,15:00,Chelsea,0.9,3–0,0.3,Crystal Palace,38965.0,Stamford Bridge,Jonathan Moss,Match Report,,Premier-League,9,2021-2022
+1.0,Sat,2021-08-14,15:00,Everton,2.4,3–1,0.7,Southampton,38487.0,Goodison Park,Andy Madley,Match Report,,Premier-League,9,2021-2022
+1.0,Sat,2021-08-14,17:30,Norwich City,1.4,0–3,2.0,Liverpool,27023.0,Carrow Road,Andre Marriner,Match Report,,Premier-League,9,2021-2022
+1.0,Sun,2021-08-15,14:00,Newcastle Utd,1.5,2–4,2.3,West Ham,50673.0,St. James' Park,Martin Atkinson,Match Report,,Premier-League,9,2021-2022
+1.0,Sun,2021-08-15,16:30,Tottenham,1.3,1–0,1.9,Manchester City,58262.0,Tottenham Hotspur Stadium,Anthony Taylor,Match Report,,Premier-League,9,2021-2022
+,,,,,,,,,,,,,,Premier-League,9,2021-2022
+2.0,Sat,2021-08-21,12:30,Liverpool,2.9,2–0,0.7,Burnley,52591.0,Anfield,Mike Dean,Match Report,,Premier-League,9,2021-2022
+2.0,Sat,2021-08-21,15:00,Aston Villa,1.1,2–0,0.7,Newcastle Utd,41964.0,Villa Park,David Coote,Match Report,,Premier-League,9,2021-2022
+2.0,Sat,2021-08-21,15:00,Manchester City,2.7,5–0,0.1,Norwich City,51437.0,Etihad Stadium,Graham Scott,Match Report,,Premier-League,9,2021-2022
+2.0,Sat,2021-08-21,15:00,Crystal Palace,0.6,0–0,0.9,Brentford,23091.0,Selhurst Park,Martin Atkinson,Match Report,,Premier-League,9,2021-2022
+2.0,Sat,2021-08-21,15:00,Leeds United,1.5,2–2,2.0,Everton,36293.0,Elland Road,Darren England,Match Report,,Premier-League,9,2021-2022
+2.0,Sat,2021-08-21,17:30,Brighton,1.5,2–0,0.9,Watford,29485.0,The American Express Community Stadium,Anthony Taylor,Match Report,,Premier-League,9,2021-2022
+2.0,Sun,2021-08-22,14:00,Southampton,0.8,1–1,1.4,Manchester Utd,32000.0,St. Mary's Stadium,Craig Pawson,Match Report,,Premier-League,9,2021-2022
+2.0,Sun,2021-08-22,14:00,Wolves,1.4,0–1,1.5,Tottenham,30368.0,Molineux Stadium,Stuart Attwell,Match Report,,Premier-League,9,2021-2022
+2.0,Sun,2021-08-22,16:30,Arsenal,0.3,0–2,2.9,Chelsea,58729.0,Emirates Stadium,Paul Tierney,Match Report,,Premier-League,9,2021-2022
+2.0,Mon,2021-08-23,20:00,West Ham,2.5,4–1,0.8,Leicester City,59901.0,London Stadium,Michael Oliver,Match Report,,Premier-League,9,2021-2022
+3.0,Sat,2021-08-28,12:30,Manchester City,3.8,5–0,0.1,Arsenal,52276.0,Etihad Stadium,Martin Atkinson,Match Report,,Premier-League,9,2021-2022
+3.0,Sat,2021-08-28,15:00,Norwich City,1.6,1–2,1.3,Leicester City,26765.0,Carrow Road,Robert Jones,Match Report,,Premier-League,9,2021-2022
+3.0,Sat,2021-08-28,15:00,West Ham,1.2,2–2,0.7,Crystal Palace,59751.0,London Stadium,Stuart Attwell,Match Report,,Premier-League,9,2021-2022
+3.0,Sat,2021-08-28,15:00,Newcastle Utd,1.4,2–2,3.6,Southampton,44017.0,St. James' Park,Paul Tierney,Match Report,,Premier-League,9,2021-2022
+3.0,Sat,2021-08-28,15:00,Aston Villa,0.6,1–1,1.1,Brentford,42045.0,Villa Park,Peter Bankes,Match Report,,Premier-League,9,2021-2022
+3.0,Sat,2021-08-28,15:00,Brighton,1.0,0–2,1.6,Everton,30548.0,The American Express Community Stadium,Jonathan Moss,Match Report,,Premier-League,9,2021-2022
+3.0,Sat,2021-08-28,17:30,Liverpool,2.6,1–1,0.8,Chelsea,54000.0,Anfield,Anthony Taylor,Match Report,,Premier-League,9,2021-2022
+3.0,Sun,2021-08-29,14:00,Tottenham,0.9,1–0,0.6,Watford,57672.0,Tottenham Hotspur Stadium,Andre Marriner,Match Report,,Premier-League,9,2021-2022
+3.0,Sun,2021-08-29,14:00,Burnley,1.4,1–1,1.5,Leeds United,20000.0,Turf Moor,Michael Oliver,Match Report,,Premier-League,9,2021-2022
+3.0,Sun,2021-08-29,16:30,Wolves,1.8,0–1,0.6,Manchester Utd,30621.0,Molineux Stadium,Mike Dean,Match Report,,Premier-League,9,2021-2022
+4.0,Sat,2021-09-11,12:30,Crystal Palace,2.4,3–0,0.1,Tottenham,26000.0,Selhurst Park,Jonathan Moss,Match Report,,Premier-League,9,2021-2022
+4.0,Sat,2021-09-11,15:00,Southampton,0.8,0–0,0.6,West Ham,30000.0,St. Mary's Stadium,David Coote,Match Report,,Premier-League,9,2021-2022
+4.0,Sat,2021-09-11,15:00,Arsenal,2.8,1–0,0.6,Norwich City,58000.0,Emirates Stadium,Michael Oliver,Match Report,,Premier-League,9,2021-2022
+4.0,Sat,2021-09-11,15:00,Brentford,0.7,0–1,0.2,Brighton,16518.0,Brentford Community Stadium,Graham Scott,Match Report,,Premier-League,9,2021-2022
+4.0,Sat,2021-09-11,15:00,Watford,0.2,0–2,2.1,Wolves,20019.0,Vicarage Road Stadium,Peter Bankes,Match Report,,Premier-League,9,2021-2022
+4.0,Sat,2021-09-11,15:00,Leicester City,0.8,0–1,2.9,Manchester City,32087.0,King Power Stadium,Paul Tierney,Match Report,,Premier-League,9,2021-2022
+4.0,Sat,2021-09-11,15:00,Manchester Utd,2.1,4–1,0.7,Newcastle Utd,72732.0,Old Trafford,Anthony Taylor,Match Report,,Premier-League,9,2021-2022
+4.0,Sat,2021-09-11,17:30,Chelsea,1.1,3–0,1.5,Aston Villa,39969.0,Stamford Bridge,Stuart Attwell,Match Report,,Premier-League,9,2021-2022
+4.0,Sun,2021-09-12,16:30,Leeds United,1.2,0–3,4.0,Liverpool,36507.0,Elland Road,Craig Pawson,Match Report,,Premier-League,9,2021-2022
+4.0,Mon,2021-09-13,20:00,Everton,1.3,3–1,1.3,Burnley,30000.0,Goodison Park,Martin Atkinson,Match Report,,Premier-League,9,2021-2022
+5.0,Fri,2021-09-17,20:00,Newcastle Utd,1.3,1–1,2.0,Leeds United,50407.0,St. James' Park,Mike Dean,Match Report,,Premier-League,9,2021-2022
+5.0,Sat,2021-09-18,12:30,Wolves,0.6,0–2,2.5,Brentford,30000.0,Molineux Stadium,Darren England,Match Report,,Premier-League,9,2021-2022
+5.0,Sat,2021-09-18,15:00,Liverpool,2.7,3–0,0.8,Crystal Palace,52000.0,Anfield,Andy Madley,Match Report,,Premier-League,9,2021-2022
+5.0,Sat,2021-09-18,15:00,Manchester City,1.1,0–0,0.4,Southampton,52698.0,Etihad Stadium,Jonathan Moss,Match Report,,Premier-League,9,2021-2022
+5.0,Sat,2021-09-18,15:00,Norwich City,0.9,1–3,1.9,Watford,26649.0,Carrow Road,Robert Jones,Match Report,,Premier-League,9,2021-2022
+5.0,Sat,2021-09-18,15:00,Burnley,1.3,0–1,1.2,Arsenal,20000.0,Turf Moor,Anthony Taylor,Match Report,,Premier-League,9,2021-2022
+5.0,Sat,2021-09-18,17:30,Aston Villa,1.3,3–0,0.7,Everton,41888.0,Villa Park,Craig Pawson,Match Report,,Premier-League,9,2021-2022
+5.0,Sun,2021-09-19,14:00,West Ham,1.6,1–2,1.8,Manchester Utd,60000.0,London Stadium,Martin Atkinson,Match Report,,Premier-League,9,2021-2022
+5.0,Sun,2021-09-19,14:00,Brighton,1.4,2–1,1.7,Leicester City,31078.0,The American Express Community Stadium,Stuart Attwell,Match Report,,Premier-League,9,2021-2022
+5.0,Sun,2021-09-19,16:30,Tottenham,0.7,0–3,1.9,Chelsea,60059.0,Tottenham Hotspur Stadium,Paul Tierney,Match Report,,Premier-League,9,2021-2022
+6.0,Sat,2021-09-25,12:30,Chelsea,0.3,0–1,1.7,Manchester City,40036.0,Stamford Bridge,Michael Oliver,Match Report,,Premier-League,9,2021-2022
+6.0,Sat,2021-09-25,12:30,Manchester Utd,2.3,0–1,1.2,Aston Villa,72922.0,Old Trafford,Mike Dean,Match Report,,Premier-League,9,2021-2022
+6.0,Sat,2021-09-25,15:00,Leeds United,1.3,1–2,1.8,West Ham,36417.0,Elland Road,Kevin Friend,Match Report,,Premier-League,9,2021-2022
+6.0,Sat,2021-09-25,15:00,Leicester City,2.6,2–2,0.7,Burnley,31650.0,King Power Stadium,Chris Kavanagh,Match Report,,Premier-League,9,2021-2022
+6.0,Sat,2021-09-25,15:00,Watford,1.1,1–1,2.5,Newcastle Utd,20650.0,Vicarage Road Stadium,Jarred Gillett,Match Report,,Premier-League,9,2021-2022
+6.0,Sat,2021-09-25,15:00,Everton,2.1,2–0,0.6,Norwich City,38821.0,Goodison Park,David Coote,Match Report,,Premier-League,9,2021-2022
+6.0,Sat,2021-09-25,17:30,Brentford,1.9,3–3,2.5,Liverpool,16876.0,Brentford Community Stadium,Stuart Attwell,Match Report,,Premier-League,9,2021-2022
+6.0,Sun,2021-09-26,14:00,Southampton,1.2,0–1,1.0,Wolves,28002.0,St. Mary's Stadium,Andy Madley,Match Report,,Premier-League,9,2021-2022
+6.0,Sun,2021-09-26,16:30,Arsenal,0.8,3–1,1.0,Tottenham,59919.0,Emirates Stadium,Craig Pawson,Match Report,,Premier-League,9,2021-2022
+6.0,Mon,2021-09-27,20:00,Crystal Palace,1.4,1–1,0.6,Brighton,22975.0,Selhurst Park,Andre Marriner,Match Report,,Premier-League,9,2021-2022
+7.0,Sat,2021-10-02,12:30,Manchester Utd,0.9,1–1,1.1,Everton,73128.0,Old Trafford,Michael Oliver,Match Report,,Premier-League,9,2021-2022
+7.0,Sat,2021-10-02,15:00,Burnley,1.0,0–0,0.5,Norwich City,17427.0,Turf Moor,Kevin Friend,Match Report,,Premier-League,9,2021-2022
+7.0,Sat,2021-10-02,15:00,Leeds United,1.9,1–0,0.2,Watford,36261.0,Elland Road,Simon Hooper,Match Report,,Premier-League,9,2021-2022
+7.0,Sat,2021-10-02,15:00,Chelsea,3.6,3–1,1.3,Southampton,40109.0,Stamford Bridge,Martin Atkinson,Match Report,,Premier-League,9,2021-2022
+7.0,Sat,2021-10-02,15:00,Wolves,0.9,2–1,0.6,Newcastle Utd,30483.0,Molineux Stadium,Graham Scott,Match Report,,Premier-League,9,2021-2022
+7.0,Sat,2021-10-02,17:30,Brighton,1.4,0–0,0.5,Arsenal,31266.0,The American Express Community Stadium,Jonathan Moss,Match Report,,Premier-League,9,2021-2022
+7.0,Sun,2021-10-03,14:00,West Ham,1.3,1–2,1.2,Brentford,49940.0,London Stadium,Peter Bankes,Match Report,,Premier-League,9,2021-2022
+7.0,Sun,2021-10-03,14:00,Crystal Palace,1.3,2–2,1.7,Leicester City,25000.0,Selhurst Park,Anthony Taylor,Match Report,,Premier-League,9,2021-2022
+7.0,Sun,2021-10-03,14:00,Tottenham,1.7,2–1,1.1,Aston Villa,53076.0,Tottenham Hotspur Stadium,Chris Kavanagh,Match Report,,Premier-League,9,2021-2022
+7.0,Sun,2021-10-03,16:30,Liverpool,1.0,2–2,1.2,Manchester City,53102.0,Anfield,Paul Tierney,Match Report,,Premier-League,9,2021-2022
+8.0,Sat,2021-10-16,12:30,Watford,0.5,0–5,3.6,Liverpool,21085.0,Vicarage Road Stadium,Jonathan Moss,Match Report,,Premier-League,9,2021-2022
+8.0,Sat,2021-10-16,15:00,Leicester City,3.1,4–2,1.4,Manchester Utd,32219.0,King Power Stadium,Craig Pawson,Match Report,,Premier-League,9,2021-2022
+8.0,Sat,2021-10-16,15:00,Norwich City,1.0,0–0,0.9,Brighton,26777.0,Carrow Road,Peter Bankes,Match Report,,Premier-League,9,2021-2022
+8.0,Sat,2021-10-16,15:00,Southampton,2.2,1–0,0.2,Leeds United,30506.0,St. Mary's Stadium,David Coote,Match Report,,Premier-League,9,2021-2022
+8.0,Sat,2021-10-16,15:00,Manchester City,1.9,2–0,1.0,Burnley,52711.0,Etihad Stadium,Martin Atkinson,Match Report,,Premier-League,9,2021-2022
+8.0,Sat,2021-10-16,15:00,Aston Villa,1.1,2–3,2.0,Wolves,41951.0,Villa Park,Michael Oliver,Match Report,,Premier-League,9,2021-2022
+8.0,Sat,2021-10-16,17:30,Brentford,1.6,0–1,0.3,Chelsea,16940.0,Brentford Community Stadium,Anthony Taylor,Match Report,,Premier-League,9,2021-2022
+8.0,Sun,2021-10-17,14:00,Everton,0.8,0–1,1.5,West Ham,39132.0,Goodison Park,Stuart Attwell,Match Report,,Premier-League,9,2021-2022
+8.0,Sun,2021-10-17,16:30,Newcastle Utd,0.5,2–3,1.6,Tottenham,52214.0,St. James' Park,Andre Marriner,Match Report,,Premier-League,9,2021-2022
+8.0,Mon,2021-10-18,20:00,Arsenal,1.4,2–2,0.9,Crystal Palace,59475.0,Emirates Stadium,Mike Dean,Match Report,,Premier-League,9,2021-2022
+9.0,Fri,2021-10-22,20:00,Arsenal,2.7,3–1,1.4,Aston Villa,59496.0,Emirates Stadium,Craig Pawson,Match Report,,Premier-League,9,2021-2022
+9.0,Sat,2021-10-23,12:30,Chelsea,3.2,7–0,0.2,Norwich City,40113.0,Stamford Bridge,Andy Madley,Match Report,,Premier-League,9,2021-2022
+9.0,Sat,2021-10-23,15:00,Leeds United,1.9,1–1,1.0,Wolves,36475.0,Elland Road,Robert Jones,Match Report,,Premier-League,9,2021-2022
+9.0,Sat,2021-10-23,15:00,Southampton,1.6,2–2,0.7,Burnley,29145.0,St. Mary's Stadium,Chris Kavanagh,Match Report,,Premier-League,9,2021-2022
+9.0,Sat,2021-10-23,15:00,Everton,2.3,2–5,3.2,Watford,38834.0,Goodison Park,Graham Scott,Match Report,,Premier-League,9,2021-2022
+9.0,Sat,2021-10-23,15:00,Crystal Palace,1.7,1–1,0.4,Newcastle Utd,24609.0,Selhurst Park,Darren England,Match Report,,Premier-League,9,2021-2022
+9.0,Sat,2021-10-23,17:30,Brighton,1.3,1–4,3.9,Manchester City,31215.0,The American Express Community Stadium,Kevin Friend,Match Report,,Premier-League,9,2021-2022
+9.0,Sun,2021-10-24,14:00,West Ham,1.2,1–0,0.7,Tottenham,59924.0,London Stadium,Paul Tierney,Match Report,,Premier-League,9,2021-2022
+9.0,Sun,2021-10-24,14:00,Brentford,1.2,1–2,1.5,Leicester City,16814.0,Brentford Community Stadium,Simon Hooper,Match Report,,Premier-League,9,2021-2022
+9.0,Sun,2021-10-24,16:30,Manchester Utd,1.5,0–5,3.8,Liverpool,73088.0,Old Trafford,Anthony Taylor,Match Report,,Premier-League,9,2021-2022
+10.0,Sat,2021-10-30,12:30,Leicester City,1.2,0–2,0.9,Arsenal,32209.0,King Power Stadium,Michael Oliver,Match Report,,Premier-League,9,2021-2022
+10.0,Sat,2021-10-30,15:00,Manchester City,1.1,0–2,1.1,Crystal Palace,53014.0,Etihad Stadium,Andre Marriner,Match Report,,Premier-League,9,2021-2022
+10.0,Sat,2021-10-30,15:00,Burnley,2.2,3–1,0.7,Brentford,18821.0,Turf Moor,Jonathan Moss,Match Report,,Premier-League,9,2021-2022
+10.0,Sat,2021-10-30,15:00,Newcastle Utd,0.3,0–3,2.1,Chelsea,52208.0,St. James' Park,Paul Tierney,Match Report,,Premier-League,9,2021-2022
+10.0,Sat,2021-10-30,15:00,Watford,1.2,0–1,2.0,Southampton,20869.0,Vicarage Road Stadium,Peter Bankes,Match Report,,Premier-League,9,2021-2022
+10.0,Sat,2021-10-30,15:00,Liverpool,1.1,2–2,1.1,Brighton,52598.0,Anfield,Mike Dean,Match Report,,Premier-League,9,2021-2022
+10.0,Sat,2021-10-30,17:30,Tottenham,0.7,0–3,1.2,Manchester Utd,60356.0,Tottenham Hotspur Stadium,Stuart Attwell,Match Report,,Premier-League,9,2021-2022
+10.0,Sun,2021-10-31,14:00,Norwich City,0.9,1–2,1.0,Leeds United,26913.0,Carrow Road,Anthony Taylor,Match Report,,Premier-League,9,2021-2022
+10.0,Sun,2021-10-31,16:30,Aston Villa,0.7,1–4,2.3,West Ham,41874.0,Villa Park,Chris Kavanagh,Match Report,,Premier-League,9,2021-2022
+10.0,Mon,2021-11-01,20:00,Wolves,1.6,2–1,1.5,Everton,30617.0,Molineux Stadium,Martin Atkinson,Match Report,,Premier-League,9,2021-2022
+11.0,Fri,2021-11-05,20:00,Southampton,0.8,1–0,0.6,Aston Villa,30178.0,St. Mary's Stadium,Andy Madley,Match Report,,Premier-League,9,2021-2022
+11.0,Sat,2021-11-06,12:30,Manchester Utd,0.6,0–2,2.0,Manchester City,73086.0,Old Trafford,Michael Oliver,Match Report,,Premier-League,9,2021-2022
+11.0,Sat,2021-11-06,15:00,Brentford,2.2,1–2,1.4,Norwich City,16837.0,Brentford Community Stadium,Jarred Gillett,Match Report,,Premier-League,9,2021-2022
+11.0,Sat,2021-11-06,15:00,Crystal Palace,2.0,2–0,0.2,Wolves,24390.0,Selhurst Park,Graham Scott,Match Report,,Premier-League,9,2021-2022
+11.0,Sat,2021-11-06,15:00,Chelsea,2.2,1–1,1.0,Burnley,39798.0,Stamford Bridge,Andre Marriner,Match Report,,Premier-League,9,2021-2022
+11.0,Sat,2021-11-06,17:30,Brighton,1.6,1–1,0.2,Newcastle Utd,31267.0,The American Express Community Stadium,David Coote,Match Report,,Premier-League,9,2021-2022
+11.0,Sun,2021-11-07,14:00,Leeds United,1.2,1–1,1.1,Leicester City,36478.0,Elland Road,Darren England,Match Report,,Premier-League,9,2021-2022
+11.0,Sun,2021-11-07,14:00,Arsenal,1.8,1–0,0.6,Watford,59833.0,Emirates Stadium,Kevin Friend,Match Report,,Premier-League,9,2021-2022
+11.0,Sun,2021-11-07,14:00,Everton,0.5,0–0,0.8,Tottenham,39059.0,Goodison Park,Chris Kavanagh,Match Report,,Premier-League,9,2021-2022
+11.0,Sun,2021-11-07,16:30,West Ham,1.0,3–2,1.4,Liverpool,59909.0,London Stadium,Craig Pawson,Match Report,,Premier-League,9,2021-2022
+12.0,Sat,2021-11-20,12:30,Leicester City,0.4,0–3,2.4,Chelsea,35497.0,King Power Stadium,Paul Tierney,Match Report,,Premier-League,9,2021-2022
+12.0,Sat,2021-11-20,15:00,Burnley,1.3,3–3,2.0,Crystal Palace,18028.0,Turf Moor,Simon Hooper,Match Report,,Premier-League,9,2021-2022
+12.0,Sat,2021-11-20,15:00,Aston Villa,0.6,2–0,0.4,Brighton,41925.0,Villa Park,Anthony Taylor,Match Report,,Premier-League,9,2021-2022
+12.0,Sat,2021-11-20,15:00,Wolves,1.2,1–0,0.5,West Ham,30667.0,Molineux Stadium,Mike Dean,Match Report,,Premier-League,9,2021-2022
+12.0,Sat,2021-11-20,15:00,Norwich City,0.7,2–1,1.2,Southampton,26885.0,Carrow Road,Martin Atkinson,Match Report,,Premier-League,9,2021-2022
+12.0,Sat,2021-11-20,15:00,Newcastle Utd,1.6,3–3,0.8,Brentford,52131.0,St. James' Park,Robert Jones,Match Report,,Premier-League,9,2021-2022
+12.0,Sat,2021-11-20,15:00,Watford,2.2,4–1,1.6,Manchester Utd,21087.0,Vicarage Road Stadium,Jonathan Moss,Match Report,,Premier-League,9,2021-2022
+12.0,Sat,2021-11-20,17:30,Liverpool,4.3,4–0,0.4,Arsenal,53092.0,Anfield,Michael Oliver,Match Report,,Premier-League,9,2021-2022
+12.0,Sun,2021-11-21,14:00,Manchester City,2.3,3–0,0.3,Everton,52571.0,Etihad Stadium,Stuart Attwell,Match Report,,Premier-League,9,2021-2022
+12.0,Sun,2021-11-21,16:30,Tottenham,2.0,2–1,1.1,Leeds United,58989.0,Tottenham Hotspur Stadium,Andre Marriner,Match Report,,Premier-League,9,2021-2022
+13.0,Sat,2021-11-27,12:30,Arsenal,2.0,2–0,0.2,Newcastle Utd,59886.0,Emirates Stadium,Stuart Attwell,Match Report,,Premier-League,9,2021-2022
+13.0,Sat,2021-11-27,15:00,Crystal Palace,0.9,1–2,0.4,Aston Villa,25203.0,Selhurst Park,Michael Salisbury,Match Report,,Premier-League,9,2021-2022
+13.0,Sat,2021-11-27,15:00,Norwich City,1.5,0–0,0.3,Wolves,26911.0,Carrow Road,Simon Hooper,Match Report,,Premier-League,9,2021-2022
+13.0,Sat,2021-11-27,15:00,Liverpool,2.5,4–0,1.0,Southampton,53040.0,Anfield,Andre Marriner,Match Report,,Premier-League,9,2021-2022
+13.0,Sat,2021-11-27,17:30,Brighton,2.0,0–0,1.0,Leeds United,31166.0,The American Express Community Stadium,Craig Pawson,Match Report,,Premier-League,9,2021-2022
+13.0,Sun,2021-11-28,14:00,Brentford,1.2,1–0,0.9,Everton,16957.0,Brentford Community Stadium,Darren England,Match Report,,Premier-League,9,2021-2022
+13.0,Sun,2021-11-28,14:00,Leicester City,2.2,4–2,2.7,Watford,32020.0,King Power Stadium,Andy Madley,Match Report,,Premier-League,9,2021-2022
+13.0,Sun,2021-11-28,14:00,Burnley,,,,Tottenham,,Turf Moor,Peter Bankes,,Match Postponed,Premier-League,9,2021-2022
+13.0,Sun,2021-11-28,14:00,Manchester City,2.1,2–1,0.2,West Ham,53245.0,Etihad Stadium,Michael Oliver,Match Report,,Premier-League,9,2021-2022
+13.0,Sun,2021-11-28,16:30,Chelsea,2.9,1–1,0.7,Manchester Utd,40041.0,Stamford Bridge,Anthony Taylor,Match Report,,Premier-League,9,2021-2022
+14.0,Tue,2021-11-30,19:30,Newcastle Utd,1.2,1–1,1.5,Norwich City,50757.0,St. James' Park,Andy Madley,Match Report,,Premier-League,9,2021-2022
+14.0,Tue,2021-11-30,20:15,Leeds United,1.8,1–0,1.0,Crystal Palace,35558.0,Elland Road,Kevin Friend,Match Report,,Premier-League,9,2021-2022
+14.0,Wed,2021-12-01,19:30,West Ham,,,,Brighton,,London Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+14.0,Wed,2021-12-01,19:30,Wolves,,,,Burnley,,Molineux Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+14.0,Wed,2021-12-01,19:30,Watford,,,,Chelsea,,Vicarage Road Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+14.0,Wed,2021-12-01,19:30,Southampton,,,,Leicester City,,St. Mary's Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+14.0,Wed,2021-12-01,20:15,Aston Villa,,,,Manchester City,,Villa Park,,Head-to-Head,,Premier-League,9,2021-2022
+14.0,Wed,2021-12-01,20:15,Everton,,,,Liverpool,,Goodison Park,,Head-to-Head,,Premier-League,9,2021-2022
+14.0,Thu,2021-12-02,19:30,Tottenham,,,,Brentford,,Tottenham Hotspur Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+14.0,Thu,2021-12-02,20:15,Manchester Utd,,,,Arsenal,,Old Trafford,,Head-to-Head,,Premier-League,9,2021-2022
+15.0,Sat,2021-12-04,12:30,West Ham,,,,Chelsea,,London Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+15.0,Sat,2021-12-04,15:00,Newcastle Utd,,,,Burnley,,St. James' Park,,Head-to-Head,,Premier-League,9,2021-2022
+15.0,Sat,2021-12-04,15:00,Southampton,,,,Brighton,,St. Mary's Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+15.0,Sat,2021-12-04,15:00,Wolves,,,,Liverpool,,Molineux Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+15.0,Sat,2021-12-04,17:30,Watford,,,,Manchester City,,Vicarage Road Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+15.0,Sun,2021-12-05,14:00,Leeds United,,,,Brentford,,Elland Road,,Head-to-Head,,Premier-League,9,2021-2022
+15.0,Sun,2021-12-05,14:00,Tottenham,,,,Norwich City,,Tottenham Hotspur Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+15.0,Sun,2021-12-05,14:00,Manchester Utd,,,,Crystal Palace,,Old Trafford,,Head-to-Head,,Premier-League,9,2021-2022
+15.0,Sun,2021-12-05,16:30,Aston Villa,,,,Leicester City,,Villa Park,,Head-to-Head,,Premier-League,9,2021-2022
+15.0,Mon,2021-12-06,20:00,Everton,,,,Arsenal,,Goodison Park,,Head-to-Head,,Premier-League,9,2021-2022
+16.0,Fri,2021-12-10,20:00,Brentford,,,,Watford,,Brentford Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+16.0,Sat,2021-12-11,12:30,Manchester City,,,,Wolves,,Etihad Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+16.0,Sat,2021-12-11,15:00,Chelsea,,,,Leeds United,,Stamford Bridge,,Head-to-Head,,Premier-League,9,2021-2022
+16.0,Sat,2021-12-11,15:00,Liverpool,,,,Aston Villa,,Anfield,,Head-to-Head,,Premier-League,9,2021-2022
+16.0,Sat,2021-12-11,15:00,Arsenal,,,,Southampton,,Emirates Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+16.0,Sat,2021-12-11,17:30,Norwich City,,,,Manchester Utd,,Carrow Road,,Head-to-Head,,Premier-League,9,2021-2022
+16.0,Sun,2021-12-12,14:00,Burnley,,,,West Ham,,Turf Moor,,Head-to-Head,,Premier-League,9,2021-2022
+16.0,Sun,2021-12-12,14:00,Leicester City,,,,Newcastle Utd,,King Power Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+16.0,Sun,2021-12-12,14:00,Brighton,,,,Tottenham,,The American Express Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+16.0,Sun,2021-12-12,16:30,Crystal Palace,,,,Everton,,Selhurst Park,,Head-to-Head,,Premier-League,9,2021-2022
+17.0,Tue,2021-12-14,19:30,Brentford,,,,Manchester Utd,,Brentford Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+17.0,Tue,2021-12-14,19:45,Norwich City,,,,Aston Villa,,Carrow Road,,Head-to-Head,,Premier-League,9,2021-2022
+17.0,Tue,2021-12-14,20:00,Manchester City,,,,Leeds United,,Etihad Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+17.0,Wed,2021-12-15,19:30,Burnley,,,,Watford,,Turf Moor,,Head-to-Head,,Premier-League,9,2021-2022
+17.0,Wed,2021-12-15,19:30,Brighton,,,,Wolves,,The American Express Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+17.0,Wed,2021-12-15,19:30,Crystal Palace,,,,Southampton,,Selhurst Park,,Head-to-Head,,Premier-League,9,2021-2022
+17.0,Wed,2021-12-15,20:00,Arsenal,,,,West Ham,,Emirates Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+17.0,Thu,2021-12-16,19:30,Leicester City,,,,Tottenham,,King Power Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+17.0,Thu,2021-12-16,19:45,Chelsea,,,,Everton,,Stamford Bridge,,Head-to-Head,,Premier-League,9,2021-2022
+17.0,Thu,2021-12-16,20:00,Liverpool,,,,Newcastle Utd,,Anfield,,Head-to-Head,,Premier-League,9,2021-2022
+18.0,Sat,2021-12-18,12:30,Manchester Utd,,,,Brighton,,Old Trafford,,Head-to-Head,,Premier-League,9,2021-2022
+18.0,Sat,2021-12-18,15:00,Southampton,,,,Brentford,,St. Mary's Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+18.0,Sat,2021-12-18,15:00,West Ham,,,,Norwich City,,London Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+18.0,Sat,2021-12-18,15:00,Watford,,,,Crystal Palace,,Vicarage Road Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+18.0,Sat,2021-12-18,15:00,Aston Villa,,,,Burnley,,Villa Park,,Head-to-Head,,Premier-League,9,2021-2022
+18.0,Sat,2021-12-18,17:30,Leeds United,,,,Arsenal,,Elland Road,,Head-to-Head,,Premier-League,9,2021-2022
+18.0,Sun,2021-12-19,12:00,Everton,,,,Leicester City,,Goodison Park,,Head-to-Head,,Premier-League,9,2021-2022
+18.0,Sun,2021-12-19,14:00,Wolves,,,,Chelsea,,Molineux Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+18.0,Sun,2021-12-19,14:15,Newcastle Utd,,,,Manchester City,,St. James' Park,,Head-to-Head,,Premier-League,9,2021-2022
+18.0,Sun,2021-12-19,16:30,Tottenham,,,,Liverpool,,Tottenham Hotspur Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+19.0,Sun,2021-12-26,12:30,Wolves,,,,Watford,,Molineux Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+19.0,Sun,2021-12-26,12:30,Liverpool,,,,Leeds United,,Anfield,,Head-to-Head,,Premier-League,9,2021-2022
+19.0,Sun,2021-12-26,15:00,Manchester City,,,,Leicester City,,Etihad Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+19.0,Sun,2021-12-26,15:00,West Ham,,,,Southampton,,London Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+19.0,Sun,2021-12-26,15:00,Norwich City,,,,Arsenal,,Carrow Road,,Head-to-Head,,Premier-League,9,2021-2022
+19.0,Sun,2021-12-26,15:00,Burnley,,,,Everton,,Turf Moor,,Head-to-Head,,Premier-League,9,2021-2022
+19.0,Sun,2021-12-26,15:00,Tottenham,,,,Crystal Palace,,Tottenham Hotspur Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+19.0,Sun,2021-12-26,17:30,Aston Villa,,,,Chelsea,,Villa Park,,Head-to-Head,,Premier-League,9,2021-2022
+19.0,Sun,2021-12-26,20:00,Brighton,,,,Brentford,,The American Express Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+19.0,Mon,2021-12-27,20:00,Newcastle Utd,,,,Manchester Utd,,St. James' Park,,Head-to-Head,,Premier-League,9,2021-2022
+20.0,Tue,2021-12-28,12:30,Arsenal,,,,Wolves,,Emirates Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+20.0,Tue,2021-12-28,15:00,Southampton,,,,Tottenham,,St. Mary's Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+20.0,Tue,2021-12-28,15:00,Watford,,,,West Ham,,Vicarage Road Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+20.0,Tue,2021-12-28,15:00,Crystal Palace,,,,Norwich City,,Selhurst Park,,Head-to-Head,,Premier-League,9,2021-2022
+20.0,Tue,2021-12-28,17:30,Leeds United,,,,Aston Villa,,Elland Road,,Head-to-Head,,Premier-League,9,2021-2022
+20.0,Tue,2021-12-28,20:00,Leicester City,,,,Liverpool,,King Power Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+20.0,Wed,2021-12-29,19:30,Chelsea,,,,Brighton,,Stamford Bridge,,Head-to-Head,,Premier-League,9,2021-2022
+20.0,Wed,2021-12-29,20:15,Brentford,,,,Manchester City,,Brentford Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+20.0,Thu,2021-12-30,19:30,Everton,,,,Newcastle Utd,,Goodison Park,,Head-to-Head,,Premier-League,9,2021-2022
+20.0,Thu,2021-12-30,20:15,Manchester Utd,,,,Burnley,,Old Trafford,,Head-to-Head,,Premier-League,9,2021-2022
+21.0,Sat,2022-01-01,12:30,Arsenal,,,,Manchester City,,Emirates Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+21.0,Sat,2022-01-01,15:00,Leicester City,,,,Norwich City,,King Power Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+21.0,Sat,2022-01-01,15:00,Watford,,,,Tottenham,,Vicarage Road Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+21.0,Sat,2022-01-01,17:30,Crystal Palace,,,,West Ham,,Selhurst Park,,Head-to-Head,,Premier-League,9,2021-2022
+21.0,Sun,2022-01-02,14:00,Brentford,,,,Aston Villa,,Brentford Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+21.0,Sun,2022-01-02,14:00,Leeds United,,,,Burnley,,Elland Road,,Head-to-Head,,Premier-League,9,2021-2022
+21.0,Sun,2022-01-02,14:00,Everton,,,,Brighton,,Goodison Park,,Head-to-Head,,Premier-League,9,2021-2022
+21.0,Sun,2022-01-02,14:00,Southampton,,,,Newcastle Utd,,St. Mary's Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+21.0,Sun,2022-01-02,16:30,Chelsea,,,,Liverpool,,Stamford Bridge,,Head-to-Head,,Premier-League,9,2021-2022
+21.0,Mon,2022-01-03,17:30,Manchester Utd,,,,Wolves,,Old Trafford,,Head-to-Head,,Premier-League,9,2021-2022
+22.0,Fri,2022-01-14,20:00,Brighton,,,,Crystal Palace,,The American Express Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+22.0,Sat,2022-01-15,12:30,Manchester City,,,,Chelsea,,Etihad Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+22.0,Sat,2022-01-15,15:00,Liverpool,,,,Brentford,,Anfield,,Head-to-Head,,Premier-League,9,2021-2022
+22.0,Sat,2022-01-15,15:00,Newcastle Utd,,,,Watford,,St. James' Park,,Head-to-Head,,Premier-League,9,2021-2022
+22.0,Sat,2022-01-15,15:00,Wolves,,,,Southampton,,Molineux Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+22.0,Sat,2022-01-15,15:00,Norwich City,,,,Everton,,Carrow Road,,Head-to-Head,,Premier-League,9,2021-2022
+22.0,Sat,2022-01-15,15:00,Burnley,,,,Leicester City,,Turf Moor,,Head-to-Head,,Premier-League,9,2021-2022
+22.0,Sat,2022-01-15,17:30,Aston Villa,,,,Manchester Utd,,Villa Park,,Head-to-Head,,Premier-League,9,2021-2022
+22.0,Sun,2022-01-16,14:00,West Ham,,,,Leeds United,,London Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+22.0,Sun,2022-01-16,16:30,Tottenham,,,,Arsenal,,Tottenham Hotspur Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+23.0,Fri,2022-01-21,20:00,Watford,,,,Norwich City,,Vicarage Road Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+23.0,Sat,2022-01-22,12:30,Everton,,,,Aston Villa,,Goodison Park,,Head-to-Head,,Premier-League,9,2021-2022
+23.0,Sat,2022-01-22,15:00,Brentford,,,,Wolves,,Brentford Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+23.0,Sat,2022-01-22,15:00,Arsenal,,,,Burnley,,Emirates Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+23.0,Sat,2022-01-22,15:00,Manchester Utd,,,,West Ham,,Old Trafford,,Head-to-Head,,Premier-League,9,2021-2022
+23.0,Sat,2022-01-22,15:00,Leicester City,,,,Brighton,,King Power Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+23.0,Sat,2022-01-22,15:00,Leeds United,,,,Newcastle Utd,,Elland Road,,Head-to-Head,,Premier-League,9,2021-2022
+23.0,Sat,2022-01-22,17:30,Southampton,,,,Manchester City,,St. Mary's Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+23.0,Sun,2022-01-23,14:00,Crystal Palace,,,,Liverpool,,Selhurst Park,,Head-to-Head,,Premier-League,9,2021-2022
+23.0,Sun,2022-01-23,16:30,Chelsea,,,,Tottenham,,Stamford Bridge,,Head-to-Head,,Premier-League,9,2021-2022
+24.0,Tue,2022-02-08,19:45,Burnley,,,,Manchester Utd,,Turf Moor,,Head-to-Head,,Premier-League,9,2021-2022
+24.0,Tue,2022-02-08,19:45,Brighton,,,,Chelsea,,The American Express Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+24.0,Tue,2022-02-08,19:45,Aston Villa,,,,Leeds United,,Villa Park,,Head-to-Head,,Premier-League,9,2021-2022
+24.0,Tue,2022-02-08,19:45,Norwich City,,,,Crystal Palace,,Carrow Road,,Head-to-Head,,Premier-League,9,2021-2022
+24.0,Tue,2022-02-08,19:45,West Ham,,,,Watford,,London Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+24.0,Tue,2022-02-08,19:45,Wolves,,,,Arsenal,,Molineux Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+24.0,Wed,2022-02-09,19:45,Tottenham,,,,Southampton,,Tottenham Hotspur Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+24.0,Wed,2022-02-09,19:45,Newcastle Utd,,,,Everton,,St. James' Park,,Head-to-Head,,Premier-League,9,2021-2022
+24.0,Wed,2022-02-09,20:00,Manchester City,,,,Brentford,,Etihad Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+24.0,Wed,2022-02-09,20:00,Liverpool,,,,Leicester City,,Anfield,,Head-to-Head,,Premier-League,9,2021-2022
+25.0,Sat,2022-02-12,15:00,Manchester Utd,,,,Southampton,,Old Trafford,,Head-to-Head,,Premier-League,9,2021-2022
+25.0,Sat,2022-02-12,15:00,Burnley,,,,Liverpool,,Turf Moor,,Head-to-Head,,Premier-League,9,2021-2022
+25.0,Sat,2022-02-12,15:00,Tottenham,,,,Wolves,,Tottenham Hotspur Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+25.0,Sat,2022-02-12,15:00,Leicester City,,,,West Ham,,King Power Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+25.0,Sat,2022-02-12,15:00,Newcastle Utd,,,,Aston Villa,,St. James' Park,,Head-to-Head,,Premier-League,9,2021-2022
+25.0,Sat,2022-02-12,15:00,Everton,,,,Leeds United,,Goodison Park,,Head-to-Head,,Premier-League,9,2021-2022
+25.0,Sat,2022-02-12,15:00,Brentford,,,,Crystal Palace,,Brentford Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+25.0,Sat,2022-02-12,15:00,Chelsea,,,,Arsenal,,Stamford Bridge,,Head-to-Head,,Premier-League,9,2021-2022
+25.0,Sat,2022-02-12,15:00,Watford,,,,Brighton,,Vicarage Road Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+25.0,Sat,2022-02-12,15:00,Norwich City,,,,Manchester City,,Carrow Road,,Head-to-Head,,Premier-League,9,2021-2022
+26.0,Sat,2022-02-19,15:00,Leeds United,,,,Manchester Utd,,Elland Road,,Head-to-Head,,Premier-League,9,2021-2022
+26.0,Sat,2022-02-19,15:00,Southampton,,,,Everton,,St. Mary's Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+26.0,Sat,2022-02-19,15:00,Arsenal,,,,Brentford,,Emirates Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+26.0,Sat,2022-02-19,15:00,Manchester City,,,,Tottenham,,Etihad Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+26.0,Sat,2022-02-19,15:00,Aston Villa,,,,Watford,,Villa Park,,Head-to-Head,,Premier-League,9,2021-2022
+26.0,Sat,2022-02-19,15:00,Liverpool,,,,Norwich City,,Anfield,,Head-to-Head,,Premier-League,9,2021-2022
+26.0,Sat,2022-02-19,15:00,Crystal Palace,,,,Chelsea,,Selhurst Park,,Head-to-Head,,Premier-League,9,2021-2022
+26.0,Sat,2022-02-19,15:00,West Ham,,,,Newcastle Utd,,London Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+26.0,Sat,2022-02-19,15:00,Wolves,,,,Leicester City,,Molineux Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+26.0,Sat,2022-02-19,15:00,Brighton,,,,Burnley,,The American Express Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+27.0,Sat,2022-02-26,15:00,Everton,,,,Manchester City,,Goodison Park,,Head-to-Head,,Premier-League,9,2021-2022
+27.0,Sat,2022-02-26,15:00,Brighton,,,,Aston Villa,,The American Express Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+27.0,Sat,2022-02-26,15:00,Crystal Palace,,,,Burnley,,Selhurst Park,,Head-to-Head,,Premier-League,9,2021-2022
+27.0,Sat,2022-02-26,15:00,Brentford,,,,Newcastle Utd,,Brentford Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+27.0,Sat,2022-02-26,15:00,West Ham,,,,Wolves,,London Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+27.0,Sat,2022-02-26,15:00,Southampton,,,,Norwich City,,St. Mary's Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+27.0,Sat,2022-02-26,15:00,Arsenal,,,,Liverpool,,Emirates Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+27.0,Sat,2022-02-26,15:00,Manchester Utd,,,,Watford,,Old Trafford,,Head-to-Head,,Premier-League,9,2021-2022
+27.0,Sat,2022-02-26,15:00,Leeds United,,,,Tottenham,,Elland Road,,Head-to-Head,,Premier-League,9,2021-2022
+27.0,Sat,2022-02-26,15:00,Chelsea,,,,Leicester City,,Stamford Bridge,,Head-to-Head,,Premier-League,9,2021-2022
+28.0,Sat,2022-03-05,15:00,Watford,,,,Arsenal,,Vicarage Road Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+28.0,Sat,2022-03-05,15:00,Leicester City,,,,Leeds United,,King Power Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+28.0,Sat,2022-03-05,15:00,Manchester City,,,,Manchester Utd,,Etihad Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+28.0,Sat,2022-03-05,15:00,Liverpool,,,,West Ham,,Anfield,,Head-to-Head,,Premier-League,9,2021-2022
+28.0,Sat,2022-03-05,15:00,Burnley,,,,Chelsea,,Turf Moor,,Head-to-Head,,Premier-League,9,2021-2022
+28.0,Sat,2022-03-05,15:00,Wolves,,,,Crystal Palace,,Molineux Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+28.0,Sat,2022-03-05,15:00,Newcastle Utd,,,,Brighton,,St. James' Park,,Head-to-Head,,Premier-League,9,2021-2022
+28.0,Sat,2022-03-05,15:00,Norwich City,,,,Brentford,,Carrow Road,,Head-to-Head,,Premier-League,9,2021-2022
+28.0,Sat,2022-03-05,15:00,Aston Villa,,,,Southampton,,Villa Park,,Head-to-Head,,Premier-League,9,2021-2022
+28.0,Sat,2022-03-05,15:00,Tottenham,,,,Everton,,Tottenham Hotspur Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+29.0,Sat,2022-03-12,15:00,Manchester Utd,,,,Tottenham,,Old Trafford,,Head-to-Head,,Premier-League,9,2021-2022
+29.0,Sat,2022-03-12,15:00,Brighton,,,,Liverpool,,The American Express Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+29.0,Sat,2022-03-12,15:00,Arsenal,,,,Leicester City,,Emirates Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+29.0,Sat,2022-03-12,15:00,Brentford,,,,Burnley,,Brentford Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+29.0,Sat,2022-03-12,15:00,Everton,,,,Wolves,,Goodison Park,,Head-to-Head,,Premier-League,9,2021-2022
+29.0,Sat,2022-03-12,15:00,Southampton,,,,Watford,,St. Mary's Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+29.0,Sat,2022-03-12,15:00,Crystal Palace,,,,Manchester City,,Selhurst Park,,Head-to-Head,,Premier-League,9,2021-2022
+29.0,Sat,2022-03-12,15:00,West Ham,,,,Aston Villa,,London Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+29.0,Sat,2022-03-12,15:00,Chelsea,,,,Newcastle Utd,,Stamford Bridge,,Head-to-Head,,Premier-League,9,2021-2022
+29.0,Sat,2022-03-12,15:00,Leeds United,,,,Norwich City,,Elland Road,,Head-to-Head,,Premier-League,9,2021-2022
+30.0,Sat,2022-03-19,15:00,Newcastle Utd,,,,Crystal Palace,,St. James' Park,,Head-to-Head,,Premier-League,9,2021-2022
+30.0,Sat,2022-03-19,15:00,Watford,,,,Everton,,Vicarage Road Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+30.0,Sat,2022-03-19,15:00,Norwich City,,,,Chelsea,,Carrow Road,,Head-to-Head,,Premier-League,9,2021-2022
+30.0,Sat,2022-03-19,15:00,Aston Villa,,,,Arsenal,,Villa Park,,Head-to-Head,,Premier-League,9,2021-2022
+30.0,Sat,2022-03-19,15:00,Leicester City,,,,Brentford,,King Power Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+30.0,Sat,2022-03-19,15:00,Burnley,,,,Southampton,,Turf Moor,,Head-to-Head,,Premier-League,9,2021-2022
+30.0,Sat,2022-03-19,15:00,Tottenham,,,,West Ham,,Tottenham Hotspur Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+30.0,Sat,2022-03-19,15:00,Wolves,,,,Leeds United,,Molineux Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+30.0,Sat,2022-03-19,15:00,Manchester City,,,,Brighton,,Etihad Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+30.0,Sat,2022-03-19,15:00,Liverpool,,,,Manchester Utd,,Anfield,,Head-to-Head,,Premier-League,9,2021-2022
+31.0,Sat,2022-04-02,15:00,Chelsea,,,,Brentford,,Stamford Bridge,,Head-to-Head,,Premier-League,9,2021-2022
+31.0,Sat,2022-04-02,15:00,Tottenham,,,,Newcastle Utd,,Tottenham Hotspur Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+31.0,Sat,2022-04-02,15:00,Wolves,,,,Aston Villa,,Molineux Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+31.0,Sat,2022-04-02,15:00,West Ham,,,,Everton,,London Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+31.0,Sat,2022-04-02,15:00,Leeds United,,,,Southampton,,Elland Road,,Head-to-Head,,Premier-League,9,2021-2022
+31.0,Sat,2022-04-02,15:00,Brighton,,,,Norwich City,,The American Express Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+31.0,Sat,2022-04-02,15:00,Manchester Utd,,,,Leicester City,,Old Trafford,,Head-to-Head,,Premier-League,9,2021-2022
+31.0,Sat,2022-04-02,15:00,Liverpool,,,,Watford,,Anfield,,Head-to-Head,,Premier-League,9,2021-2022
+31.0,Sat,2022-04-02,15:00,Crystal Palace,,,,Arsenal,,Selhurst Park,,Head-to-Head,,Premier-League,9,2021-2022
+31.0,Sat,2022-04-02,15:00,Burnley,,,,Manchester City,,Turf Moor,,Head-to-Head,,Premier-League,9,2021-2022
+32.0,Sat,2022-04-09,15:00,Southampton,,,,Chelsea,,St. Mary's Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+32.0,Sat,2022-04-09,15:00,Watford,,,,Leeds United,,Vicarage Road Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+32.0,Sat,2022-04-09,15:00,Aston Villa,,,,Tottenham,,Villa Park,,Head-to-Head,,Premier-League,9,2021-2022
+32.0,Sat,2022-04-09,15:00,Arsenal,,,,Brighton,,Emirates Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+32.0,Sat,2022-04-09,15:00,Brentford,,,,West Ham,,Brentford Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+32.0,Sat,2022-04-09,15:00,Manchester City,,,,Liverpool,,Etihad Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+32.0,Sat,2022-04-09,15:00,Newcastle Utd,,,,Wolves,,St. James' Park,,Head-to-Head,,Premier-League,9,2021-2022
+32.0,Sat,2022-04-09,15:00,Leicester City,,,,Crystal Palace,,King Power Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+32.0,Sat,2022-04-09,15:00,Everton,,,,Manchester Utd,,Goodison Park,,Head-to-Head,,Premier-League,9,2021-2022
+32.0,Sat,2022-04-09,15:00,Norwich City,,,,Burnley,,Carrow Road,,Head-to-Head,,Premier-League,9,2021-2022
+33.0,Sat,2022-04-16,15:00,Everton,,,,Crystal Palace,,Goodison Park,,Head-to-Head,,Premier-League,9,2021-2022
+33.0,Sat,2022-04-16,15:00,Southampton,,,,Arsenal,,St. Mary's Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+33.0,Sat,2022-04-16,15:00,Wolves,,,,Manchester City,,Molineux Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+33.0,Sat,2022-04-16,15:00,Manchester Utd,,,,Norwich City,,Old Trafford,,Head-to-Head,,Premier-League,9,2021-2022
+33.0,Sat,2022-04-16,15:00,Leeds United,,,,Chelsea,,Elland Road,,Head-to-Head,,Premier-League,9,2021-2022
+33.0,Sat,2022-04-16,15:00,Watford,,,,Brentford,,Vicarage Road Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+33.0,Sat,2022-04-16,15:00,Newcastle Utd,,,,Leicester City,,St. James' Park,,Head-to-Head,,Premier-League,9,2021-2022
+33.0,Sat,2022-04-16,15:00,Tottenham,,,,Brighton,,Tottenham Hotspur Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+33.0,Sat,2022-04-16,15:00,Aston Villa,,,,Liverpool,,Villa Park,,Head-to-Head,,Premier-League,9,2021-2022
+33.0,Sat,2022-04-16,15:00,West Ham,,,,Burnley,,London Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+34.0,Sat,2022-04-23,15:00,Norwich City,,,,Newcastle Utd,,Carrow Road,,Head-to-Head,,Premier-League,9,2021-2022
+34.0,Sat,2022-04-23,15:00,Leicester City,,,,Aston Villa,,King Power Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+34.0,Sat,2022-04-23,15:00,Liverpool,,,,Everton,,Anfield,,Head-to-Head,,Premier-League,9,2021-2022
+34.0,Sat,2022-04-23,15:00,Manchester City,,,,Watford,,Etihad Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+34.0,Sat,2022-04-23,15:00,Crystal Palace,,,,Leeds United,,Selhurst Park,,Head-to-Head,,Premier-League,9,2021-2022
+34.0,Sat,2022-04-23,15:00,Brentford,,,,Tottenham,,Brentford Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+34.0,Sat,2022-04-23,15:00,Arsenal,,,,Manchester Utd,,Emirates Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+34.0,Sat,2022-04-23,15:00,Brighton,,,,Southampton,,The American Express Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+34.0,Sat,2022-04-23,15:00,Burnley,,,,Wolves,,Turf Moor,,Head-to-Head,,Premier-League,9,2021-2022
+34.0,Sat,2022-04-23,15:00,Chelsea,,,,West Ham,,Stamford Bridge,,Head-to-Head,,Premier-League,9,2021-2022
+35.0,Sat,2022-04-30,15:00,Newcastle Utd,,,,Liverpool,,St. James' Park,,Head-to-Head,,Premier-League,9,2021-2022
+35.0,Sat,2022-04-30,15:00,Wolves,,,,Brighton,,Molineux Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+35.0,Sat,2022-04-30,15:00,Tottenham,,,,Leicester City,,Tottenham Hotspur Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+35.0,Sat,2022-04-30,15:00,Watford,,,,Burnley,,Vicarage Road Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+35.0,Sat,2022-04-30,15:00,Aston Villa,,,,Norwich City,,Villa Park,,Head-to-Head,,Premier-League,9,2021-2022
+35.0,Sat,2022-04-30,15:00,Leeds United,,,,Manchester City,,Elland Road,,Head-to-Head,,Premier-League,9,2021-2022
+35.0,Sat,2022-04-30,15:00,West Ham,,,,Arsenal,,London Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+35.0,Sat,2022-04-30,15:00,Everton,,,,Chelsea,,Goodison Park,,Head-to-Head,,Premier-League,9,2021-2022
+35.0,Sat,2022-04-30,15:00,Manchester Utd,,,,Brentford,,Old Trafford,,Head-to-Head,,Premier-League,9,2021-2022
+35.0,Sat,2022-04-30,15:00,Southampton,,,,Crystal Palace,,St. Mary's Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+36.0,Sat,2022-05-07,15:00,Chelsea,,,,Wolves,,Stamford Bridge,,Head-to-Head,,Premier-League,9,2021-2022
+36.0,Sat,2022-05-07,15:00,Liverpool,,,,Tottenham,,Anfield,,Head-to-Head,,Premier-League,9,2021-2022
+36.0,Sat,2022-05-07,15:00,Arsenal,,,,Leeds United,,Emirates Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+36.0,Sat,2022-05-07,15:00,Crystal Palace,,,,Watford,,Selhurst Park,,Head-to-Head,,Premier-League,9,2021-2022
+36.0,Sat,2022-05-07,15:00,Norwich City,,,,West Ham,,Carrow Road,,Head-to-Head,,Premier-League,9,2021-2022
+36.0,Sat,2022-05-07,15:00,Brentford,,,,Southampton,,Brentford Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+36.0,Sat,2022-05-07,15:00,Burnley,,,,Aston Villa,,Turf Moor,,Head-to-Head,,Premier-League,9,2021-2022
+36.0,Sat,2022-05-07,15:00,Manchester City,,,,Newcastle Utd,,Etihad Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+36.0,Sat,2022-05-07,15:00,Brighton,,,,Manchester Utd,,The American Express Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+36.0,Sat,2022-05-07,15:00,Leicester City,,,,Everton,,King Power Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+37.0,Sun,2022-05-15,15:00,Everton,,,,Brentford,,Goodison Park,,Head-to-Head,,Premier-League,9,2021-2022
+37.0,Sun,2022-05-15,15:00,Manchester Utd,,,,Chelsea,,Old Trafford,,Head-to-Head,,Premier-League,9,2021-2022
+37.0,Sun,2022-05-15,15:00,Aston Villa,,,,Crystal Palace,,Villa Park,,Head-to-Head,,Premier-League,9,2021-2022
+37.0,Sun,2022-05-15,15:00,Leeds United,,,,Brighton,,Elland Road,,Head-to-Head,,Premier-League,9,2021-2022
+37.0,Sun,2022-05-15,15:00,Watford,,,,Leicester City,,Vicarage Road Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+37.0,Sun,2022-05-15,15:00,Southampton,,,,Liverpool,,St. Mary's Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+37.0,Sun,2022-05-15,15:00,West Ham,,,,Manchester City,,London Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+37.0,Sun,2022-05-15,15:00,Wolves,,,,Norwich City,,Molineux Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+37.0,Sun,2022-05-15,15:00,Newcastle Utd,,,,Arsenal,,St. James' Park,,Head-to-Head,,Premier-League,9,2021-2022
+37.0,Sun,2022-05-15,15:00,Tottenham,,,,Burnley,,Tottenham Hotspur Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+38.0,Sun,2022-05-22,16:00,Norwich City,,,,Tottenham,,Carrow Road,,Head-to-Head,,Premier-League,9,2021-2022
+38.0,Sun,2022-05-22,16:00,Brentford,,,,Leeds United,,Brentford Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+38.0,Sun,2022-05-22,16:00,Brighton,,,,West Ham,,The American Express Community Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+38.0,Sun,2022-05-22,16:00,Liverpool,,,,Wolves,,Anfield,,Head-to-Head,,Premier-League,9,2021-2022
+38.0,Sun,2022-05-22,16:00,Manchester City,,,,Aston Villa,,Etihad Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+38.0,Sun,2022-05-22,16:00,Burnley,,,,Newcastle Utd,,Turf Moor,,Head-to-Head,,Premier-League,9,2021-2022
+38.0,Sun,2022-05-22,16:00,Arsenal,,,,Everton,,Emirates Stadium,,Head-to-Head,,Premier-League,9,2021-2022
+38.0,Sun,2022-05-22,16:00,Chelsea,,,,Watford,,Stamford Bridge,,Head-to-Head,,Premier-League,9,2021-2022
+38.0,Sun,2022-05-22,16:00,Crystal Palace,,,,Manchester Utd,,Selhurst Park,,Head-to-Head,,Premier-League,9,2021-2022
+38.0,Sun,2022-05-22,16:00,Leicester City,,,,Southampton,,King Power Stadium,,Head-to-Head,,Premier-League,9,2021-2022

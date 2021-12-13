@@ -56,6 +56,7 @@ warnings.filterwarnings(action="ignore", message="^internal gelsd")
 
 # Set up initial paths to subfolders
 base_dir = os.path.join('')
+print(base_dir)
 data_dir = os.path.join(base_dir, 'data')
 data_dir_fbref = os.path.join(base_dir, 'data', 'fbref')
 img_dir = os.path.join(base_dir, 'img')
@@ -71,8 +72,8 @@ dict_league_names = {'Premier-League': '9',
                      'Bundesliga': '20',
                      'Serie-A': '11',
                      'La-Liga': '12',
-                     'Major-League-Soccer': '22',
-                     'Big-5-European-Leagues': 'Big5'
+                     'Champions-League': '8',
+                     'Europa-League': '19'
                     }
 
 # Define league saison and their IDs
@@ -101,12 +102,21 @@ dict_league_saison = {'Premier-League-2017-2018': '1631',
                      'La-Liga-2019-2020': '3239',
                      'La-Liga-2020-2021': '10731',
                      'La-Liga-2021-2022': '',
-                     'Major-League-Soccer': '22',
-                     'Big-5-European-Leagues': 'Big5'
+                     'Champions-League-2017-2018': '1656',
+                     'Champions-League-2018-2019': '2102',
+                     'Champions-League-2019-2020': '2900',
+                     'Champions-League-2020-2021': '10096',
+                     'Champions-League-2021-2022': '',
+                     'Europa-League-2017-2018': '1657',
+                     'Europa-League-2018-2019': '2103',
+                     'Europa-League-2019-2020': '2901',
+                     'Europa-League-2020-2021': '10097',
+                     'Europa-League-2021-2022': '',
                     }
 
 ## Define list of long names for 'Big 5' European Leagues and MLS
-lst_league_names_long = ['Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga', 'Major-League-Soccer']
+lst_league_names_long = ['Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga','Champions-League','Europa-League']
+
 
 ## Define seasons to scrape
 lst_seasons = ['2017-2018', '2018-2019', '2019-2020', '2020-2021', '2021-2022']
@@ -171,6 +181,7 @@ def get_fbref_goalkeeper_stats(lst_league_names, lst_seasons):
                   ##### Goalkeeper stats
                   print(f'Scraping Goalkeeper stats...')
                   url_keepers = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2F{saison_name_short}%2Fkeepers%2Fplayers%2F{season}-{league_name_long}&div=div_stats_keeper'
+                  print(url_keepers)
                   df_keepers = pd.read_html(url_keepers, header=1)[0]
                   ##### Advanced Goalkeeper stats
                   print(f'Scraping Advanced Goalkeeper stats...')
@@ -200,6 +211,7 @@ def get_fbref_goalkeeper_stats(lst_league_names, lst_seasons):
                   print(f'Scraping Goalkeeper stats...')
                   url_keepers = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2Fkeepers%2Fplayers%2F{season}-{league_name_long}&div=div_stats_keeper'
                   df_keepers = pd.read_html(url_keepers, header=1)[0]
+                  print(url_keepers)
                   ##### Advanced Goalkeeper stats
                   print(f'Scraping Advanced Goalkeeper stats...')
                   url_keepers_adv = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2Fkeepersadv%2Fplayers%2F{season}-{league_name_long}&div=div_stats_keeper_adv'
@@ -384,7 +396,7 @@ pd.set_option('display.max_columns', None)
 lst_league_names = ['Ligue-1','Bundesliga', 'Serie-A', 'La-Liga','Premier-League']     #'Big-5-European-Leagues','Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga', 'Major-League-Soccer']
 lst_seasons = ['2017-2018','2018-2019','2019-2020','2020-2021','2021-2022']
 
-df_fbref_outfield_raw = get_fbref_goalkeeper_stats(lst_league_names, lst_seasons)
+df_fbref_outfield_raw = get_fbref_goalkeeper_stats(lst_league_names_long, lst_seasons)
 
 
 
