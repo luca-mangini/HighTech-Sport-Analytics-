@@ -1,0 +1,382 @@
+Wk,Day,Date,Time,Home,xG,Score,xG.1,Away,Attendance,Venue,Referee,League Name,League ID,Season
+1.0,Fri,2019-08-16,21:00,Athletic Club,0.5,1–0,0.9,Barcelona,47693.0,San Mams,Carlos del Cerro,La-Liga,12,2019-2020
+1.0,Sat,2019-08-17,17:00,Celta Vigo,0.8,1–3,1.5,Real Madrid,23566.0,Estadio de Balados,Javier Estrada,La-Liga,12,2019-2020
+1.0,Sat,2019-08-17,19:00,Valencia,2.3,1–1,1.3,Real Sociedad,41846.0,Estadio de Mestalla,Jess Gil,La-Liga,12,2019-2020
+1.0,Sat,2019-08-17,20:00,Mallorca,1.7,2–1,0.7,Eibar,15127.0,Iberostar Estadi,Mario Melero,La-Liga,12,2019-2020
+1.0,Sat,2019-08-17,21:00,Legans,1.0,0–1,0.2,Osasuna,10020.0,Estadio Municipal de Butarque,Alberola Rojas,La-Liga,12,2019-2020
+1.0,Sat,2019-08-17,21:00,Villarreal,1.6,4–4,2.2,Granada,14753.0,Estadio de la Cermica,Adrin Cordero,La-Liga,12,2019-2020
+1.0,Sun,2019-08-18,17:00,Alavs,0.4,1–0,0.7,Levante,12029.0,Estadio de Mendizorroza,Csar Soto,La-Liga,12,2019-2020
+1.0,Sun,2019-08-18,19:00,Espanyol,0.2,0–2,1.2,Sevilla,19832.0,RCDE Stadium,Juan Martnez,La-Liga,12,2019-2020
+1.0,Sun,2019-08-18,21:00,Betis,0.9,1–2,0.7,Valladolid,51497.0,Estadio Benito Villamarn,Santiago Jaime,La-Liga,12,2019-2020
+1.0,Sun,2019-08-18,22:00,Atltico Madrid,1.6,1–0,0.4,Getafe,55099.0,Estadio Wanda Metropolitano,Guillermo Cuadra,La-Liga,12,2019-2020
+,,,,,,,,,,,,La-Liga,12,2019-2020
+2.0,Fri,2019-08-23,20:00,Granada,0.6,0–1,0.5,Sevilla,15849.0,Estadio Nuevo Los Crmenes,Jos Snchez,La-Liga,12,2019-2020
+2.0,Fri,2019-08-23,22:00,Levante,2.0,2–1,2.8,Villarreal,20240.0,Estadio Ciudad de Valencia,Jos Luis Munuera,La-Liga,12,2019-2020
+2.0,Sat,2019-08-24,17:00,Osasuna,0.6,0–0,0.6,Eibar,13978.0,Estadio El Sadar,David Medi,La-Liga,12,2019-2020
+2.0,Sat,2019-08-24,19:00,Real Madrid,1.1,1–1,0.6,Valladolid,63037.0,Estadio Santiago Bernabu,Pablo Gonzlez,La-Liga,12,2019-2020
+2.0,Sat,2019-08-24,21:00,Celta Vigo,1.8,1–0,0.9,Valencia,20034.0,Estadio de Balados,Alejandro Hernndez,La-Liga,12,2019-2020
+2.0,Sat,2019-08-24,21:00,Getafe,0.3,1–1,0.3,Athletic Club,10103.0,Coliseum Alfonso Prez,Antonio Matu Lahoz,La-Liga,12,2019-2020
+2.0,Sun,2019-08-25,17:00,Alavs,0.5,0–0,0.1,Espanyol,14567.0,Estadio de Mendizorroza,Eduardo Prieto,La-Liga,12,2019-2020
+2.0,Sun,2019-08-25,17:00,Mallorca,0.7,0–1,1.3,Real Sociedad,18028.0,Iberostar Estadi,Valentn Pizarro,La-Liga,12,2019-2020
+2.0,Sun,2019-08-25,19:00,Legans,0.4,0–1,1.1,Atltico Madrid,11742.0,Estadio Municipal de Butarque,Ricardo de Burgos,La-Liga,12,2019-2020
+2.0,Sun,2019-08-25,21:00,Barcelona,1.8,5–2,0.2,Betis,79159.0,Camp Nou,Jos Gonzlez,La-Liga,12,2019-2020
+3.0,Fri,2019-08-30,20:00,Sevilla,1.3,1–1,0.5,Celta Vigo,37787.0,Estadio Ramn Snchez Pizjun,Carlos del Cerro,La-Liga,12,2019-2020
+3.0,Fri,2019-08-30,22:00,Athletic Club,0.9,2–0,0.3,Real Sociedad,46697.0,San Mams,Javier Estrada,La-Liga,12,2019-2020
+3.0,Sat,2019-08-31,17:00,Osasuna,1.6,2–2,0.3,Barcelona,16742.0,Estadio El Sadar,Juan Martnez,La-Liga,12,2019-2020
+3.0,Sat,2019-08-31,19:00,Levante,1.6,2–0,1.0,Valladolid,19347.0,Estadio Ciudad de Valencia,Adrin Cordero,La-Liga,12,2019-2020
+3.0,Sat,2019-08-31,19:00,Getafe,1.1,1–1,0.9,Alavs,10806.0,Coliseum Alfonso Prez,Mario Melero,La-Liga,12,2019-2020
+3.0,Sat,2019-08-31,21:00,Betis,1.5,2–1,1.0,Legans,47819.0,Estadio Benito Villamarn,Guillermo Cuadra,La-Liga,12,2019-2020
+3.0,Sun,2019-09-01,17:00,Valencia,2.1,2–0,1.2,Mallorca,40441.0,Estadio de Mestalla,Alberola Rojas,La-Liga,12,2019-2020
+3.0,Sun,2019-09-01,19:00,Atltico Madrid,1.6,3–2,0.6,Eibar,56664.0,Estadio Wanda Metropolitano,Santiago Jaime,La-Liga,12,2019-2020
+3.0,Sun,2019-09-01,19:00,Espanyol,0.9,0–3,1.4,Granada,20870.0,RCDE Stadium,Csar Soto,La-Liga,12,2019-2020
+3.0,Sun,2019-09-01,21:00,Villarreal,1.5,2–2,1.8,Real Madrid,20128.0,Estadio de la Cermica,Jess Gil,La-Liga,12,2019-2020
+4.0,Fri,2019-09-13,21:00,Mallorca,1.6,0–0,1.2,Athletic Club,16390.0,Iberostar Estadi,Pablo Gonzlez,La-Liga,12,2019-2020
+4.0,Sat,2019-09-14,13:00,Real Madrid,2.5,3–2,0.7,Levante,60401.0,Estadio Santiago Bernabu,Ricardo de Burgos,La-Liga,12,2019-2020
+4.0,Sat,2019-09-14,16:00,Legans,0.6,0–3,0.9,Villarreal,7670.0,Estadio Municipal de Butarque,David Medi,La-Liga,12,2019-2020
+4.0,Sat,2019-09-14,18:30,Real Sociedad,1.3,2–0,1.0,Atltico Madrid,34719.0,Estadio Municipal de Anoeta,Antonio Matu Lahoz,La-Liga,12,2019-2020
+4.0,Sat,2019-09-14,21:00,Barcelona,2.0,5–2,1.3,Valencia,81617.0,Camp Nou,Jos Snchez,La-Liga,12,2019-2020
+4.0,Sun,2019-09-15,12:00,Eibar,0.5,1–2,1.5,Espanyol,5410.0,Estadio Municipal de Ipura,Valentn Pizarro,La-Liga,12,2019-2020
+4.0,Sun,2019-09-15,14:00,Alavs,0.5,0–1,1.3,Sevilla,16309.0,Estadio de Mendizorroza,Alejandro Hernndez,La-Liga,12,2019-2020
+4.0,Sun,2019-09-15,16:00,Celta Vigo,0.2,0–2,1.1,Granada,18259.0,Estadio de Balados,Eduardo Prieto,La-Liga,12,2019-2020
+4.0,Sun,2019-09-15,18:30,Valladolid,0.7,1–1,1.9,Osasuna,20670.0,Estadio Municipal Jos Zorrilla,Jos Luis Munuera,La-Liga,12,2019-2020
+4.0,Sun,2019-09-15,21:00,Betis,0.9,1–1,1.4,Getafe,47884.0,Estadio Benito Villamarn,Jos Gonzlez,La-Liga,12,2019-2020
+5.0,Fri,2019-09-20,21:00,Osasuna,1.5,0–0,0.4,Betis,15569.0,Estadio El Sadar,Carlos del Cerro,La-Liga,12,2019-2020
+5.0,Sat,2019-09-21,13:00,Villarreal,2.0,2–0,0.5,Valladolid,16195.0,Estadio de la Cermica,Csar Soto,La-Liga,12,2019-2020
+5.0,Sat,2019-09-21,16:00,Levante,1.1,0–0,1.4,Eibar,18904.0,Estadio Ciudad de Valencia,Alberola Rojas,La-Liga,12,2019-2020
+5.0,Sat,2019-09-21,18:30,Atltico Madrid,1.1,0–0,0.4,Celta Vigo,57701.0,Estadio Wanda Metropolitano,Mario Melero,La-Liga,12,2019-2020
+5.0,Sat,2019-09-21,21:00,Granada,1.7,2–0,0.7,Barcelona,18880.0,Estadio Nuevo Los Crmenes,Guillermo Cuadra,La-Liga,12,2019-2020
+5.0,Sun,2019-09-22,12:00,Getafe,2.0,4–2,0.7,Mallorca,11338.0,Coliseum Alfonso Prez,Santiago Jaime,La-Liga,12,2019-2020
+5.0,Sun,2019-09-22,14:00,Espanyol,1.0,1–3,1.1,Real Sociedad,19173.0,RCDE Stadium,Adrin Cordero,La-Liga,12,2019-2020
+5.0,Sun,2019-09-22,16:00,Valencia,1.4,1–1,0.9,Legans,39014.0,Estadio de Mestalla,Javier Estrada,La-Liga,12,2019-2020
+5.0,Sun,2019-09-22,18:30,Athletic Club,2.3,2–0,0.5,Alavs,45143.0,San Mams,Jess Gil,La-Liga,12,2019-2020
+5.0,Sun,2019-09-22,21:00,Sevilla,0.4,0–1,0.9,Real Madrid,42354.0,Estadio Ramn Snchez Pizjun,Juan Martnez,La-Liga,12,2019-2020
+6.0,Tue,2019-09-24,19:00,Valladolid,1.3,1–1,0.4,Granada,18410.0,Estadio Municipal Jos Zorrilla,Valentn Pizarro,La-Liga,12,2019-2020
+6.0,Tue,2019-09-24,20:00,Betis,2.7,3–1,1.2,Levante,44560.0,Estadio Benito Villamarn,Eduardo Prieto,La-Liga,12,2019-2020
+6.0,Tue,2019-09-24,21:00,Barcelona,0.7,2–1,0.5,Villarreal,70316.0,Camp Nou,Ricardo de Burgos,La-Liga,12,2019-2020
+6.0,Wed,2019-09-25,19:00,Legans,0.4,1–1,1.1,Athletic Club,11036.0,Estadio Municipal de Butarque,Jos Gonzlez,La-Liga,12,2019-2020
+6.0,Wed,2019-09-25,19:00,Mallorca,0.5,0–2,1.0,Atltico Madrid,19348.0,Iberostar Estadi,Alejandro Hernndez,La-Liga,12,2019-2020
+6.0,Wed,2019-09-25,20:00,Valencia,1.1,3–3,1.8,Getafe,37814.0,Estadio de Mestalla,Jos Luis Munuera,La-Liga,12,2019-2020
+6.0,Wed,2019-09-25,21:00,Real Madrid,1.2,2–0,0.1,Osasuna,57520.0,Estadio Santiago Bernabu,Antonio Matu Lahoz,La-Liga,12,2019-2020
+6.0,Thu,2019-09-26,19:00,Eibar,1.6,3–2,1.6,Sevilla,5434.0,Estadio Municipal de Ipura,Pablo Gonzlez,La-Liga,12,2019-2020
+6.0,Thu,2019-09-26,20:00,Celta Vigo,0.6,1–1,1.4,Espanyol,16361.0,Estadio de Balados,Jos Snchez,La-Liga,12,2019-2020
+6.0,Thu,2019-09-26,21:00,Real Sociedad,3.1,3–0,0.2,Alavs,28720.0,Estadio Municipal de Anoeta,David Medi,La-Liga,12,2019-2020
+7.0,Fri,2019-09-27,21:00,Villarreal,3.0,5–1,0.9,Betis,18135.0,Estadio de la Cermica,Javier Estrada,La-Liga,12,2019-2020
+7.0,Sat,2019-09-28,13:00,Athletic Club,1.1,0–1,1.7,Valencia,42420.0,San Mams,Mario Melero,La-Liga,12,2019-2020
+7.0,Sat,2019-09-28,16:00,Getafe,0.6,0–2,1.4,Barcelona,15135.0,Coliseum Alfonso Prez,Jess Gil,La-Liga,12,2019-2020
+7.0,Sat,2019-09-28,18:30,Granada,0.7,1–0,1.1,Legans,15519.0,Estadio Nuevo Los Crmenes,Adrin Cordero,La-Liga,12,2019-2020
+7.0,Sat,2019-09-28,21:00,Atltico Madrid,0.5,0–0,0.4,Real Madrid,68032.0,Estadio Wanda Metropolitano,Jos Gonzlez,La-Liga,12,2019-2020
+7.0,Sun,2019-09-29,12:00,Espanyol,1.1,0–2,1.5,Valladolid,20911.0,RCDE Stadium,Guillermo Cuadra,La-Liga,12,2019-2020
+7.0,Sun,2019-09-29,14:00,Eibar,0.8,2–0,0.9,Celta Vigo,5453.0,Estadio Municipal de Ipura,Juan Martnez,La-Liga,12,2019-2020
+7.0,Sun,2019-09-29,16:00,Alavs,1.8,2–0,0.1,Mallorca,17135.0,Estadio de Mendizorroza,Carlos del Cerro,La-Liga,12,2019-2020
+7.0,Sun,2019-09-29,18:30,Levante,1.3,1–1,1.1,Osasuna,19362.0,Estadio Ciudad de Valencia,Csar Soto,La-Liga,12,2019-2020
+7.0,Sun,2019-09-29,21:00,Sevilla,1.3,3–2,0.9,Real Sociedad,37414.0,Estadio Ramn Snchez Pizjun,Alberola Rojas,La-Liga,12,2019-2020
+8.0,Fri,2019-10-04,21:00,Betis,1.5,1–1,1.3,Eibar,47056.0,Estadio Benito Villamarn,Alejandro Hernndez,La-Liga,12,2019-2020
+8.0,Sat,2019-10-05,13:00,Legans,2.7,1–2,1.3,Levante,10160.0,Estadio Municipal de Butarque,Jos Luis Munuera,La-Liga,12,2019-2020
+8.0,Sat,2019-10-05,16:00,Real Madrid,2.2,4–2,1.6,Granada,70315.0,Estadio Santiago Bernabu,Santiago Jaime,La-Liga,12,2019-2020
+8.0,Sat,2019-10-05,18:30,Valencia,1.3,2–1,1.0,Alavs,38943.0,Estadio de Mestalla,Eduardo Prieto,La-Liga,12,2019-2020
+8.0,Sat,2019-10-05,21:00,Osasuna,1.1,2–1,1.6,Villarreal,15349.0,Estadio El Sadar,Valentn Pizarro,La-Liga,12,2019-2020
+8.0,Sun,2019-10-06,12:00,Mallorca,0.6,2–0,1.0,Espanyol,15052.0,Iberostar Estadi,Ricardo de Burgos,La-Liga,12,2019-2020
+8.0,Sun,2019-10-06,14:00,Celta Vigo,1.7,1–0,0.2,Athletic Club,19690.0,Estadio de Balados,David Medi,La-Liga,12,2019-2020
+8.0,Sun,2019-10-06,16:00,Valladolid,1.1,0–0,0.9,Atltico Madrid,23650.0,Estadio Municipal Jos Zorrilla,Jos Snchez,La-Liga,12,2019-2020
+8.0,Sun,2019-10-06,18:30,Real Sociedad,1.0,1–2,0.9,Getafe,30153.0,Estadio Municipal de Anoeta,Pablo Gonzlez,La-Liga,12,2019-2020
+8.0,Sun,2019-10-06,21:00,Barcelona,1.9,4–0,1.9,Sevilla,81331.0,Camp Nou,Antonio Matu Lahoz,La-Liga,12,2019-2020
+9.0,Fri,2019-10-18,21:00,Granada,0.4,1–0,0.9,Osasuna,16986.0,Estadio Nuevo Los Crmenes,Javier Estrada,La-Liga,12,2019-2020
+9.0,Sat,2019-10-19,13:00,Eibar,0.4,0–3,2.1,Barcelona,7295.0,Estadio Municipal de Ipura,Mario Melero,La-Liga,12,2019-2020
+9.0,Sat,2019-10-19,16:00,Atltico Madrid,1.7,1–1,0.6,Valencia,61603.0,Estadio Wanda Metropolitano,Adrin Cordero,La-Liga,12,2019-2020
+9.0,Sat,2019-10-19,18:30,Getafe,1.0,2–0,0.4,Legans,13.0,Coliseum Alfonso Prez,Juan Martnez,La-Liga,12,2019-2020
+9.0,Sat,2019-10-19,21:00,Mallorca,0.2,1–0,0.9,Real Madrid,20275.0,Iberostar Estadi,Alberola Rojas,La-Liga,12,2019-2020
+9.0,Sun,2019-10-20,12:00,Alavs,1.8,2–0,1.0,Celta Vigo,16584.0,Estadio de Mendizorroza,Jos Gonzlez,La-Liga,12,2019-2020
+9.0,Sun,2019-10-20,14:00,Real Sociedad,1.4,3–1,0.9,Betis,28032.0,Estadio Municipal de Anoeta,Csar Soto,La-Liga,12,2019-2020
+9.0,Sun,2019-10-20,16:00,Espanyol,0.9,0–1,1.3,Villarreal,20653.0,RCDE Stadium,Carlos del Cerro,La-Liga,12,2019-2020
+9.0,Sun,2019-10-20,18:30,Athletic Club,1.2,1–1,0.8,Valladolid,37107.0,San Mams,Jess Gil,La-Liga,12,2019-2020
+9.0,Sun,2019-10-20,21:00,Sevilla,2.3,1–0,0.5,Levante,34612.0,Estadio Ramn Snchez Pizjun,Guillermo Cuadra,La-Liga,12,2019-2020
+10.0,Fri,2019-10-25,21:00,Villarreal,2.7,4–1,0.7,Alavs,16049.0,Estadio de la Cermica,David Medi,La-Liga,12,2019-2020
+10.0,Sat,2019-10-26,16:00,Legans,1.6,1–0,0.6,Mallorca,10058.0,Estadio Municipal de Butarque,Eduardo Prieto,La-Liga,12,2019-2020
+10.0,Sat,2019-10-26,18:30,Valladolid,1.9,2–0,0.5,Eibar,20036.0,Estadio Municipal Jos Zorrilla,Jos Luis Munuera,La-Liga,12,2019-2020
+10.0,Sat,2019-10-26,21:00,Atltico Madrid,1.7,2–0,0.4,Athletic Club,59211.0,Estadio Wanda Metropolitano,Alejandro Hernndez,La-Liga,12,2019-2020
+10.0,Sun,2019-10-27,12:00,Celta Vigo,0.6,0–1,0.7,Real Sociedad,18002.0,Estadio de Balados,Valentn Pizarro,La-Liga,12,2019-2020
+10.0,Sun,2019-10-27,14:00,Granada,1.8,1–0,0.7,Betis,18985.0,Estadio Nuevo Los Crmenes,Antonio Matu Lahoz,La-Liga,12,2019-2020
+10.0,Sun,2019-10-27,16:00,Levante,0.4,0–1,1.0,Espanyol,18934.0,Estadio Ciudad de Valencia,Pablo Gonzlez,La-Liga,12,2019-2020
+10.0,Sun,2019-10-27,18:30,Sevilla,2.0,2–0,0.8,Getafe,38181.0,Estadio Ramn Snchez Pizjun,Jos Snchez,La-Liga,12,2019-2020
+10.0,Sun,2019-10-27,21:00,Osasuna,2.7,3–1,0.9,Valencia,14976.0,Estadio El Sadar,Santiago Jaime,La-Liga,12,2019-2020
+11.0,Tue,2019-10-29,19:00,Alavs,0.7,1–1,1.3,Atltico Madrid,17235.0,Estadio de Mendizorroza,Javier Estrada,La-Liga,12,2019-2020
+11.0,Tue,2019-10-29,21:15,Barcelona,3.1,5–1,0.7,Valladolid,59896.0,Camp Nou,Alberola Rojas,La-Liga,12,2019-2020
+11.0,Wed,2019-10-30,19:00,Valencia,0.8,1–1,0.4,Sevilla,37881.0,Estadio de Mestalla,Carlos del Cerro,La-Liga,12,2019-2020
+11.0,Wed,2019-10-30,19:00,Real Sociedad,1.8,1–2,1.8,Levante,28142.0,Estadio Municipal de Anoeta,Mario Melero,La-Liga,12,2019-2020
+11.0,Wed,2019-10-30,20:00,Athletic Club,0.4,3–0,0.7,Espanyol,37094.0,San Mams,Juan Martnez,La-Liga,12,2019-2020
+11.0,Wed,2019-10-30,21:00,Betis,1.1,2–1,1.7,Celta Vigo,43353.0,Estadio Benito Villamarn,Jess Gil,La-Liga,12,2019-2020
+11.0,Wed,2019-10-30,21:15,Real Madrid,4.3,5–0,0.2,Legans,53870.0,Estadio Santiago Bernabu,Csar Soto,La-Liga,12,2019-2020
+11.0,Thu,2019-10-31,19:00,Mallorca,2.4,2–2,0.9,Osasuna,12641.0,Iberostar Estadi,Adrin Cordero,La-Liga,12,2019-2020
+11.0,Thu,2019-10-31,19:00,Eibar,2.0,2–1,1.6,Villarreal,5583.0,Estadio Municipal de Ipura,Guillermo Cuadra,La-Liga,12,2019-2020
+11.0,Thu,2019-10-31,21:15,Getafe,0.8,3–1,1.5,Granada,10227.0,Coliseum Alfonso Prez,Jos Gonzlez,La-Liga,12,2019-2020
+12.0,Sat,2019-11-02,13:00,Espanyol,1.4,1–2,1.7,Valencia,18428.0,RCDE Stadium,Valentn Pizarro,La-Liga,12,2019-2020
+12.0,Sat,2019-11-02,16:00,Levante,0.9,3–1,2.1,Barcelona,23341.0,Estadio Ciudad de Valencia,Alejandro Hernndez,La-Liga,12,2019-2020
+12.0,Sat,2019-11-02,18:30,Sevilla,0.8,1–1,1.9,Atltico Madrid,39957.0,Estadio Ramn Snchez Pizjun,Jos Gonzlez,La-Liga,12,2019-2020
+12.0,Sat,2019-11-02,21:00,Real Madrid,2.3,0–0,0.5,Betis,70375.0,Estadio Santiago Bernabu,Jos Snchez,La-Liga,12,2019-2020
+12.0,Sun,2019-11-03,12:00,Valladolid,2.0,3–0,0.6,Mallorca,18419.0,Estadio Municipal Jos Zorrilla,David Medi,La-Liga,12,2019-2020
+12.0,Sun,2019-11-03,14:00,Villarreal,0.8,0–0,0.7,Athletic Club,17460.0,Estadio de la Cermica,Santiago Jaime,La-Liga,12,2019-2020
+12.0,Sun,2019-11-03,16:00,Osasuna,3.8,4–2,1.7,Alavs,15954.0,Estadio El Sadar,Jos Luis Munuera,La-Liga,12,2019-2020
+12.0,Sun,2019-11-03,18:30,Legans,1.2,1–2,0.8,Eibar,9649.0,Estadio Municipal de Butarque,Pablo Gonzlez,La-Liga,12,2019-2020
+12.0,Sun,2019-11-03,18:30,Celta Vigo,0.2,0–1,0.5,Getafe,14704.0,Estadio de Balados,Antonio Matu Lahoz,La-Liga,12,2019-2020
+12.0,Sun,2019-11-03,21:00,Granada,0.2,1–2,0.9,Real Sociedad,16898.0,Estadio Nuevo Los Crmenes,Eduardo Prieto,La-Liga,12,2019-2020
+13.0,Fri,2019-11-08,21:00,Real Sociedad,1.1,1–1,0.9,Legans,27684.0,Estadio Municipal de Anoeta,Juan Martnez,La-Liga,12,2019-2020
+13.0,Sat,2019-11-09,13:00,Alavs,2.9,3–0,0.3,Valladolid,16148.0,Estadio de Mendizorroza,Mario Melero,La-Liga,12,2019-2020
+13.0,Sat,2019-11-09,16:00,Valencia,1.1,2–0,0.4,Granada,39882.0,Estadio de Mestalla,Javier Estrada,La-Liga,12,2019-2020
+13.0,Sat,2019-11-09,18:30,Eibar,0.7,0–4,2.7,Real Madrid,7045.0,Estadio Municipal de Ipura,Adrin Cordero,La-Liga,12,2019-2020
+13.0,Sat,2019-11-09,21:00,Barcelona,1.7,4–1,0.3,Celta Vigo,71209.0,Camp Nou,Guillermo Cuadra,La-Liga,12,2019-2020
+13.0,Sun,2019-11-10,12:00,Mallorca,1.7,3–1,2.7,Villarreal,8348.0,Iberostar Estadi,Carlos del Cerro,La-Liga,12,2019-2020
+13.0,Sun,2019-11-10,14:00,Athletic Club,2.1,2–1,0.8,Levante,33202.0,San Mams,Alberola Rojas,La-Liga,12,2019-2020
+13.0,Sun,2019-11-10,16:00,Atltico Madrid,2.5,3–1,0.3,Espanyol,53069.0,Estadio Wanda Metropolitano,Jess Gil,La-Liga,12,2019-2020
+13.0,Sun,2019-11-10,18:30,Getafe,1.3,0–0,0.1,Osasuna,10558.0,Coliseum Alfonso Prez,Csar Soto,La-Liga,12,2019-2020
+13.0,Sun,2019-11-10,21:00,Betis,1.4,1–2,0.8,Sevilla,52123.0,Estadio Benito Villamarn,Alejandro Hernndez,La-Liga,12,2019-2020
+14.0,Fri,2019-11-22,21:00,Levante,1.4,2–1,1.4,Mallorca,15110.0,Estadio Ciudad de Valencia,Valentn Pizarro,La-Liga,12,2019-2020
+14.0,Sat,2019-11-23,13:00,Legans,0.4,1–2,1.6,Barcelona,12110.0,Estadio Municipal de Butarque,Santiago Jaime,La-Liga,12,2019-2020
+14.0,Sat,2019-11-23,16:00,Betis,1.8,2–1,0.8,Valencia,46545.0,Estadio Benito Villamarn,Ricardo de Burgos,La-Liga,12,2019-2020
+14.0,Sat,2019-11-23,18:30,Granada,0.6,1–1,1.4,Atltico Madrid,17003.0,Estadio Nuevo Los Crmenes,David Medi,La-Liga,12,2019-2020
+14.0,Sat,2019-11-23,21:00,Real Madrid,1.4,3–1,2.0,Real Sociedad,69305.0,Estadio Santiago Bernabu,Jess Gil,La-Liga,12,2019-2020
+14.0,Sun,2019-11-24,12:00,Espanyol,1.0,1–1,0.7,Getafe,22031.0,RCDE Stadium,Pablo Gonzlez,La-Liga,12,2019-2020
+14.0,Sun,2019-11-24,14:00,Osasuna,1.0,1–2,1.0,Athletic Club,16145.0,Estadio El Sadar,Jos Snchez,La-Liga,12,2019-2020
+14.0,Sun,2019-11-24,16:00,Eibar,1.5,0–2,2.1,Alavs,6315.0,Estadio Municipal de Ipura,Antonio Matu Lahoz,La-Liga,12,2019-2020
+14.0,Sun,2019-11-24,18:30,Villarreal,0.8,1–3,1.9,Celta Vigo,17352.0,Estadio de la Cermica,Jos Luis Munuera,La-Liga,12,2019-2020
+14.0,Sun,2019-11-24,21:00,Valladolid,0.6,0–1,1.2,Sevilla,18169.0,Estadio Municipal Jos Zorrilla,Eduardo Prieto,La-Liga,12,2019-2020
+15.0,Fri,2019-11-29,21:00,Celta Vigo,0.9,0–0,0.4,Valladolid,16918.0,Estadio de Balados,Alberola Rojas,La-Liga,12,2019-2020
+15.0,Sat,2019-11-30,13:00,Alavs,1.4,1–2,2.1,Real Madrid,19357.0,Estadio de Mendizorroza,Guillermo Cuadra,La-Liga,12,2019-2020
+15.0,Sat,2019-11-30,16:00,Real Sociedad,1.4,4–1,0.8,Eibar,28612.0,Estadio Municipal de Anoeta,Carlos del Cerro,La-Liga,12,2019-2020
+15.0,Sat,2019-11-30,18:30,Mallorca,2.7,1–2,2.9,Betis,16810.0,Iberostar Estadi,Juan Martnez,La-Liga,12,2019-2020
+15.0,Sat,2019-11-30,21:00,Valencia,1.1,2–1,2.1,Villarreal,38521.0,Estadio de Mestalla,Csar Soto,La-Liga,12,2019-2020
+15.0,Sun,2019-12-01,12:00,Sevilla,1.9,1–0,0.8,Legans,33648.0,Estadio Ramn Snchez Pizjun,Ricardo de Burgos,La-Liga,12,2019-2020
+15.0,Sun,2019-12-01,14:00,Athletic Club,2.2,2–0,0.8,Granada,37974.0,San Mams,Adrin Cordero,La-Liga,12,2019-2020
+15.0,Sun,2019-12-01,16:00,Espanyol,1.4,2–4,2.5,Osasuna,21238.0,RCDE Stadium,Mario Melero,La-Liga,12,2019-2020
+15.0,Sun,2019-12-01,18:30,Getafe,1.7,4–0,0.3,Levante,6535.0,Coliseum Alfonso Prez,Javier Estrada,La-Liga,12,2019-2020
+15.0,Sun,2019-12-01,21:00,Atltico Madrid,1.2,0–1,1.1,Barcelona,64226.0,Estadio Wanda Metropolitano,Antonio Matu Lahoz,La-Liga,12,2019-2020
+16.0,Fri,2019-12-06,21:00,Villarreal,1.6,0–0,1.5,Atltico Madrid,17964.0,Estadio de la Cermica,Alejandro Hernndez,La-Liga,12,2019-2020
+16.0,Sat,2019-12-07,13:00,Real Madrid,1.9,2–0,0.3,Espanyol,64125.0,Estadio Santiago Bernabu,Santiago Jaime,La-Liga,12,2019-2020
+16.0,Sat,2019-12-07,16:00,Granada,2.0,3–0,0.3,Alavs,14773.0,Estadio Nuevo Los Crmenes,Jess Gil,La-Liga,12,2019-2020
+16.0,Sat,2019-12-07,18:30,Levante,2.2,2–4,2.6,Valencia,23137.0,Estadio Ciudad de Valencia,David Medi,La-Liga,12,2019-2020
+16.0,Sat,2019-12-07,21:00,Barcelona,3.4,5–2,1.2,Mallorca,71072.0,Camp Nou,Jos Luis Munuera,La-Liga,12,2019-2020
+16.0,Sun,2019-12-08,12:00,Eibar,0.4,0–1,0.9,Getafe,5969.0,Estadio Municipal de Ipura,Eduardo Prieto,La-Liga,12,2019-2020
+16.0,Sun,2019-12-08,14:00,Betis,1.5,3–2,0.9,Athletic Club,46106.0,Estadio Benito Villamarn,Valentn Pizarro,La-Liga,12,2019-2020
+16.0,Sun,2019-12-08,16:00,Valladolid,0.5,0–0,1.4,Real Sociedad,18654.0,Estadio Municipal Jos Zorrilla,Pablo Gonzlez,La-Liga,12,2019-2020
+16.0,Sun,2019-12-08,18:30,Legans,0.9,3–2,0.4,Celta Vigo,7115.0,Estadio Municipal de Butarque,Jos Snchez,La-Liga,12,2019-2020
+16.0,Sun,2019-12-08,21:00,Osasuna,0.9,1–1,1.4,Sevilla,15045.0,Estadio El Sadar,Javier Estrada,La-Liga,12,2019-2020
+17.0,Fri,2019-12-13,21:00,Alavs,1.0,1–1,0.6,Legans,15567.0,Estadio de Mendizorroza,Csar Soto,La-Liga,12,2019-2020
+17.0,Sat,2019-12-14,13:00,Granada,0.8,1–2,1.1,Levante,14127.0,Estadio Nuevo Los Crmenes,Carlos del Cerro,La-Liga,12,2019-2020
+17.0,Sat,2019-12-14,16:00,Real Sociedad,2.5,2–2,2.0,Barcelona,36639.0,Estadio Municipal de Anoeta,Alberola Rojas,La-Liga,12,2019-2020
+17.0,Sat,2019-12-14,18:30,Athletic Club,0.9,0–0,0.2,Eibar,43203.0,San Mams,Mario Melero,La-Liga,12,2019-2020
+17.0,Sat,2019-12-14,21:00,Atltico Madrid,1.9,2–0,0.9,Osasuna,46033.0,Estadio Wanda Metropolitano,Jos Luis Munuera,La-Liga,12,2019-2020
+17.0,Sun,2019-12-15,12:00,Getafe,0.9,2–0,0.4,Valladolid,10816.0,Coliseum Alfonso Prez,Antonio Matu Lahoz,La-Liga,12,2019-2020
+17.0,Sun,2019-12-15,14:00,Celta Vigo,2.5,2–2,1.7,Mallorca,13247.0,Estadio de Balados,Ricardo de Burgos,La-Liga,12,2019-2020
+17.0,Sun,2019-12-15,16:00,Espanyol,1.2,2–2,0.8,Betis,22248.0,RCDE Stadium,Guillermo Cuadra,La-Liga,12,2019-2020
+17.0,Sun,2019-12-15,18:30,Sevilla,1.8,1–2,1.7,Villarreal,36521.0,Estadio Ramn Snchez Pizjun,Adrin Cordero,La-Liga,12,2019-2020
+17.0,Sun,2019-12-15,21:00,Valencia,1.6,1–1,1.3,Real Madrid,44230.0,Estadio de Mestalla,Jos Snchez,La-Liga,12,2019-2020
+10.0,Wed,2019-12-18,20:00,Barcelona,0.9,0–0,0.9,Real Madrid,93426.0,Camp Nou,Alejandro Hernndez,La-Liga,12,2019-2020
+18.0,Fri,2019-12-20,21:00,Eibar,2.6,3–0,1.4,Granada,5341.0,Estadio Municipal de Ipura,Pablo Gonzlez,La-Liga,12,2019-2020
+18.0,Sat,2019-12-21,13:00,Mallorca,1.0,0–2,1.5,Sevilla,14321.0,Iberostar Estadi,Jess Gil,La-Liga,12,2019-2020
+18.0,Sat,2019-12-21,16:00,Barcelona,1.2,4–1,0.6,Alavs,63054.0,Camp Nou,Mario Melero,La-Liga,12,2019-2020
+18.0,Sat,2019-12-21,18:30,Villarreal,1.8,1–0,0.5,Getafe,14526.0,Estadio de la Cermica,Santiago Jaime,La-Liga,12,2019-2020
+18.0,Sat,2019-12-21,21:00,Valladolid,1.1,1–1,1.0,Valencia,16295.0,Estadio Municipal Jos Zorrilla,Valentn Pizarro,La-Liga,12,2019-2020
+18.0,Sun,2019-12-22,12:00,Legans,0.9,2–0,0.6,Espanyol,10183.0,Estadio Municipal de Butarque,Alberola Rojas,La-Liga,12,2019-2020
+18.0,Sun,2019-12-22,14:00,Osasuna,1.8,3–4,2.2,Real Sociedad,16197.0,Estadio El Sadar,David Medi,La-Liga,12,2019-2020
+18.0,Sun,2019-12-22,16:00,Betis,0.7,1–2,1.6,Atltico Madrid,52017.0,Estadio Benito Villamarn,Javier Estrada,La-Liga,12,2019-2020
+18.0,Sun,2019-12-22,18:30,Levante,2.5,3–1,0.9,Celta Vigo,18653.0,Estadio Ciudad de Valencia,Eduardo Prieto,La-Liga,12,2019-2020
+18.0,Sun,2019-12-22,21:00,Real Madrid,2.3,0–0,0.6,Athletic Club,71306.0,Estadio Santiago Bernabu,Adrin Cordero,La-Liga,12,2019-2020
+19.0,Fri,2020-01-03,19:00,Valladolid,1.1,2–2,2.3,Legans,21492.0,Estadio Municipal Jos Zorrilla,Juan Martnez,La-Liga,12,2019-2020
+19.0,Fri,2020-01-03,21:00,Sevilla,1.3,1–1,0.2,Athletic Club,37972.0,Estadio Ramn Snchez Pizjun,Jos Gonzlez,La-Liga,12,2019-2020
+19.0,Sat,2020-01-04,13:00,Valencia,0.5,1–0,1.3,Eibar,39702.0,Estadio de Mestalla,Alejandro Hernndez,La-Liga,12,2019-2020
+19.0,Sat,2020-01-04,16:00,Getafe,0.7,0–3,2.3,Real Madrid,15426.0,Coliseum Alfonso Prez,Jos Luis Munuera,La-Liga,12,2019-2020
+19.0,Sat,2020-01-04,18:30,Atltico Madrid,1.4,2–1,0.4,Levante,59084.0,Estadio Wanda Metropolitano,Ricardo de Burgos,La-Liga,12,2019-2020
+19.0,Sat,2020-01-04,21:00,Espanyol,0.4,2–2,1.7,Barcelona,33562.0,RCDE Stadium,Carlos del Cerro,La-Liga,12,2019-2020
+19.0,Sun,2020-01-05,12:00,Granada,1.5,1–0,1.2,Mallorca,16395.0,Estadio Nuevo Los Crmenes,Csar Soto,La-Liga,12,2019-2020
+19.0,Sun,2020-01-05,14:00,Real Sociedad,0.9,1–2,1.4,Villarreal,31538.0,Estadio Municipal de Anoeta,Jos Snchez,La-Liga,12,2019-2020
+19.0,Sun,2020-01-05,16:00,Alavs,0.5,1–1,1.7,Betis,17689.0,Estadio de Mendizorroza,Antonio Matu Lahoz,La-Liga,12,2019-2020
+19.0,Sun,2020-01-05,21:00,Celta Vigo,1.9,1–1,0.7,Osasuna,11932.0,Estadio de Balados,Guillermo Cuadra,La-Liga,12,2019-2020
+20.0,Fri,2020-01-17,21:00,Legans,0.3,0–3,1.6,Getafe,11450.0,Estadio Municipal de Butarque,Javier Estrada,La-Liga,12,2019-2020
+20.0,Sat,2020-01-18,13:00,Levante,1.0,0–1,1.8,Alavs,16848.0,Estadio Ciudad de Valencia,Guillermo Cuadra,La-Liga,12,2019-2020
+20.0,Sat,2020-01-18,16:00,Real Madrid,1.2,2–1,0.5,Sevilla,72512.0,Estadio Santiago Bernabu,Juan Martnez,La-Liga,12,2019-2020
+20.0,Sat,2020-01-18,18:30,Osasuna,1.3,0–0,0.6,Valladolid,15382.0,Estadio El Sadar,Alberola Rojas,La-Liga,12,2019-2020
+20.0,Sat,2020-01-18,21:00,Eibar,1.1,2–0,0.9,Atltico Madrid,6429.0,Estadio Municipal de Ipura,Jess Gil,La-Liga,12,2019-2020
+20.0,Sun,2020-01-19,12:00,Mallorca,1.8,4–1,0.4,Valencia,9856.0,Iberostar Estadi,Mario Melero,La-Liga,12,2019-2020
+20.0,Sun,2020-01-19,14:00,Betis,1.6,3–0,0.5,Real Sociedad,51171.0,Estadio Benito Villamarn,Adrin Cordero,La-Liga,12,2019-2020
+20.0,Sun,2020-01-19,16:00,Villarreal,2.1,1–2,1.5,Espanyol,12053.0,Estadio de la Cermica,Pablo Gonzlez,La-Liga,12,2019-2020
+20.0,Sun,2020-01-19,18:30,Athletic Club,3.4,1–1,0.6,Celta Vigo,41348.0,San Mams,David Medi,La-Liga,12,2019-2020
+20.0,Sun,2020-01-19,21:00,Barcelona,1.6,1–0,0.2,Granada,65444.0,Camp Nou,Valentn Pizarro,La-Liga,12,2019-2020
+21.0,Fri,2020-01-24,21:00,Osasuna,1.9,2–0,0.5,Levante,14667.0,Estadio El Sadar,Csar Soto,La-Liga,12,2019-2020
+21.0,Sat,2020-01-25,13:00,Espanyol,0.6,1–1,0.9,Athletic Club,27542.0,RCDE Stadium,Jos Snchez,La-Liga,12,2019-2020
+21.0,Sat,2020-01-25,16:00,Valencia,1.3,2–0,1.1,Barcelona,45882.0,Estadio de Mestalla,Jess Gil,La-Liga,12,2019-2020
+21.0,Sat,2020-01-25,18:30,Alavs,0.5,1–2,1.2,Villarreal,18153.0,Estadio de Mendizorroza,Jos Luis Munuera,La-Liga,12,2019-2020
+21.0,Sat,2020-01-25,21:00,Sevilla,0.7,2–0,0.6,Granada,33533.0,Estadio Ramn Snchez Pizjun,Alejandro Hernndez,La-Liga,12,2019-2020
+21.0,Sun,2020-01-26,12:00,Atltico Madrid,1.0,0–0,0.7,Legans,52767.0,Estadio Wanda Metropolitano,Antonio Matu Lahoz,La-Liga,12,2019-2020
+21.0,Sun,2020-01-26,14:00,Celta Vigo,1.1,0–0,0.1,Eibar,15490.0,Estadio de Balados,Jos Gonzlez,La-Liga,12,2019-2020
+21.0,Sun,2020-01-26,16:00,Getafe,1.3,1–0,1.3,Betis,13244.0,Coliseum Alfonso Prez,Eduardo Prieto,La-Liga,12,2019-2020
+21.0,Sun,2020-01-26,18:30,Real Sociedad,1.7,3–0,0.5,Mallorca,29912.0,Estadio Municipal de Anoeta,Santiago Jaime,La-Liga,12,2019-2020
+21.0,Sun,2020-01-26,21:00,Valladolid,0.3,0–1,0.5,Real Madrid,23404.0,Estadio Municipal Jos Zorrilla,Ricardo de Burgos,La-Liga,12,2019-2020
+22.0,Sat,2020-02-01,13:00,Granada,0.7,2–1,1.8,Espanyol,15226.0,Estadio Nuevo Los Crmenes,Guillermo Cuadra,La-Liga,12,2019-2020
+22.0,Sat,2020-02-01,16:00,Real Madrid,1.1,1–0,0.2,Atltico Madrid,77223.0,Estadio Santiago Bernabu,Javier Estrada,La-Liga,12,2019-2020
+22.0,Sat,2020-02-01,18:30,Mallorca,0.5,0–1,0.8,Valladolid,13891.0,Iberostar Estadi,David Medi,La-Liga,12,2019-2020
+22.0,Sat,2020-02-01,21:00,Valencia,0.9,1–0,1.2,Celta Vigo,39637.0,Estadio de Mestalla,Pablo Gonzlez,La-Liga,12,2019-2020
+22.0,Sun,2020-02-02,12:00,Legans,1.1,2–1,0.1,Real Sociedad,10842.0,Estadio Municipal de Butarque,Mario Melero,La-Liga,12,2019-2020
+22.0,Sun,2020-02-02,14:00,Eibar,1.8,1–1,1.5,Betis,6558.0,Estadio Municipal de Ipura,Juan Martnez,La-Liga,12,2019-2020
+22.0,Sun,2020-02-02,16:00,Athletic Club,0.8,0–2,1.5,Getafe,40291.0,San Mams,Alberola Rojas,La-Liga,12,2019-2020
+22.0,Sun,2020-02-02,18:30,Sevilla,1.4,1–1,0.6,Alavs,36286.0,Estadio Ramn Snchez Pizjun,Carlos del Cerro,La-Liga,12,2019-2020
+22.0,Sun,2020-02-02,18:30,Villarreal,1.7,3–1,0.9,Osasuna,17081.0,Estadio de la Cermica,Valentn Pizarro,La-Liga,12,2019-2020
+22.0,Sun,2020-02-02,21:00,Barcelona,3.5,2–1,1.2,Levante,60295.0,Camp Nou,Adrin Cordero,La-Liga,12,2019-2020
+23.0,Fri,2020-02-07,21:00,Alavs,1.2,2–1,0.2,Eibar,17089.0,Estadio de Mendizorroza,Eduardo Prieto,La-Liga,12,2019-2020
+23.0,Sat,2020-02-08,13:00,Levante,0.9,2–0,1.0,Legans,17110.0,Estadio Ciudad de Valencia,Jos Gonzlez,La-Liga,12,2019-2020
+23.0,Sat,2020-02-08,16:00,Getafe,2.8,3–0,0.3,Valencia,13070.0,Coliseum Alfonso Prez,Ricardo de Burgos,La-Liga,12,2019-2020
+23.0,Sat,2020-02-08,18:30,Valladolid,0.6,1–1,1.0,Villarreal,17547.0,Estadio Municipal Jos Zorrilla,Alejandro Hernndez,La-Liga,12,2019-2020
+23.0,Sat,2020-02-08,21:00,Atltico Madrid,0.8,1–0,0.7,Granada,54113.0,Estadio Wanda Metropolitano,Csar Soto,La-Liga,12,2019-2020
+23.0,Sun,2020-02-09,12:00,Espanyol,1.0,1–0,0.6,Mallorca,32084.0,RCDE Stadium,Antonio Matu Lahoz,La-Liga,12,2019-2020
+23.0,Sun,2020-02-09,14:00,Real Sociedad,1.6,2–1,0.3,Athletic Club,36730.0,Estadio Municipal de Anoeta,Jos Luis Munuera,La-Liga,12,2019-2020
+23.0,Sun,2020-02-09,16:00,Osasuna,0.8,1–4,2.4,Real Madrid,17000.0,Estadio El Sadar,Jess Gil,La-Liga,12,2019-2020
+23.0,Sun,2020-02-09,18:30,Celta Vigo,1.2,2–1,1.0,Sevilla,20375.0,Estadio de Balados,Santiago Jaime,La-Liga,12,2019-2020
+23.0,Sun,2020-02-09,21:00,Betis,1.0,2–3,1.5,Barcelona,54526.0,Estadio Benito Villamarn,Jos Snchez,La-Liga,12,2019-2020
+24.0,Fri,2020-02-14,21:00,Valencia,1.4,2–2,0.9,Atltico Madrid,42297.0,Estadio de Mestalla,David Medi,La-Liga,12,2019-2020
+24.0,Sat,2020-02-15,13:00,Mallorca,1.8,1–0,0.9,Alavs,12329.0,Iberostar Estadi,Valentn Pizarro,La-Liga,12,2019-2020
+24.0,Sat,2020-02-15,16:00,Barcelona,1.8,2–1,0.8,Getafe,89409.0,Camp Nou,Guillermo Cuadra,La-Liga,12,2019-2020
+24.0,Sat,2020-02-15,18:30,Villarreal,0.8,2–1,1.4,Levante,17269.0,Estadio de la Cermica,Mario Melero,La-Liga,12,2019-2020
+24.0,Sat,2020-02-15,21:00,Granada,1.8,2–1,0.7,Valladolid,15782.0,Estadio Nuevo Los Crmenes,Juan Martnez,La-Liga,12,2019-2020
+24.0,Sun,2020-02-16,12:00,Sevilla,1.2,2–2,0.5,Espanyol,35661.0,Estadio Ramn Snchez Pizjun,Adrin Cordero,La-Liga,12,2019-2020
+24.0,Sun,2020-02-16,14:00,Legans,0.9,0–0,0.5,Betis,11160.0,Estadio Municipal de Butarque,Javier Estrada,La-Liga,12,2019-2020
+24.0,Sun,2020-02-16,18:30,Athletic Club,0.7,0–1,0.4,Osasuna,44222.0,San Mams,Pablo Gonzlez,La-Liga,12,2019-2020
+24.0,Sun,2020-02-16,21:00,Real Madrid,1.5,2–2,1.0,Celta Vigo,62477.0,Estadio Santiago Bernabu,Alberola Rojas,La-Liga,12,2019-2020
+25.0,Fri,2020-02-21,21:00,Betis,3.2,3–3,0.6,Mallorca,47231.0,Estadio Benito Villamarn,Jess Gil,La-Liga,12,2019-2020
+25.0,Sat,2020-02-22,13:00,Celta Vigo,0.2,1–0,0.4,Legans,19335.0,Estadio de Balados,Jos Luis Munuera,La-Liga,12,2019-2020
+25.0,Sat,2020-02-22,16:00,Barcelona,3.9,5–0,0.6,Eibar,66970.0,Camp Nou,Csar Soto,La-Liga,12,2019-2020
+25.0,Sat,2020-02-22,18:30,Real Sociedad,1.9,3–0,0.3,Valencia,31381.0,Estadio Municipal de Anoeta,Jos Gonzlez,La-Liga,12,2019-2020
+25.0,Sat,2020-02-22,21:00,Levante,0.3,1–0,1.6,Real Madrid,23566.0,Estadio Ciudad de Valencia,Alejandro Hernndez,La-Liga,12,2019-2020
+25.0,Sun,2020-02-23,12:00,Osasuna,0.7,0–3,1.5,Granada,14866.0,Estadio El Sadar,Jos Snchez,La-Liga,12,2019-2020
+25.0,Sun,2020-02-23,14:00,Alavs,1.6,2–1,0.8,Athletic Club,19412.0,Estadio de Mendizorroza,Antonio Matu Lahoz,La-Liga,12,2019-2020
+25.0,Sun,2020-02-23,16:00,Valladolid,1.4,2–1,1.2,Espanyol,19645.0,Estadio Municipal Jos Zorrilla,Eduardo Prieto,La-Liga,12,2019-2020
+25.0,Sun,2020-02-23,18:30,Getafe,0.3,0–3,2.3,Sevilla,13438.0,Coliseum Alfonso Prez,Javier Estrada,La-Liga,12,2019-2020
+25.0,Sun,2020-02-23,21:00,Atltico Madrid,1.3,3–1,0.7,Villarreal,54462.0,Estadio Wanda Metropolitano,Ricardo de Burgos,La-Liga,12,2019-2020
+26.0,Fri,2020-02-28,21:00,Real Sociedad,1.2,1–0,0.5,Valladolid,30611.0,Estadio Municipal de Anoeta,Valentn Pizarro,La-Liga,12,2019-2020
+26.0,Sat,2020-02-29,13:00,Eibar,2.4,3–0,0.8,Levante,5920.0,Estadio Municipal de Ipura,Pablo Gonzlez,La-Liga,12,2019-2020
+26.0,Sat,2020-02-29,16:00,Valencia,0.6,2–1,1.2,Betis,37418.0,Estadio de Mestalla,Adrin Cordero,La-Liga,12,2019-2020
+26.0,Sat,2020-02-29,18:30,Legans,0.8,1–1,1.0,Alavs,10043.0,Estadio Municipal de Butarque,Juan Martnez,La-Liga,12,2019-2020
+26.0,Sat,2020-02-29,21:00,Granada,0.7,0–0,0.3,Celta Vigo,15877.0,Estadio Nuevo Los Crmenes,Guillermo Cuadra,La-Liga,12,2019-2020
+26.0,Sun,2020-03-01,12:00,Sevilla,1.8,3–2,1.6,Osasuna,31382.0,Estadio Ramn Snchez Pizjun,Carlos del Cerro,La-Liga,12,2019-2020
+26.0,Sun,2020-03-01,14:00,Athletic Club,2.7,1–0,0.8,Villarreal,36350.0,San Mams,David Medi,La-Liga,12,2019-2020
+26.0,Sun,2020-03-01,16:00,Espanyol,1.1,1–1,0.8,Atltico Madrid,30360.0,RCDE Stadium,Alberola Rojas,La-Liga,12,2019-2020
+26.0,Sun,2020-03-01,18:30,Mallorca,0.1,0–1,0.7,Getafe,14241.0,Iberostar Estadi,Mario Melero,La-Liga,12,2019-2020
+26.0,Sun,2020-03-01,21:00,Real Madrid,1.1,2–0,1.0,Barcelona,78357.0,Estadio Santiago Bernabu,Antonio Matu Lahoz,La-Liga,12,2019-2020
+27.0,Fri,2020-03-06,21:00,Alavs,1.2,1–1,0.5,Valencia,14083.0,Estadio de Mendizorroza,Jess Gil,La-Liga,12,2019-2020
+27.0,Sat,2020-03-07,13:00,Eibar,0.9,1–2,1.1,Mallorca,6110.0,Estadio Municipal de Ipura,Javier Estrada,La-Liga,12,2019-2020
+27.0,Sat,2020-03-07,16:00,Atltico Madrid,2.6,2–2,1.5,Sevilla,60422.0,Estadio Wanda Metropolitano,Alejandro Hernndez,La-Liga,12,2019-2020
+27.0,Sat,2020-03-07,18:30,Barcelona,1.9,1–0,0.7,Real Sociedad,77035.0,Camp Nou,Juan Martnez,La-Liga,12,2019-2020
+27.0,Sat,2020-03-07,21:00,Getafe,1.0,0–0,0.6,Celta Vigo,11286.0,Coliseum Alfonso Prez,Jos Snchez,La-Liga,12,2019-2020
+27.0,Sun,2020-03-08,12:00,Osasuna,2.0,1–0,0.3,Espanyol,15737.0,Estadio El Sadar,Ricardo de Burgos,La-Liga,12,2019-2020
+27.0,Sun,2020-03-08,14:00,Valladolid,1.9,1–4,0.7,Athletic Club,21632.0,Estadio Municipal Jos Zorrilla,Jos Luis Munuera,La-Liga,12,2019-2020
+27.0,Sun,2020-03-08,16:00,Levante,1.1,1–1,1.3,Granada,16168.0,Estadio Ciudad de Valencia,Eduardo Prieto,La-Liga,12,2019-2020
+27.0,Sun,2020-03-08,18:30,Villarreal,1.5,1–2,1.5,Legans,16143.0,Estadio de la Cermica,Csar Soto,La-Liga,12,2019-2020
+27.0,Sun,2020-03-08,21:00,Betis,1.2,2–1,1.4,Real Madrid,51521.0,Estadio Benito Villamarn,Jos Gonzlez,La-Liga,12,2019-2020
+24.0,Tue,2020-03-10,20:00,Eibar,2.2,1–2,1.5,Real Sociedad,,Estadio Municipal de Ipura,David Medi,La-Liga,12,2019-2020
+28.0,Thu,2020-06-11,22:00,Sevilla,1.5,2–0,0.5,Betis,,Estadio Ramn Snchez Pizjun,Antonio Matu Lahoz,La-Liga,12,2019-2020
+28.0,Fri,2020-06-12,19:30,Granada,1.7,2–1,0.7,Getafe,,Estadio Nuevo Los Crmenes,David Medi,La-Liga,12,2019-2020
+28.0,Fri,2020-06-12,22:00,Valencia,0.8,1–1,1.3,Levante,,Estadio de Mestalla,Alberola Rojas,La-Liga,12,2019-2020
+28.0,Sat,2020-06-13,14:00,Espanyol,1.7,2–0,0.2,Alavs,,RCDE Stadium,Pablo Gonzlez,La-Liga,12,2019-2020
+28.0,Sat,2020-06-13,17:00,Celta Vigo,0.1,0–1,2.0,Villarreal,,Estadio de Balados,Valentn Pizarro,La-Liga,12,2019-2020
+28.0,Sat,2020-06-13,19:30,Legans,1.2,1–2,1.3,Valladolid,,Estadio Municipal de Butarque,Mario Melero,La-Liga,12,2019-2020
+28.0,Sat,2020-06-13,22:00,Mallorca,0.8,0–4,2.4,Barcelona,,Iberostar Estadi,Carlos del Cerro,La-Liga,12,2019-2020
+28.0,Sun,2020-06-14,14:00,Athletic Club,0.4,1–1,1.4,Atltico Madrid,,San Mams,Jos Gonzlez,La-Liga,12,2019-2020
+28.0,Sun,2020-06-14,19:30,Real Madrid,1.3,3–1,0.6,Eibar,,Estadio Alfredo Di Stfano,Guillermo Cuadra,La-Liga,12,2019-2020
+28.0,Sun,2020-06-14,22:00,Real Sociedad,1.4,1–1,1.3,Osasuna,,Estadio Municipal de Anoeta,Adrin Cordero,La-Liga,12,2019-2020
+29.0,Mon,2020-06-15,19:30,Levante,0.8,1–1,0.8,Sevilla,,Estadio Ciudad de Valencia,Alejandro Hernndez,La-Liga,12,2019-2020
+29.0,Mon,2020-06-15,22:00,Betis,1.7,2–2,0.7,Granada,,Estadio Benito Villamarn,Csar Soto,La-Liga,12,2019-2020
+29.0,Tue,2020-06-16,19:30,Getafe,1.3,0–0,0.9,Espanyol,,Coliseum Alfonso Prez,Jos Luis Munuera,La-Liga,12,2019-2020
+29.0,Tue,2020-06-16,19:30,Villarreal,1.6,1–0,1.4,Mallorca,,Estadio de la Cermica,Javier Estrada,La-Liga,12,2019-2020
+29.0,Tue,2020-06-16,22:00,Barcelona,1.5,2–0,0.8,Legans,,Camp Nou,Juan Martnez,La-Liga,12,2019-2020
+29.0,Wed,2020-06-17,19:30,Eibar,2.1,2–2,1.3,Athletic Club,,Estadio Municipal de Ipura,Eduardo Prieto,La-Liga,12,2019-2020
+29.0,Wed,2020-06-17,19:30,Valladolid,0.4,0–0,1.1,Celta Vigo,,Estadio Municipal Jos Zorrilla,Jess Gil,La-Liga,12,2019-2020
+29.0,Wed,2020-06-17,22:00,Osasuna,1.1,0–5,2.0,Atltico Madrid,,Estadio El Sadar,Ricardo de Burgos,La-Liga,12,2019-2020
+29.0,Thu,2020-06-18,19:30,Alavs,1.9,2–0,0.4,Real Sociedad,,Estadio de Mendizorroza,Santiago Jaime,La-Liga,12,2019-2020
+29.0,Thu,2020-06-18,22:00,Real Madrid,1.8,3–0,0.4,Valencia,,Estadio Alfredo Di Stfano,Jos Snchez,La-Liga,12,2019-2020
+30.0,Fri,2020-06-19,19:30,Mallorca,0.4,1–1,1.5,Legans,,Iberostar Estadi,Antonio Matu Lahoz,La-Liga,12,2019-2020
+30.0,Fri,2020-06-19,19:30,Granada,1.2,0–1,0.6,Villarreal,,Estadio Nuevo Los Crmenes,Guillermo Cuadra,La-Liga,12,2019-2020
+30.0,Fri,2020-06-19,22:00,Sevilla,0.5,0–0,0.6,Barcelona,,Estadio Ramn Snchez Pizjun,Jos Gonzlez,La-Liga,12,2019-2020
+30.0,Sat,2020-06-20,14:00,Espanyol,0.5,1–3,1.6,Levante,,RCDE Stadium,Carlos del Cerro,La-Liga,12,2019-2020
+30.0,Sat,2020-06-20,17:00,Athletic Club,1.4,1–0,1.4,Betis,,San Mams,Valentn Pizarro,La-Liga,12,2019-2020
+30.0,Sat,2020-06-20,19:30,Getafe,0.5,1–1,0.8,Eibar,,Coliseum Alfonso Prez,Alberola Rojas,La-Liga,12,2019-2020
+30.0,Sat,2020-06-20,22:00,Atltico Madrid,1.1,1–0,0.5,Valladolid,,Estadio Wanda Metropolitano,Pablo Gonzlez,La-Liga,12,2019-2020
+30.0,Sun,2020-06-21,14:00,Celta Vigo,2.7,6–0,0.4,Alavs,,Estadio de Balados,Adrin Cordero,La-Liga,12,2019-2020
+30.0,Sun,2020-06-21,19:30,Valencia,1.4,2–0,1.5,Osasuna,,Estadio de Mestalla,David Medi,La-Liga,12,2019-2020
+30.0,Sun,2020-06-21,22:00,Real Sociedad,0.6,1–2,1.4,Real Madrid,,Estadio Municipal de Anoeta,Javier Estrada,La-Liga,12,2019-2020
+31.0,Mon,2020-06-22,19:30,Villarreal,0.7,2–2,1.0,Sevilla,,Estadio de la Cermica,Jos Snchez,La-Liga,12,2019-2020
+31.0,Mon,2020-06-22,22:00,Legans,1.5,0–0,0.3,Granada,,Estadio Municipal de Butarque,Ricardo de Burgos,La-Liga,12,2019-2020
+31.0,Tue,2020-06-23,19:30,Levante,0.8,0–1,1.2,Atltico Madrid,,Estadio Ciudad de Valencia,Jos Luis Munuera,La-Liga,12,2019-2020
+31.0,Tue,2020-06-23,19:30,Valladolid,1.5,1–1,0.7,Getafe,,Estadio Municipal Jos Zorrilla,Csar Soto,La-Liga,12,2019-2020
+31.0,Tue,2020-06-23,22:00,Barcelona,1.7,1–0,0.7,Athletic Club,,Camp Nou,Jess Gil,La-Liga,12,2019-2020
+31.0,Wed,2020-06-24,19:30,Real Sociedad,0.7,0–1,0.9,Celta Vigo,,Estadio Municipal de Anoeta,Eduardo Prieto,La-Liga,12,2019-2020
+31.0,Wed,2020-06-24,19:30,Alavs,0.5,0–1,0.7,Osasuna,,Estadio de Mendizorroza,Alejandro Hernndez,La-Liga,12,2019-2020
+31.0,Wed,2020-06-24,22:00,Real Madrid,1.5,2–0,0.6,Mallorca,,Estadio Alfredo Di Stfano,Mario Melero,La-Liga,12,2019-2020
+31.0,Thu,2020-06-25,19:30,Eibar,0.5,1–0,0.5,Valencia,,Estadio Municipal de Ipura,Santiago Jaime,La-Liga,12,2019-2020
+31.0,Thu,2020-06-25,22:00,Betis,0.6,1–0,1.0,Espanyol,,Estadio Benito Villamarn,Juan Martnez,La-Liga,12,2019-2020
+32.0,Fri,2020-06-26,22:00,Sevilla,1.3,1–1,0.6,Valladolid,,Estadio Ramn Snchez Pizjun,Valentn Pizarro,La-Liga,12,2019-2020
+32.0,Sat,2020-06-27,14:00,Athletic Club,2.3,3–1,1.2,Mallorca,,San Mams,Pablo Gonzlez,La-Liga,12,2019-2020
+32.0,Sat,2020-06-27,17:00,Celta Vigo,2.6,2–2,1.8,Barcelona,,Estadio de Balados,Guillermo Cuadra,La-Liga,12,2019-2020
+32.0,Sat,2020-06-27,19:30,Osasuna,0.7,2–1,1.4,Legans,,Estadio El Sadar,Alberola Rojas,La-Liga,12,2019-2020
+32.0,Sat,2020-06-27,22:00,Atltico Madrid,1.5,2–1,1.0,Alavs,,Estadio Wanda Metropolitano,Mario Melero,La-Liga,12,2019-2020
+32.0,Sun,2020-06-28,14:00,Levante,1.7,4–2,1.9,Betis,,Estadio Ciudad de Valencia,Santiago Jaime,La-Liga,12,2019-2020
+32.0,Sun,2020-06-28,17:00,Villarreal,1.4,2–0,0.3,Valencia,,Estadio de la Cermica,Jos Gonzlez,La-Liga,12,2019-2020
+32.0,Sun,2020-06-28,19:30,Granada,1.2,1–2,1.7,Eibar,,Estadio Nuevo Los Crmenes,Carlos del Cerro,La-Liga,12,2019-2020
+32.0,Sun,2020-06-28,22:00,Espanyol,0.8,0–1,2.2,Real Madrid,,RCDE Stadium,Antonio Matu Lahoz,La-Liga,12,2019-2020
+32.0,Mon,2020-06-29,22:00,Getafe,1.1,2–1,0.8,Real Sociedad,,Coliseum Alfonso Prez,Adrin Cordero,La-Liga,12,2019-2020
+33.0,Tue,2020-06-30,19:30,Mallorca,1.5,5–1,1.5,Celta Vigo,,Iberostar Estadi,Ricardo de Burgos,La-Liga,12,2019-2020
+33.0,Tue,2020-06-30,21:00,Legans,0.6,0–3,1.3,Sevilla,,Estadio Municipal de Butarque,Csar Soto,La-Liga,12,2019-2020
+33.0,Tue,2020-06-30,22:00,Barcelona,1.4,2–2,1.9,Atltico Madrid,,Camp Nou,Alejandro Hernndez,La-Liga,12,2019-2020
+33.0,Wed,2020-07-01,19:30,Alavs,1.1,0–2,1.1,Granada,,Estadio de Mendizorroza,Eduardo Prieto,La-Liga,12,2019-2020
+33.0,Wed,2020-07-01,19:30,Valencia,1.3,0–2,0.7,Athletic Club,,Estadio de Mestalla,Javier Estrada,La-Liga,12,2019-2020
+33.0,Wed,2020-07-01,22:00,Betis,0.4,0–2,2.2,Villarreal,,Estadio Benito Villamarn,Jess Gil,La-Liga,12,2019-2020
+33.0,Wed,2020-07-01,22:00,Valladolid,1.7,0–0,0.2,Levante,,Estadio Municipal Jos Zorrilla,David Medi,La-Liga,12,2019-2020
+33.0,Thu,2020-07-02,19:30,Eibar,1.0,0–2,0.9,Osasuna,,Estadio Municipal de Ipura,Jos Luis Munuera,La-Liga,12,2019-2020
+33.0,Thu,2020-07-02,19:30,Real Sociedad,1.4,2–1,0.2,Espanyol,,Estadio Municipal de Anoeta,Jos Snchez,La-Liga,12,2019-2020
+33.0,Thu,2020-07-02,22:00,Real Madrid,1.6,1–0,0.3,Getafe,,Estadio Alfredo Di Stfano,Juan Martnez,La-Liga,12,2019-2020
+34.0,Fri,2020-07-03,22:00,Atltico Madrid,3.4,3–0,0.8,Mallorca,,Estadio Wanda Metropolitano,Alberola Rojas,La-Liga,12,2019-2020
+34.0,Sat,2020-07-04,17:00,Celta Vigo,0.3,1–1,0.6,Betis,,Estadio de Balados,Pablo Gonzlez,La-Liga,12,2019-2020
+34.0,Sat,2020-07-04,19:30,Valladolid,0.4,1–0,0.4,Alavs,,Estadio Municipal Jos Zorrilla,Santiago Jaime,La-Liga,12,2019-2020
+34.0,Sat,2020-07-04,22:00,Granada,1.9,2–2,0.6,Valencia,,Estadio Nuevo Los Crmenes,Adrin Cordero,La-Liga,12,2019-2020
+34.0,Sun,2020-07-05,14:00,Athletic Club,0.3,0–1,2.1,Real Madrid,,San Mams,Jos Gonzlez,La-Liga,12,2019-2020
+34.0,Sun,2020-07-05,17:00,Espanyol,0.4,0–1,0.4,Legans,,RCDE Stadium,Guillermo Cuadra,La-Liga,12,2019-2020
+34.0,Sun,2020-07-05,19:30,Osasuna,0.5,0–0,0.2,Getafe,,Estadio El Sadar,Mario Melero,La-Liga,12,2019-2020
+34.0,Sun,2020-07-05,22:00,Villarreal,1.0,1–4,3.0,Barcelona,,Estadio de la Cermica,Carlos del Cerro,La-Liga,12,2019-2020
+34.0,Mon,2020-07-06,19:30,Levante,0.7,1–1,1.1,Real Sociedad,,Estadio Ciudad de Valencia,Valentn Pizarro,La-Liga,12,2019-2020
+34.0,Mon,2020-07-06,22:00,Sevilla,1.0,1–0,1.4,Eibar,,Estadio Ramn Snchez Pizjun,Antonio Matu Lahoz,La-Liga,12,2019-2020
+35.0,Tue,2020-07-07,19:30,Valencia,1.5,2–1,0.7,Valladolid,,Estadio de Mestalla,Ricardo de Burgos,La-Liga,12,2019-2020
+35.0,Tue,2020-07-07,22:00,Celta Vigo,0.3,1–1,1.4,Atltico Madrid,,Estadio de Balados,Jos Snchez,La-Liga,12,2019-2020
+35.0,Wed,2020-07-08,20:30,Betis,2.1,3–0,0.6,Osasuna,,Estadio Benito Villamarn,Alejandro Hernndez,La-Liga,12,2019-2020
+35.0,Wed,2020-07-08,20:30,Getafe,0.5,1–3,2.1,Villarreal,,Coliseum Alfonso Prez,Javier Estrada,La-Liga,12,2019-2020
+35.0,Wed,2020-07-08,22:00,Barcelona,1.1,1–0,0.8,Espanyol,,Camp Nou,Jos Luis Munuera,La-Liga,12,2019-2020
+35.0,Thu,2020-07-09,19:30,Eibar,0.3,0–0,0.3,Legans,,Estadio Municipal de Ipura,Eduardo Prieto,La-Liga,12,2019-2020
+35.0,Thu,2020-07-09,19:30,Mallorca,1.3,2–0,1.1,Levante,,Iberostar Estadi,Csar Soto,La-Liga,12,2019-2020
+35.0,Thu,2020-07-09,22:00,Athletic Club,0.8,1–2,1.6,Sevilla,,San Mams,David Medi,La-Liga,12,2019-2020
+35.0,Fri,2020-07-10,19:30,Real Sociedad,1.3,2–3,0.5,Granada,,Estadio Municipal de Anoeta,Juan Martnez,La-Liga,12,2019-2020
+35.0,Fri,2020-07-10,22:00,Real Madrid,3.1,2–0,1.1,Alavs,,Estadio Alfredo Di Stfano,Jess Gil,La-Liga,12,2019-2020
+36.0,Sat,2020-07-11,17:00,Osasuna,1.4,2–1,1.2,Celta Vigo,,Estadio El Sadar,Valentn Pizarro,La-Liga,12,2019-2020
+36.0,Sat,2020-07-11,19:30,Valladolid,1.0,0–1,1.4,Barcelona,,Estadio Municipal Jos Zorrilla,Antonio Matu Lahoz,La-Liga,12,2019-2020
+36.0,Sat,2020-07-11,22:00,Atltico Madrid,0.7,1–0,1.3,Betis,,Estadio Wanda Metropolitano,Jos Gonzlez,La-Liga,12,2019-2020
+36.0,Sun,2020-07-12,14:00,Espanyol,0.8,0–2,2.1,Eibar,,RCDE Stadium,Carlos del Cerro,La-Liga,12,2019-2020
+36.0,Sun,2020-07-12,17:00,Levante,1.2,1–2,1.0,Athletic Club,,Estadio Ciudad de Valencia,Alberola Rojas,La-Liga,12,2019-2020
+36.0,Sun,2020-07-12,19:30,Legans,1.3,1–0,1.3,Valencia,,Estadio Municipal de Butarque,Mario Melero,La-Liga,12,2019-2020
+36.0,Sun,2020-07-12,22:00,Sevilla,1.7,2–0,0.4,Mallorca,,Estadio Ramn Snchez Pizjun,Adrin Cordero,La-Liga,12,2019-2020
+36.0,Mon,2020-07-13,19:30,Villarreal,0.3,1–2,0.9,Real Sociedad,,Estadio de la Cermica,Guillermo Cuadra,La-Liga,12,2019-2020
+36.0,Mon,2020-07-13,19:30,Alavs,0.2,0–0,1.0,Getafe,,Estadio de Mendizorroza,Pablo Gonzlez,La-Liga,12,2019-2020
+36.0,Mon,2020-07-13,22:00,Granada,0.9,1–2,0.5,Real Madrid,,Estadio Nuevo Los Crmenes,Santiago Jaime,La-Liga,12,2019-2020
+37.0,Thu,2020-07-16,18:30,Eibar,2.4,3–1,1.8,Valladolid,,Estadio Municipal de Ipura,Csar Soto,La-Liga,12,2019-2020
+37.0,Thu,2020-07-16,21:00,Betis,1.7,1–2,1.5,Alavs,,Estadio Benito Villamarn,David Medi,La-Liga,12,2019-2020
+37.0,Thu,2020-07-16,21:00,Celta Vigo,1.4,2–3,1.0,Levante,,Estadio de Balados,Jos Luis Munuera,La-Liga,12,2019-2020
+37.0,Thu,2020-07-16,21:00,Getafe,1.4,0–2,1.3,Atltico Madrid,,Coliseum Alfonso Prez,Antonio Matu Lahoz,La-Liga,12,2019-2020
+37.0,Thu,2020-07-16,21:00,Valencia,1.3,1–0,0.8,Espanyol,,Estadio de Mestalla,Eduardo Prieto,La-Liga,12,2019-2020
+37.0,Thu,2020-07-16,21:00,Barcelona,1.4,1–2,0.7,Osasuna,,Camp Nou,Jos Snchez,La-Liga,12,2019-2020
+37.0,Thu,2020-07-16,21:00,Athletic Club,0.6,0–2,1.6,Legans,,San Mams,Juan Martnez,La-Liga,12,2019-2020
+37.0,Thu,2020-07-16,21:00,Real Madrid,1.7,2–1,0.7,Villarreal,,Estadio Alfredo Di Stfano,Alejandro Hernndez,La-Liga,12,2019-2020
+37.0,Thu,2020-07-16,21:00,Real Sociedad,0.6,0–0,0.5,Sevilla,,Estadio Municipal de Anoeta,Carlos del Cerro,La-Liga,12,2019-2020
+37.0,Thu,2020-07-16,21:00,Mallorca,1.3,1–2,0.7,Granada,,Iberostar Estadi,Javier Estrada,La-Liga,12,2019-2020
+38.0,Sun,2020-07-19,17:00,Alavs,0.4,0–5,3.0,Barcelona,,Estadio de Mendizorroza,Juan Martnez,La-Liga,12,2019-2020
+38.0,Sun,2020-07-19,18:30,Villarreal,2.1,4–0,0.6,Eibar,,Estadio de la Cermica,Alberola Rojas,La-Liga,12,2019-2020
+38.0,Sun,2020-07-19,18:30,Valladolid,1.7,2–0,0.6,Betis,,Estadio Municipal Jos Zorrilla,Santiago Jaime,La-Liga,12,2019-2020
+38.0,Sun,2020-07-19,21:00,Sevilla,0.7,1–0,0.3,Valencia,,Estadio Ramn Snchez Pizjun,Jos Gonzlez,La-Liga,12,2019-2020
+38.0,Sun,2020-07-19,21:00,Espanyol,0.4,0–0,0.5,Celta Vigo,,RCDE Stadium,Adrin Cordero,La-Liga,12,2019-2020
+38.0,Sun,2020-07-19,21:00,Granada,2.2,4–0,0.6,Athletic Club,,Estadio Nuevo Los Crmenes,Carlos del Cerro,La-Liga,12,2019-2020
+38.0,Sun,2020-07-19,21:00,Osasuna,0.8,2–2,0.6,Mallorca,,Estadio El Sadar,Antonio Matu Lahoz,La-Liga,12,2019-2020
+38.0,Sun,2020-07-19,21:00,Atltico Madrid,1.1,1–1,0.3,Real Sociedad,,Estadio Wanda Metropolitano,Pablo Gonzlez,La-Liga,12,2019-2020
+38.0,Sun,2020-07-19,21:00,Levante,2.1,1–0,2.0,Getafe,,Estadio Ciudad de Valencia,Ricardo de Burgos,La-Liga,12,2019-2020
+38.0,Sun,2020-07-19,21:00,Legans,1.4,2–2,1.2,Real Madrid,,Estadio Municipal de Butarque,Guillermo Cuadra,La-Liga,12,2019-2020

@@ -15,7 +15,6 @@ import time
 
 # Data Preprocessing
 import pandas as pd
-#import pandas_profiling as pp
 import os
 import re
 import random
@@ -127,22 +126,15 @@ lst_data_types = ['goalkeeper', 'outfield', 'team']
 
 # Define function for scraping a defined season and competition of FBref player data
 def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
-    
-    """
-    Function to...
-    """
-    
+
     ## Define list of league names
     league_names_long = lst_league_names
-    
-    
+        
     ## Define seasons to scrape
     seasons = lst_seasons
     
-    
     ## Start timer
     tic = datetime.datetime.now()
-    
     
     ## Print time scraping started
     print(f'Scraping started at: {tic}')
@@ -281,7 +273,6 @@ def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
                 df_all = df_all.drop_duplicates()
                 
                 ##### Left join defined individual DataFrames
-                
                 ####### Define join conditions
                 conditions_join = ['Squad', '# Pl']
 
@@ -305,9 +296,7 @@ def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
                 ###### Drop duplicate rows
                 df_all = df_all.drop_duplicates()
                 
-                
                 ##### Engineer DataFrames
-                
                 ###### Take first two digits of age - fixes current season issue with extra values
                 df_all['Age'] = df_all['Age'].astype(str).str[:2]
                 
@@ -334,10 +323,6 @@ def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
                 ##### Save DataFrame
                 df_all.to_csv(data_dir_fbref + f'/raw/team/{league_name_long}/{season}/fbref_team_player_stats_for_{league_name_long}_{season}_latest.csv', index=None, header=True)        
                 
-                ##### Export a copy to the 'archive' subfolder, including the date
-                df_all.to_csv(data_dir_fbref + f'/raw/team/{league_name_long}/{season}/archive/fbref_team_player_stats_for_{league_name_long}_{season}_last_updated_{today}.csv', index=None, header=True)        
-                
-                
                 ##### Print statement for league and season
                 print(f'All player stats data for the {league_name_long} league for {season} season scraped and saved.')
              
@@ -363,7 +348,6 @@ def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
 
     
     ## Unify individual CSV files as a single DataFrame
-    
     ### Show files in directory
     all_files = glob.glob(os.path.join(data_dir_fbref + f'/raw/team/*/*/fbref_team_player_stats_for_*_*_latest.csv'))
     
@@ -383,14 +367,7 @@ def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
 
     
     ## Export DataFrame
-    
-    ###
     df_fbref_player_stats_all.to_csv(data_dir_fbref + f'/raw/team/fbref_team_player_stats_for_combined_latest.csv', index=None, header=True)
-    
-    ### Save a copy to archive folder (dated)
-    df_fbref_player_stats_all.to_csv(data_dir_fbref + f'/raw/team/archive/fbref_team_player_stats_combined_for_last_updated_{today}.csv', index=None, header=True)
-    
-    
     
     ## Return final list of Player URLs
     return(df_fbref_player_stats_all)
@@ -404,7 +381,6 @@ for folder in lst_folders:
             path = os.path.join(data_dir_fbref, folder, data_types)
             if not os.path.exists(path):
                 os.mkdir(path)
-                os.mkdir(os.path.join(path, 'archive'))
                 for league in lst_league_names_long:
                     path = os.path.join(data_dir_fbref, folder, data_types, league)
                     if not os.path.exists(path):
@@ -413,15 +389,14 @@ for folder in lst_folders:
                             path = os.path.join(data_dir_fbref, folder, data_types, league, season)
                             if not os.path.exists(path):
                                 os.mkdir(path)
-                                os.mkdir(os.path.join(path, 'archive'))
 
 # Display all columns of pandas DataFrames
 pd.set_option('display.max_columns', None)
 
-lst_league_names = ['Ligue-1','Bundesliga', 'Serie-A', 'La-Liga','Premier-League']     #'Big-5-European-Leagues','Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga', 'Major-League-Soccer']
-lst_seasons = ['2017-2018','2018-2019','2019-2020','2020-2021','2021-2022']
+lst_league_names = ['Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga','Champions-League','Europa-League']
+lst_seasons = ['2021-2022']
 
-df_fbref_outfield_raw = get_fbref_squad_stats_player(lst_league_names_long, lst_seasons)
+df_fbref_outfield_raw = get_fbref_squad_stats_player(lst_league_names, lst_seasons)
 
 from sqlalchemy import create_engine
 import pymysql
@@ -430,7 +405,7 @@ import pandas
  
 tableName   = "fbref_team_player_stats_for"
         
-sqlEngine       = create_engine('mysql+pymysql://root:root@127.0.0.1/foot', pool_recycle=3600)
+sqlEngine       = create_engine('mysql+pymysql://lmangini:root@127.0.0.1/foot', pool_recycle=3600)
 dbConnection    = sqlEngine.connect()
 
 try:

@@ -116,7 +116,6 @@ dict_league_saison = {'Premier-League-2017-2018': '1631',
 ## Define list of long names for 'Big 5' European Leagues and MLS
 lst_league_names_long = ['Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga','Champions-League','Europa-League']
 
-
 ## Define seasons to scrape
 lst_seasons = ['2017-2018', '2018-2019', '2019-2020', '2020-2021', '2021-2022']
 
@@ -129,22 +128,14 @@ lst_data_types = ['goalkeeper', 'outfield', 'team']
 # Define function for scraping a defined season and competition of FBref player data
 def get_fbref_player_stats(lst_league_names, lst_seasons):
     
-    """
-    Function to...
-    """
-    
-    
     ## Define list of league names
     league_names_long = lst_league_names
-    
     
     ## Define seasons to scrape
     seasons = lst_seasons
     
-    
     ## Start timer
     tic = datetime.datetime.now()
-    
     
     ## Print time scraping started
     print(f'Scraping started at: {tic}')
@@ -270,7 +261,6 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
                   df_misc = pd.read_html(url_misc, header=1)[0]
 
                 ##### Concatenate defined individual DataFrames
-                
                 ####### Define DataFrames to be concatenated side-by-side (not all of them)
                 lst_dfs = [df_std_stats, df_shooting, df_passing, df_passing_types, df_gca, df_defense, df_possession]
 
@@ -284,7 +274,6 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
                 df_all = df_all.drop_duplicates()
                 
                 ##### Left join defined individual DataFrames
-                
                 ####### Define join conditions
                 conditions_join = ['Player', 'Nation', 'Pos', 'Squad']
 
@@ -308,9 +297,7 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
                 ###### Drop duplicate rows
                 df_all = df_all.drop_duplicates()
                 
-                
                 ##### Engineer DataFrames
-                
                 ###### Take first two digits of age - fixes current season issue with extra values
                 df_all['Age'] = df_all['Age'].astype(str).str[:2]
                 
@@ -337,13 +324,8 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
                 'Sh.1':'Sh_AMB','Fld.1':'Fld_AMB','Def.1':'Def_AMB','Tkl.1':'Tkl_dribble','Def 3rd.1':'Def 3rd_pression','Mid 3rd.1':'Mid 3rd_pression',
                 'Att 3rd.1':'Att 3rd_pression','Prog.1':'Prog_recevant','On-Off.1':'On-Off_diff_tit_remp'}, axis=1)            
                 
-                
                 ##### Save DataFrame
                 df_all.to_csv(data_dir_fbref + f'/raw/outfield/{league_name_long}/{season}/fbref_outfield_player_stats_{league_name_long}_{season}_latest.csv', index=None, header=True)        
-                
-                ##### Export a copy to the 'archive' subfolder, including the date
-                df_all.to_csv(data_dir_fbref + f'/raw/outfield/{league_name_long}/{season}/archive/fbref_outfield_player_stats_{league_name_long}_{season}_last_updated_{today}.csv', index=None, header=True)        
-                
                 
                 ##### Print statement for league and season
                 print(f'All player stats data for the {league_name_long} league for {season} season scraped and saved.')
@@ -351,26 +333,20 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
             
             #### Load player stats data (if already saved)
             else:
-
                 ##### Print statement
                 print(f'Player stats data for the {league_name_long} league for the {season} season already saved as a CSV file.')         
-
                 
     ## End timer
     toc = datetime.datetime.now()
     
-    
     ## Print time scraping ended
     print(f'Scraping ended at: {toc}')
-
     
     ## Calculate time take
     total_time = (toc-tic).total_seconds()
     print(f'Time taken to scrape the player stats data for {len(league_names_long)} leagues for {len(seasons)} seasons is: {total_time/60:0.2f} minutes.')
-
     
     ## Unify individual CSV files as a single DataFrame
-    
     ### Show files in directory
     all_files = glob.glob(os.path.join(data_dir_fbref + f'/raw/outfield/*/*/fbref_outfield_player_stats_*_*_latest.csv'))
     
@@ -387,25 +363,16 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
     
     ### Sort DataFrame
     df_fbref_player_stats_all = df_fbref_player_stats_all.sort_values(['League Name', 'Season', 'Player'], ascending=[True, True, True])
-
     
     ## Export DataFrame
-    
-    ###
     df_fbref_player_stats_all.to_csv(data_dir_fbref + f'/raw/outfield/fbref_outfield_player_stats_combined_latest.csv', index=None, header=True)
-    
-    ### Save a copy to archive folder (dated)
-    df_fbref_player_stats_all.to_csv(data_dir_fbref + f'/raw/outfield/archive/fbref_outfield_player_stats_combined_last_updated_{today}.csv', index=None, header=True)
-    
     
     ## Distinct number of players
     total_players = df_fbref_player_stats_all['Player'].nunique()
 
-
     ## Print statement
     print(f'Player stats DataFrame contains {total_players} players.')
-    
-    
+      
     ## Return final list of Player URLs
     return(df_fbref_player_stats_all)
 
@@ -418,7 +385,6 @@ for folder in lst_folders:
             path = os.path.join(data_dir_fbref, folder, data_types)
             if not os.path.exists(path):
                 os.mkdir(path)
-                os.mkdir(os.path.join(path, 'archive'))
                 for league in lst_league_names_long:
                     path = os.path.join(data_dir_fbref, folder, data_types, league)
                     if not os.path.exists(path):
@@ -427,15 +393,14 @@ for folder in lst_folders:
                             path = os.path.join(data_dir_fbref, folder, data_types, league, season)
                             if not os.path.exists(path):
                                 os.mkdir(path)
-                                os.mkdir(os.path.join(path, 'archive'))
 
 # Display all columns of pandas DataFrames
 pd.set_option('display.max_columns', None)
 
-lst_league_names = ['Ligue-1','Bundesliga', 'Serie-A', 'La-Liga','Premier-League']     #'Big-5-European-Leagues','Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga', 'Major-League-Soccer']
-lst_seasons = ['2017-2018','2018-2019','2019-2020','2020-2021','2021-2022']
+lst_league_names = ['Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga','Champions-League','Europa-League']     #'Big-5-European-Leagues','Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga', 'Major-League-Soccer']
+lst_seasons = ['2021-2022']
 
-df_fbref_outfield_raw = get_fbref_player_stats(lst_league_names_long, lst_seasons)
+df_fbref_outfield_raw = get_fbref_player_stats(lst_league_names, lst_seasons)
 
 from sqlalchemy import create_engine
 import pymysql
@@ -444,7 +409,7 @@ import pandas
  
 tableName   = "fbref_outfield_player_stats"
         
-sqlEngine       = create_engine('mysql+pymysql://root:root@127.0.0.1/foot', pool_recycle=3600)
+sqlEngine       = create_engine('mysql+pymysql://lmangini:root@127.0.0.1/foot', pool_recycle=3600)
 dbConnection    = sqlEngine.connect()
 try:
     frame = df_fbref_outfield_raw.to_sql(tableName, dbConnection, if_exists='replace');

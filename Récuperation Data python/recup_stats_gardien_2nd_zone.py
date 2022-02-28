@@ -70,14 +70,19 @@ dict_league_names = {'Ligue-2': '60',
                     }
 
 # Define league saison and their IDs
-dict_league_saison = {'Ligue-2-2021-2022': '',
+dict_league_saison = {                      
+                      'Ligue-2-2017-2018': '1633',
+                      'Ligue-2-2018-2019': '2105',
+                      'Ligue-2-2019-2020': '3244',
+                      'Ligue-2-2020-2021': '10761',
+                      'Ligue-2-2021-2022': '',
                     }
 
 ## Define list of long names for 'Big 5' European Leagues and MLS
 lst_league_names_long = ['Ligue-2']
 
 ## Define seasons to scrape
-lst_seasons = ['2021-2022']
+lst_seasons = ['2017-2018','2018-2019','2019-2020','2020-2021','2021-2022']
 
 ## Define list of folders
 lst_folders = ['raw', 'engineered', 'reference']
@@ -87,29 +92,21 @@ lst_data_types = ['goalkeeper', 'goalkeeper', 'team']
 
 # Define function for scraping a defined season and competition of FBref player data
 def get_fbref_player_stats(lst_league_names, lst_seasons):
-    
-    """
-    Function to...
-    """
-    
-    
+
     ## Define list of league names
     league_names_long = lst_league_names
-    
     
     ## Define seasons to scrape
     seasons = lst_seasons
     
-    
     ## Start timer
     tic = datetime.datetime.now()
-    
     
     ## Print time scraping started
     print(f'Scraping started at: {tic}')
     
     ##On supprime le fichier global afin de venir faire la MAJ
-    os.remove(os.path.join(data_dir_fbref +f'/raw/goalkeeper/fbref_goalkeeper_stats_minor_combined_latest.csv'))
+    os.remove(os.path.join(data_dir_fbref +f'/raw/goalkeeper/fbref_goalkeeper_stats_combined_latest_minor.csv'))
     
     ## Scrape information for each player
     for season in seasons:
@@ -125,7 +122,7 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
             saison_name_short = [v for k,v in dict_league_saison.items() if k == league_name_long+"-"+str(season)][0]
             
             #### Save Player URL List (if not already saved)
-            if not os.path.exists(os.path.join(data_dir_fbref +f'/raw/goalkeeper/fbref_goalkeeper_stats_minor_combined_latest.csv')):
+            if not os.path.exists(os.path.join(data_dir_fbref +f'/raw/goalkeeper/fbref_goalkeeper_stats_combined_latest_minor.csv')):
 
                 ##### Scraping
                 if(saison_name_short!=""):
@@ -177,7 +174,6 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
                   df_misc = pd.read_html(url_misc, header=1)[0]
 
                 ##### Concatenate defined individual DataFrames
-                
                 ####### Define DataFrames to be concatenated side-by-side (not all of them)
                 lst_dfs = [df_keepers]
 
@@ -191,7 +187,6 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
                 df_all = df_all.drop_duplicates()
                 
                 ##### Left join defined individual DataFrames
-                
                 ####### Define join conditions
                 conditions_join = ['Player', 'Nation', 'Pos', 'Squad']
                 
@@ -225,9 +220,7 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
                 ###### Drop duplicate rows
                 df_all = df_all.drop_duplicates()
                 
-                
                 ##### Engineer DataFrames
-                
                 ###### Take first two digits of age - fixes current season issue with extra values
                 df_all['Age'] = df_all['Age'].astype(str).str[:2]
                 
@@ -250,42 +243,30 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
                 #Update of name columns 
                 df_all = df_all.rename({'Save%.1': 'Save%Penalty','Gls.1':'Gls/90','Ast.1':'Ast/90','G-PK.1':'G-PK/90'}, axis=1)            
                 
-                
                 ##### Save DataFrame
-                df_all.to_csv(data_dir_fbref + f'/raw/goalkeeper/{league_name_long}/{season}/fbref_goalkeeper_stats_minor_{league_name_long}_{season}_latest.csv', index=None, header=True)        
-                
-                ##### Export a copy to the 'archive' subfolder, including the date
-                df_all.to_csv(data_dir_fbref + f'/raw/goalkeeper/{league_name_long}/{season}/archive/fbref_goalkeeper_stats_minor_{league_name_long}_{season}_last_updated_{today}.csv', index=None, header=True)        
-                
+                df_all.to_csv(data_dir_fbref + f'/raw/goalkeeper/{league_name_long}/{season}/fbref_goalkeeper_stats_{league_name_long}_{season}_latest_minor.csv', index=None, header=True)        
                 
                 ##### Print statement for league and season
                 print(f'All player stats data for the {league_name_long} league for {season} season scraped and saved.')
              
-            
             #### Load player stats data (if already saved)
             else:
-
                 ##### Print statement
                 print(f'Player stats data for the {league_name_long} league for the {season} season already saved as a CSV file.')         
-
                 
     ## End timer
     toc = datetime.datetime.now()
     
-    
     ## Print time scraping ended
     print(f'Scraping ended at: {toc}')
 
-    
     ## Calculate time take
     total_time = (toc-tic).total_seconds()
     print(f'Time taken to scrape the player stats data for {len(league_names_long)} leagues for {len(seasons)} seasons is: {total_time/60:0.2f} minutes.')
 
-    
     ## Unify individual CSV files as a single DataFrame
-    
     ### Show files in directory
-    all_files = glob.glob(os.path.join(data_dir_fbref + f'/raw/goalkeeper/*/*/fbref_goalkeeper_stats_minor_*_*_latest.csv'))
+    all_files = glob.glob(os.path.join(data_dir_fbref + f'/raw/goalkeeper/*/*/fbref_goalkeeper_stats_*_latest_minor.csv'))
     
     ### Create an empty list of Players URLs
     lst_player_stats_all = []
@@ -300,24 +281,15 @@ def get_fbref_player_stats(lst_league_names, lst_seasons):
     
     ### Sort DataFrame
     df_fbref_player_stats_all = df_fbref_player_stats_all.sort_values(['League Name', 'Season', 'Player'], ascending=[True, True, True])
-
-    
+ 
     ## Export DataFrame
-    
-    ###
-    df_fbref_player_stats_all.to_csv(data_dir_fbref + f'/raw/goalkeeper/fbref_goalkeeper_stats_minor_combined_latest.csv', index=None, header=True)
-    
-    ### Save a copy to archive folder (dated)
-    df_fbref_player_stats_all.to_csv(data_dir_fbref + f'/raw/goalkeeper/archive/fbref_goalkeeper_stats_minor_combined_last_updated_{today}.csv', index=None, header=True)
-    
+    df_fbref_player_stats_all.to_csv(data_dir_fbref + f'/raw/goalkeeper/fbref_goalkeeper_stats_combined_latest_minor.csv', index=None, header=True)
     
     ## Distinct number of players
     total_players = df_fbref_player_stats_all['Player'].nunique()
 
-
     ## Print statement
     print(f'Player stats DataFrame contains {total_players} players.')
-    
     
     ## Return final list of Player URLs
     return(df_fbref_player_stats_all)
@@ -331,7 +303,6 @@ for folder in lst_folders:
             path = os.path.join(data_dir_fbref, folder, data_types)
             if not os.path.exists(path):
                 os.mkdir(path)
-                os.mkdir(os.path.join(path, 'archive'))
                 for league in lst_league_names_long:
                     path = os.path.join(data_dir_fbref, folder, data_types, league)
                     if not os.path.exists(path):
@@ -340,7 +311,6 @@ for folder in lst_folders:
                             path = os.path.join(data_dir_fbref, folder, data_types, league, season)
                             if not os.path.exists(path):
                                 os.mkdir(path)
-                                os.mkdir(os.path.join(path, 'archive'))
 
 # Display all columns of pandas DataFrames
 pd.set_option('display.max_columns', None)
@@ -357,7 +327,7 @@ import pandas
  
 tableName   = "fbref_goalkeeper_stats_minor"
         
-sqlEngine       = create_engine('mysql+pymysql://root:root@127.0.0.1/foot', pool_recycle=3600)
+sqlEngine       = create_engine('mysql+pymysql://lmangini:root@127.0.0.1/foot', pool_recycle=3600)
 dbConnection    = sqlEngine.connect()
 
 try:

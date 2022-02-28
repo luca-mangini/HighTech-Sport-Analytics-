@@ -123,32 +123,25 @@ lst_seasons = ['2017-2018', '2018-2019', '2019-2020', '2020-2021', '2021-2022']
 lst_folders = ['raw', 'engineered', 'reference']
 
 ## Define list of data types
-lst_data_types = ['goalkeeper', 'outfield', 'team','scores fixtures']
+lst_data_types = ['goalkeeper', 'outfield', 'team','scores_fixtures']
 
 # Define function for scraping a defined season and competition of FBref player data
 def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
     
-    """
-    Function to...
-    """
-    
     ## Define list of league names
     league_names_long = lst_league_names
-    
     
     ## Define seasons to scrape
     seasons = lst_seasons
     
-    
     ## Start timer
     tic = datetime.datetime.now()
-    
     
     ## Print time scraping started
     print(f'Scraping started at: {tic}')
     
     ##On supprime le fichier global afin de venir faire la MAJ
-    #os.remove(os.path.join(data_dir_fbref +f'/raw/scores fixtures/fbref_scores_fixtures_combined_latest.csv'))
+    os.remove(os.path.join(data_dir_fbref +f'/raw/scores_fixtures/fbref_scores_fixtures_latest.csv'))
     
     ## Scrape information for each player
     for season in seasons:
@@ -163,7 +156,7 @@ def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
             saison_name_short = [v for k,v in dict_league_saison.items() if k == league_name_long+"-"+str(season)][0]
             
             #### Save Player URL List (if not already saved)
-            if not os.path.exists(os.path.join(data_dir_fbref +f'/raw/scores fixtures/fbref_scores_fixtures_combined_latest.csv')):
+            if not os.path.exists(os.path.join(data_dir_fbref +f'/raw/scores_fixtures/fbref_scores_fixtures_combined_latest.csv')):
 
                 ##### Scraping
                 if(saison_name_short!=""):
@@ -183,7 +176,6 @@ def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
                   url_std_scores_fixtures = f'https://widgets.sports-reference.com/wg.fcgi?css=1&site=fb&url=%2Fen%2Fcomps%2F{league_name_short}%2F{saison_name_short}%2Fschedule%2F{season}-{league_name_long}-Scores-and-Fixtures&div=div_sched_{saison_name_short}_1'
                   df_std_scores_fixtures = pd.read_html(url_std_scores_fixtures, header=0)[0]
 
-
                 ###### Drop duplicate rows
                 df_std_scores_fixtures = df_std_scores_fixtures.drop_duplicates()
                                
@@ -200,13 +192,8 @@ def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
                 df_std_scores_fixtures['Referee'] = (df_std_scores_fixtures['Referee'].str.encode('latin-1', errors='ignore').str.decode('UTF-8',errors='ignore'))
                 df_std_scores_fixtures['Venue'] = (df_std_scores_fixtures['Venue'].str.encode('latin-1', errors='ignore').str.decode('UTF-8',errors='ignore'))
                 
-                                
                 ##### Save DataFrame
-                df_std_scores_fixtures.to_csv(data_dir_fbref + f'/raw/scores fixtures/{league_name_long}/{season}/fbref_scores_fixtures_{league_name_long}_{season}_latest.csv', index=None, header=True)        
-                
-                ##### Export a copy to the 'archive' subfolder, including the date
-                df_std_scores_fixtures.to_csv(data_dir_fbref + f'/raw/scores fixtures/{league_name_long}/{season}/archive/fbref_scores_fixtures_{league_name_long}_{season}_last_updated_{today}.csv', index=None, header=True)        
-                
+                df_std_scores_fixtures.to_csv(data_dir_fbref + f'/raw/scores_fixtures/{league_name_long}/{season}/fbref_scores_fixtures_{league_name_long}_{season}_latest.csv', index=None, header=True)        
                 
                 ##### Print statement for league and season
                 print(f'All player stats data for the {league_name_long} league for {season} season scraped and saved.')
@@ -214,28 +201,22 @@ def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
             
             #### Load player stats data (if already saved)
             else:
-
                 ##### Print statement
                 print(f'Player stats data for the {league_name_long} league for the {season} season already saved as a CSV file.')         
-
-                
+           
     ## End timer
     toc = datetime.datetime.now()
-    
     
     ## Print time scraping ended
     print(f'Scraping ended at: {toc}')
 
-    
     ## Calculate time take
     total_time = (toc-tic).total_seconds()
     print(f'Time taken to scrape the player stats data for {len(league_names_long)} leagues for {len(seasons)} seasons is: {total_time/60:0.2f} minutes.')
 
-    
     ## Unify individual CSV files as a single DataFrame
-    
     ### Show files in directory
-    all_files = glob.glob(os.path.join(data_dir_fbref + f'/raw/scores fixtures/*/*/fbref_scores_fixtures_*_*_latest.csv'))
+    all_files = glob.glob(os.path.join(data_dir_fbref + f'/raw/scores_fixtures/*/*/fbref_scores_fixtures_*_*_latest.csv'))
     ### Create an empty list of Players URLs
     lst_player_stats_all = []
 
@@ -250,16 +231,8 @@ def get_fbref_squad_stats_player(lst_league_names, lst_seasons):
     ### Sort DataFrame
     df_fbref_player_stats_all = df_fbref_player_stats_all.sort_values(['Date'], ascending=[True])
 
-    
     ## Export DataFrame
-    
-    ###
-    df_fbref_player_stats_all.to_csv(data_dir_fbref + f'/raw/scores fixtures/fbref_scores_fixtures_latest.csv', index=None, header=True)
-    
-    ### Save a copy to archive folder (dated)
-    df_fbref_player_stats_all.to_csv(data_dir_fbref + f'/raw/scores fixtures/archive/fbref_scores_fixtures_updated_{today}.csv', index=None, header=True)
-    
-    
+    df_fbref_player_stats_all.to_csv(data_dir_fbref + f'/raw/scores_fixtures/fbref_scores_fixtures_latest.csv', index=None, header=True)
     
     ## Return final list of Player URLs
     return(df_fbref_player_stats_all)
@@ -273,7 +246,6 @@ for folder in lst_folders:
             path = os.path.join(data_dir_fbref, folder, data_types)
             if not os.path.exists(path):
                 os.mkdir(path)
-                os.mkdir(os.path.join(path, 'archive'))
                 for league in lst_league_names_long:
                     path = os.path.join(data_dir_fbref, folder, data_types, league)
                     if not os.path.exists(path):
@@ -282,15 +254,21 @@ for folder in lst_folders:
                             path = os.path.join(data_dir_fbref, folder, data_types, league, season)
                             if not os.path.exists(path):
                                 os.mkdir(path)
-                                os.mkdir(os.path.join(path, 'archive'))
 
 # Display all columns of pandas DataFrames
 pd.set_option('display.max_columns', None)
 
-lst_league_names = ['Ligue-1','Bundesliga', 'Serie-A', 'La-Liga','Premier-League']     #'Big-5-European-Leagues','Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga', 'Major-League-Soccer']
-lst_seasons = ['2017-2018','2018-2019','2019-2020','2020-2021','2021-2022']
+lst_league_names = ['Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga','Champions-League','Europa-League']     #'Big-5-European-Leagues','Premier-League', 'Ligue-1', 'Bundesliga', 'Serie-A', 'La-Liga', 'Major-League-Soccer']
+lst_seasons = ['2021-2022']
 
-df_std_scores_fixtures = get_fbref_squad_stats_player(lst_league_names_long, lst_seasons)
+df_std_scores_fixtures = get_fbref_squad_stats_player(lst_league_names, lst_seasons)
+
+df_std_scores_fixtures_cup = df_std_scores_fixtures.loc[(df_std_scores_fixtures['League Name'] == 'Champions-League') | (df_std_scores_fixtures['League Name'] == 'Europa-League')]
+df_std_scores_fixtures_no_cup = df_std_scores_fixtures.loc[(df_std_scores_fixtures['League Name'] != 'Champions-League') & (df_std_scores_fixtures['League Name'] != 'Europa-League')]
+df_std_scores_fixtures_cup['Away'] = df_std_scores_fixtures_cup['Away'].str[3:]
+df_std_scores_fixtures_cup['Home'] = df_std_scores_fixtures_cup['Home'].str[:-3]
+frames = [df_std_scores_fixtures_cup, df_std_scores_fixtures_no_cup]
+df_std_scores_fixtures = pd.concat(frames)
 
 from sqlalchemy import create_engine
 import pymysql
@@ -299,7 +277,7 @@ import pandas
  
 tableName   = "fbref_scores_fixtures"
         
-sqlEngine       = create_engine('mysql+pymysql://root:root@127.0.0.1/foot', pool_recycle=3600)
+sqlEngine       = create_engine('mysql+pymysql://lmangini:root@127.0.0.1/foot', pool_recycle=3600)
 dbConnection    = sqlEngine.connect()
 
 try:

@@ -1,0 +1,382 @@
+Wk,Day,Date,Time,Home,xG,Score,xG.1,Away,Attendance,Venue,Referee,League Name,League ID,Season
+1.0,Fri,2018-08-10,20:45,Marseille,2.8,4–0,0.3,Toulouse,60756.0,Orange Vlodrome,Ruddy Buquet,Ligue-1,13,2018-2019
+1.0,Sat,2018-08-11,17:00,Nantes,1.6,1–3,2.2,Monaco,32760.0,Stade de la Beaujoire - Louis Fonteneau,Jrme Brisard,Ligue-1,13,2018-2019
+1.0,Sat,2018-08-11,20:00,Montpellier,2.0,1–2,2.0,Dijon,12765.0,Stade de la Mosson,Florent Batta,Ligue-1,13,2018-2019
+1.0,Sat,2018-08-11,20:00,Lille,1.5,3–1,0.5,Rennes,25708.0,Stade Pierre-Mauroy,Willy Delajod,Ligue-1,13,2018-2019
+1.0,Sat,2018-08-11,20:00,Angers,2.5,3–4,1.8,Nmes,9534.0,Stade Raymond Kopa,Antony Gautier,Ligue-1,13,2018-2019
+1.0,Sat,2018-08-11,20:00,Saint-tienne,1.0,2–1,1.9,Guingamp,26006.0,Stade Geoffroy-Guichard,Amaury Delerue,Ligue-1,13,2018-2019
+1.0,Sat,2018-08-11,20:00,Nice,1.3,0–1,0.5,Reims,21421.0,Stade de Nice,Johan Hamel,Ligue-1,13,2018-2019
+1.0,Sun,2018-08-12,15:00,Lyon,1.0,2–0,0.5,Amiens,48263.0,Groupama Stadium,Franck Schneider,Ligue-1,13,2018-2019
+1.0,Sun,2018-08-12,17:00,Bordeaux,0.2,0–2,1.7,Strasbourg,23079.0,Stade Matmut-Atlantique,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+1.0,Sun,2018-08-12,21:00,Paris S-G,2.8,3–0,0.2,Caen,47289.0,Parc des Princes,Benot Bastien,Ligue-1,13,2018-2019
+,,,,,,,,,,,,Ligue-1,13,2018-2019
+2.0,Fri,2018-08-17,20:45,Reims,0.6,1–0,2.1,Lyon,18917.0,Stade Auguste-Delaune II,Ruddy Buquet,Ligue-1,13,2018-2019
+2.0,Sat,2018-08-18,17:00,Guingamp,1.1,1–3,2.2,Paris S-G,19003.0,Stade du Roudourou,Clment Turpin,Ligue-1,13,2018-2019
+2.0,Sat,2018-08-18,20:00,Amiens,1.2,1–2,0.3,Montpellier,10402.0,Stade de la Licorne,Karim Abed,Ligue-1,13,2018-2019
+2.0,Sat,2018-08-18,20:00,Rennes,0.5,1–0,0.5,Angers,19300.0,Roazhon Park,Olivier Thual,Ligue-1,13,2018-2019
+2.0,Sat,2018-08-18,20:00,Caen,1.3,1–1,0.8,Nice,16132.0,Stade Michel d'Ornano,Eric Wattellier,Ligue-1,13,2018-2019
+2.0,Sat,2018-08-18,20:00,Monaco,1.5,0–0,0.6,Lille,11140.0,Stade Louis II.,Thomas Lonard,Ligue-1,13,2018-2019
+2.0,Sat,2018-08-18,20:00,Dijon,3.4,2–0,0.2,Nantes,13617.0,Stade Gaston Grard,Jeremy Stinat,Ligue-1,13,2018-2019
+2.0,Sun,2018-08-19,15:00,Strasbourg,1.0,1–1,0.7,Saint-tienne,25385.0,Stade de la Meinau,Benot Millot,Ligue-1,13,2018-2019
+2.0,Sun,2018-08-19,17:00,Toulouse,2.0,2–1,1.7,Bordeaux,15387.0,Stadium Municipal,Franois Letexier,Ligue-1,13,2018-2019
+2.0,Sun,2018-08-19,21:00,Nmes,1.8,3–1,1.0,Marseille,15285.0,Stade des Costires,Benot Bastien,Ligue-1,13,2018-2019
+3.0,Fri,2018-08-24,20:45,Lyon,1.5,2–0,0.7,Strasbourg,47341.0,Groupama Stadium,Amaury Delerue,Ligue-1,13,2018-2019
+3.0,Sat,2018-08-25,17:00,Paris S-G,2.0,3–1,1.7,Angers,47105.0,Parc des Princes,Jrme Miguelgorry,Ligue-1,13,2018-2019
+3.0,Sat,2018-08-25,20:00,Nantes,1.5,1–1,0.4,Caen,19674.0,Stade de la Beaujoire - Louis Fonteneau,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+3.0,Sat,2018-08-25,20:00,Toulouse,2.5,1–0,0.4,Nmes,11746.0,Stadium Municipal,Franck Schneider,Ligue-1,13,2018-2019
+3.0,Sat,2018-08-25,20:00,Amiens,1.7,4–1,0.9,Reims,10709.0,Stade de la Licorne,Florent Batta,Ligue-1,13,2018-2019
+3.0,Sat,2018-08-25,20:00,Montpellier,0.9,0–0,0.3,Saint-tienne,14777.0,Stade de la Mosson,Jrme Brisard,Ligue-1,13,2018-2019
+3.0,Sat,2018-08-25,20:00,Nice,1.9,0–4,1.2,Dijon,17923.0,Stade de Nice,Willy Delajod,Ligue-1,13,2018-2019
+3.0,Sun,2018-08-26,15:00,Lille,1.8,3–0,0.7,Guingamp,27230.0,Stade Pierre-Mauroy,Johan Hamel,Ligue-1,13,2018-2019
+3.0,Sun,2018-08-26,17:00,Bordeaux,2.6,2–1,0.7,Monaco,21607.0,Stade Matmut-Atlantique,Clment Turpin,Ligue-1,13,2018-2019
+3.0,Sun,2018-08-26,21:00,Marseille,1.4,2–2,2.4,Rennes,53471.0,Orange Vlodrome,Antony Gautier,Ligue-1,13,2018-2019
+4.0,Fri,2018-08-31,20:45,Lyon,2.2,0–1,0.5,Nice,53438.0,Groupama Stadium,Franois Letexier,Ligue-1,13,2018-2019
+4.0,Sat,2018-09-01,17:00,Nmes,1.5,2–4,2.3,Paris S-G,15311.0,Stade des Costires,Jrme Brisard,Ligue-1,13,2018-2019
+4.0,Sat,2018-09-01,20:00,Strasbourg,1.6,2–3,1.0,Nantes,25091.0,Stade de la Meinau,Olivier Thual,Ligue-1,13,2018-2019
+4.0,Sat,2018-09-01,20:00,Reims,2.6,0–1,0.5,Montpellier,12042.0,Stade Auguste-Delaune II,Jeremy Stinat,Ligue-1,13,2018-2019
+4.0,Sat,2018-09-01,20:00,Guingamp,2.2,1–2,1.1,Toulouse,12327.0,Stade du Roudourou,Karim Abed,Ligue-1,13,2018-2019
+4.0,Sat,2018-09-01,20:00,Dijon,1.3,0–2,1.5,Caen,13382.0,Stade Gaston Grard,Nicolas Rainville,Ligue-1,13,2018-2019
+4.0,Sat,2018-09-01,20:00,Angers,1.1,1–0,1.5,Lille,9245.0,Stade Raymond Kopa,Eric Wattellier,Ligue-1,13,2018-2019
+4.0,Sun,2018-09-02,15:00,Saint-tienne,0.7,0–0,0.3,Amiens,30146.0,Stade Geoffroy-Guichard,Thomas Lonard,Ligue-1,13,2018-2019
+4.0,Sun,2018-09-02,17:00,Rennes,1.9,2–0,0.6,Bordeaux,23817.0,Roazhon Park,Benot Bastien,Ligue-1,13,2018-2019
+4.0,Sun,2018-09-02,21:00,Monaco,1.4,2–3,1.3,Marseille,14269.0,Stade Louis II.,Benot Millot,Ligue-1,13,2018-2019
+5.0,Fri,2018-09-14,19:00,Nice,1.1,2–1,1.1,Rennes,16887.0,Stade de Nice,Jrme Miguelgorry,Ligue-1,13,2018-2019
+5.0,Fri,2018-09-14,20:45,Paris S-G,2.3,4–0,0.7,Saint-tienne,46549.0,Parc des Princes,Franck Schneider,Ligue-1,13,2018-2019
+5.0,Sat,2018-09-15,17:00,Caen,1.7,2–2,1.2,Lyon,17676.0,Stade Michel d'Ornano,Johan Hamel,Ligue-1,13,2018-2019
+5.0,Sat,2018-09-15,20:00,Dijon,1.5,1–3,2.0,Angers,12275.0,Stade Gaston Grard,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+5.0,Sat,2018-09-15,20:00,Amiens,1.5,2–3,2.8,Lille,11569.0,Stade de la Licorne,Nicolas Rainville,Ligue-1,13,2018-2019
+5.0,Sat,2018-09-15,20:00,Toulouse,1.1,1–1,0.6,Monaco,16689.0,Stadium Municipal,Ruddy Buquet,Ligue-1,13,2018-2019
+5.0,Sat,2018-09-15,20:00,Montpellier,0.4,1–1,0.5,Strasbourg,10630.0,Stade de la Mosson,Willy Delajod,Ligue-1,13,2018-2019
+5.0,Sun,2018-09-16,15:00,Nantes,0.8,0–0,0.7,Reims,18981.0,Stade de la Beaujoire - Louis Fonteneau,Eric Wattellier,Ligue-1,13,2018-2019
+5.0,Sun,2018-09-16,17:00,Bordeaux,1.3,3–3,1.6,Nmes,15895.0,Stade Matmut-Atlantique,Antony Gautier,Ligue-1,13,2018-2019
+5.0,Sun,2018-09-16,21:00,Marseille,2.0,4–0,0.1,Guingamp,50450.0,Orange Vlodrome,Amaury Delerue,Ligue-1,13,2018-2019
+6.0,Fri,2018-09-21,20:45,Monaco,1.8,1–1,0.7,Nmes,6837.0,Stade Louis II.,Amaury Delerue,Ligue-1,13,2018-2019
+6.0,Sat,2018-09-22,17:00,Lille,0.6,2–1,1.5,Nantes,27353.0,Stade Pierre-Mauroy,Benot Bastien,Ligue-1,13,2018-2019
+6.0,Sat,2018-09-22,20:00,Angers,0.8,0–0,0.4,Toulouse,10021.0,Stade Raymond Kopa,Florent Batta,Ligue-1,13,2018-2019
+6.0,Sat,2018-09-22,20:00,Saint-tienne,3.2,2–1,0.6,Caen,23895.0,Stade Geoffroy-Guichard,Ruddy Buquet,Ligue-1,13,2018-2019
+6.0,Sat,2018-09-22,20:00,Strasbourg,1.3,3–1,0.7,Amiens,24683.0,Stade de la Meinau,Jeremy Stinat,Ligue-1,13,2018-2019
+6.0,Sat,2018-09-22,20:00,Reims,1.0,0–0,0.2,Dijon,11523.0,Stade Auguste-Delaune II,Jrme Brisard,Ligue-1,13,2018-2019
+6.0,Sat,2018-09-22,20:00,Montpellier,1.8,1–0,0.6,Nice,11015.0,Stade de la Mosson,Thomas Lonard,Ligue-1,13,2018-2019
+6.0,Sun,2018-09-23,15:00,Rennes,0.8,1–3,1.5,Paris S-G,29205.0,Roazhon Park,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+6.0,Sun,2018-09-23,17:00,Guingamp,1.8,1–3,1.1,Bordeaux,14772.0,Stade du Roudourou,Franck Schneider,Ligue-1,13,2018-2019
+6.0,Sun,2018-09-23,21:00,Lyon,2.6,4–2,0.6,Marseille,57287.0,Groupama Stadium,Clment Turpin,Ligue-1,13,2018-2019
+7.0,Tue,2018-09-25,19:00,Monaco,0.7,0–1,0.4,Angers,5502.0,Stade Louis II.,Willy Delajod,Ligue-1,13,2018-2019
+7.0,Tue,2018-09-25,19:00,Nantes,1.2,1–2,1.1,Nice,16604.0,Stade de la Beaujoire - Louis Fonteneau,Mikael Lesage,Ligue-1,13,2018-2019
+7.0,Tue,2018-09-25,21:00,Toulouse,1.2,2–3,1.8,Saint-tienne,14008.0,Stadium Municipal,Amaury Delerue,Ligue-1,13,2018-2019
+7.0,Wed,2018-09-26,19:00,Amiens,0.9,2–1,1.5,Rennes,10398.0,Stade de la Licorne,Johan Hamel,Ligue-1,13,2018-2019
+7.0,Wed,2018-09-26,19:00,Caen,0.8,2–2,1.7,Montpellier,14402.0,Stade Michel d'Ornano,Antony Gautier,Ligue-1,13,2018-2019
+7.0,Wed,2018-09-26,19:00,Marseille,1.4,3–2,0.7,Strasbourg,47099.0,Orange Vlodrome,Franois Letexier,Ligue-1,13,2018-2019
+7.0,Wed,2018-09-26,19:00,Nmes,1.0,0–0,0.6,Guingamp,13415.0,Stade des Costires,Benot Millot,Ligue-1,13,2018-2019
+7.0,Wed,2018-09-26,19:00,Dijon,1.4,0–3,2.8,Lyon,14651.0,Stade Gaston Grard,Jrme Miguelgorry,Ligue-1,13,2018-2019
+7.0,Wed,2018-09-26,19:00,Bordeaux,1.1,1–0,1.6,Lille,17395.0,Stade Matmut-Atlantique,Karim Abed,Ligue-1,13,2018-2019
+7.0,Wed,2018-09-26,21:00,Paris S-G,3.2,4–1,0.4,Reims,47237.0,Parc des Princes,Olivier Thual,Ligue-1,13,2018-2019
+8.0,Fri,2018-09-28,20:45,Saint-tienne,1.5,2–0,2.6,Monaco,26486.0,Stade Geoffroy-Guichard,Jrme Brisard,Ligue-1,13,2018-2019
+8.0,Sat,2018-09-29,17:15,Nice,0.3,0–3,2.5,Paris S-G,33138.0,Stade de Nice,Clment Turpin,Ligue-1,13,2018-2019
+8.0,Sat,2018-09-29,20:00,Lyon,2.8,1–1,1.2,Nantes,50319.0,Groupama Stadium,Franck Schneider,Ligue-1,13,2018-2019
+8.0,Sat,2018-09-29,20:00,Caen,1.3,1–0,0.4,Amiens,15007.0,Stade Michel d'Ornano,Benot Bastien,Ligue-1,13,2018-2019
+8.0,Sat,2018-09-29,20:00,Strasbourg,1.0,3–0,1.3,Dijon,25060.0,Stade de la Meinau,Eric Wattellier,Ligue-1,13,2018-2019
+8.0,Sat,2018-09-29,20:00,Angers,0.7,0–1,1.3,Guingamp,9483.0,Stade Raymond Kopa,Nicolas Rainville,Ligue-1,13,2018-2019
+8.0,Sat,2018-09-29,20:00,Reims,0.5,0–0,0.2,Bordeaux,13406.0,Stade Auguste-Delaune II,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+8.0,Sun,2018-09-30,15:00,Rennes,2.4,1–1,0.5,Toulouse,21173.0,Roazhon Park,Thomas Lonard,Ligue-1,13,2018-2019
+8.0,Sun,2018-09-30,17:00,Montpellier,2.7,3–0,0.9,Nmes,20054.0,Stade de la Mosson,Ruddy Buquet,Ligue-1,13,2018-2019
+8.0,Sun,2018-09-30,21:00,Lille,2.9,3–0,0.6,Marseille,41623.0,Stade Pierre-Mauroy,Mikael Lesage,Ligue-1,13,2018-2019
+9.0,Fri,2018-10-05,20:45,Toulouse,1.2,1–1,1.2,Nice,14162.0,Stadium Municipal,Willy Delajod,Ligue-1,13,2018-2019
+9.0,Sat,2018-10-06,17:00,Lille,0.6,3–1,1.7,Saint-tienne,31263.0,Stade Pierre-Mauroy,Jrme Miguelgorry,Ligue-1,13,2018-2019
+9.0,Sat,2018-10-06,20:00,Amiens,0.4,1–0,0.5,Dijon,10194.0,Stade de la Licorne,Florent Batta,Ligue-1,13,2018-2019
+9.0,Sat,2018-10-06,20:00,Nmes,1.2,0–0,1.4,Reims,12958.0,Stade des Costires,Karim Abed,Ligue-1,13,2018-2019
+9.0,Sat,2018-10-06,20:00,Guingamp,0.9,1–1,1.0,Montpellier,13643.0,Stade du Roudourou,Jeremy Stinat,Ligue-1,13,2018-2019
+9.0,Sat,2018-10-06,20:00,Angers,2.3,2–2,1.2,Strasbourg,8930.0,Stade Raymond Kopa,Johan Hamel,Ligue-1,13,2018-2019
+9.0,Sun,2018-10-07,15:00,Bordeaux,1.5,3–0,0.9,Nantes,18307.0,Stade Matmut-Atlantique,Franois Letexier,Ligue-1,13,2018-2019
+9.0,Sun,2018-10-07,17:00,Monaco,0.5,1–2,1.5,Rennes,6268.0,Stade Louis II.,Olivier Thual,Ligue-1,13,2018-2019
+9.0,Sun,2018-10-07,17:00,Marseille,2.2,2–0,0.9,Caen,55935.0,Orange Vlodrome,Benot Millot,Ligue-1,13,2018-2019
+9.0,Sun,2018-10-07,21:00,Paris S-G,3.7,5–0,1.5,Lyon,47443.0,Parc des Princes,Antony Gautier,Ligue-1,13,2018-2019
+10.0,Fri,2018-10-19,20:45,Lyon,2.2,2–0,1.4,Nmes,42896.0,Groupama Stadium,Olivier Thual,Ligue-1,13,2018-2019
+10.0,Sat,2018-10-20,17:00,Paris S-G,1.7,5–0,0.6,Amiens,47497.0,Parc des Princes,Mikael Lesage,Ligue-1,13,2018-2019
+10.0,Sat,2018-10-20,20:00,Reims,1.2,1–1,1.8,Angers,10954.0,Stade Auguste-Delaune II,Eric Wattellier,Ligue-1,13,2018-2019
+10.0,Sat,2018-10-20,20:00,Caen,0.4,0–0,0.9,Guingamp,16009.0,Stade Michel d'Ornano,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+10.0,Sat,2018-10-20,20:00,Strasbourg,1.0,2–1,1.4,Monaco,25358.0,Stade de la Meinau,Nicolas Rainville,Ligue-1,13,2018-2019
+10.0,Sat,2018-10-20,20:00,Nantes,2.3,4–0,0.6,Toulouse,22613.0,Stade de la Beaujoire - Louis Fonteneau,Benot Bastien,Ligue-1,13,2018-2019
+10.0,Sat,2018-10-20,20:00,Dijon,1.7,1–2,1.7,Lille,13004.0,Stade Gaston Grard,Thomas Lonard,Ligue-1,13,2018-2019
+10.0,Sun,2018-10-21,15:00,Montpellier,1.6,2–0,1.3,Bordeaux,12491.0,Stade de la Mosson,Franck Schneider,Ligue-1,13,2018-2019
+10.0,Sun,2018-10-21,17:00,Saint-tienne,1.7,1–1,1.9,Rennes,29557.0,Stade Geoffroy-Guichard,Clment Turpin,Ligue-1,13,2018-2019
+10.0,Sun,2018-10-21,21:00,Nice,0.9,0–1,0.5,Marseille,30754.0,Stade de Nice,Amaury Delerue,Ligue-1,13,2018-2019
+11.0,Fri,2018-10-26,20:45,Nmes,1.3,1–1,1.2,Saint-tienne,15412.0,Stade des Costires,Franois Letexier,Ligue-1,13,2018-2019
+11.0,Sat,2018-10-27,17:00,Angers,0.9,1–2,1.7,Lyon,14186.0,Stade Raymond Kopa,Ruddy Buquet,Ligue-1,13,2018-2019
+11.0,Sat,2018-10-27,20:00,Amiens,1.2,1–2,1.7,Nantes,11384.0,Stade de la Licorne,Jeremy Stinat,Ligue-1,13,2018-2019
+11.0,Sat,2018-10-27,20:00,Monaco,1.3,2–2,0.6,Dijon,7139.0,Stade Louis II.,Jrme Miguelgorry,Ligue-1,13,2018-2019
+11.0,Sat,2018-10-27,20:00,Guingamp,1.3,1–1,1.8,Strasbourg,13643.0,Stade du Roudourou,Willy Delajod,Ligue-1,13,2018-2019
+11.0,Sat,2018-10-27,20:00,Lille,0.8,1–0,0.5,Caen,33362.0,Stade Pierre-Mauroy,Florent Batta,Ligue-1,13,2018-2019
+11.0,Sat,2018-10-27,20:00,Toulouse,1.2,0–3,2.1,Montpellier,14100.0,Stadium Municipal,Karim Abed,Ligue-1,13,2018-2019
+11.0,Sun,2018-10-28,15:00,Rennes,0.8,0–2,0.2,Reims,22710.0,Roazhon Park,Benot Millot,Ligue-1,13,2018-2019
+11.0,Sun,2018-10-28,17:00,Bordeaux,2.2,0–1,1.5,Nice,20730.0,Stade Matmut-Atlantique,Jrme Brisard,Ligue-1,13,2018-2019
+11.0,Sun,2018-10-28,21:00,Marseille,0.5,0–2,1.4,Paris S-G,64696.0,Orange Vlodrome,Benot Bastien,Ligue-1,13,2018-2019
+12.0,Fri,2018-11-02,20:45,Paris S-G,2.0,2–1,0.9,Lille,47549.0,Parc des Princes,Franois Letexier,Ligue-1,13,2018-2019
+12.0,Sat,2018-11-03,17:00,Lyon,0.4,1–1,1.2,Bordeaux,46653.0,Groupama Stadium,Benot Millot,Ligue-1,13,2018-2019
+12.0,Sat,2018-11-03,20:00,Strasbourg,1.1,1–1,1.3,Toulouse,25034.0,Stade de la Meinau,Jrme Miguelgorry,Ligue-1,13,2018-2019
+12.0,Sat,2018-11-03,20:00,Nice,1.1,1–0,1.0,Amiens,15259.0,Stade de Nice,Johan Hamel,Ligue-1,13,2018-2019
+12.0,Sat,2018-11-03,20:00,Reims,1.3,1–0,0.4,Monaco,16005.0,Stade Auguste-Delaune II,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+12.0,Sat,2018-11-03,20:00,Caen,1.7,1–2,2.2,Rennes,17284.0,Stade Michel d'Ornano,Amaury Delerue,Ligue-1,13,2018-2019
+12.0,Sat,2018-11-03,20:00,Dijon,1.3,0–4,1.6,Nmes,12113.0,Stade Gaston Grard,Franck Schneider,Ligue-1,13,2018-2019
+12.0,Sun,2018-11-04,15:00,Nantes,2.3,5–0,0.2,Guingamp,25753.0,Stade de la Beaujoire - Louis Fonteneau,Jrme Brisard,Ligue-1,13,2018-2019
+12.0,Sun,2018-11-04,17:00,Saint-tienne,2.4,4–3,1.3,Angers,22983.0,Stade Geoffroy-Guichard,Thomas Lonard,Ligue-1,13,2018-2019
+12.0,Sun,2018-11-04,21:00,Montpellier,1.4,3–0,0.8,Marseille,19683.0,Stade de la Mosson,Antony Gautier,Ligue-1,13,2018-2019
+13.0,Fri,2018-11-09,20:45,Lille,1.4,0–0,0.2,Strasbourg,27544.0,Stade Pierre-Mauroy,Olivier Thual,Ligue-1,13,2018-2019
+13.0,Sat,2018-11-10,17:00,Guingamp,1.3,2–4,1.2,Lyon,14171.0,Stade du Roudourou,Mikael Lesage,Ligue-1,13,2018-2019
+13.0,Sat,2018-11-10,20:00,Toulouse,1.9,0–1,0.4,Amiens,13553.0,Stadium Municipal,Eric Wattellier,Ligue-1,13,2018-2019
+13.0,Sat,2018-11-10,20:00,Angers,0.8,1–0,0.3,Montpellier,8342.0,Stade Raymond Kopa,Jeremy Stinat,Ligue-1,13,2018-2019
+13.0,Sat,2018-11-10,20:00,Saint-tienne,1.0,2–0,0.9,Reims,22838.0,Stade Geoffroy-Guichard,Florent Batta,Ligue-1,13,2018-2019
+13.0,Sat,2018-11-10,20:00,Nmes,1.0,0–1,0.9,Nice,14290.0,Stade des Costires,Benot Bastien,Ligue-1,13,2018-2019
+13.0,Sun,2018-11-11,15:00,Bordeaux,1.3,0–0,0.5,Caen,15352.0,Stade Matmut-Atlantique,Nicolas Rainville,Ligue-1,13,2018-2019
+13.0,Sun,2018-11-11,17:00,Rennes,1.9,1–1,0.3,Nantes,23270.0,Roazhon Park,Karim Abed,Ligue-1,13,2018-2019
+13.0,Sun,2018-11-11,17:00,Marseille,3.1,2–0,0.5,Dijon,47430.0,Orange Vlodrome,Willy Delajod,Ligue-1,13,2018-2019
+13.0,Sun,2018-11-11,21:00,Monaco,1.1,0–4,3.9,Paris S-G,12533.0,Stade Louis II.,Ruddy Buquet,Ligue-1,13,2018-2019
+14.0,Fri,2018-11-23,21:00,Lyon,0.8,1–0,1.1,Saint-tienne,55701.0,Groupama Stadium,Antony Gautier,Ligue-1,13,2018-2019
+14.0,Sat,2018-11-24,17:00,Paris S-G,1.4,1–0,0.5,Toulouse,47244.0,Parc des Princes,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+14.0,Sat,2018-11-24,20:00,Strasbourg,1.3,0–1,1.1,Nmes,25128.0,Stade de la Meinau,Benot Millot,Ligue-1,13,2018-2019
+14.0,Sat,2018-11-24,20:00,Caen,0.9,0–1,0.9,Monaco,15013.0,Stade Michel d'Ornano,Thomas Lonard,Ligue-1,13,2018-2019
+14.0,Sat,2018-11-24,20:00,Dijon,0.7,0–0,0.5,Bordeaux,12285.0,Stade Gaston Grard,Franois Letexier,Ligue-1,13,2018-2019
+14.0,Sat,2018-11-24,20:00,Reims,0.7,2–1,1.3,Guingamp,10028.0,Stade Auguste-Delaune II,Johan Hamel,Ligue-1,13,2018-2019
+14.0,Sat,2018-11-24,20:00,Nantes,1.8,1–1,0.8,Angers,23682.0,Stade de la Beaujoire - Louis Fonteneau,Clment Turpin,Ligue-1,13,2018-2019
+14.0,Sun,2018-11-25,15:00,Montpellier,2.2,2–2,1.8,Rennes,10761.0,Stade de la Mosson,Jrme Brisard,Ligue-1,13,2018-2019
+14.0,Sun,2018-11-25,17:00,Nice,0.9,2–0,0.3,Lille,18211.0,Stade de Nice,Franck Schneider,Ligue-1,13,2018-2019
+14.0,Sun,2018-11-25,21:00,Amiens,1.1,1–3,2.5,Marseille,11932.0,Stade de la Licorne,Jrme Miguelgorry,Ligue-1,13,2018-2019
+15.0,Fri,2018-11-30,20:45,Saint-tienne,1.9,3–0,0.4,Nantes,21884.0,Stade Geoffroy-Guichard,Jrme Brisard,Ligue-1,13,2018-2019
+15.0,Sat,2018-12-01,17:00,Lille,0.8,2–2,2.9,Lyon,38755.0,Stade Pierre-Mauroy,Benot Bastien,Ligue-1,13,2018-2019
+15.0,Sat,2018-12-01,20:00,Nmes,1.6,3–0,1.1,Amiens,12159.0,Stade des Costires,Karim Abed,Ligue-1,13,2018-2019
+15.0,Sat,2018-12-01,20:00,Guingamp,0.8,0–0,0.5,Nice,12671.0,Stade du Roudourou,Ruddy Buquet,Ligue-1,13,2018-2019
+15.0,Sat,2018-12-01,20:00,Monaco,0.8,1–2,1.1,Montpellier,6725.0,Stade Louis II.,Olivier Thual,Ligue-1,13,2018-2019
+15.0,Sat,2018-12-01,20:00,Angers,1.2,1–1,0.8,Caen,8523.0,Stade Raymond Kopa,Willy Delajod,Ligue-1,13,2018-2019
+15.0,Sun,2018-12-02,15:00,Toulouse,0.6,2–2,2.0,Dijon,10279.0,Stadium Municipal,Jrme Miguelgorry,Ligue-1,13,2018-2019
+15.0,Sun,2018-12-02,17:00,Marseille,1.1,0–0,0.6,Reims,41932.0,Orange Vlodrome,Nicolas Rainville,Ligue-1,13,2018-2019
+15.0,Sun,2018-12-02,17:00,Rennes,0.6,1–4,3.4,Strasbourg,19867.0,Roazhon Park,Eric Wattellier,Ligue-1,13,2018-2019
+15.0,Sun,2018-12-02,21:00,Bordeaux,0.9,2–2,1.9,Paris S-G,40841.0,Stade Matmut-Atlantique,Franck Schneider,Ligue-1,13,2018-2019
+16.0,Tue,2018-12-04,19:00,Amiens,0.7,0–2,1.9,Monaco,11048.0,Stade de la Licorne,Jrme Brisard,Ligue-1,13,2018-2019
+16.0,Tue,2018-12-04,19:00,Nice,1.8,0–0,0.5,Angers,14123.0,Stade de Nice,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+16.0,Tue,2018-12-04,21:00,Montpellier,0.9,0–1,1.2,Lille,12486.0,Stade de la Mosson,Mikael Lesage,Ligue-1,13,2018-2019
+16.0,Wed,2018-12-05,19:00,Lyon,1.4,0–2,1.4,Rennes,47278.0,Groupama Stadium,Johan Hamel,Ligue-1,13,2018-2019
+16.0,Wed,2018-12-05,19:00,Caen,0.8,1–2,1.8,Nmes,14501.0,Stade Michel d'Ornano,Florent Batta,Ligue-1,13,2018-2019
+16.0,Wed,2018-12-05,19:00,Dijon,0.4,2–1,1.0,Guingamp,11711.0,Stade Gaston Grard,Thomas Lonard,Ligue-1,13,2018-2019
+16.0,Wed,2018-12-05,19:00,Bordeaux,2.2,3–2,1.9,Saint-tienne,23375.0,Stade Matmut-Atlantique,Clment Turpin,Ligue-1,13,2018-2019
+16.0,Wed,2018-12-05,19:00,Reims,1.5,0–1,1.0,Toulouse,10609.0,Stade Auguste-Delaune II,Jeremy Stinat,Ligue-1,13,2018-2019
+16.0,Wed,2018-12-05,19:00,Nantes,1.2,3–2,1.5,Marseille,32663.0,Stade de la Beaujoire - Louis Fonteneau,Franois Letexier,Ligue-1,13,2018-2019
+16.0,Wed,2018-12-05,21:00,Strasbourg,0.9,1–1,1.8,Paris S-G,25702.0,Stade de la Meinau,Antony Gautier,Ligue-1,13,2018-2019
+17.0,Sat,2018-12-08,20:00,Guingamp,1.2,1–2,1.6,Amiens,14089.0,Stade du Roudourou,Benot Bastien,Ligue-1,13,2018-2019
+17.0,Sat,2018-12-08,20:00,Rennes,2.3,2–0,0.5,Dijon,16975.0,Roazhon Park,Nicolas Rainville,Ligue-1,13,2018-2019
+17.0,Sun,2018-12-09,15:00,Strasbourg,1.3,2–2,0.3,Caen,25048.0,Stade de la Meinau,Olivier Thual,Ligue-1,13,2018-2019
+17.0,Sun,2018-12-09,17:00,Lille,1.6,1–1,1.1,Reims,26826.0,Stade Pierre-Mauroy,Willy Delajod,Ligue-1,13,2018-2019
+18.0,Sat,2018-12-15,20:00,Reims,0.6,2–1,0.7,Strasbourg,12171.0,Stade Auguste-Delaune II,Florent Batta,Ligue-1,13,2018-2019
+18.0,Sun,2018-12-16,15:00,Nmes,1.1,2–3,0.8,Lille,13428.0,Stade des Costires,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+18.0,Sun,2018-12-16,17:00,Nice,3.9,1–1,1.1,Saint-tienne,19250.0,Stade de Nice,Thomas Lonard,Ligue-1,13,2018-2019
+18.0,Sun,2018-12-16,21:00,Lyon,1.4,3–0,0.1,Monaco,46477.0,Groupama Stadium,Clment Turpin,Ligue-1,13,2018-2019
+18.0,Tue,2018-12-18,19:30,Caen,1.5,2–1,1.0,Toulouse,11631.0,Stade Michel d'Ornano,Antony Gautier,Ligue-1,13,2018-2019
+19.0,Sat,2018-12-22,21:00,Lille,1.1,1–2,1.6,Toulouse,30186.0,Stade Pierre-Mauroy,Benot Millot,Ligue-1,13,2018-2019
+19.0,Sat,2018-12-22,21:00,Saint-tienne,2.2,3–0,1.0,Dijon,26215.0,Stade Geoffroy-Guichard,Eric Wattellier,Ligue-1,13,2018-2019
+19.0,Sat,2018-12-22,21:00,Angers,1.6,1–1,1.2,Marseille,15113.0,Stade Raymond Kopa,Jrme Brisard,Ligue-1,13,2018-2019
+19.0,Sat,2018-12-22,21:00,Montpellier,0.8,1–1,0.6,Lyon,17275.0,Stade de la Mosson,Franois Letexier,Ligue-1,13,2018-2019
+19.0,Sat,2018-12-22,21:00,Rennes,1.9,4–0,1.5,Nmes,22430.0,Roazhon Park,Jeremy Stinat,Ligue-1,13,2018-2019
+19.0,Sat,2018-12-22,21:00,Reims,1.6,2–2,1.5,Caen,11017.0,Stade Auguste-Delaune II,Jrme Miguelgorry,Ligue-1,13,2018-2019
+19.0,Sat,2018-12-22,21:00,Strasbourg,2.0,2–0,1.2,Nice,25113.0,Stade de la Meinau,Willy Delajod,Ligue-1,13,2018-2019
+19.0,Sat,2018-12-22,21:00,Monaco,0.6,0–2,1.1,Guingamp,6424.0,Stade Louis II.,Franck Schneider,Ligue-1,13,2018-2019
+19.0,Sat,2018-12-22,21:00,Paris S-G,2.1,1–0,0.4,Nantes,47511.0,Parc des Princes,Karim Abed,Ligue-1,13,2018-2019
+19.0,Sun,2018-12-23,17:00,Bordeaux,0.5,1–1,0.4,Amiens,23343.0,Stade Matmut-Atlantique,Mikael Lesage,Ligue-1,13,2018-2019
+18.0,Tue,2019-01-08,19:00,Nantes,1.6,2–0,0.8,Montpellier,15780.0,Stade de la Beaujoire - Louis Fonteneau,Willy Delajod,Ligue-1,13,2018-2019
+18.0,Tue,2019-01-08,19:00,Amiens,2.1,0–0,0.1,Angers,10209.0,Stade de la Licorne,Johan Hamel,Ligue-1,13,2018-2019
+20.0,Fri,2019-01-11,19:00,Caen,1.3,1–3,2.4,Lille,16018.0,Stade Michel d'Ornano,Thomas Lonard,Ligue-1,13,2018-2019
+20.0,Fri,2019-01-11,20:45,Lyon,1.5,1–1,0.9,Reims,42512.0,Groupama Stadium,Benot Millot,Ligue-1,13,2018-2019
+20.0,Sat,2019-01-12,17:00,Amiens,0.3,0–3,3.0,Paris S-G,11932.0,Stade de la Licorne,Florent Batta,Ligue-1,13,2018-2019
+20.0,Sat,2019-01-12,20:00,Guingamp,0.7,0–1,0.8,Saint-tienne,15342.0,Stade du Roudourou,Karim Abed,Ligue-1,13,2018-2019
+20.0,Sat,2019-01-12,20:00,Nice,1.7,1–0,1.6,Bordeaux,15191.0,Stade de Nice,Nicolas Rainville,Ligue-1,13,2018-2019
+20.0,Sun,2019-01-13,15:00,Nantes,1.6,0–1,0.2,Rennes,31195.0,Stade de la Beaujoire - Louis Fonteneau,Ruddy Buquet,Ligue-1,13,2018-2019
+20.0,Sun,2019-01-13,17:00,Dijon,0.9,1–1,0.9,Montpellier,11910.0,Stade Gaston Grard,Benot Bastien,Ligue-1,13,2018-2019
+20.0,Sun,2019-01-13,17:00,Toulouse,2.1,1–2,1.2,Strasbourg,15465.0,Stadium Municipal,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+20.0,Sun,2019-01-13,21:00,Marseille,1.4,1–1,0.8,Monaco,44315.0,Orange Vlodrome,Mikael Lesage,Ligue-1,13,2018-2019
+17.0,Tue,2019-01-15,19:00,Angers,2.7,1–2,0.5,Bordeaux,10836.0,Stade Raymond Kopa,Eric Wattellier,Ligue-1,13,2018-2019
+17.0,Wed,2019-01-16,19:00,Nmes,0.8,1–0,0.5,Nantes,12806.0,Stade des Costires,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+17.0,Wed,2019-01-16,19:00,Monaco,1.6,1–1,1.2,Nice,11345.0,Stade Louis II.,Benot Bastien,Ligue-1,13,2018-2019
+17.0,Wed,2019-01-16,19:00,Toulouse,0.9,2–2,2.0,Lyon,16587.0,Stadium Municipal,Ruddy Buquet,Ligue-1,13,2018-2019
+18.0,Wed,2019-01-16,19:00,Guingamp,0.7,2–1,1.1,Rennes,14179.0,Stade du Roudourou,Clment Turpin,Ligue-1,13,2018-2019
+17.0,Wed,2019-01-16,21:00,Saint-tienne,2.0,2–1,1.1,Marseille,28146.0,Stade Geoffroy-Guichard,Antony Gautier,Ligue-1,13,2018-2019
+21.0,Fri,2019-01-18,20:45,Lille,2.2,2–1,0.3,Amiens,27211.0,Stade Pierre-Mauroy,Willy Delajod,Ligue-1,13,2018-2019
+21.0,Sat,2019-01-19,17:00,Paris S-G,4.8,9–0,0.0,Guingamp,47268.0,Parc des Princes,Amaury Delerue,Ligue-1,13,2018-2019
+21.0,Sat,2019-01-19,20:00,Nmes,1.4,0–1,0.8,Toulouse,12736.0,Stade des Costires,Jrme Brisard,Ligue-1,13,2018-2019
+21.0,Sat,2019-01-19,20:00,Reims,1.0,1–1,1.3,Nice,11776.0,Stade Auguste-Delaune II,Olivier Thual,Ligue-1,13,2018-2019
+21.0,Sat,2019-01-19,20:00,Monaco,1.0,1–5,1.2,Strasbourg,7298.0,Stade Louis II.,Franois Letexier,Ligue-1,13,2018-2019
+21.0,Sun,2019-01-20,15:00,Rennes,1.1,0–0,0.4,Montpellier,23990.0,Roazhon Park,Jrme Miguelgorry,Ligue-1,13,2018-2019
+21.0,Sun,2019-01-20,17:00,Angers,0.2,1–0,0.9,Nantes,12412.0,Stade Raymond Kopa,Benot Millot,Ligue-1,13,2018-2019
+21.0,Sun,2019-01-20,17:00,Caen,0.5,0–1,0.8,Marseille,19607.0,Stade Michel d'Ornano,Franck Schneider,Ligue-1,13,2018-2019
+21.0,Sun,2019-01-20,19:00,Bordeaux,2.0,1–0,1.0,Dijon,13380.0,Stade Matmut-Atlantique,Johan Hamel,Ligue-1,13,2018-2019
+21.0,Sun,2019-01-20,21:00,Saint-tienne,2.0,1–2,2.2,Lyon,41594.0,Stade Geoffroy-Guichard,Benot Bastien,Ligue-1,13,2018-2019
+20.0,Wed,2019-01-23,19:00,Nmes,1.5,3–1,1.4,Angers,12015.0,Stade des Costires,Olivier Thual,Ligue-1,13,2018-2019
+22.0,Fri,2019-01-25,20:45,Marseille,1.4,1–2,2.3,Lille,43845.0,Orange Vlodrome,Amaury Delerue,Ligue-1,13,2018-2019
+22.0,Sat,2019-01-26,20:00,Guingamp,0.7,0–1,0.7,Reims,13853.0,Stade du Roudourou,Thomas Lonard,Ligue-1,13,2018-2019
+22.0,Sat,2019-01-26,20:00,Nice,1.7,2–0,0.8,Nmes,15982.0,Stade de Nice,Benot Millot,Ligue-1,13,2018-2019
+22.0,Sat,2019-01-26,20:00,Dijon,1.6,2–0,1.7,Monaco,12060.0,Stade Gaston Grard,Eric Wattellier,Ligue-1,13,2018-2019
+22.0,Sat,2019-01-26,20:00,Strasbourg,0.4,1–0,0.8,Bordeaux,25214.0,Stade de la Meinau,Florent Batta,Ligue-1,13,2018-2019
+22.0,Sun,2019-01-27,15:00,Montpellier,1.2,2–0,0.4,Caen,11001.0,Stade de la Mosson,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+22.0,Sun,2019-01-27,17:00,Amiens,0.9,0–1,1.4,Lyon,10017.0,Stade de la Licorne,Jrme Miguelgorry,Ligue-1,13,2018-2019
+22.0,Sun,2019-01-27,20:00,Toulouse,1.5,0–0,1.2,Angers,11296.0,Stadium Municipal,Johan Hamel,Ligue-1,13,2018-2019
+22.0,Sun,2019-01-27,21:00,Paris S-G,3.3,4–1,1.2,Rennes,43307.0,Parc des Princes,Karim Abed,Ligue-1,13,2018-2019
+22.0,Wed,2019-01-30,21:00,Nantes,1.4,1–1,1.6,Saint-tienne,28748.0,Stade de la Beaujoire - Louis Fonteneau,Franck Schneider,Ligue-1,13,2018-2019
+23.0,Fri,2019-02-01,20:45,Lille,1.7,4–0,0.3,Nice,32849.0,Stade Pierre-Mauroy,Jrme Miguelgorry,Ligue-1,13,2018-2019
+23.0,Sat,2019-02-02,20:00,Monaco,1.4,2–1,1.1,Toulouse,5896.0,Stade Louis II.,Mikael Lesage,Ligue-1,13,2018-2019
+23.0,Sat,2019-02-02,20:00,Angers,1.5,1–0,0.5,Dijon,8451.0,Stade Raymond Kopa,Florent Batta,Ligue-1,13,2018-2019
+23.0,Sat,2019-02-02,20:00,Rennes,1.6,1–0,0.5,Amiens,17783.0,Roazhon Park,Olivier Thual,Ligue-1,13,2018-2019
+23.0,Sat,2019-02-02,21:00,Reims,1.2,2–1,0.7,Marseille,20546.0,Stade Auguste-Delaune II,Franois Letexier,Ligue-1,13,2018-2019
+23.0,Sun,2019-02-03,15:00,Nmes,0.8,1–1,0.6,Montpellier,18045.0,Stade des Costires,Antony Gautier,Ligue-1,13,2018-2019
+23.0,Sun,2019-02-03,21:00,Lyon,3.0,2–1,2.1,Paris S-G,57624.0,Groupama Stadium,Clment Turpin,Ligue-1,13,2018-2019
+18.0,Tue,2019-02-05,19:00,Marseille,1.9,1–0,0.3,Bordeaux,,Orange Vlodrome,Jrme Brisard,Ligue-1,13,2018-2019
+24.0,Fri,2019-02-08,20:45,Dijon,0.9,1–2,1.4,Marseille,15095.0,Stade Gaston Grard,Thomas Lonard,Ligue-1,13,2018-2019
+24.0,Sat,2019-02-09,17:00,Paris S-G,2.4,1–0,0.7,Bordeaux,47274.0,Parc des Princes,Ruddy Buquet,Ligue-1,13,2018-2019
+24.0,Sat,2019-02-09,20:00,Strasbourg,1.2,1–2,1.0,Angers,25010.0,Stade de la Meinau,Amaury Delerue,Ligue-1,13,2018-2019
+24.0,Sat,2019-02-09,20:00,Amiens,0.7,1–0,0.4,Caen,9373.0,Stade de la Licorne,Eric Wattellier,Ligue-1,13,2018-2019
+24.0,Sun,2019-02-10,15:00,Montpellier,1.3,2–2,1.4,Monaco,13709.0,Stade de la Mosson,Franck Schneider,Ligue-1,13,2018-2019
+24.0,Sun,2019-02-10,15:00,Toulouse,0.6,1–1,1.7,Reims,15240.0,Stadium Municipal,Karim Abed,Ligue-1,13,2018-2019
+24.0,Sun,2019-02-10,15:00,Nantes,1.9,2–4,2.0,Nmes,34219.0,Stade de la Beaujoire - Louis Fonteneau,Clment Turpin,Ligue-1,13,2018-2019
+24.0,Sun,2019-02-10,17:00,Guingamp,0.4,0–2,1.5,Lille,13886.0,Stade du Roudourou,Benot Bastien,Ligue-1,13,2018-2019
+24.0,Sun,2019-02-10,17:00,Rennes,2.4,3–0,1.6,Saint-tienne,24230.0,Roazhon Park,Johan Hamel,Ligue-1,13,2018-2019
+24.0,Sun,2019-02-10,21:00,Nice,1.4,1–0,1.6,Lyon,22193.0,Stade de Nice,Mikael Lesage,Ligue-1,13,2018-2019
+23.0,Wed,2019-02-13,19:00,Saint-tienne,1.3,2–1,0.6,Strasbourg,16406.0,Stade Geoffroy-Guichard,Jrme Brisard,Ligue-1,13,2018-2019
+23.0,Wed,2019-02-13,19:30,Caen,0.5,0–1,1.5,Nantes,16627.0,Stade Michel d'Ornano,Willy Delajod,Ligue-1,13,2018-2019
+25.0,Fri,2019-02-15,19:00,Nmes,1.0,2–0,1.2,Dijon,12703.0,Stade des Costires,Jrme Miguelgorry,Ligue-1,13,2018-2019
+25.0,Fri,2019-02-15,20:45,Lyon,1.3,2–1,1.3,Guingamp,40305.0,Groupama Stadium,Antony Gautier,Ligue-1,13,2018-2019
+25.0,Sat,2019-02-16,17:00,Marseille,1.0,2–0,0.9,Amiens,50871.0,Orange Vlodrome,Johan Hamel,Ligue-1,13,2018-2019
+25.0,Sat,2019-02-16,20:00,Angers,2.1,3–0,0.8,Nice,11117.0,Stade Raymond Kopa,Franck Schneider,Ligue-1,13,2018-2019
+25.0,Sat,2019-02-16,20:00,Monaco,1.1,1–0,0.4,Nantes,7557.0,Stade Louis II.,Olivier Thual,Ligue-1,13,2018-2019
+25.0,Sun,2019-02-17,15:00,Caen,0.7,0–0,0.9,Strasbourg,14290.0,Stade Michel d'Ornano,Thomas Lonard,Ligue-1,13,2018-2019
+25.0,Sun,2019-02-17,15:00,Bordeaux,0.6,2–1,1.8,Toulouse,19332.0,Stade Matmut-Atlantique,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+25.0,Sun,2019-02-17,15:00,Lille,0.9,0–0,0.4,Montpellier,36967.0,Stade Pierre-Mauroy,Ruddy Buquet,Ligue-1,13,2018-2019
+25.0,Sun,2019-02-17,17:00,Reims,0.8,2–0,0.4,Rennes,14792.0,Stade Auguste-Delaune II,Florent Batta,Ligue-1,13,2018-2019
+25.0,Sun,2019-02-17,21:00,Saint-tienne,0.9,0–1,1.4,Paris S-G,39652.0,Stade Geoffroy-Guichard,Benot Bastien,Ligue-1,13,2018-2019
+23.0,Wed,2019-02-20,19:00,Bordeaux,1.1,0–0,1.4,Guingamp,14527.0,Stade Matmut-Atlantique,Willy Delajod,Ligue-1,13,2018-2019
+17.0,Wed,2019-02-20,21:00,Paris S-G,3.2,5–1,1.3,Montpellier,47198.0,Parc des Princes,Franois Letexier,Ligue-1,13,2018-2019
+26.0,Fri,2019-02-22,19:00,Dijon,0.3,0–1,1.4,Saint-tienne,13511.0,Stade Gaston Grard,Karim Abed,Ligue-1,13,2018-2019
+26.0,Fri,2019-02-22,20:45,Strasbourg,0.6,1–1,1.1,Lille,25303.0,Stade de la Meinau,Clment Turpin,Ligue-1,13,2018-2019
+26.0,Sat,2019-02-23,17:00,Paris S-G,3.9,3–0,0.3,Nmes,47377.0,Parc des Princes,Amaury Delerue,Ligue-1,13,2018-2019
+26.0,Sat,2019-02-23,20:00,Amiens,1.2,1–0,0.2,Nice,11074.0,Stade de la Licorne,Thomas Lonard,Ligue-1,13,2018-2019
+26.0,Sat,2019-02-23,20:00,Guingamp,0.3,1–0,0.3,Angers,16306.0,Stade du Roudourou,Jrme Miguelgorry,Ligue-1,13,2018-2019
+26.0,Sun,2019-02-24,15:00,Toulouse,1.1,1–1,2.7,Caen,20439.0,Stadium Municipal,Franois Letexier,Ligue-1,13,2018-2019
+26.0,Sun,2019-02-24,15:00,Montpellier,1.4,2–4,2.4,Reims,11124.0,Stade de la Mosson,Willy Delajod,Ligue-1,13,2018-2019
+26.0,Sun,2019-02-24,15:00,Nantes,1.8,1–0,0.2,Bordeaux,21910.0,Stade de la Beaujoire - Louis Fonteneau,Nicolas Rainville,Ligue-1,13,2018-2019
+26.0,Sun,2019-02-24,17:00,Rennes,1.1,1–1,0.8,Marseille,28014.0,Roazhon Park,Mikael Lesage,Ligue-1,13,2018-2019
+26.0,Sun,2019-02-24,21:00,Monaco,1.2,2–0,1.5,Lyon,10157.0,Stade Louis II.,Benot Millot,Ligue-1,13,2018-2019
+27.0,Sat,2019-03-02,17:00,Caen,0.3,1–2,4.0,Paris S-G,20076.0,Stade Michel d'Ornano,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+27.0,Sat,2019-03-02,20:00,Reims,1.0,2–2,1.9,Amiens,12549.0,Stade Auguste-Delaune II,Franck Schneider,Ligue-1,13,2018-2019
+27.0,Sat,2019-03-02,20:00,Angers,1.1,2–2,1.4,Monaco,11391.0,Stade Raymond Kopa,Antony Gautier,Ligue-1,13,2018-2019
+27.0,Sun,2019-03-03,15:00,Nice,1.5,1–0,0.4,Strasbourg,17479.0,Stade de Nice,Eric Wattellier,Ligue-1,13,2018-2019
+27.0,Sun,2019-03-03,15:00,Guingamp,0.5,0–0,0.9,Nantes,15025.0,Stade du Roudourou,Ruddy Buquet,Ligue-1,13,2018-2019
+27.0,Sun,2019-03-03,15:00,Lille,1.4,1–0,0.4,Dijon,32722.0,Stade Pierre-Mauroy,Olivier Thual,Ligue-1,13,2018-2019
+27.0,Sun,2019-03-03,17:00,Lyon,4.1,5–1,0.4,Toulouse,44881.0,Groupama Stadium,Thomas Lonard,Ligue-1,13,2018-2019
+27.0,Sun,2019-03-03,21:00,Marseille,2.0,2–0,0.3,Saint-tienne,57337.0,Orange Vlodrome,Clment Turpin,Ligue-1,13,2018-2019
+27.0,Tue,2019-03-05,19:00,Bordeaux,1.5,1–2,1.2,Montpellier,14522.0,Stade Matmut-Atlantique,Jrme Brisard,Ligue-1,13,2018-2019
+28.0,Sat,2019-03-09,17:00,Strasbourg,1.0,2–2,3.3,Lyon,25463.0,Stade de la Meinau,Jrme Miguelgorry,Ligue-1,13,2018-2019
+28.0,Sat,2019-03-09,20:00,Amiens,2.3,2–1,0.9,Nmes,10523.0,Stade de la Licorne,Willy Delajod,Ligue-1,13,2018-2019
+28.0,Sat,2019-03-09,20:00,Dijon,0.9,1–1,3.8,Reims,12317.0,Stade Gaston Grard,Florent Batta,Ligue-1,13,2018-2019
+28.0,Sat,2019-03-09,20:00,Monaco,1.4,1–1,1.7,Bordeaux,8042.0,Stade Louis II.,Franois Letexier,Ligue-1,13,2018-2019
+28.0,Sun,2019-03-10,15:00,Toulouse,1.3,1–0,0.8,Guingamp,19802.0,Stadium Municipal,Jrme Brisard,Ligue-1,13,2018-2019
+28.0,Sun,2019-03-10,15:00,Montpellier,1.1,2–2,1.5,Angers,10931.0,Stade de la Mosson,Karim Abed,Ligue-1,13,2018-2019
+28.0,Sun,2019-03-10,15:00,Saint-tienne,0.5,0–1,1.7,Lille,26648.0,Stade Geoffroy-Guichard,Mikael Lesage,Ligue-1,13,2018-2019
+28.0,Sun,2019-03-10,17:00,Rennes,2.4,3–1,0.2,Caen,23676.0,Roazhon Park,Benot Millot,Ligue-1,13,2018-2019
+28.0,Sun,2019-03-10,21:00,Marseille,0.6,1–0,0.3,Nice,50935.0,Orange Vlodrome,Benot Bastien,Ligue-1,13,2018-2019
+18.0,Tue,2019-03-12,19:00,Dijon,0.3,0–4,2.9,Paris S-G,15117.0,Stade Gaston Grard,Jrme Miguelgorry,Ligue-1,13,2018-2019
+29.0,Fri,2019-03-15,19:00,Nice,0.8,1–1,1.2,Toulouse,14402.0,Stade de Nice,Olivier Thual,Ligue-1,13,2018-2019
+29.0,Fri,2019-03-15,20:45,Lille,1.7,0–1,1.6,Monaco,37724.0,Stade Pierre-Mauroy,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+29.0,Sat,2019-03-16,20:00,Nmes,1.9,2–2,0.6,Strasbourg,13114.0,Stade des Costires,Amaury Delerue,Ligue-1,13,2018-2019
+29.0,Sat,2019-03-16,20:00,Guingamp,1.7,1–0,0.6,Dijon,15834.0,Stade du Roudourou,Mikael Lesage,Ligue-1,13,2018-2019
+29.0,Sat,2019-03-16,20:00,Angers,1.6,0–0,0.7,Amiens,10427.0,Stade Raymond Kopa,Benot Millot,Ligue-1,13,2018-2019
+29.0,Sat,2019-03-16,20:00,Caen,0.0,0–5,2.2,Saint-tienne,18276.0,Stade Michel d'Ornano,Florent Batta,Ligue-1,13,2018-2019
+29.0,Sun,2019-03-17,14:30,Lyon,2.7,3–2,0.6,Montpellier,47134.0,Groupama Stadium,Clment Turpin,Ligue-1,13,2018-2019
+29.0,Sun,2019-03-17,15:00,Reims,0.8,1–0,0.3,Nantes,14806.0,Stade Auguste-Delaune II,Johan Hamel,Ligue-1,13,2018-2019
+29.0,Sun,2019-03-17,17:00,Bordeaux,1.4,1–1,0.6,Rennes,19807.0,Stade Matmut-Atlantique,Eric Wattellier,Ligue-1,13,2018-2019
+29.0,Sun,2019-03-17,21:00,Paris S-G,1.5,3–1,0.3,Marseille,47647.0,Parc des Princes,Antony Gautier,Ligue-1,13,2018-2019
+30.0,Fri,2019-03-29,20:45,Rennes,1.1,0–1,1.9,Lyon,27094.0,Roazhon Park,Antony Gautier,Ligue-1,13,2018-2019
+30.0,Sat,2019-03-30,17:00,Marseille,1.2,2–2,2.4,Angers,53507.0,Orange Vlodrome,Jrme Miguelgorry,Ligue-1,13,2018-2019
+30.0,Sun,2019-03-31,15:00,Monaco,1.7,0–1,0.8,Caen,7031.0,Stade Louis II.,Ruddy Buquet,Ligue-1,13,2018-2019
+30.0,Sun,2019-03-31,15:00,Amiens,1.5,0–0,0.6,Bordeaux,11765.0,Stade de la Licorne,Mikael Lesage,Ligue-1,13,2018-2019
+30.0,Sun,2019-03-31,15:00,Dijon,0.7,0–1,0.9,Nice,12345.0,Stade Gaston Grard,Nicolas Rainville,Ligue-1,13,2018-2019
+30.0,Sun,2019-03-31,17:00,Nantes,2.1,2–3,3.0,Lille,25045.0,Stade de la Beaujoire - Louis Fonteneau,Willy Delajod,Ligue-1,13,2018-2019
+30.0,Sun,2019-03-31,21:00,Toulouse,1.3,0–1,1.5,Paris S-G,27147.0,Stadium Municipal,Amaury Delerue,Ligue-1,13,2018-2019
+30.0,Mon,2019-04-01,20:30,Saint-tienne,2.7,2–1,1.3,Nmes,22595.0,Stade Geoffroy-Guichard,Karim Abed,Ligue-1,13,2018-2019
+30.0,Wed,2019-04-03,19:00,Montpellier,2.1,2–0,0.4,Guingamp,11187.0,Stade de la Mosson,Franck Schneider,Ligue-1,13,2018-2019
+30.0,Wed,2019-04-03,19:00,Strasbourg,2.1,4–0,0.7,Reims,25081.0,Stade de la Meinau,Jeremy Stinat,Ligue-1,13,2018-2019
+31.0,Fri,2019-04-05,20:45,Bordeaux,1.5,2–0,1.5,Marseille,34152.0,Stade Matmut-Atlantique,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+31.0,Sat,2019-04-06,17:00,Lyon,2.9,1–3,0.7,Dijon,52431.0,Groupama Stadium,Johan Hamel,Ligue-1,13,2018-2019
+31.0,Sat,2019-04-06,20:00,Amiens,1.0,2–2,2.1,Saint-tienne,11832.0,Stade de la Licorne,Eric Wattellier,Ligue-1,13,2018-2019
+31.0,Sat,2019-04-06,20:00,Nmes,1.1,2–0,0.2,Caen,12183.0,Stade des Costires,Olivier Thual,Ligue-1,13,2018-2019
+31.0,Sat,2019-04-06,20:00,Angers,1.2,3–3,1.9,Rennes,12378.0,Stade Raymond Kopa,Nicolas Rainville,Ligue-1,13,2018-2019
+31.0,Sat,2019-04-06,20:00,Guingamp,0.5,1–1,1.8,Monaco,13997.0,Stade du Roudourou,Benot Bastien,Ligue-1,13,2018-2019
+31.0,Sun,2019-04-07,15:00,Reims,1.2,1–1,0.9,Lille,18642.0,Stade Auguste-Delaune II,Jrme Brisard,Ligue-1,13,2018-2019
+31.0,Sun,2019-04-07,15:00,Toulouse,3.0,1–0,0.9,Nantes,16264.0,Stadium Municipal,Florent Batta,Ligue-1,13,2018-2019
+31.0,Sun,2019-04-07,17:00,Nice,0.8,1–0,0.7,Montpellier,17980.0,Stade de Nice,Ruddy Buquet,Ligue-1,13,2018-2019
+31.0,Sun,2019-04-07,21:00,Paris S-G,3.5,2–2,0.7,Strasbourg,47419.0,Parc des Princes,Thomas Lonard,Ligue-1,13,2018-2019
+27.0,Tue,2019-04-09,19:00,Nmes,1.6,3–1,0.6,Rennes,13142.0,Stade des Costires,Florent Batta,Ligue-1,13,2018-2019
+32.0,Fri,2019-04-12,19:00,Dijon,1.2,0–0,0.3,Amiens,12532.0,Stade Gaston Grard,Karim Abed,Ligue-1,13,2018-2019
+32.0,Fri,2019-04-12,20:45,Nantes,1.1,2–1,1.0,Lyon,25050.0,Stade de la Beaujoire - Louis Fonteneau,Jrme Brisard,Ligue-1,13,2018-2019
+32.0,Sat,2019-04-13,17:00,Marseille,1.4,2–1,0.9,Nmes,62614.0,Orange Vlodrome,Franck Schneider,Ligue-1,13,2018-2019
+32.0,Sat,2019-04-13,20:00,Monaco,1.8,0–0,0.7,Reims,7094.0,Stade Louis II.,Willy Delajod,Ligue-1,13,2018-2019
+32.0,Sat,2019-04-13,20:00,Strasbourg,0.9,3–3,2.0,Guingamp,25190.0,Stade de la Meinau,Antony Gautier,Ligue-1,13,2018-2019
+32.0,Sat,2019-04-13,20:00,Caen,0.6,0–1,1.4,Angers,17175.0,Stade Michel d'Ornano,Jeremy Stinat,Ligue-1,13,2018-2019
+32.0,Sun,2019-04-14,15:00,Montpellier,1.9,2–1,0.2,Toulouse,11986.0,Stade de la Mosson,Benot Millot,Ligue-1,13,2018-2019
+32.0,Sun,2019-04-14,15:00,Rennes,0.9,0–0,0.6,Nice,23706.0,Roazhon Park,Mikael Lesage,Ligue-1,13,2018-2019
+32.0,Sun,2019-04-14,17:00,Saint-tienne,2.2,3–0,0.5,Bordeaux,33935.0,Stade Geoffroy-Guichard,Ruddy Buquet,Ligue-1,13,2018-2019
+32.0,Sun,2019-04-14,21:00,Lille,1.6,5–1,1.1,Paris S-G,49712.0,Stade Pierre-Mauroy,Benot Bastien,Ligue-1,13,2018-2019
+28.0,Wed,2019-04-17,19:00,Nantes,1.6,3–2,0.9,Paris S-G,34471.0,Stade de la Beaujoire - Louis Fonteneau,Antony Gautier,Ligue-1,13,2018-2019
+33.0,Fri,2019-04-19,19:00,Dijon,1.1,3–2,0.9,Rennes,12751.0,Stade Gaston Grard,Olivier Thual,Ligue-1,13,2018-2019
+33.0,Fri,2019-04-19,20:45,Lyon,2.5,2–1,0.6,Angers,43917.0,Groupama Stadium,Benot Millot,Ligue-1,13,2018-2019
+33.0,Sat,2019-04-20,17:00,Guingamp,1.2,1–3,2.1,Marseille,18164.0,Stade du Roudourou,Mikael Lesage,Ligue-1,13,2018-2019
+33.0,Sat,2019-04-20,20:00,Nmes,1.3,2–1,1.0,Bordeaux,17092.0,Stade des Costires,Florent Batta,Ligue-1,13,2018-2019
+33.0,Sat,2019-04-20,20:00,Nice,1.9,0–1,0.7,Caen,17092.0,Stade de Nice,Jrme Miguelgorry,Ligue-1,13,2018-2019
+33.0,Sat,2019-04-20,20:00,Strasbourg,0.6,1–3,2.3,Montpellier,25192.0,Stade de la Meinau,Franois Letexier,Ligue-1,13,2018-2019
+33.0,Sun,2019-04-21,15:00,Toulouse,0.6,0–0,1.5,Lille,15002.0,Stadium Municipal,Nicolas Rainville,Ligue-1,13,2018-2019
+33.0,Sun,2019-04-21,15:00,Nantes,1.3,3–2,0.4,Amiens,19253.0,Stade de la Beaujoire - Louis Fonteneau,Thomas Lonard,Ligue-1,13,2018-2019
+33.0,Sun,2019-04-21,17:00,Reims,0.7,0–2,1.5,Saint-tienne,19102.0,Stade Auguste-Delaune II,Amaury Delerue,Ligue-1,13,2018-2019
+33.0,Sun,2019-04-21,21:00,Paris S-G,2.0,3–1,1.3,Monaco,43581.0,Parc des Princes,Clment Turpin,Ligue-1,13,2018-2019
+34.0,Fri,2019-04-26,20:45,Bordeaux,0.8,2–3,3.1,Lyon,27455.0,Stade Matmut-Atlantique,Benot Bastien,Ligue-1,13,2018-2019
+34.0,Sun,2019-04-28,15:00,Nice,2.1,3–0,0.8,Guingamp,16379.0,Stade de Nice,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+34.0,Sun,2019-04-28,15:00,Caen,1.6,1–0,0.8,Dijon,19004.0,Stade Michel d'Ornano,Antony Gautier,Ligue-1,13,2018-2019
+34.0,Sun,2019-04-28,15:00,Lille,2.5,5–0,1.0,Nmes,36356.0,Stade Pierre-Mauroy,Amaury Delerue,Ligue-1,13,2018-2019
+34.0,Sun,2019-04-28,15:00,Angers,0.5,1–1,0.2,Reims,11464.0,Stade Raymond Kopa,Karim Abed,Ligue-1,13,2018-2019
+34.0,Sun,2019-04-28,15:00,Amiens,0.7,0–0,0.4,Strasbourg,11833.0,Stade de la Licorne,Stphanie Frappart,Ligue-1,13,2018-2019
+34.0,Sun,2019-04-28,17:00,Saint-tienne,1.8,2–0,1.2,Toulouse,28203.0,Stade Geoffroy-Guichard,Jeremy Stinat,Ligue-1,13,2018-2019
+34.0,Sun,2019-04-28,21:00,Marseille,1.9,1–2,1.2,Nantes,51969.0,Orange Vlodrome,Johan Hamel,Ligue-1,13,2018-2019
+34.0,Tue,2019-04-30,19:00,Montpellier,1.5,3–2,1.5,Paris S-G,20477.0,Stade de la Mosson,Mikael Lesage,Ligue-1,13,2018-2019
+34.0,Wed,2019-05-01,19:00,Rennes,1.4,2–2,1.1,Monaco,28285.0,Roazhon Park,Eric Wattellier,Ligue-1,13,2018-2019
+35.0,Fri,2019-05-03,20:45,Strasbourg,1.3,1–1,1.3,Marseille,25962.0,Stade de la Meinau,Jrme Miguelgorry,Ligue-1,13,2018-2019
+35.0,Sat,2019-05-04,17:00,Paris S-G,2.8,1–1,0.9,Nice,47283.0,Parc des Princes,Franck Schneider,Ligue-1,13,2018-2019
+35.0,Sat,2019-05-04,20:00,Guingamp,0.4,0–0,0.0,Caen,16879.0,Stade du Roudourou,Jrme Brisard,Ligue-1,13,2018-2019
+35.0,Sat,2019-05-04,20:00,Bordeaux,0.5,0–1,0.5,Angers,18584.0,Stade Matmut-Atlantique,Nicolas Rainville,Ligue-1,13,2018-2019
+35.0,Sat,2019-05-04,20:00,Reims,0.3,0–3,1.7,Nmes,13314.0,Stade Auguste-Delaune II,Thomas Lonard,Ligue-1,13,2018-2019
+35.0,Sun,2019-05-05,15:00,Toulouse,2.3,2–2,1.8,Rennes,16794.0,Stadium Municipal,Willy Delajod,Ligue-1,13,2018-2019
+35.0,Sun,2019-05-05,15:00,Nantes,2.0,3–0,0.9,Dijon,19482.0,Stade de la Beaujoire - Louis Fonteneau,Benot Bastien,Ligue-1,13,2018-2019
+35.0,Sun,2019-05-05,15:00,Montpellier,0.7,1–1,0.3,Amiens,14330.0,Stade de la Mosson,Olivier Thual,Ligue-1,13,2018-2019
+35.0,Sun,2019-05-05,17:00,Monaco,2.4,2–3,0.9,Saint-tienne,9047.0,Stade Louis II.,Benot Millot,Ligue-1,13,2018-2019
+35.0,Sun,2019-05-05,21:00,Lyon,1.9,2–2,2.0,Lille,56642.0,Groupama Stadium,Clment Turpin,Ligue-1,13,2018-2019
+36.0,Fri,2019-05-10,20:45,Saint-tienne,1.0,0–1,1.4,Montpellier,35644.0,Stade Geoffroy-Guichard,Benot Bastien,Ligue-1,13,2018-2019
+36.0,Sat,2019-05-11,17:00,Angers,2.4,1–2,1.3,Paris S-G,14728.0,Stade Raymond Kopa,Florent Batta,Ligue-1,13,2018-2019
+36.0,Sat,2019-05-11,20:00,Caen,1.5,3–2,1.6,Reims,18339.0,Stade Michel d'Ornano,Johan Hamel,Ligue-1,13,2018-2019
+36.0,Sat,2019-05-11,20:00,Nice,1.8,1–1,2.3,Nantes,16372.0,Stade de Nice,Stphanie Frappart,Ligue-1,13,2018-2019
+36.0,Sat,2019-05-11,20:00,Nmes,1.2,1–0,0.8,Monaco,14811.0,Stade des Costires,Jeremy Stinat,Ligue-1,13,2018-2019
+36.0,Sat,2019-05-11,20:00,Amiens,0.6,0–0,0.4,Toulouse,11684.0,Stade de la Licorne,Franois Letexier,Ligue-1,13,2018-2019
+36.0,Sat,2019-05-11,20:00,Dijon,1.9,2–1,2.0,Strasbourg,13105.0,Stade Gaston Grard,Hakim Ben El Hadj Salem,Ligue-1,13,2018-2019
+36.0,Sun,2019-05-12,15:00,Rennes,1.2,1–1,2.9,Guingamp,26119.0,Roazhon Park,Karim Abed,Ligue-1,13,2018-2019
+36.0,Sun,2019-05-12,17:00,Lille,1.1,1–0,0.8,Bordeaux,41413.0,Stade Pierre-Mauroy,Mikael Lesage,Ligue-1,13,2018-2019
+36.0,Sun,2019-05-12,21:00,Marseille,1.7,0–3,1.5,Lyon,61707.0,Orange Vlodrome,Ruddy Buquet,Ligue-1,13,2018-2019
+37.0,Sat,2019-05-18,21:00,Paris S-G,3.2,4–0,1.0,Dijon,47532.0,Parc des Princes,Jrme Brisard,Ligue-1,13,2018-2019
+37.0,Sat,2019-05-18,21:00,Lille,2.8,5–0,1.3,Angers,42704.0,Stade Pierre-Mauroy,Franois Letexier,Ligue-1,13,2018-2019
+37.0,Sat,2019-05-18,21:00,Guingamp,2.5,2–2,1.8,Nmes,12096.0,Stade du Roudourou,Jrme Miguelgorry,Ligue-1,13,2018-2019
+37.0,Sat,2019-05-18,21:00,Bordeaux,0.7,0–1,1.3,Reims,14247.0,Stade Matmut-Atlantique,Eric Wattellier,Ligue-1,13,2018-2019
+37.0,Sat,2019-05-18,21:00,Montpellier,0.9,1–1,0.7,Nantes,16063.0,Stade de la Mosson,Ruddy Buquet,Ligue-1,13,2018-2019
+37.0,Sat,2019-05-18,21:00,Lyon,2.7,4–0,0.3,Caen,51408.0,Groupama Stadium,Amaury Delerue,Ligue-1,13,2018-2019
+37.0,Sat,2019-05-18,21:00,Strasbourg,1.7,0–2,0.8,Rennes,25086.0,Stade de la Meinau,Thomas Lonard,Ligue-1,13,2018-2019
+37.0,Sat,2019-05-18,21:00,Toulouse,1.7,2–5,2.3,Marseille,24293.0,Stadium Municipal,Franck Schneider,Ligue-1,13,2018-2019
+37.0,Sat,2019-05-18,21:00,Monaco,0.8,2–0,0.6,Amiens,10188.0,Stade Louis II.,Clment Turpin,Ligue-1,13,2018-2019
+37.0,Sat,2019-05-18,21:00,Saint-tienne,1.6,3–0,1.0,Nice,36759.0,Stade Geoffroy-Guichard,Antony Gautier,Ligue-1,13,2018-2019
+38.0,Fri,2019-05-24,21:05,Rennes,2.4,3–1,1.4,Lille,28185.0,Roazhon Park,Olivier Thual,Ligue-1,13,2018-2019
+38.0,Fri,2019-05-24,21:05,Nmes,1.5,2–3,1.4,Lyon,14986.0,Stade des Costires,Franois Letexier,Ligue-1,13,2018-2019
+38.0,Fri,2019-05-24,21:05,Angers,1.8,1–1,1.3,Saint-tienne,16011.0,Stade Raymond Kopa,Johan Hamel,Ligue-1,13,2018-2019
+38.0,Fri,2019-05-24,21:05,Nice,1.4,2–0,2.0,Monaco,23356.0,Stade de Nice,Ruddy Buquet,Ligue-1,13,2018-2019
+38.0,Fri,2019-05-24,21:05,Reims,1.1,3–1,1.8,Paris S-G,20299.0,Stade Auguste-Delaune II,Nicolas Rainville,Ligue-1,13,2018-2019
+38.0,Fri,2019-05-24,21:05,Nantes,1.5,0–1,0.9,Strasbourg,30636.0,Stade de la Beaujoire - Louis Fonteneau,Karim Abed,Ligue-1,13,2018-2019
+38.0,Fri,2019-05-24,21:05,Dijon,1.1,2–1,0.5,Toulouse,14050.0,Stade Gaston Grard,Mikael Lesage,Ligue-1,13,2018-2019
+38.0,Fri,2019-05-24,21:05,Marseille,1.4,1–0,0.7,Montpellier,53788.0,Orange Vlodrome,Antony Gautier,Ligue-1,13,2018-2019
+38.0,Fri,2019-05-24,21:05,Caen,0.6,0–1,1.0,Bordeaux,19355.0,Stade Michel d'Ornano,Clment Turpin,Ligue-1,13,2018-2019
+38.0,Fri,2019-05-24,21:05,Amiens,2.0,2–1,1.2,Guingamp,11932.0,Stade de la Licorne,Amaury Delerue,Ligue-1,13,2018-2019
